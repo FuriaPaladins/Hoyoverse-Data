@@ -1,0 +1,3560 @@
+[
+    {
+        "type": "character",
+        "banners": [
+            {
+                "name": "Ballad in Goblets 2020-09-28",
+                "image": "https://static.wikia.nocookie.net/gensin-impact/images/5/53/Ballad_in_Goblets_2020-09-28.png",
+                "uprate_5": [
+                    "Venti"
+                ],
+                "uprate_4": [
+                    "Barbara",
+                    "Fischl",
+                    "Xiangling"
+                ],
+                "date": {
+                    "eu": {
+                        "start": 1601287200,
+                        "end": 1603043999
+                    },
+                    "na": {
+                        "start": 1601308800,
+                        "end": 1603065599
+                    },
+                    "asia": {
+                        "start": 1601265600,
+                        "end": 1603022399
+                    }
+                }
+            },
+            {
+                "name": "Sparkling Steps 2020-10-20",
+                "image": "https://static.wikia.nocookie.net/gensin-impact/images/e/ee/Sparkling_Steps_2020-10-20.png",
+                "uprate_5": [
+                    "Klee"
+                ],
+                "uprate_4": [
+                    "Xingqiu",
+                    "Noelle",
+                    "Sucrose"
+                ],
+                "date": {
+                    "eu": {
+                        "start": 1603216800,
+                        "end": 1605020399
+                    },
+                    "na": {
+                        "start": 1603238400,
+                        "end": 1605041999
+                    },
+                    "asia": {
+                        "start": 1603195200,
+                        "end": 1604998799
+                    }
+                }
+            },
+            {
+                "name": "Farewell of Snezhnaya 2020-11-11",
+                "image": "https://static.wikia.nocookie.net/gensin-impact/images/0/0b/Farewell_of_Snezhnaya_2020-11-11.png",
+                "uprate_5": [
+                    "Tartaglia"
+                ],
+                "uprate_4": [
+                    "Diona",
+                    "Beidou",
+                    "Ningguang"
+                ],
+                "date": {
+                    "eu": {
+                        "start": 1605088800,
+                        "end": 1606838399
+                    },
+                    "na": {
+                        "start": 1605110400,
+                        "end": 1606859999
+                    },
+                    "asia": {
+                        "start": 1605067200,
+                        "end": 1606816799
+                    }
+                }
+            },
+            {
+                "name": "Gentry of Hermitage 2020-12-01",
+                "image": "https://static.wikia.nocookie.net/gensin-impact/images/a/a8/Gentry_of_Hermitage_2020-12-01.png",
+                "uprate_5": [
+                    "Zhongli"
+                ],
+                "uprate_4": [
+                    "Xinyan",
+                    "Razor",
+                    "Chongyun"
+                ],
+                "date": {
+                    "eu": {
+                        "start": 1606845600,
+                        "end": 1608649199
+                    },
+                    "na": {
+                        "start": 1606867200,
+                        "end": 1608670799
+                    },
+                    "asia": {
+                        "start": 1606824000,
+                        "end": 1608627599
+                    }
+                }
+            },
+            {
+                "name": "Secretum Secretorum 2020-12-23",
+                "image": "https://static.wikia.nocookie.net/gensin-impact/images/b/bb/Secretum_Secretorum_2020-12-23.png",
+                "uprate_5": [
+                    "Albedo"
+                ],
+                "uprate_4": [
+                    "Fischl",
+                    "Sucrose",
+                    "Bennett"
+                ],
+                "date": {
+                    "eu": {
+                        "start": 1608717600,
+                        "end": 1610467199
+                    },
+                    "na": {
+                        "start": 1608739200,
+                        "end": 1610488799
+                    },
+                    "asia": {
+                        "start": 1608696000,
+                        "end": 1610445599
+                    }
+                }
+            },
+            {
+                "name": "Adrift in the Harbor 2021-01-12",
+                "image": "https://static.wikia.nocookie.net/gensin-impact/images/8/85/Adrift_in_the_Harbor_2021-01-12.png",
+                "uprate_5": [
+                    "Ganyu"
+                ],
+                "uprate_4": [
+                    "Xiangling",
+                    "Xingqiu",
+                    "Noelle"
+                ],
+                "date": {
+                    "eu": {
+                        "start": 1610474400,
+                        "end": 1612277999
+                    },
+                    "na": {
+                        "start": 1610496000,
+                        "end": 1612299599
+                    },
+                    "asia": {
+                        "start": 1610452800,
+                        "end": 1612256399
+                    }
+                }
+            },
+            {
+                "name": "Invitation to Mundane Life 2021-02-03",
+                "image": "https://static.wikia.nocookie.net/gensin-impact/images/f/f0/Invitation_to_Mundane_Life_2021-02-03.png",
+                "uprate_5": [
+                    "Xiao"
+                ],
+                "uprate_4": [
+                    "Diona",
+                    "Beidou",
+                    "Xinyan"
+                ],
+                "date": {
+                    "eu": {
+                        "start": 1612345740,
+                        "end": 1613577599
+                    },
+                    "na": {
+                        "start": 1612367340,
+                        "end": 1613599199
+                    },
+                    "asia": {
+                        "start": 1612324140,
+                        "end": 1613555999
+                    }
+                }
+            },
+            {
+                "name": "Dance of Lanterns 2021-02-17",
+                "image": "https://static.wikia.nocookie.net/gensin-impact/images/0/02/Dance_of_Lanterns_2021-02-17.png",
+                "uprate_5": [
+                    "Keqing"
+                ],
+                "uprate_4": [
+                    "Ningguang",
+                    "Bennett",
+                    "Barbara"
+                ],
+                "date": {
+                    "eu": {
+                        "start": 1613584800,
+                        "end": 1614700799
+                    },
+                    "na": {
+                        "start": 1613606400,
+                        "end": 1614722399
+                    },
+                    "asia": {
+                        "start": 1613563200,
+                        "end": 1614679199
+                    }
+                }
+            },
+            {
+                "name": "Moment of Bloom 2021-03-02",
+                "image": "https://static.wikia.nocookie.net/gensin-impact/images/9/9a/Moment_of_Bloom_2021-03-02.png",
+                "uprate_5": [
+                    "Hu Tao"
+                ],
+                "uprate_4": [
+                    "Xingqiu",
+                    "Xiangling",
+                    "Chongyun"
+                ],
+                "date": {
+                    "eu": {
+                        "start": 1614708000,
+                        "end": 1615906799
+                    },
+                    "na": {
+                        "start": 1614729600,
+                        "end": 1615928399
+                    },
+                    "asia": {
+                        "start": 1614686400,
+                        "end": 1615885199
+                    }
+                }
+            },
+            {
+                "name": "Ballad in Goblets 2021-03-17",
+                "image": "https://static.wikia.nocookie.net/gensin-impact/images/a/a4/Ballad_in_Goblets_2021-03-17.png",
+                "uprate_5": [
+                    "Venti"
+                ],
+                "uprate_4": [
+                    "Sucrose",
+                    "Razor",
+                    "Noelle"
+                ],
+                "date": {
+                    "eu": {
+                        "start": 1615978800,
+                        "end": 1617724799
+                    },
+                    "na": {
+                        "start": 1616000400,
+                        "end": 1617746399
+                    },
+                    "asia": {
+                        "start": 1615957200,
+                        "end": 1617703199
+                    }
+                }
+            },
+            {
+                "name": "Farewell of Snezhnaya 2021-04-06",
+                "image": "https://static.wikia.nocookie.net/gensin-impact/images/b/b6/Farewell_of_Snezhnaya_2021-04-06.png",
+                "uprate_5": [
+                    "Tartaglia"
+                ],
+                "uprate_4": [
+                    "Rosaria",
+                    "Barbara",
+                    "Fischl"
+                ],
+                "date": {
+                    "eu": {
+                        "start": 1617732000,
+                        "end": 1619535599
+                    },
+                    "na": {
+                        "start": 1617753600,
+                        "end": 1619557199
+                    },
+                    "asia": {
+                        "start": 1617710400,
+                        "end": 1619513999
+                    }
+                }
+            },
+            {
+                "name": "Gentry of Hermitage 2021-04-28",
+                "image": "https://static.wikia.nocookie.net/gensin-impact/images/9/9e/Gentry_of_Hermitage_2021-04-28.png",
+                "uprate_5": [
+                    "Zhongli"
+                ],
+                "uprate_4": [
+                    "Yanfei",
+                    "Noelle",
+                    "Diona"
+                ],
+                "date": {
+                    "eu": {
+                        "start": 1619607600,
+                        "end": 1621360740
+                    },
+                    "na": {
+                        "start": 1619629200,
+                        "end": 1621382340
+                    },
+                    "asia": {
+                        "start": 1619586000,
+                        "end": 1621339140
+                    }
+                }
+            },
+            {
+                "name": "Born of Ocean Swell 2021-05-18",
+                "image": "https://static.wikia.nocookie.net/gensin-impact/images/b/b0/Born_of_Ocean_Swell_2021-05-18.png",
+                "uprate_5": [
+                    "Eula"
+                ],
+                "uprate_4": [
+                    "Xinyan",
+                    "Xingqiu",
+                    "Beidou"
+                ],
+                "date": {
+                    "eu": {
+                        "start": 1621360800,
+                        "end": 1623164399
+                    },
+                    "na": {
+                        "start": 1621382400,
+                        "end": 1623185999
+                    },
+                    "asia": {
+                        "start": 1621339200,
+                        "end": 1623142799
+                    }
+                }
+            },
+            {
+                "name": "Sparkling Steps 2021-06-09",
+                "image": "https://static.wikia.nocookie.net/gensin-impact/images/c/c9/Sparkling_Steps_2021-06-09.png",
+                "uprate_5": [
+                    "Klee"
+                ],
+                "uprate_4": [
+                    "Barbara",
+                    "Sucrose",
+                    "Fischl"
+                ],
+                "date": {
+                    "eu": {
+                        "start": 1623236400,
+                        "end": 1624989540
+                    },
+                    "na": {
+                        "start": 1623258000,
+                        "end": 1625011140
+                    },
+                    "asia": {
+                        "start": 1623214800,
+                        "end": 1624967940
+                    }
+                }
+            },
+            {
+                "name": "Leaves in the Wind 2021-06-29",
+                "image": "https://static.wikia.nocookie.net/gensin-impact/images/a/ae/Leaves_in_the_Wind_2021-06-29.png",
+                "uprate_5": [
+                    "Kaedehara Kazuha"
+                ],
+                "uprate_4": [
+                    "Rosaria",
+                    "Bennett",
+                    "Razor"
+                ],
+                "date": {
+                    "eu": {
+                        "start": 1624989600,
+                        "end": 1626793199
+                    },
+                    "na": {
+                        "start": 1625011200,
+                        "end": 1626814799
+                    },
+                    "asia": {
+                        "start": 1624968000,
+                        "end": 1626771599
+                    }
+                }
+            },
+            {
+                "name": "The Heron's Court 2021-07-21",
+                "image": "https://static.wikia.nocookie.net/gensin-impact/images/3/34/The_Heron%27s_Court_2021-07-21.png",
+                "uprate_5": [
+                    "Kamisato Ayaka"
+                ],
+                "uprate_4": [
+                    "Ningguang",
+                    "Chongyun",
+                    "Yanfei"
+                ],
+                "date": {
+                    "eu": {
+                        "start": 1626865200,
+                        "end": 1628618399
+                    },
+                    "na": {
+                        "start": 1626886800,
+                        "end": 1628639999
+                    },
+                    "asia": {
+                        "start": 1626843600,
+                        "end": 1628596799
+                    }
+                }
+            },
+            {
+                "name": "Tapestry of Golden Flames 2021-08-10",
+                "image": "https://static.wikia.nocookie.net/gensin-impact/images/2/24/Tapestry_of_Golden_Flames_2021-08-10.png",
+                "uprate_5": [
+                    "Yoimiya"
+                ],
+                "uprate_4": [
+                    "Sayu",
+                    "Diona",
+                    "Xinyan"
+                ],
+                "date": {
+                    "eu": {
+                        "start": 1628618400,
+                        "end": 1630421999
+                    },
+                    "na": {
+                        "start": 1628640000,
+                        "end": 1630443599
+                    },
+                    "asia": {
+                        "start": 1628596800,
+                        "end": 1630400399
+                    }
+                }
+            },
+            {
+                "name": "Reign of Serenity 2021-09-01",
+                "image": "https://static.wikia.nocookie.net/gensin-impact/images/c/cb/Reign_of_Serenity_2021-09-01.png",
+                "uprate_5": [
+                    "Raiden Shogun"
+                ],
+                "uprate_4": [
+                    "Kujou Sara",
+                    "Xiangling",
+                    "Sucrose"
+                ],
+                "date": {
+                    "eu": {
+                        "start": 1630494000,
+                        "end": 1632247199
+                    },
+                    "na": {
+                        "start": 1630515600,
+                        "end": 1632268799
+                    },
+                    "asia": {
+                        "start": 1630472400,
+                        "end": 1632225599
+                    }
+                }
+            },
+            {
+                "name": "Drifting Luminescence 2021-09-21",
+                "image": "https://static.wikia.nocookie.net/gensin-impact/images/4/4c/Drifting_Luminescence_2021-09-21.png",
+                "uprate_5": [
+                    "Sangonomiya Kokomi"
+                ],
+                "uprate_4": [
+                    "Rosaria",
+                    "Beidou",
+                    "Xingqiu"
+                ],
+                "date": {
+                    "eu": {
+                        "start": 1632247200,
+                        "end": 1634050799
+                    },
+                    "na": {
+                        "start": 1632268800,
+                        "end": 1634072399
+                    },
+                    "asia": {
+                        "start": 1632225600,
+                        "end": 1634029199
+                    }
+                }
+            },
+            {
+                "name": "Farewell of Snezhnaya 2021-10-13",
+                "image": "https://static.wikia.nocookie.net/gensin-impact/images/5/53/Farewell_of_Snezhnaya_2021-10-13.png",
+                "uprate_5": [
+                    "Tartaglia"
+                ],
+                "uprate_4": [
+                    "Ningguang",
+                    "Chongyun",
+                    "Yanfei"
+                ],
+                "date": {
+                    "eu": {
+                        "start": 1634122800,
+                        "end": 1635875999
+                    },
+                    "na": {
+                        "start": 1634144400,
+                        "end": 1635897599
+                    },
+                    "asia": {
+                        "start": 1634101200,
+                        "end": 1635854399
+                    }
+                }
+            },
+            {
+                "name": "Moment of Bloom 2021-11-02",
+                "image": "https://static.wikia.nocookie.net/gensin-impact/images/8/81/Moment_of_Bloom_2021-11-02.png",
+                "uprate_5": [
+                    "Hu Tao"
+                ],
+                "uprate_4": [
+                    "Thoma",
+                    "Diona",
+                    "Sayu"
+                ],
+                "date": {
+                    "eu": {
+                        "start": 1635876000,
+                        "end": 1637679599
+                    },
+                    "na": {
+                        "start": 1635897600,
+                        "end": 1637701199
+                    },
+                    "asia": {
+                        "start": 1635854400,
+                        "end": 1637657999
+                    }
+                }
+            },
+            {
+                "name": "Secretum Secretorum 2021-11-24",
+                "image": "https://static.wikia.nocookie.net/gensin-impact/images/2/2d/Secretum_Secretorum_2021-11-24.png",
+                "uprate_5": [
+                    "Albedo"
+                ],
+                "uprate_4": [
+                    "Bennett",
+                    "Noelle",
+                    "Rosaria"
+                ],
+                "date": {
+                    "eu": {
+                        "start": 1637751600,
+                        "end": 1639504799
+                    },
+                    "na": {
+                        "start": 1637773200,
+                        "end": 1639526399
+                    },
+                    "asia": {
+                        "start": 1637730000,
+                        "end": 1639483199
+                    }
+                }
+            },
+            {
+                "name": "Born of Ocean Swell 2021-11-24",
+                "image": "https://static.wikia.nocookie.net/gensin-impact/images/b/b7/Born_of_Ocean_Swell_2021-11-24.png",
+                "uprate_5": [
+                    "Eula"
+                ],
+                "uprate_4": [
+                    "Bennett",
+                    "Noelle",
+                    "Rosaria"
+                ],
+                "date": {
+                    "eu": {
+                        "start": 1637751600,
+                        "end": 1639504799
+                    },
+                    "na": {
+                        "start": 1637773200,
+                        "end": 1639526399
+                    },
+                    "asia": {
+                        "start": 1637730000,
+                        "end": 1639483199
+                    }
+                }
+            },
+            {
+                "name": "Oni's Royale 2021-12-14",
+                "image": "https://static.wikia.nocookie.net/gensin-impact/images/5/51/Oni%27s_Royale_2021-12-14.png",
+                "uprate_5": [
+                    "Arataki Itto"
+                ],
+                "uprate_4": [
+                    "Gorou",
+                    "Barbara",
+                    "Xiangling"
+                ],
+                "date": {
+                    "eu": {
+                        "start": 1639504800,
+                        "end": 1641308399
+                    },
+                    "na": {
+                        "start": 1639526400,
+                        "end": 1641329999
+                    },
+                    "asia": {
+                        "start": 1639483200,
+                        "end": 1641286799
+                    }
+                }
+            },
+            {
+                "name": "The Transcendent One Returns 2022-01-05",
+                "image": "https://static.wikia.nocookie.net/gensin-impact/images/a/a4/The_Transcendent_One_Returns_2022-01-05.png",
+                "uprate_5": [
+                    "Shenhe"
+                ],
+                "uprate_4": [
+                    "Yun Jin",
+                    "Ningguang",
+                    "Chongyun"
+                ],
+                "date": {
+                    "eu": {
+                        "start": 1641380400,
+                        "end": 1643133599
+                    },
+                    "na": {
+                        "start": 1641402000,
+                        "end": 1643155199
+                    },
+                    "asia": {
+                        "start": 1641358800,
+                        "end": 1643111999
+                    }
+                }
+            },
+            {
+                "name": "Invitation to Mundane Life 2022-01-05",
+                "image": "https://static.wikia.nocookie.net/gensin-impact/images/1/1f/Invitation_to_Mundane_Life_2022-01-05.png",
+                "uprate_5": [
+                    "Xiao"
+                ],
+                "uprate_4": [
+                    "Yun Jin",
+                    "Ningguang",
+                    "Chongyun"
+                ],
+                "date": {
+                    "eu": {
+                        "start": 1641380400,
+                        "end": 1643133599
+                    },
+                    "na": {
+                        "start": 1641402000,
+                        "end": 1643155199
+                    },
+                    "asia": {
+                        "start": 1641358800,
+                        "end": 1643111999
+                    }
+                }
+            },
+            {
+                "name": "Gentry of Hermitage 2022-01-25",
+                "image": "https://static.wikia.nocookie.net/gensin-impact/images/0/04/Gentry_of_Hermitage_2022-01-25.png",
+                "uprate_5": [
+                    "Zhongli"
+                ],
+                "uprate_4": [
+                    "Xingqiu",
+                    "Beidou",
+                    "Yanfei"
+                ],
+                "date": {
+                    "eu": {
+                        "start": 1643133600,
+                        "end": 1644937199
+                    },
+                    "na": {
+                        "start": 1643155200,
+                        "end": 1644958799
+                    },
+                    "asia": {
+                        "start": 1643112000,
+                        "end": 1644915599
+                    }
+                }
+            },
+            {
+                "name": "Adrift in the Harbor 2022-01-25",
+                "image": "https://static.wikia.nocookie.net/gensin-impact/images/8/8b/Adrift_in_the_Harbor_2022-01-25.png",
+                "uprate_5": [
+                    "Ganyu"
+                ],
+                "uprate_4": [
+                    "Xingqiu",
+                    "Beidou",
+                    "Yanfei"
+                ],
+                "date": {
+                    "eu": {
+                        "start": 1643133600,
+                        "end": 1644937199
+                    },
+                    "na": {
+                        "start": 1643155200,
+                        "end": 1644958799
+                    },
+                    "asia": {
+                        "start": 1643112000,
+                        "end": 1644915599
+                    }
+                }
+            },
+            {
+                "name": "Everbloom Violet 2022-02-16",
+                "image": "https://static.wikia.nocookie.net/gensin-impact/images/d/d2/Everbloom_Violet_2022-02-16.png",
+                "uprate_5": [
+                    "Yae Miko"
+                ],
+                "uprate_4": [
+                    "Fischl",
+                    "Diona",
+                    "Thoma"
+                ],
+                "date": {
+                    "eu": {
+                        "start": 1645009200,
+                        "end": 1646762399
+                    },
+                    "na": {
+                        "start": 1645030800,
+                        "end": 1646783999
+                    },
+                    "asia": {
+                        "start": 1644987600,
+                        "end": 1646740799
+                    }
+                }
+            },
+            {
+                "name": "Reign of Serenity 2022-03-08",
+                "image": "https://static.wikia.nocookie.net/gensin-impact/images/4/40/Reign_of_Serenity_2022-03-08.png",
+                "uprate_5": [
+                    "Raiden Shogun"
+                ],
+                "uprate_4": [
+                    "Bennett",
+                    "Xinyan",
+                    "Kujou Sara"
+                ],
+                "date": {
+                    "eu": {
+                        "start": 1646762400,
+                        "end": 1648565999
+                    },
+                    "na": {
+                        "start": 1646784000,
+                        "end": 1648587599
+                    },
+                    "asia": {
+                        "start": 1646740800,
+                        "end": 1648544399
+                    }
+                }
+            },
+            {
+                "name": "Drifting Luminescence 2022-03-08",
+                "image": "https://static.wikia.nocookie.net/gensin-impact/images/6/6b/Drifting_Luminescence_2022-03-08.png",
+                "uprate_5": [
+                    "Sangonomiya Kokomi"
+                ],
+                "uprate_4": [
+                    "Bennett",
+                    "Xinyan",
+                    "Kujou Sara"
+                ],
+                "date": {
+                    "eu": {
+                        "start": 1646762400,
+                        "end": 1648565999
+                    },
+                    "na": {
+                        "start": 1646784000,
+                        "end": 1648587599
+                    },
+                    "asia": {
+                        "start": 1646740800,
+                        "end": 1648544399
+                    }
+                }
+            },
+            {
+                "name": "Azure Excursion 2022-03-30",
+                "image": "https://static.wikia.nocookie.net/gensin-impact/images/2/29/Azure_Excursion_2022-03-30.png",
+                "uprate_5": [
+                    "Kamisato Ayato"
+                ],
+                "uprate_4": [
+                    "Sucrose",
+                    "Xiangling",
+                    "Yun Jin"
+                ],
+                "date": {
+                    "eu": {
+                        "start": 1648638000,
+                        "end": 1650391140
+                    },
+                    "na": {
+                        "start": 1648659600,
+                        "end": 1650412740
+                    },
+                    "asia": {
+                        "start": 1648616400,
+                        "end": 1650369540
+                    }
+                }
+            },
+            {
+                "name": "Ballad in Goblets 2022-03-30",
+                "image": "https://static.wikia.nocookie.net/gensin-impact/images/5/5d/Ballad_in_Goblets_2022-03-30.png",
+                "uprate_5": [
+                    "Venti"
+                ],
+                "uprate_4": [
+                    "Sucrose",
+                    "Xiangling",
+                    "Yun Jin"
+                ],
+                "date": {
+                    "eu": {
+                        "start": 1648638000,
+                        "end": 1650391140
+                    },
+                    "na": {
+                        "start": 1648659600,
+                        "end": 1650412740
+                    },
+                    "asia": {
+                        "start": 1648616400,
+                        "end": 1650369540
+                    }
+                }
+            },
+            {
+                "name": "The Heron's Court 2022-04-19",
+                "image": "https://static.wikia.nocookie.net/gensin-impact/images/7/70/The_Heron%27s_Court_2022-04-19.png",
+                "uprate_5": [
+                    "Kamisato Ayaka"
+                ],
+                "uprate_4": [
+                    "Razor",
+                    "Rosaria",
+                    "Sayu"
+                ],
+                "date": {
+                    "eu": {
+                        "start": 1650391200,
+                        "end": 1653976799
+                    },
+                    "na": {
+                        "start": 1650412800,
+                        "end": 1653998399
+                    },
+                    "asia": {
+                        "start": 1650369600,
+                        "end": 1653955199
+                    }
+                }
+            },
+            {
+                "name": "Discerner of Enigmas 2022-05-31",
+                "image": "https://static.wikia.nocookie.net/gensin-impact/images/2/22/Discerner_of_Enigmas_2022-05-31.png",
+                "uprate_5": [
+                    "Yelan"
+                ],
+                "uprate_4": [
+                    "Barbara",
+                    "Yanfei",
+                    "Noelle"
+                ],
+                "date": {
+                    "eu": {
+                        "start": 1653994800,
+                        "end": 1655834340
+                    },
+                    "na": {
+                        "start": 1654016400,
+                        "end": 1655855940
+                    },
+                    "asia": {
+                        "start": 1653973200,
+                        "end": 1655812740
+                    }
+                }
+            },
+            {
+                "name": "Invitation to Mundane Life 2022-05-31",
+                "image": "https://static.wikia.nocookie.net/gensin-impact/images/6/67/Invitation_to_Mundane_Life_2022-05-31.png",
+                "uprate_5": [
+                    "Xiao"
+                ],
+                "uprate_4": [
+                    "Barbara",
+                    "Yanfei",
+                    "Noelle"
+                ],
+                "date": {
+                    "eu": {
+                        "start": 1653994800,
+                        "end": 1655834340
+                    },
+                    "na": {
+                        "start": 1654016400,
+                        "end": 1655855940
+                    },
+                    "asia": {
+                        "start": 1653973200,
+                        "end": 1655812740
+                    }
+                }
+            },
+            {
+                "name": "Oni's Royale 2022-06-21",
+                "image": "https://static.wikia.nocookie.net/gensin-impact/images/b/b7/Oni%27s_Royale_2022-06-21.png",
+                "uprate_5": [
+                    "Arataki Itto"
+                ],
+                "uprate_4": [
+                    "Kuki Shinobu",
+                    "Chongyun",
+                    "Gorou"
+                ],
+                "date": {
+                    "eu": {
+                        "start": 1655834400,
+                        "end": 1657637999
+                    },
+                    "na": {
+                        "start": 1655856000,
+                        "end": 1657659599
+                    },
+                    "asia": {
+                        "start": 1655812800,
+                        "end": 1657616399
+                    }
+                }
+            },
+            {
+                "name": "Leaves in the Wind 2022-07-13",
+                "image": "https://static.wikia.nocookie.net/gensin-impact/images/5/5c/Leaves_in_the_Wind_2022-07-13.png",
+                "uprate_5": [
+                    "Kaedehara Kazuha"
+                ],
+                "uprate_4": [
+                    "Shikanoin Heizou",
+                    "Ningguang",
+                    "Thoma"
+                ],
+                "date": {
+                    "eu": {
+                        "start": 1657710000,
+                        "end": 1659463199
+                    },
+                    "na": {
+                        "start": 1657731600,
+                        "end": 1659484799
+                    },
+                    "asia": {
+                        "start": 1657688400,
+                        "end": 1659441599
+                    }
+                }
+            },
+            {
+                "name": "Sparkling Steps 2022-07-13",
+                "image": "https://static.wikia.nocookie.net/gensin-impact/images/e/ed/Sparkling_Steps_2022-07-13.png",
+                "uprate_5": [
+                    "Klee"
+                ],
+                "uprate_4": [
+                    "Shikanoin Heizou",
+                    "Ningguang",
+                    "Thoma"
+                ],
+                "date": {
+                    "eu": {
+                        "start": 1657710000,
+                        "end": 1659463199
+                    },
+                    "na": {
+                        "start": 1657731600,
+                        "end": 1659484799
+                    },
+                    "asia": {
+                        "start": 1657688400,
+                        "end": 1659441599
+                    }
+                }
+            },
+            {
+                "name": "Tapestry of Golden Flames 2022-08-02",
+                "image": "https://static.wikia.nocookie.net/gensin-impact/images/2/28/Tapestry_of_Golden_Flames_2022-08-02.png",
+                "uprate_5": [
+                    "Yoimiya"
+                ],
+                "uprate_4": [
+                    "Bennett",
+                    "Xinyan",
+                    "Yun Jin"
+                ],
+                "date": {
+                    "eu": {
+                        "start": 1659463200,
+                        "end": 1661266799
+                    },
+                    "na": {
+                        "start": 1659484800,
+                        "end": 1661288399
+                    },
+                    "asia": {
+                        "start": 1659441600,
+                        "end": 1661245199
+                    }
+                }
+            },
+            {
+                "name": "Viridescent Vigil 2022-08-24",
+                "image": "https://static.wikia.nocookie.net/gensin-impact/images/e/e4/Viridescent_Vigil_2022-08-24.png",
+                "uprate_5": [
+                    "Tighnari"
+                ],
+                "uprate_4": [
+                    "Collei",
+                    "Diona",
+                    "Fischl"
+                ],
+                "date": {
+                    "eu": {
+                        "start": 1661338800,
+                        "end": 1662746399
+                    },
+                    "na": {
+                        "start": 1661360400,
+                        "end": 1662767999
+                    },
+                    "asia": {
+                        "start": 1661317200,
+                        "end": 1662724799
+                    }
+                }
+            },
+            {
+                "name": "Gentry of Hermitage 2022-08-24",
+                "image": "https://static.wikia.nocookie.net/gensin-impact/images/1/19/Gentry_of_Hermitage_2022-08-24.png",
+                "uprate_5": [
+                    "Zhongli"
+                ],
+                "uprate_4": [
+                    "Collei",
+                    "Diona",
+                    "Fischl"
+                ],
+                "date": {
+                    "eu": {
+                        "start": 1661338800,
+                        "end": 1662746399
+                    },
+                    "na": {
+                        "start": 1661360400,
+                        "end": 1662767999
+                    },
+                    "asia": {
+                        "start": 1661317200,
+                        "end": 1662724799
+                    }
+                }
+            },
+            {
+                "name": "Adrift in the Harbor 2022-09-09",
+                "image": "https://static.wikia.nocookie.net/gensin-impact/images/7/76/Adrift_in_the_Harbor_2022-09-09.png",
+                "uprate_5": [
+                    "Ganyu"
+                ],
+                "uprate_4": [
+                    "Dori",
+                    "Sucrose",
+                    "Xingqiu"
+                ],
+                "date": {
+                    "eu": {
+                        "start": 1662746400,
+                        "end": 1664290799
+                    },
+                    "na": {
+                        "start": 1662768000,
+                        "end": 1664312399
+                    },
+                    "asia": {
+                        "start": 1662724800,
+                        "end": 1664269199
+                    }
+                }
+            },
+            {
+                "name": "Drifting Luminescence 2022-09-09",
+                "image": "https://static.wikia.nocookie.net/gensin-impact/images/1/19/Drifting_Luminescence_2022-09-09.png",
+                "uprate_5": [
+                    "Sangonomiya Kokomi"
+                ],
+                "uprate_4": [
+                    "Dori",
+                    "Sucrose",
+                    "Xingqiu"
+                ],
+                "date": {
+                    "eu": {
+                        "start": 1662746400,
+                        "end": 1664290799
+                    },
+                    "na": {
+                        "start": 1662768000,
+                        "end": 1664312399
+                    },
+                    "asia": {
+                        "start": 1662724800,
+                        "end": 1664269199
+                    }
+                }
+            },
+            {
+                "name": "Twilight Arbiter 2022-09-28",
+                "image": "https://static.wikia.nocookie.net/gensin-impact/images/d/db/Twilight_Arbiter_2022-09-28.png",
+                "uprate_5": [
+                    "Cyno"
+                ],
+                "uprate_4": [
+                    "Candace",
+                    "Kuki Shinobu",
+                    "Sayu"
+                ],
+                "date": {
+                    "eu": {
+                        "start": 1664362800,
+                        "end": 1665770399
+                    },
+                    "na": {
+                        "start": 1664384400,
+                        "end": 1665791999
+                    },
+                    "asia": {
+                        "start": 1664341200,
+                        "end": 1665748799
+                    }
+                }
+            },
+            {
+                "name": "Ballad in Goblets 2022-09-28",
+                "image": "https://static.wikia.nocookie.net/gensin-impact/images/0/02/Ballad_in_Goblets_2022-09-28.png",
+                "uprate_5": [
+                    "Venti"
+                ],
+                "uprate_4": [
+                    "Candace",
+                    "Kuki Shinobu",
+                    "Sayu"
+                ],
+                "date": {
+                    "eu": {
+                        "start": 1664362800,
+                        "end": 1665770399
+                    },
+                    "na": {
+                        "start": 1664384400,
+                        "end": 1665791999
+                    },
+                    "asia": {
+                        "start": 1664341200,
+                        "end": 1665748799
+                    }
+                }
+            },
+            {
+                "name": "Twirling Lotus 2022-10-14",
+                "image": "https://static.wikia.nocookie.net/gensin-impact/images/2/2d/Twirling_Lotus_2022-10-14.png",
+                "uprate_5": [
+                    "Nilou"
+                ],
+                "uprate_4": [
+                    "Barbara",
+                    "Beidou",
+                    "Xiangling"
+                ],
+                "date": {
+                    "eu": {
+                        "start": 1665770400,
+                        "end": 1667314799
+                    },
+                    "na": {
+                        "start": 1665792000,
+                        "end": 1667336399
+                    },
+                    "asia": {
+                        "start": 1665748800,
+                        "end": 1667293199
+                    }
+                }
+            },
+            {
+                "name": "Secretum Secretorum 2022-10-14",
+                "image": "https://static.wikia.nocookie.net/gensin-impact/images/e/e5/Secretum_Secretorum_2022-10-14.png",
+                "uprate_5": [
+                    "Albedo"
+                ],
+                "uprate_4": [
+                    "Barbara",
+                    "Beidou",
+                    "Xiangling"
+                ],
+                "date": {
+                    "eu": {
+                        "start": 1665770400,
+                        "end": 1667314799
+                    },
+                    "na": {
+                        "start": 1665792000,
+                        "end": 1667336399
+                    },
+                    "asia": {
+                        "start": 1665748800,
+                        "end": 1667293199
+                    }
+                }
+            },
+            {
+                "name": "The Moongrass' Enlightenment 2022-11-02",
+                "image": "https://static.wikia.nocookie.net/gensin-impact/images/4/47/The_Moongrass%27_Enlightenment_2022-11-02.png",
+                "uprate_5": [
+                    "Nahida"
+                ],
+                "uprate_4": [
+                    "Razor",
+                    "Noelle",
+                    "Bennett"
+                ],
+                "date": {
+                    "eu": {
+                        "start": 1667386800,
+                        "end": 1668794399
+                    },
+                    "na": {
+                        "start": 1667408400,
+                        "end": 1668815999
+                    },
+                    "asia": {
+                        "start": 1667365200,
+                        "end": 1668772799
+                    }
+                }
+            },
+            {
+                "name": "Tapestry of Golden Flames 2022-11-02",
+                "image": "https://static.wikia.nocookie.net/gensin-impact/images/0/0a/Tapestry_of_Golden_Flames_2022-11-02.png",
+                "uprate_5": [
+                    "Yoimiya"
+                ],
+                "uprate_4": [
+                    "Razor",
+                    "Noelle",
+                    "Bennett"
+                ],
+                "date": {
+                    "eu": {
+                        "start": 1667386800,
+                        "end": 1668794399
+                    },
+                    "na": {
+                        "start": 1667408400,
+                        "end": 1668815999
+                    },
+                    "asia": {
+                        "start": 1667365200,
+                        "end": 1668772799
+                    }
+                }
+            },
+            {
+                "name": "Everbloom Violet 2022-11-18",
+                "image": "https://static.wikia.nocookie.net/gensin-impact/images/d/df/Everbloom_Violet_2022-11-18.png",
+                "uprate_5": [
+                    "Yae Miko"
+                ],
+                "uprate_4": [
+                    "Layla",
+                    "Thoma",
+                    "Shikanoin Heizou"
+                ],
+                "date": {
+                    "eu": {
+                        "start": 1668794400,
+                        "end": 1670338799
+                    },
+                    "na": {
+                        "start": 1668816000,
+                        "end": 1670360399
+                    },
+                    "asia": {
+                        "start": 1668772800,
+                        "end": 1670317199
+                    }
+                }
+            },
+            {
+                "name": "Farewell of Snezhnaya 2022-11-18",
+                "image": "https://static.wikia.nocookie.net/gensin-impact/images/4/42/Farewell_of_Snezhnaya_2022-11-18.png",
+                "uprate_5": [
+                    "Tartaglia"
+                ],
+                "uprate_4": [
+                    "Layla",
+                    "Thoma",
+                    "Shikanoin Heizou"
+                ],
+                "date": {
+                    "eu": {
+                        "start": 1668794400,
+                        "end": 1670338799
+                    },
+                    "na": {
+                        "start": 1668816000,
+                        "end": 1670360399
+                    },
+                    "asia": {
+                        "start": 1668772800,
+                        "end": 1670317199
+                    }
+                }
+            },
+            {
+                "name": "From Ashes Reborn 2022-12-07",
+                "image": "https://static.wikia.nocookie.net/gensin-impact/images/7/72/From_Ashes_Reborn_2022-12-07.png",
+                "uprate_5": [
+                    "Wanderer"
+                ],
+                "uprate_4": [
+                    "Faruzan",
+                    "Gorou",
+                    "Yanfei"
+                ],
+                "date": {
+                    "eu": {
+                        "start": 1670410800,
+                        "end": 1672163999
+                    },
+                    "na": {
+                        "start": 1670432400,
+                        "end": 1672185599
+                    },
+                    "asia": {
+                        "start": 1670389200,
+                        "end": 1672142399
+                    }
+                }
+            },
+            {
+                "name": "Oni's Royale 2022-12-07",
+                "image": "https://static.wikia.nocookie.net/gensin-impact/images/a/a5/Oni%27s_Royale_2022-12-07.png",
+                "uprate_5": [
+                    "Arataki Itto"
+                ],
+                "uprate_4": [
+                    "Faruzan",
+                    "Gorou",
+                    "Yanfei"
+                ],
+                "date": {
+                    "eu": {
+                        "start": 1670410800,
+                        "end": 1672163999
+                    },
+                    "na": {
+                        "start": 1670432400,
+                        "end": 1672185599
+                    },
+                    "asia": {
+                        "start": 1670389200,
+                        "end": 1672142399
+                    }
+                }
+            },
+            {
+                "name": "Reign of Serenity 2022-12-27",
+                "image": "https://static.wikia.nocookie.net/gensin-impact/images/8/83/Reign_of_Serenity_2022-12-27.png",
+                "uprate_5": [
+                    "Raiden Shogun"
+                ],
+                "uprate_4": [
+                    "Rosaria",
+                    "Sayu",
+                    "Kujou Sara"
+                ],
+                "date": {
+                    "eu": {
+                        "start": 1672164000,
+                        "end": 1673967599
+                    },
+                    "na": {
+                        "start": 1672185600,
+                        "end": 1673989199
+                    },
+                    "asia": {
+                        "start": 1672142400,
+                        "end": 1673945999
+                    }
+                }
+            },
+            {
+                "name": "Azure Excursion 2022-12-27",
+                "image": "https://static.wikia.nocookie.net/gensin-impact/images/6/62/Azure_Excursion_2022-12-27.png",
+                "uprate_5": [
+                    "Kamisato Ayato"
+                ],
+                "uprate_4": [
+                    "Rosaria",
+                    "Sayu",
+                    "Kujou Sara"
+                ],
+                "date": {
+                    "eu": {
+                        "start": 1672164000,
+                        "end": 1673967599
+                    },
+                    "na": {
+                        "start": 1672185600,
+                        "end": 1673989199
+                    },
+                    "asia": {
+                        "start": 1672142400,
+                        "end": 1673945999
+                    }
+                }
+            },
+            {
+                "name": "Caution in Confidence 2023-01-18",
+                "image": "https://static.wikia.nocookie.net/gensin-impact/images/4/4f/Caution_in_Confidence_2023-01-18.png",
+                "uprate_5": [
+                    "Alhaitham"
+                ],
+                "uprate_4": [
+                    "Yaoyao",
+                    "Yun Jin",
+                    "Xinyan"
+                ],
+                "date": {
+                    "eu": {
+                        "start": 1674039600,
+                        "end": 1675792799
+                    },
+                    "na": {
+                        "start": 1674061200,
+                        "end": 1675814399
+                    },
+                    "asia": {
+                        "start": 1674018000,
+                        "end": 1675771199
+                    }
+                }
+            },
+            {
+                "name": "Invitation to Mundane Life 2023-01-18",
+                "image": "https://static.wikia.nocookie.net/gensin-impact/images/4/41/Invitation_to_Mundane_Life_2023-01-18.png",
+                "uprate_5": [
+                    "Xiao"
+                ],
+                "uprate_4": [
+                    "Yaoyao",
+                    "Yun Jin",
+                    "Xinyan"
+                ],
+                "date": {
+                    "eu": {
+                        "start": 1674039600,
+                        "end": 1675792799
+                    },
+                    "na": {
+                        "start": 1674061200,
+                        "end": 1675814399
+                    },
+                    "asia": {
+                        "start": 1674018000,
+                        "end": 1675771199
+                    }
+                }
+            },
+            {
+                "name": "Moment of Bloom 2023-02-07",
+                "image": "https://static.wikia.nocookie.net/gensin-impact/images/d/d5/Moment_of_Bloom_2023-02-07.png",
+                "uprate_5": [
+                    "Hu Tao"
+                ],
+                "uprate_4": [
+                    "Xingqiu",
+                    "Ningguang",
+                    "Beidou"
+                ],
+                "date": {
+                    "eu": {
+                        "start": 1675792800,
+                        "end": 1677596399
+                    },
+                    "na": {
+                        "start": 1675814400,
+                        "end": 1677617999
+                    },
+                    "asia": {
+                        "start": 1675771200,
+                        "end": 1677574799
+                    }
+                }
+            },
+            {
+                "name": "Discerner of Enigmas 2023-02-07",
+                "image": "https://static.wikia.nocookie.net/gensin-impact/images/5/5b/Discerner_of_Enigmas_2023-02-07.png",
+                "uprate_5": [
+                    "Yelan"
+                ],
+                "uprate_4": [
+                    "Xingqiu",
+                    "Ningguang",
+                    "Beidou"
+                ],
+                "date": {
+                    "eu": {
+                        "start": 1675792800,
+                        "end": 1677596399
+                    },
+                    "na": {
+                        "start": 1675814400,
+                        "end": 1677617999
+                    },
+                    "asia": {
+                        "start": 1675771200,
+                        "end": 1677574799
+                    }
+                }
+            },
+            {
+                "name": "Auric Blaze 2023-03-01",
+                "image": "https://static.wikia.nocookie.net/gensin-impact/images/d/d5/Auric_Blaze_2023-03-01.png",
+                "uprate_5": [
+                    "Dehya"
+                ],
+                "uprate_4": [
+                    "Bennett",
+                    "Barbara",
+                    "Collei"
+                ],
+                "date": {
+                    "eu": {
+                        "start": 1677668400,
+                        "end": 1679421599
+                    },
+                    "na": {
+                        "start": 1677690000,
+                        "end": 1679443199
+                    },
+                    "asia": {
+                        "start": 1677646800,
+                        "end": 1679399999
+                    }
+                }
+            },
+            {
+                "name": "Twilight Arbiter 2023-03-01",
+                "image": "https://static.wikia.nocookie.net/gensin-impact/images/c/c4/Twilight_Arbiter_2023-03-01.png",
+                "uprate_5": [
+                    "Cyno"
+                ],
+                "uprate_4": [
+                    "Bennett",
+                    "Barbara",
+                    "Collei"
+                ],
+                "date": {
+                    "eu": {
+                        "start": 1677668400,
+                        "end": 1679421599
+                    },
+                    "na": {
+                        "start": 1677690000,
+                        "end": 1679443199
+                    },
+                    "asia": {
+                        "start": 1677646800,
+                        "end": 1679399999
+                    }
+                }
+            },
+            {
+                "name": "The Transcendent One Returns 2023-03-21",
+                "image": "https://static.wikia.nocookie.net/gensin-impact/images/6/65/The_Transcendent_One_Returns_2023-03-21.png",
+                "uprate_5": [
+                    "Shenhe"
+                ],
+                "uprate_4": [
+                    "Diona",
+                    "Sucrose",
+                    "Mika"
+                ],
+                "date": {
+                    "eu": {
+                        "start": 1679421600,
+                        "end": 1681225199
+                    },
+                    "na": {
+                        "start": 1679443200,
+                        "end": 1681246799
+                    },
+                    "asia": {
+                        "start": 1679400000,
+                        "end": 1681203599
+                    }
+                }
+            },
+            {
+                "name": "The Heron's Court 2023-03-21",
+                "image": "https://static.wikia.nocookie.net/gensin-impact/images/2/20/The_Heron%27s_Court_2023-03-21.png",
+                "uprate_5": [
+                    "Kamisato Ayaka"
+                ],
+                "uprate_4": [
+                    "Diona",
+                    "Sucrose",
+                    "Mika"
+                ],
+                "date": {
+                    "eu": {
+                        "start": 1679421600,
+                        "end": 1681225199
+                    },
+                    "na": {
+                        "start": 1679443200,
+                        "end": 1681246799
+                    },
+                    "asia": {
+                        "start": 1679400000,
+                        "end": 1681203599
+                    }
+                }
+            },
+            {
+                "name": "The Moongrass' Enlightenment 2023-04-12",
+                "image": "https://static.wikia.nocookie.net/gensin-impact/images/b/b5/The_Moongrass%27_Enlightenment_2023-04-12.png",
+                "uprate_5": [
+                    "Nahida"
+                ],
+                "uprate_4": [
+                    "Kuki Shinobu",
+                    "Dori",
+                    "Layla"
+                ],
+                "date": {
+                    "eu": {
+                        "start": 1681297200,
+                        "end": 1683050399
+                    },
+                    "na": {
+                        "start": 1681318800,
+                        "end": 1683071999
+                    },
+                    "asia": {
+                        "start": 1681275600,
+                        "end": 1683028799
+                    }
+                }
+            },
+            {
+                "name": "Twirling Lotus 2023-04-12",
+                "image": "https://static.wikia.nocookie.net/gensin-impact/images/e/ee/Twirling_Lotus_2023-04-12.png",
+                "uprate_5": [
+                    "Nilou"
+                ],
+                "uprate_4": [
+                    "Kuki Shinobu",
+                    "Dori",
+                    "Layla"
+                ],
+                "date": {
+                    "eu": {
+                        "start": 1681297200,
+                        "end": 1683050399
+                    },
+                    "na": {
+                        "start": 1681318800,
+                        "end": 1683071999
+                    },
+                    "asia": {
+                        "start": 1681275600,
+                        "end": 1683028799
+                    }
+                }
+            },
+            {
+                "name": "Immaculate Pulse 2023-05-02",
+                "image": "https://static.wikia.nocookie.net/gensin-impact/images/3/3b/Immaculate_Pulse_2023-05-02.png",
+                "uprate_5": [
+                    "Baizhu"
+                ],
+                "uprate_4": [
+                    "Kaveh",
+                    "Candace",
+                    "Fischl"
+                ],
+                "date": {
+                    "eu": {
+                        "start": 1683050400,
+                        "end": 1684853999
+                    },
+                    "na": {
+                        "start": 1683072000,
+                        "end": 1684875599
+                    },
+                    "asia": {
+                        "start": 1683028800,
+                        "end": 1684832399
+                    }
+                }
+            },
+            {
+                "name": "Adrift in the Harbor 2023-05-02",
+                "image": "https://static.wikia.nocookie.net/gensin-impact/images/f/fb/Adrift_in_the_Harbor_2023-05-02.png",
+                "uprate_5": [
+                    "Ganyu"
+                ],
+                "uprate_4": [
+                    "Kaveh",
+                    "Candace",
+                    "Fischl"
+                ],
+                "date": {
+                    "eu": {
+                        "start": 1683050400,
+                        "end": 1684853999
+                    },
+                    "na": {
+                        "start": 1683072000,
+                        "end": 1684875599
+                    },
+                    "asia": {
+                        "start": 1683028800,
+                        "end": 1684832399
+                    }
+                }
+            },
+            {
+                "name": "Tapestry of Golden Flames 2023-05-24",
+                "image": "https://static.wikia.nocookie.net/gensin-impact/images/e/ea/Tapestry_of_Golden_Flames_2023-05-24.png",
+                "uprate_5": [
+                    "Yoimiya"
+                ],
+                "uprate_4": [
+                    "Kirara",
+                    "Yun Jin",
+                    "Chongyun"
+                ],
+                "date": {
+                    "eu": {
+                        "start": 1684926000,
+                        "end": 1686679199
+                    },
+                    "na": {
+                        "start": 1684947600,
+                        "end": 1686700799
+                    },
+                    "asia": {
+                        "start": 1684904400,
+                        "end": 1686657599
+                    }
+                }
+            },
+            {
+                "name": "Everbloom Violet 2023-05-24",
+                "image": "https://static.wikia.nocookie.net/gensin-impact/images/a/aa/Everbloom_Violet_2023-05-24.png",
+                "uprate_5": [
+                    "Yae Miko"
+                ],
+                "uprate_4": [
+                    "Kirara",
+                    "Yun Jin",
+                    "Chongyun"
+                ],
+                "date": {
+                    "eu": {
+                        "start": 1684926000,
+                        "end": 1686679199
+                    },
+                    "na": {
+                        "start": 1684947600,
+                        "end": 1686700799
+                    },
+                    "asia": {
+                        "start": 1684904400,
+                        "end": 1686657599
+                    }
+                }
+            },
+            {
+                "name": "Caution in Confidence 2023-06-13",
+                "image": "https://static.wikia.nocookie.net/gensin-impact/images/4/41/Caution_in_Confidence_2023-06-13.png",
+                "uprate_5": [
+                    "Alhaitham"
+                ],
+                "uprate_4": [
+                    "Shikanoin Heizou",
+                    "Xiangling",
+                    "Yaoyao"
+                ],
+                "date": {
+                    "eu": {
+                        "start": 1686679200,
+                        "end": 1688482799
+                    },
+                    "na": {
+                        "start": 1686700800,
+                        "end": 1688504399
+                    },
+                    "asia": {
+                        "start": 1686657600,
+                        "end": 1688461199
+                    }
+                }
+            },
+            {
+                "name": "Leaves in the Wind 2023-06-13",
+                "image": "https://static.wikia.nocookie.net/gensin-impact/images/1/11/Leaves_in_the_Wind_2023-06-13.png",
+                "uprate_5": [
+                    "Kaedehara Kazuha"
+                ],
+                "uprate_4": [
+                    "Shikanoin Heizou",
+                    "Xiangling",
+                    "Yaoyao"
+                ],
+                "date": {
+                    "eu": {
+                        "start": 1686679200,
+                        "end": 1688482799
+                    },
+                    "na": {
+                        "start": 1686700800,
+                        "end": 1688504399
+                    },
+                    "asia": {
+                        "start": 1686657600,
+                        "end": 1688461199
+                    }
+                }
+            },
+            {
+                "name": "Born of Ocean Swell 2023-07-05",
+                "image": "https://static.wikia.nocookie.net/gensin-impact/images/2/22/Born_of_Ocean_Swell_2023-07-05.png",
+                "uprate_5": [
+                    "Eula"
+                ],
+                "uprate_4": [
+                    "Mika",
+                    "Razor",
+                    "Thoma"
+                ],
+                "date": {
+                    "eu": {
+                        "start": 1688554800,
+                        "end": 1690307999
+                    },
+                    "na": {
+                        "start": 1688576400,
+                        "end": 1690329599
+                    },
+                    "asia": {
+                        "start": 1688533200,
+                        "end": 1690286399
+                    }
+                }
+            },
+            {
+                "name": "Sparkling Steps 2023-07-05",
+                "image": "https://static.wikia.nocookie.net/gensin-impact/images/8/8e/Sparkling_Steps_2023-07-05.png",
+                "uprate_5": [
+                    "Klee"
+                ],
+                "uprate_4": [
+                    "Mika",
+                    "Razor",
+                    "Thoma"
+                ],
+                "date": {
+                    "eu": {
+                        "start": 1688554800,
+                        "end": 1690307999
+                    },
+                    "na": {
+                        "start": 1688576400,
+                        "end": 1690329599
+                    },
+                    "asia": {
+                        "start": 1688533200,
+                        "end": 1690286399
+                    }
+                }
+            },
+            {
+                "name": "Drifting Luminescence 2023-07-25",
+                "image": "https://static.wikia.nocookie.net/gensin-impact/images/3/3f/Drifting_Luminescence_2023-07-25.png",
+                "uprate_5": [
+                    "Sangonomiya Kokomi"
+                ],
+                "uprate_4": [
+                    "Faruzan",
+                    "Rosaria",
+                    "Yanfei"
+                ],
+                "date": {
+                    "eu": {
+                        "start": 1690308000,
+                        "end": 1692111599
+                    },
+                    "na": {
+                        "start": 1690329600,
+                        "end": 1692133199
+                    },
+                    "asia": {
+                        "start": 1690286400,
+                        "end": 1692089999
+                    }
+                }
+            },
+            {
+                "name": "From Ashes Reborn 2023-07-25",
+                "image": "https://static.wikia.nocookie.net/gensin-impact/images/b/b7/From_Ashes_Reborn_2023-07-25.png",
+                "uprate_5": [
+                    "Wanderer"
+                ],
+                "uprate_4": [
+                    "Faruzan",
+                    "Rosaria",
+                    "Yanfei"
+                ],
+                "date": {
+                    "eu": {
+                        "start": 1690308000,
+                        "end": 1692111599
+                    },
+                    "na": {
+                        "start": 1690329600,
+                        "end": 1692133199
+                    },
+                    "asia": {
+                        "start": 1690286400,
+                        "end": 1692089999
+                    }
+                }
+            },
+            {
+                "name": "Conjuring Chiaroscuro 2023-08-16",
+                "image": "https://static.wikia.nocookie.net/gensin-impact/images/5/52/Conjuring_Chiaroscuro_2023-08-16.png",
+                "uprate_5": [
+                    "Lyney"
+                ],
+                "uprate_4": [
+                    "Lynette",
+                    "Bennett",
+                    "Barbara"
+                ],
+                "date": {
+                    "eu": {
+                        "start": 1692183600,
+                        "end": 1693936799
+                    },
+                    "na": {
+                        "start": 1692205200,
+                        "end": 1693958399
+                    },
+                    "asia": {
+                        "start": 1692162000,
+                        "end": 1693915199
+                    }
+                }
+            },
+            {
+                "name": "Discerner of Enigmas 2023-08-16",
+                "image": "https://static.wikia.nocookie.net/gensin-impact/images/8/85/Discerner_of_Enigmas_2023-08-16.png",
+                "uprate_5": [
+                    "Yelan"
+                ],
+                "uprate_4": [
+                    "Lynette",
+                    "Bennett",
+                    "Barbara"
+                ],
+                "date": {
+                    "eu": {
+                        "start": 1692183600,
+                        "end": 1693936799
+                    },
+                    "na": {
+                        "start": 1692205200,
+                        "end": 1693958399
+                    },
+                    "asia": {
+                        "start": 1692162000,
+                        "end": 1693915199
+                    }
+                }
+            },
+            {
+                "name": "Farewell of Snezhnaya 4.0",
+                "image": null,
+                "uprate_5": [
+                    "Tartaglia"
+                ],
+                "uprate_4": [
+                    "Freminet"
+                ],
+                "date": null
+            },
+            {
+                "name": "Gentry of Hermitage 4.0",
+                "image": null,
+                "uprate_5": [
+                    "Zhongli"
+                ],
+                "uprate_4": [
+                    "Freminet"
+                ],
+                "date": null
+            }
+        ]
+    },
+    {
+        "type": "weapon",
+        "banners": [
+            {
+                "name": "Epitome Invocation 2020-09-28",
+                "image": "https://static.wikia.nocookie.net/gensin-impact/images/0/07/Epitome_Invocation_2020-09-28.png",
+                "uprate_5": [
+                    "Aquila Favonia",
+                    "Amos' Bow"
+                ],
+                "uprate_4": [
+                    "The Flute",
+                    "The Bell",
+                    "The Widsith",
+                    "The Stringless",
+                    "Favonius Lance"
+                ],
+                "date": {
+                    "eu": {
+                        "start": 1601287200,
+                        "end": 1603043999
+                    },
+                    "na": {
+                        "start": 1601308800,
+                        "end": 1603065599
+                    },
+                    "asia": {
+                        "start": 1601265600,
+                        "end": 1603022399
+                    }
+                }
+            },
+            {
+                "name": "Epitome Invocation 2020-10-20",
+                "image": "https://static.wikia.nocookie.net/gensin-impact/images/d/dd/Epitome_Invocation_2020-10-20.png",
+                "uprate_5": [
+                    "Lost Prayer to the Sacred Winds",
+                    "Wolf's Gravestone"
+                ],
+                "uprate_4": [
+                    "Sacrificial Sword",
+                    "Sacrificial Bow",
+                    "Sacrificial Greatsword",
+                    "Sacrificial Fragments",
+                    "Dragon's Bane"
+                ],
+                "date": {
+                    "eu": {
+                        "start": 1603216800,
+                        "end": 1605020399
+                    },
+                    "na": {
+                        "start": 1603238400,
+                        "end": 1605041999
+                    },
+                    "asia": {
+                        "start": 1603195200,
+                        "end": 1604998799
+                    }
+                }
+            },
+            {
+                "name": "Epitome Invocation 2020-11-11",
+                "image": "https://static.wikia.nocookie.net/gensin-impact/images/c/cf/Epitome_Invocation_2020-11-11.png",
+                "uprate_5": [
+                    "Memory of Dust",
+                    "Skyward Harp"
+                ],
+                "uprate_4": [
+                    "The Flute",
+                    "Rainslasher",
+                    "Eye of Perception",
+                    "Rust",
+                    "Favonius Lance"
+                ],
+                "date": {
+                    "eu": {
+                        "start": 1605088800,
+                        "end": 1606838399
+                    },
+                    "na": {
+                        "start": 1605110400,
+                        "end": 1606859999
+                    },
+                    "asia": {
+                        "start": 1605067200,
+                        "end": 1606816799
+                    }
+                }
+            },
+            {
+                "name": "Epitome Invocation 2020-12-01",
+                "image": "https://static.wikia.nocookie.net/gensin-impact/images/a/a6/Epitome_Invocation_2020-12-01.png",
+                "uprate_5": [
+                    "Vortex Vanquisher",
+                    "The Unforged"
+                ],
+                "uprate_4": [
+                    "Lion's Roar",
+                    "The Bell",
+                    "Favonius Codex",
+                    "Favonius Warbow",
+                    "Dragon's Bane"
+                ],
+                "date": {
+                    "eu": {
+                        "start": 1606845600,
+                        "end": 1608649199
+                    },
+                    "na": {
+                        "start": 1606867200,
+                        "end": 1608670799
+                    },
+                    "asia": {
+                        "start": 1606824000,
+                        "end": 1608627599
+                    }
+                }
+            },
+            {
+                "name": "Epitome Invocation 2020-12-23",
+                "image": "https://static.wikia.nocookie.net/gensin-impact/images/9/95/Epitome_Invocation_2020-12-23.png",
+                "uprate_5": [
+                    "Summit Shaper",
+                    "Skyward Atlas"
+                ],
+                "uprate_4": [
+                    "Favonius Sword",
+                    "Favonius Greatsword",
+                    "Favonius Lance",
+                    "Sacrificial Fragments",
+                    "The Stringless"
+                ],
+                "date": {
+                    "eu": {
+                        "start": 1608717600,
+                        "end": 1610467199
+                    },
+                    "na": {
+                        "start": 1608739200,
+                        "end": 1610488799
+                    },
+                    "asia": {
+                        "start": 1608696000,
+                        "end": 1610445599
+                    }
+                }
+            },
+            {
+                "name": "Epitome Invocation 2021-01-12",
+                "image": "https://static.wikia.nocookie.net/gensin-impact/images/1/1b/Epitome_Invocation_2021-01-12.png",
+                "uprate_5": [
+                    "Skyward Pride",
+                    "Amos' Bow"
+                ],
+                "uprate_4": [
+                    "Sacrificial Sword",
+                    "The Bell",
+                    "Dragon's Bane",
+                    "Eye of Perception",
+                    "Favonius Warbow"
+                ],
+                "date": {
+                    "eu": {
+                        "start": 1610474400,
+                        "end": 1612277999
+                    },
+                    "na": {
+                        "start": 1610496000,
+                        "end": 1612299599
+                    },
+                    "asia": {
+                        "start": 1610452800,
+                        "end": 1612256399
+                    }
+                }
+            },
+            {
+                "name": "Epitome Invocation 2021-02-03",
+                "image": "https://static.wikia.nocookie.net/gensin-impact/images/b/b4/Epitome_Invocation_2021-02-03.png",
+                "uprate_5": [
+                    "Primordial Jade Cutter",
+                    "Primordial Jade Winged-Spear"
+                ],
+                "uprate_4": [
+                    "The Flute",
+                    "Sacrificial Greatsword",
+                    "Rust",
+                    "Eye of Perception",
+                    "Favonius Lance"
+                ],
+                "date": {
+                    "eu": {
+                        "start": 1612350000,
+                        "end": 1614095999
+                    },
+                    "na": {
+                        "start": 1612371600,
+                        "end": 1614117599
+                    },
+                    "asia": {
+                        "start": 1612328400,
+                        "end": 1614074399
+                    }
+                }
+            },
+            {
+                "name": "Epitome Invocation 2021-02-23",
+                "image": "https://static.wikia.nocookie.net/gensin-impact/images/d/d8/Epitome_Invocation_2021-02-23.png",
+                "uprate_5": [
+                    "Staff of Homa",
+                    "Wolf's Gravestone"
+                ],
+                "uprate_4": [
+                    "Lithic Blade",
+                    "Lithic Spear",
+                    "Lion's Roar",
+                    "Sacrificial Bow",
+                    "The Widsith"
+                ],
+                "date": {
+                    "eu": {
+                        "start": 1614103200,
+                        "end": 1615906799
+                    },
+                    "na": {
+                        "start": 1614124800,
+                        "end": 1615928399
+                    },
+                    "asia": {
+                        "start": 1614081600,
+                        "end": 1615885199
+                    }
+                }
+            },
+            {
+                "name": "Epitome Invocation 2021-03-17",
+                "image": "https://static.wikia.nocookie.net/gensin-impact/images/2/2e/Epitome_Invocation_2021-03-17.png",
+                "uprate_5": [
+                    "Elegy for the End",
+                    "Skyward Blade"
+                ],
+                "uprate_4": [
+                    "The Alley Flash",
+                    "Wine and Song",
+                    "Favonius Greatsword",
+                    "Favonius Warbow",
+                    "Dragon's Bane"
+                ],
+                "date": {
+                    "eu": {
+                        "start": 1615978800,
+                        "end": 1617724799
+                    },
+                    "na": {
+                        "start": 1616000400,
+                        "end": 1617746399
+                    },
+                    "asia": {
+                        "start": 1615957200,
+                        "end": 1617703199
+                    }
+                }
+            },
+            {
+                "name": "Epitome Invocation 2021-04-06",
+                "image": "https://static.wikia.nocookie.net/gensin-impact/images/3/31/Epitome_Invocation_2021-04-06.png",
+                "uprate_5": [
+                    "Skyward Harp",
+                    "Lost Prayer to the Sacred Winds"
+                ],
+                "uprate_4": [
+                    "Alley Hunter",
+                    "Favonius Sword",
+                    "Sacrificial Greatsword",
+                    "Favonius Codex",
+                    "Favonius Lance"
+                ],
+                "date": {
+                    "eu": {
+                        "start": 1617732000,
+                        "end": 1619535599
+                    },
+                    "na": {
+                        "start": 1617753600,
+                        "end": 1619557199
+                    },
+                    "asia": {
+                        "start": 1617710400,
+                        "end": 1619513999
+                    }
+                }
+            },
+            {
+                "name": "Epitome Invocation 2021-04-28",
+                "image": "https://static.wikia.nocookie.net/gensin-impact/images/0/05/Epitome_Invocation_2021-04-28.png",
+                "uprate_5": [
+                    "Summit Shaper",
+                    "Memory of Dust"
+                ],
+                "uprate_4": [
+                    "Lithic Blade",
+                    "Lithic Spear",
+                    "The Flute",
+                    "Eye of Perception",
+                    "Sacrificial Bow"
+                ],
+                "date": {
+                    "eu": {
+                        "start": 1619607600,
+                        "end": 1621360740
+                    },
+                    "na": {
+                        "start": 1619629200,
+                        "end": 1621382340
+                    },
+                    "asia": {
+                        "start": 1619586000,
+                        "end": 1621339140
+                    }
+                }
+            },
+            {
+                "name": "Epitome Invocation 2021-05-18",
+                "image": "https://static.wikia.nocookie.net/gensin-impact/images/5/56/Epitome_Invocation_2021-05-18.png",
+                "uprate_5": [
+                    "Song of Broken Pines",
+                    "Aquila Favonia"
+                ],
+                "uprate_4": [
+                    "Sacrificial Sword",
+                    "Rainslasher",
+                    "Dragon's Bane",
+                    "Sacrificial Fragments",
+                    "Rust"
+                ],
+                "date": {
+                    "eu": {
+                        "start": 1621360800,
+                        "end": 1623164399
+                    },
+                    "na": {
+                        "start": 1621382400,
+                        "end": 1623185999
+                    },
+                    "asia": {
+                        "start": 1621339200,
+                        "end": 1623142799
+                    }
+                }
+            },
+            {
+                "name": "Epitome Invocation 2021-06-09",
+                "image": "https://static.wikia.nocookie.net/gensin-impact/images/e/ea/Epitome_Invocation_2021-06-09.png",
+                "uprate_5": [
+                    "Skyward Pride",
+                    "Lost Prayer to the Sacred Winds"
+                ],
+                "uprate_4": [
+                    "Mitternachts Waltz",
+                    "Lion's Roar",
+                    "The Bell",
+                    "Favonius Lance",
+                    "The Widsith"
+                ],
+                "date": {
+                    "eu": {
+                        "start": 1623236400,
+                        "end": 1624989540
+                    },
+                    "na": {
+                        "start": 1623258000,
+                        "end": 1625011140
+                    },
+                    "asia": {
+                        "start": 1623214800,
+                        "end": 1624967940
+                    }
+                }
+            },
+            {
+                "name": "Epitome Invocation 2021-06-29",
+                "image": "https://static.wikia.nocookie.net/gensin-impact/images/6/6f/Epitome_Invocation_2021-06-29.png",
+                "uprate_5": [
+                    "Freedom-Sworn",
+                    "Skyward Atlas"
+                ],
+                "uprate_4": [
+                    "The Alley Flash",
+                    "Wine and Song",
+                    "Alley Hunter",
+                    "Dragon's Bane",
+                    "Favonius Greatsword"
+                ],
+                "date": {
+                    "eu": {
+                        "start": 1624989600,
+                        "end": 1626793199
+                    },
+                    "na": {
+                        "start": 1625011200,
+                        "end": 1626814799
+                    },
+                    "asia": {
+                        "start": 1624968000,
+                        "end": 1626771599
+                    }
+                }
+            },
+            {
+                "name": "Epitome Invocation 2021-07-21",
+                "image": "https://static.wikia.nocookie.net/gensin-impact/images/9/9b/Epitome_Invocation_2021-07-21.png",
+                "uprate_5": [
+                    "Mistsplitter Reforged",
+                    "Skyward Spine"
+                ],
+                "uprate_4": [
+                    "Sacrificial Greatsword",
+                    "Favonius Lance",
+                    "Favonius Codex",
+                    "Favonius Sword",
+                    "The Stringless"
+                ],
+                "date": {
+                    "eu": {
+                        "start": 1626865200,
+                        "end": 1628618340
+                    },
+                    "na": {
+                        "start": 1626886800,
+                        "end": 1628639940
+                    },
+                    "asia": {
+                        "start": 1626843600,
+                        "end": 1628596740
+                    }
+                }
+            },
+            {
+                "name": "Epitome Invocation 2021-08-10",
+                "image": "https://static.wikia.nocookie.net/gensin-impact/images/1/11/Epitome_Invocation_2021-08-10.png",
+                "uprate_5": [
+                    "Thundering Pulse",
+                    "Skyward Blade"
+                ],
+                "uprate_4": [
+                    "Sacrificial Sword",
+                    "Rainslasher",
+                    "Dragon's Bane",
+                    "Sacrificial Fragments",
+                    "Favonius Warbow"
+                ],
+                "date": {
+                    "eu": {
+                        "start": 1628618400,
+                        "end": 1630421999
+                    },
+                    "na": {
+                        "start": 1628640000,
+                        "end": 1630443599
+                    },
+                    "asia": {
+                        "start": 1628596800,
+                        "end": 1630400399
+                    }
+                }
+            },
+            {
+                "name": "Epitome Invocation 2021-09-01",
+                "image": "https://static.wikia.nocookie.net/gensin-impact/images/6/62/Epitome_Invocation_2021-09-01.png",
+                "uprate_5": [
+                    "Engulfing Lightning",
+                    "The Unforged"
+                ],
+                "uprate_4": [
+                    "Lion's Roar",
+                    "The Bell",
+                    "Favonius Lance",
+                    "The Widsith",
+                    "Sacrificial Bow"
+                ],
+                "date": {
+                    "eu": {
+                        "start": 1630494000,
+                        "end": 1632247140
+                    },
+                    "na": {
+                        "start": 1630515600,
+                        "end": 1632268740
+                    },
+                    "asia": {
+                        "start": 1630472400,
+                        "end": 1632225540
+                    }
+                }
+            },
+            {
+                "name": "Epitome Invocation 2021-09-21",
+                "image": "https://static.wikia.nocookie.net/gensin-impact/images/c/c6/Epitome_Invocation_2021-09-21.png",
+                "uprate_5": [
+                    "Everlasting Moonglow",
+                    "Primordial Jade Cutter"
+                ],
+                "uprate_4": [
+                    "The Flute",
+                    "Favonius Greatsword",
+                    "Dragon's Bane",
+                    "Favonius Codex",
+                    "The Stringless"
+                ],
+                "date": {
+                    "eu": {
+                        "start": 1632247200,
+                        "end": 1634050740
+                    },
+                    "na": {
+                        "start": 1632268800,
+                        "end": 1634072340
+                    },
+                    "asia": {
+                        "start": 1632225600,
+                        "end": 1634029140
+                    }
+                }
+            },
+            {
+                "name": "Epitome Invocation 2021-10-13",
+                "image": "https://static.wikia.nocookie.net/gensin-impact/images/2/2e/Epitome_Invocation_2021-10-13.png",
+                "uprate_5": [
+                    "Polar Star",
+                    "Memory of Dust"
+                ],
+                "uprate_4": [
+                    "Akuoumaru",
+                    "Favonius Sword",
+                    "Favonius Lance",
+                    "Eye of Perception",
+                    "Rust"
+                ],
+                "date": {
+                    "eu": {
+                        "start": 1634122800,
+                        "end": 1635875940
+                    },
+                    "na": {
+                        "start": 1634144400,
+                        "end": 1635897540
+                    },
+                    "asia": {
+                        "start": 1634101200,
+                        "end": 1635854340
+                    }
+                }
+            },
+            {
+                "name": "Epitome Invocation 2021-11-02",
+                "image": "https://static.wikia.nocookie.net/gensin-impact/images/f/f1/Epitome_Invocation_2021-11-02.png",
+                "uprate_5": [
+                    "Staff of Homa",
+                    "Elegy for the End"
+                ],
+                "uprate_4": [
+                    "Wavebreaker's Fin",
+                    "Mouun's Moon",
+                    "Sacrificial Sword",
+                    "Rainslasher",
+                    "The Widsith"
+                ],
+                "date": {
+                    "eu": {
+                        "start": 1635876000,
+                        "end": 1637679599
+                    },
+                    "na": {
+                        "start": 1635897600,
+                        "end": 1637701199
+                    },
+                    "asia": {
+                        "start": 1635854400,
+                        "end": 1637657999
+                    }
+                }
+            },
+            {
+                "name": "Epitome Invocation 2021-11-24",
+                "image": "https://static.wikia.nocookie.net/gensin-impact/images/4/4a/Epitome_Invocation_2021-11-24.png",
+                "uprate_5": [
+                    "Freedom-Sworn",
+                    "Song of Broken Pines"
+                ],
+                "uprate_4": [
+                    "Wine and Song",
+                    "Alley Hunter",
+                    "Lion's Roar",
+                    "Sacrificial Greatsword",
+                    "Dragon's Bane"
+                ],
+                "date": {
+                    "eu": {
+                        "start": 1637751600,
+                        "end": 1639504799
+                    },
+                    "na": {
+                        "start": 1637773200,
+                        "end": 1639526399
+                    },
+                    "asia": {
+                        "start": 1637730000,
+                        "end": 1639483199
+                    }
+                }
+            },
+            {
+                "name": "Epitome Invocation 2021-12-14",
+                "image": "https://static.wikia.nocookie.net/gensin-impact/images/8/88/Epitome_Invocation_2021-12-14.png",
+                "uprate_5": [
+                    "Redhorn Stonethresher",
+                    "Skyward Harp"
+                ],
+                "uprate_4": [
+                    "The Alley Flash",
+                    "Mitternachts Waltz",
+                    "The Bell",
+                    "Favonius Lance",
+                    "Sacrificial Fragments"
+                ],
+                "date": {
+                    "eu": {
+                        "start": 1639504800,
+                        "end": 1641308399
+                    },
+                    "na": {
+                        "start": 1639526400,
+                        "end": 1641329999
+                    },
+                    "asia": {
+                        "start": 1639483200,
+                        "end": 1641286799
+                    }
+                }
+            },
+            {
+                "name": "Epitome Invocation 2022-01-05",
+                "image": "https://static.wikia.nocookie.net/gensin-impact/images/0/01/Epitome_Invocation_2022-01-05.png",
+                "uprate_5": [
+                    "Calamity Queller",
+                    "Primordial Jade Winged-Spear"
+                ],
+                "uprate_4": [
+                    "Lithic Spear",
+                    "The Flute",
+                    "Favonius Greatsword",
+                    "The Widsith",
+                    "Favonius Warbow"
+                ],
+                "date": {
+                    "eu": {
+                        "start": 1641380400,
+                        "end": 1643133599
+                    },
+                    "na": {
+                        "start": 1641402000,
+                        "end": 1643155199
+                    },
+                    "asia": {
+                        "start": 1641358800,
+                        "end": 1643111999
+                    }
+                }
+            },
+            {
+                "name": "Epitome Invocation 2022-01-25",
+                "image": "https://static.wikia.nocookie.net/gensin-impact/images/8/81/Epitome_Invocation_2022-01-25.png",
+                "uprate_5": [
+                    "Vortex Vanquisher",
+                    "Amos' Bow"
+                ],
+                "uprate_4": [
+                    "Lithic Blade",
+                    "Favonius Sword",
+                    "Dragon's Bane",
+                    "Favonius Codex",
+                    "Sacrificial Bow"
+                ],
+                "date": {
+                    "eu": {
+                        "start": 1643133600,
+                        "end": 1644937199
+                    },
+                    "na": {
+                        "start": 1643155200,
+                        "end": 1644958799
+                    },
+                    "asia": {
+                        "start": 1643112000,
+                        "end": 1644915599
+                    }
+                }
+            },
+            {
+                "name": "Epitome Invocation 2022-02-16",
+                "image": "https://static.wikia.nocookie.net/gensin-impact/images/4/45/Epitome_Invocation_2022-02-16.png",
+                "uprate_5": [
+                    "Kagura's Verity",
+                    "Primordial Jade Cutter"
+                ],
+                "uprate_4": [
+                    "Wavebreaker's Fin",
+                    "Sacrificial Sword",
+                    "Rainslasher",
+                    "Eye of Perception",
+                    "The Stringless"
+                ],
+                "date": {
+                    "eu": {
+                        "start": 1645009200,
+                        "end": 1646762399
+                    },
+                    "na": {
+                        "start": 1645030800,
+                        "end": 1646783999
+                    },
+                    "asia": {
+                        "start": 1644987600,
+                        "end": 1646740799
+                    }
+                }
+            },
+            {
+                "name": "Epitome Invocation 2022-03-08",
+                "image": "https://static.wikia.nocookie.net/gensin-impact/images/e/e8/Epitome_Invocation_2022-03-08.png",
+                "uprate_5": [
+                    "Engulfing Lightning",
+                    "Everlasting Moonglow"
+                ],
+                "uprate_4": [
+                    "Akuoumaru",
+                    "Mouun's Moon",
+                    "Lion's Roar",
+                    "Favonius Lance",
+                    "Sacrificial Fragments"
+                ],
+                "date": {
+                    "eu": {
+                        "start": 1646762400,
+                        "end": 1648565999
+                    },
+                    "na": {
+                        "start": 1646784000,
+                        "end": 1648587599
+                    },
+                    "asia": {
+                        "start": 1646740800,
+                        "end": 1648544399
+                    }
+                }
+            },
+            {
+                "name": "Epitome Invocation 2022-03-30",
+                "image": "https://static.wikia.nocookie.net/gensin-impact/images/0/00/Epitome_Invocation_2022-03-30.png",
+                "uprate_5": [
+                    "Haran Geppaku Futsu",
+                    "Elegy for the End"
+                ],
+                "uprate_4": [
+                    "The Flute",
+                    "Sacrificial Greatsword",
+                    "Dragon's Bane",
+                    "The Widsith",
+                    "Rust"
+                ],
+                "date": {
+                    "eu": {
+                        "start": 1648638000,
+                        "end": 1650391199
+                    },
+                    "na": {
+                        "start": 1648659600,
+                        "end": 1650412799
+                    },
+                    "asia": {
+                        "start": 1648616400,
+                        "end": 1650369599
+                    }
+                }
+            },
+            {
+                "name": "Epitome Invocation 2022-04-19",
+                "image": "https://static.wikia.nocookie.net/gensin-impact/images/3/35/Epitome_Invocation_2022-04-19.png",
+                "uprate_5": [
+                    "Mistsplitter Reforged",
+                    "The Unforged"
+                ],
+                "uprate_4": [
+                    "Favonius Sword",
+                    "The Bell",
+                    "Favonius Lance",
+                    "Favonius Codex",
+                    "Favonius Warbow"
+                ],
+                "date": {
+                    "eu": {
+                        "start": 1650391200,
+                        "end": 1653976799
+                    },
+                    "na": {
+                        "start": 1650412800,
+                        "end": 1653998399
+                    },
+                    "asia": {
+                        "start": 1650369600,
+                        "end": 1653955199
+                    }
+                }
+            },
+            {
+                "name": "Epitome Invocation 2022-05-31",
+                "image": "https://static.wikia.nocookie.net/gensin-impact/images/1/14/Epitome_Invocation_2022-05-31.png",
+                "uprate_5": [
+                    "Aqua Simulacra",
+                    "Primordial Jade Winged-Spear"
+                ],
+                "uprate_4": [
+                    "Lithic Spear",
+                    "Eye of Perception",
+                    "Favonius Greatsword",
+                    "Sacrificial Bow",
+                    "Sacrificial Sword"
+                ],
+                "date": {
+                    "eu": {
+                        "start": 1653994800,
+                        "end": 1655834340
+                    },
+                    "na": {
+                        "start": 1654016400,
+                        "end": 1655855940
+                    },
+                    "asia": {
+                        "start": 1653973200,
+                        "end": 1655812740
+                    }
+                }
+            },
+            {
+                "name": "Epitome Invocation 2022-06-21",
+                "image": "https://static.wikia.nocookie.net/gensin-impact/images/b/bd/Epitome_Invocation_2022-06-21.png",
+                "uprate_5": [
+                    "Redhorn Stonethresher",
+                    "Memory of Dust"
+                ],
+                "uprate_4": [
+                    "Lithic Blade",
+                    "Lion's Roar",
+                    "Dragon's Bane",
+                    "Sacrificial Fragments",
+                    "The Stringless"
+                ],
+                "date": {
+                    "eu": {
+                        "start": 1655834400,
+                        "end": 1657637999
+                    },
+                    "na": {
+                        "start": 1655856000,
+                        "end": 1657659599
+                    },
+                    "asia": {
+                        "start": 1655812800,
+                        "end": 1657616399
+                    }
+                }
+            },
+            {
+                "name": "Epitome Invocation 2022-07-13",
+                "image": "https://static.wikia.nocookie.net/gensin-impact/images/8/83/Epitome_Invocation_2022-07-13.png",
+                "uprate_5": [
+                    "Freedom-Sworn",
+                    "Lost Prayer to the Sacred Winds"
+                ],
+                "uprate_4": [
+                    "The Alley Flash",
+                    "Mitternachts Waltz",
+                    "Rainslasher",
+                    "Favonius Lance",
+                    "The Widsith"
+                ],
+                "date": {
+                    "eu": {
+                        "start": 1657710000,
+                        "end": 1659463199
+                    },
+                    "na": {
+                        "start": 1657731600,
+                        "end": 1659484799
+                    },
+                    "asia": {
+                        "start": 1657688400,
+                        "end": 1659441599
+                    }
+                }
+            },
+            {
+                "name": "Epitome Invocation 2022-08-02",
+                "image": "https://static.wikia.nocookie.net/gensin-impact/images/8/8d/Epitome_Invocation_2022-08-02.png",
+                "uprate_5": [
+                    "Thundering Pulse",
+                    "Summit Shaper"
+                ],
+                "uprate_4": [
+                    "Wine and Song",
+                    "Alley Hunter",
+                    "The Flute",
+                    "Sacrificial Greatsword",
+                    "Dragon's Bane"
+                ],
+                "date": {
+                    "eu": {
+                        "start": 1659463200,
+                        "end": 1661266799
+                    },
+                    "na": {
+                        "start": 1659484800,
+                        "end": 1661288399
+                    },
+                    "asia": {
+                        "start": 1659441600,
+                        "end": 1661245199
+                    }
+                }
+            },
+            {
+                "name": "Epitome Invocation 2022-08-24",
+                "image": "https://static.wikia.nocookie.net/gensin-impact/images/e/ed/Epitome_Invocation_2022-08-24.png",
+                "uprate_5": [
+                    "Hunter's Path",
+                    "Vortex Vanquisher"
+                ],
+                "uprate_4": [
+                    "Favonius Sword",
+                    "The Bell",
+                    "Favonius Lance",
+                    "Favonius Codex",
+                    "The Stringless"
+                ],
+                "date": {
+                    "eu": {
+                        "start": 1661338800,
+                        "end": 1662746399
+                    },
+                    "na": {
+                        "start": 1661360400,
+                        "end": 1662767999
+                    },
+                    "asia": {
+                        "start": 1661317200,
+                        "end": 1662724799
+                    }
+                }
+            },
+            {
+                "name": "Epitome Invocation 2022-09-09",
+                "image": "https://static.wikia.nocookie.net/gensin-impact/images/b/bb/Epitome_Invocation_2022-09-09.png",
+                "uprate_5": [
+                    "Everlasting Moonglow",
+                    "Amos' Bow"
+                ],
+                "uprate_4": [
+                    "Sacrificial Sword",
+                    "Favonius Greatsword",
+                    "Dragon's Bane",
+                    "Eye of Perception",
+                    "Rust"
+                ],
+                "date": {
+                    "eu": {
+                        "start": 1662746400,
+                        "end": 1664290799
+                    },
+                    "na": {
+                        "start": 1662768000,
+                        "end": 1664312399
+                    },
+                    "asia": {
+                        "start": 1662724800,
+                        "end": 1664269199
+                    }
+                }
+            },
+            {
+                "name": "Epitome Invocation 2022-09-28",
+                "image": "https://static.wikia.nocookie.net/gensin-impact/images/0/03/Epitome_Invocation_2022-09-28.png",
+                "uprate_5": [
+                    "Staff of the Scarlet Sands",
+                    "Elegy for the End"
+                ],
+                "uprate_4": [
+                    "Makhaira Aquamarine",
+                    "Lion's Roar",
+                    "Favonius Lance",
+                    "Sacrificial Fragments",
+                    "Favonius Warbow"
+                ],
+                "date": {
+                    "eu": {
+                        "start": 1664362800,
+                        "end": 1665770399
+                    },
+                    "na": {
+                        "start": 1664384400,
+                        "end": 1665791999
+                    },
+                    "asia": {
+                        "start": 1664341200,
+                        "end": 1665748799
+                    }
+                }
+            },
+            {
+                "name": "Epitome Invocation 2022-10-14",
+                "image": "https://static.wikia.nocookie.net/gensin-impact/images/d/dd/Epitome_Invocation_2022-10-14.png",
+                "uprate_5": [
+                    "Key of Khaj-Nisut",
+                    "Primordial Jade Cutter"
+                ],
+                "uprate_4": [
+                    "Xiphos' Moonlight",
+                    "Wandering Evenstar",
+                    "Rainslasher",
+                    "Dragon's Bane",
+                    "Sacrificial Bow"
+                ],
+                "date": {
+                    "eu": {
+                        "start": 1665770400,
+                        "end": 1667314799
+                    },
+                    "na": {
+                        "start": 1665792000,
+                        "end": 1667336399
+                    },
+                    "asia": {
+                        "start": 1665748800,
+                        "end": 1667293199
+                    }
+                }
+            },
+            {
+                "name": "Epitome Invocation 2022-11-02",
+                "image": "https://static.wikia.nocookie.net/gensin-impact/images/5/5c/Epitome_Invocation_2022-11-02.png",
+                "uprate_5": [
+                    "A Thousand Floating Dreams",
+                    "Thundering Pulse"
+                ],
+                "uprate_4": [
+                    "The Flute",
+                    "Sacrificial Greatsword",
+                    "Favonius Lance",
+                    "The Widsith",
+                    "Rust"
+                ],
+                "date": {
+                    "eu": {
+                        "start": 1667386800,
+                        "end": 1668794399
+                    },
+                    "na": {
+                        "start": 1667408400,
+                        "end": 1668815999
+                    },
+                    "asia": {
+                        "start": 1667365200,
+                        "end": 1668772799
+                    }
+                }
+            },
+            {
+                "name": "Epitome Invocation 2022-11-18",
+                "image": "https://static.wikia.nocookie.net/gensin-impact/images/7/70/Epitome_Invocation_2022-11-18.png",
+                "uprate_5": [
+                    "Kagura's Verity",
+                    "Polar Star"
+                ],
+                "uprate_4": [
+                    "Favonius Sword",
+                    "The Bell",
+                    "Dragon's Bane",
+                    "Favonius Codex",
+                    "The Stringless"
+                ],
+                "date": {
+                    "eu": {
+                        "start": 1668794400,
+                        "end": 1670338799
+                    },
+                    "na": {
+                        "start": 1668816000,
+                        "end": 1670360399
+                    },
+                    "asia": {
+                        "start": 1668772800,
+                        "end": 1670317199
+                    }
+                }
+            },
+            {
+                "name": "Epitome Invocation 2022-12-07",
+                "image": "https://static.wikia.nocookie.net/gensin-impact/images/9/92/Epitome_Invocation_2022-12-07.png",
+                "uprate_5": [
+                    "Tulaytullah's Remembrance",
+                    "Redhorn Stonethresher"
+                ],
+                "uprate_4": [
+                    "Wavebreaker's Fin",
+                    "Sacrificial Sword",
+                    "Favonius Greatsword",
+                    "Eye of Perception",
+                    "Favonius Warbow"
+                ],
+                "date": {
+                    "eu": {
+                        "start": 1670410800,
+                        "end": 1672163999
+                    },
+                    "na": {
+                        "start": 1670432400,
+                        "end": 1672185599
+                    },
+                    "asia": {
+                        "start": 1670389200,
+                        "end": 1672142399
+                    }
+                }
+            },
+            {
+                "name": "Epitome Invocation 2022-12-27",
+                "image": "https://static.wikia.nocookie.net/gensin-impact/images/0/04/Epitome_Invocation_2022-12-27.png",
+                "uprate_5": [
+                    "Engulfing Lightning",
+                    "Haran Geppaku Futsu"
+                ],
+                "uprate_4": [
+                    "Akuoumaru",
+                    "Mouun's Moon",
+                    "Lion's Roar",
+                    "Favonius Lance",
+                    "Sacrificial Fragments"
+                ],
+                "date": {
+                    "eu": {
+                        "start": 1672164000,
+                        "end": 1673967599
+                    },
+                    "na": {
+                        "start": 1672185600,
+                        "end": 1673989199
+                    },
+                    "asia": {
+                        "start": 1672142400,
+                        "end": 1673945999
+                    }
+                }
+            },
+            {
+                "name": "Epitome Invocation 2023-01-18",
+                "image": "https://static.wikia.nocookie.net/gensin-impact/images/6/67/Epitome_Invocation_2023-01-18.png",
+                "uprate_5": [
+                    "Light of Foliar Incision",
+                    "Primordial Jade Winged-Spear"
+                ],
+                "uprate_4": [
+                    "Lithic Spear",
+                    "The Flute",
+                    "Rainslasher",
+                    "The Widsith",
+                    "Sacrificial Bow"
+                ],
+                "date": {
+                    "eu": {
+                        "start": 1674039600,
+                        "end": 1675792799
+                    },
+                    "na": {
+                        "start": 1674061200,
+                        "end": 1675814399
+                    },
+                    "asia": {
+                        "start": 1674018000,
+                        "end": 1675771199
+                    }
+                }
+            },
+            {
+                "name": "Epitome Invocation 2023-02-07",
+                "image": "https://static.wikia.nocookie.net/gensin-impact/images/1/15/Epitome_Invocation_2023-02-07.png",
+                "uprate_5": [
+                    "Staff of Homa",
+                    "Aqua Simulacra"
+                ],
+                "uprate_4": [
+                    "Lithic Blade",
+                    "Favonius Sword",
+                    "Dragon's Bane",
+                    "Favonius Codex",
+                    "Rust"
+                ],
+                "date": {
+                    "eu": {
+                        "start": 1675792800,
+                        "end": 1677596399
+                    },
+                    "na": {
+                        "start": 1675814400,
+                        "end": 1677617999
+                    },
+                    "asia": {
+                        "start": 1675771200,
+                        "end": 1677574799
+                    }
+                }
+            },
+            {
+                "name": "Epitome Invocation 2023-03-01",
+                "image": "https://static.wikia.nocookie.net/gensin-impact/images/8/8b/Epitome_Invocation_2023-03-01.png",
+                "uprate_5": [
+                    "Beacon of the Reed Sea",
+                    "Staff of the Scarlet Sands"
+                ],
+                "uprate_4": [
+                    "The Alley Flash",
+                    "Alley Hunter",
+                    "Sacrificial Greatsword",
+                    "Dragon's Bane",
+                    "Eye of Perception"
+                ],
+                "date": {
+                    "eu": {
+                        "start": 1677668400,
+                        "end": 1679421599
+                    },
+                    "na": {
+                        "start": 1677690000,
+                        "end": 1679443199
+                    },
+                    "asia": {
+                        "start": 1677646800,
+                        "end": 1679399999
+                    }
+                }
+            },
+            {
+                "name": "Epitome Invocation 2023-03-21",
+                "image": "https://static.wikia.nocookie.net/gensin-impact/images/4/46/Epitome_Invocation_2023-03-21.png",
+                "uprate_5": [
+                    "Calamity Queller",
+                    "Mistsplitter Reforged"
+                ],
+                "uprate_4": [
+                    "Wine and Song",
+                    "Sacrificial Sword",
+                    "The Bell",
+                    "Favonius Lance",
+                    "Favonius Warbow"
+                ],
+                "date": {
+                    "eu": {
+                        "start": 1679421600,
+                        "end": 1681225199
+                    },
+                    "na": {
+                        "start": 1679443200,
+                        "end": 1681246799
+                    },
+                    "asia": {
+                        "start": 1679400000,
+                        "end": 1681203599
+                    }
+                }
+            },
+            {
+                "name": "Epitome Invocation 2023-04-12",
+                "image": "https://static.wikia.nocookie.net/gensin-impact/images/8/84/Epitome_Invocation_2023-04-12.png",
+                "uprate_5": [
+                    "A Thousand Floating Dreams",
+                    "Key of Khaj-Nisut"
+                ],
+                "uprate_4": [
+                    "Xiphos' Moonlight",
+                    "Favonius Greatsword",
+                    "Dragon's Bane",
+                    "Sacrificial Fragments",
+                    "The Stringless"
+                ],
+                "date": {
+                    "eu": {
+                        "start": 1681297200,
+                        "end": 1683050399
+                    },
+                    "na": {
+                        "start": 1681318800,
+                        "end": 1683071999
+                    },
+                    "asia": {
+                        "start": 1681275600,
+                        "end": 1683028799
+                    }
+                }
+            },
+            {
+                "name": "Epitome Invocation 2023-05-02",
+                "image": "https://static.wikia.nocookie.net/gensin-impact/images/6/61/Epitome_Invocation_2023-05-02.png",
+                "uprate_5": [
+                    "Jadefall's Splendor",
+                    "Amos' Bow"
+                ],
+                "uprate_4": [
+                    "Makhaira Aquamarine",
+                    "Wandering Evenstar",
+                    "Lion's Roar",
+                    "Favonius Lance",
+                    "Sacrificial Bow"
+                ],
+                "date": {
+                    "eu": {
+                        "start": 1683050400,
+                        "end": 1684853999
+                    },
+                    "na": {
+                        "start": 1683072000,
+                        "end": 1684875599
+                    },
+                    "asia": {
+                        "start": 1683028800,
+                        "end": 1684832399
+                    }
+                }
+            },
+            {
+                "name": "Epitome Invocation 2023-05-24",
+                "image": "https://static.wikia.nocookie.net/gensin-impact/images/f/fa/Epitome_Invocation_2023-05-24.png",
+                "uprate_5": [
+                    "Thundering Pulse",
+                    "Kagura's Verity"
+                ],
+                "uprate_4": [
+                    "Akuoumaru",
+                    "The Flute",
+                    "Dragon's Bane",
+                    "The Widsith",
+                    "Rust"
+                ],
+                "date": {
+                    "eu": {
+                        "start": 1684926000,
+                        "end": 1686679199
+                    },
+                    "na": {
+                        "start": 1684947600,
+                        "end": 1686700799
+                    },
+                    "asia": {
+                        "start": 1684904400,
+                        "end": 1686657599
+                    }
+                }
+            },
+            {
+                "name": "Epitome Invocation 2023-06-13",
+                "image": "https://static.wikia.nocookie.net/gensin-impact/images/7/74/Epitome_Invocation_2023-06-13.png",
+                "uprate_5": [
+                    "Light of Foliar Incision",
+                    "Freedom-Sworn"
+                ],
+                "uprate_4": [
+                    "Favonius Codex",
+                    "Favonius Sword",
+                    "Mouun's Moon",
+                    "Sacrificial Greatsword",
+                    "Wavebreaker's Fin"
+                ],
+                "date": {
+                    "eu": {
+                        "start": 1686679200,
+                        "end": 1688482799
+                    },
+                    "na": {
+                        "start": 1686700800,
+                        "end": 1688504399
+                    },
+                    "asia": {
+                        "start": 1686657600,
+                        "end": 1688461199
+                    }
+                }
+            },
+            {
+                "name": "Epitome Invocation 2023-07-05",
+                "image": "https://static.wikia.nocookie.net/gensin-impact/images/4/45/Epitome_Invocation_2023-07-05.png",
+                "uprate_5": [
+                    "Song of Broken Pines",
+                    "Lost Prayer to the Sacred Winds"
+                ],
+                "uprate_4": [
+                    "The Alley Flash",
+                    "Alley Hunter",
+                    "Rainslasher",
+                    "Favonius Lance",
+                    "Eye of Perception"
+                ],
+                "date": {
+                    "eu": {
+                        "start": 1688554800,
+                        "end": 1690307999
+                    },
+                    "na": {
+                        "start": 1688576400,
+                        "end": 1690329599
+                    },
+                    "asia": {
+                        "start": 1688533200,
+                        "end": 1690286399
+                    }
+                }
+            },
+            {
+                "name": "Epitome Invocation 2023-07-25",
+                "image": "https://static.wikia.nocookie.net/gensin-impact/images/2/2e/Epitome_Invocation_2023-07-25.png",
+                "uprate_5": [
+                    "Everlasting Moonglow",
+                    "Tulaytullah's Remembrance"
+                ],
+                "uprate_4": [
+                    "Wine and Song",
+                    "Lion's Roar",
+                    "The Bell",
+                    "Dragon's Bane",
+                    "Favonius Warbow"
+                ],
+                "date": {
+                    "eu": {
+                        "start": 1690308000,
+                        "end": 1692111599
+                    },
+                    "na": {
+                        "start": 1690329600,
+                        "end": 1692133199
+                    },
+                    "asia": {
+                        "start": 1690286400,
+                        "end": 1692089999
+                    }
+                }
+            },
+            {
+                "name": "Epitome Invocation 2023-08-16",
+                "image": "https://static.wikia.nocookie.net/gensin-impact/images/a/a1/Epitome_Invocation_2023-08-16.png",
+                "uprate_5": [
+                    "The First Great Magic",
+                    "Aqua Simulacra"
+                ],
+                "uprate_4": [
+                    "Sacrificial Sword",
+                    "Favonius Greatsword",
+                    "Favonius Lance",
+                    "Sacrificial Fragments",
+                    "Sacrificial Bow"
+                ],
+                "date": {
+                    "eu": {
+                        "start": 1692183600,
+                        "end": 1693936799
+                    },
+                    "na": {
+                        "start": 1692205200,
+                        "end": 1693958399
+                    },
+                    "asia": {
+                        "start": 1692162000,
+                        "end": 1693915199
+                    }
+                }
+            }
+        ]
+    },
+    {
+        "type": "permanent",
+        "banners": [
+            {
+                "name": "Beginners' Wish",
+                "image": "https://static.wikia.nocookie.net/gensin-impact/images/2/27/Wish_Beginners.png",
+                "uprate_5": [],
+                "uprate_4": [],
+                "date": null
+            },
+            {
+                "name": "Wanderlust Invocation",
+                "image": "https://static.wikia.nocookie.net/gensin-impact/images/b/bd/Wanderlust_Invocation_2020-11-11.png",
+                "uprate_5": [],
+                "uprate_4": [],
+                "date": null
+            }
+        ]
+    }
+]
