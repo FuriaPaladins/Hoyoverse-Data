@@ -117,7 +117,7 @@ def genshin_main():
 
             ## Download the banner images if they aren't already downloaded
             print(f"Downloading {banner_name} banner image")
-            download_image(image_url, f"assets/banners/{i[1]}/{banner_name}.png")
+            #download_image(image_url, f"assets/banners/{i[1]}/{banner_name}.png")
 
         ## Add banners to the list
         banners.append({'type': i[1], 'banners': type_banners})
