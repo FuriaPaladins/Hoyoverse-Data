@@ -24,4 +24,5 @@ jobs:
         python main.py
         git config --global user.email "noreply@example.com"
         git config --global user.name "GitHub Actions"
+        git add -A
         if [ -n "$(git status --porcelain)" ]; then git commit -am "Update banner data"; git push; fi
