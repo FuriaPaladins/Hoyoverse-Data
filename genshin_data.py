@@ -45,24 +45,39 @@ def get_fandom_page():
 def genshin_main():
     ## Get data from ambr.top
     characters, weapons = get_characters(), get_weapons()
+    chars_n_weapons = characters + weapons
 
     ## Get fandom data
     fandom_data = get_fandom_page()
+    ## Find all spans that have an ID with Version_ in it. (Doesn't matter what number afterwards)
+    all_versions = [float(i.get('id').split('Version_')[-1]) for i in
+                    fandom_data.find_all('span', {'id': lambda x: x and 'Version_' in x})]
 
-    banners = []
+    banners = {'permanent': [], 'character': [], 'weapon': []}
     ## Get banners by type
-    for i in [('Character_Event_Wishes', 'character'), ('Weapon_Event_Wishes', 'weapon'), ('Permanent_Wishes', 'permanent')]:
-        span_tag = fandom_data.find('span', {'id': i[0]})
+
+    for i in all_versions:
+        span_tag = fandom_data.find('span', {'id': f"Version_{i}"})
+
+        if 'No Results' in span_tag.find_next('p').text:
+            ## If there's no banner data for an update, do not add it cause then it'll end up grabbing the whole Character Banner table
+            continue
+
         table_tag = span_tag.find_next('table')
 
-        type_banners = []
         for row in table_tag.find_all('tr')[1:]:
             # Extract data from each TD in the row
             tds = row.find_all('td')
 
             ## first_td has the banner image and name
             first_td = tds[0]
-            image_url = f"{str(first_td.find('img')['data-src']).split('.png')[0]}.png" if first_td.find('img') is not None else None
+            try:
+                image_url = f"{str(first_td.find('img')['data-src']).split('.png')[0]}.png" if first_td.find(
+                    'img') is not None else None
+            except:
+                image_url = f"{str(first_td.find('img')['src']).split('.png')[0]}.png" if first_td.find(
+                    'img') is not None else None
+
             banner_name = first_td.text.strip()
 
             ## second_td has the characters/weapons
@@ -88,38 +103,37 @@ def genshin_main():
 
             ## Sort banner drops into 4* and 5*
             uprate_5, uprate_4 = [], []
-            if i[1] == 'character':
-                # If the banner is character banner, search for characters
-                for character in drop_data:
-                    for char in characters:
-                        if character == char['name']:
-                            if char['rank'] == 5:
-                                uprate_5.append(character)
-                            elif char['rank'] == 4:
-                                uprate_4.append(character)
-
-            elif i[1] == 'weapon':
-                # If the banner is weapon banner, search for weapons
-                for weapon in drop_data:
-                    for wep in weapons:
-                        if weapon == wep['name']:
-                            if wep['rank'] == 5:
-                                uprate_5.append(weapon)
-                            elif wep['rank'] == 4:
-                                uprate_4.append(weapon)
+            for drop in drop_data:
+                for item in chars_n_weapons:
+                    if drop == item['name']:
+                        if item['rank'] == 5:
+                            uprate_5.append(drop)
+                        elif item['rank'] == 4:
+                            uprate_4.append(drop)
 
             ## Add the banner to the list
             # Note: Base start/end time is EU. NA is +6 hours, Asia is -6 hours
-            type_banners.append(
-                {'name': banner_name, 'image': image_url, 'uprate_5': uprate_5, 'uprate_4': uprate_4,
-                 'date': {'eu': {'start': start, 'end': end}, 'na': {'start': start + 21600, 'end': end + 21600},
-                          'asia': {'start': start - 21600, 'end': end - 21600}} if start is not None else None})
+            if "Beginners' Wish" in banner_name or "Wanderlust Invocation" in banner_name:
+                banner_type = 'permanent'
+                banners['permanent'].append(
+                    {'name': banner_name, 'image': image_url, 'version': i, 'uprate_5': uprate_5, 'uprate_4': uprate_4,
+                     'date': {'eu': {'start': start, 'end': end}, 'na': {'start': start + 21600, 'end': end + 21600},
+                              'asia': {'start': start - 21600, 'end': end - 21600}} if start is not None else None})
+            elif "Epitome Invocation" in banner_name:
+                banner_type = 'weapon'
+                banners['weapon'].append(
+                    {'name': banner_name, 'image': image_url, 'version': i, 'uprate_5': uprate_5, 'uprate_4': uprate_4,
+                     'date': {'eu': {'start': start, 'end': end}, 'na': {'start': start + 21600, 'end': end + 21600},
+                              'asia': {'start': start - 21600, 'end': end - 21600}} if start is not None else None})
+            else:
+                banner_type = 'character'
+                banners['character'].append(
+                    {'name': banner_name, 'image': image_url, 'version': i, 'uprate_5': uprate_5, 'uprate_4': uprate_4,
+                     'date': {'eu': {'start': start, 'end': end}, 'na': {'start': start + 21600, 'end': end + 21600},
+                              'asia': {'start': start - 21600, 'end': end - 21600}} if start is not None else None})
 
             ## Download the banner images if they aren't already downloaded
-            download_image(image_url, f"assets/banners/{i[1]}/{banner_name}.png")
-
-        ## Add banners to the list
-        banners.append({'type': i[1], 'banners': type_banners})
+            download_image(image_url, f"assets/banners/{banner_type}/{banner_name}.png")
 
     ## Save the banner data to json
     save_banner_json(banners)
