@@ -118,19 +118,19 @@ def genshin_main():
                 banners['permanent'].append(
                     {'name': banner_name, 'image': image_url, 'version': i, 'uprate_5': uprate_5, 'uprate_4': uprate_4,
                      'date': {'eu': {'start': start, 'end': end}, 'na': {'start': start + 21600, 'end': end + 21600},
-                              'asia': {'start': start - 18000, 'end': end - 18000}} if start is not None else None})
+                              'asia': {'start': start - 25200, 'end': end - 25200}} if start is not None else None})
             elif "Epitome Invocation" in banner_name:
                 banner_type = 'weapon'
                 banners['weapon'].append(
                     {'name': banner_name, 'image': image_url, 'version': i, 'uprate_5': uprate_5, 'uprate_4': uprate_4,
                      'date': {'eu': {'start': start, 'end': end}, 'na': {'start': start + 21600, 'end': end + 21600},
-                              'asia': {'start': start - 18000, 'end': end - 18000}} if start is not None else None})
+                              'asia': {'start': start - 25200, 'end': end - 25200}} if start is not None else None})
             else:
                 banner_type = 'character'
                 banners['character'].append(
                     {'name': banner_name, 'image': image_url, 'version': i, 'uprate_5': uprate_5, 'uprate_4': uprate_4,
                      'date': {'eu': {'start': start, 'end': end}, 'na': {'start': start + 21600, 'end': end + 21600},
-                              'asia': {'start': start - 18000, 'end': end - 18000}} if start is not None else None})
+                              'asia': {'start': start - 25200, 'end': end - 25200}} if start is not None else None})
 
             ## Download the banner images if they aren't already downloaded
             download_image(image_url, f"assets/banners/{banner_type}/{banner_name}.png")
