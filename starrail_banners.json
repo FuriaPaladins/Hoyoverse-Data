@@ -1,0 +1,570 @@
+{
+    "permanent": [
+        {
+            "name": "Stellar Warp",
+            "image": "https://static.wikia.nocookie.net/houkai-star-rail/images/6/6f/Stellar_Warp.png",
+            "version": 1.0,
+            "uprate_5": [],
+            "uprate_4": [],
+            "date": null
+        },
+        {
+            "name": "Departure Warp",
+            "image": "https://static.wikia.nocookie.net/houkai-star-rail/images/4/4c/Departure_Warp.png",
+            "version": 1.0,
+            "uprate_5": [],
+            "uprate_4": [],
+            "date": null
+        }
+    ],
+    "character": [
+        {
+            "name": "Epochal Spectrum",
+            "image": "https://static.wikia.nocookie.net/houkai-star-rail/images/e/ee/Epochal_Spectrum_2023-08-30.png",
+            "current": true,
+            "uprate_5": [
+                {
+                    "id": 1213,
+                    "name": "Dan Heng \u2022 Imbibitor Lunae"
+                }
+            ],
+            "uprate_4": [
+                {
+                    "id": 1009,
+                    "name": "Asta"
+                },
+                {
+                    "id": 1001,
+                    "name": "March 7th"
+                },
+                {
+                    "id": 1207,
+                    "name": "Yukong"
+                }
+            ],
+            "date": {
+                "eu": {
+                    "start": 1693364400,
+                    "end": 1695211140
+                },
+                "na": {
+                    "start": 1693386000,
+                    "end": 1695232740
+                },
+                "asia": {
+                    "start": 1693339200,
+                    "end": 1695185940
+                }
+            }
+        },
+        {
+            "name": "Nessun Dorma",
+            "image": "https://static.wikia.nocookie.net/houkai-star-rail/images/0/0b/Nessun_Dorma_2023-08-09.png",
+            "current": false,
+            "uprate_5": [
+                {
+                    "id": 1005,
+                    "name": "Kafka"
+                }
+            ],
+            "uprate_4": [
+                {
+                    "id": 1111,
+                    "name": "Luka"
+                },
+                {
+                    "id": 1108,
+                    "name": "Sampo"
+                },
+                {
+                    "id": 1103,
+                    "name": "Serval"
+                }
+            ],
+            "date": {
+                "eu": {
+                    "start": 1691582400,
+                    "end": 1693321140
+                },
+                "na": {
+                    "start": 1691604000,
+                    "end": 1693342740
+                },
+                "asia": {
+                    "start": 1691557200,
+                    "end": 1693295940
+                }
+            }
+        },
+        {
+            "name": "A Lost Soul",
+            "image": "https://static.wikia.nocookie.net/houkai-star-rail/images/5/57/A_Lost_Soul_2023-07-19.png",
+            "current": false,
+            "uprate_5": [
+                {
+                    "id": 1205,
+                    "name": "Blade"
+                }
+            ],
+            "uprate_4": [
+                {
+                    "id": 1008,
+                    "name": "Arlan"
+                },
+                {
+                    "id": 1105,
+                    "name": "Natasha"
+                },
+                {
+                    "id": 1206,
+                    "name": "Sushang"
+                }
+            ],
+            "date": {
+                "eu": {
+                    "start": 1689735600,
+                    "end": 1691582340
+                },
+                "na": {
+                    "start": 1689757200,
+                    "end": 1691603940
+                },
+                "asia": {
+                    "start": 1689710400,
+                    "end": 1691557140
+                }
+            }
+        },
+        {
+            "name": "Laic Pursuit",
+            "image": "https://static.wikia.nocookie.net/houkai-star-rail/images/6/65/Laic_Pursuit_2023-06-28.png",
+            "current": false,
+            "uprate_5": [
+                {
+                    "id": 1203,
+                    "name": "Luocha"
+                }
+            ],
+            "uprate_4": [
+                {
+                    "id": 1106,
+                    "name": "Pela"
+                },
+                {
+                    "id": 1201,
+                    "name": "Qingque"
+                },
+                {
+                    "id": 1207,
+                    "name": "Yukong"
+                }
+            ],
+            "date": {
+                "eu": {
+                    "start": 1687953600,
+                    "end": 1689692340
+                },
+                "na": {
+                    "start": 1687975200,
+                    "end": 1689713940
+                },
+                "asia": {
+                    "start": 1687928400,
+                    "end": 1689667140
+                }
+            }
+        },
+        {
+            "name": "Contract Zero",
+            "image": "https://static.wikia.nocookie.net/houkai-star-rail/images/c/ce/Contract_Zero_2023-06-07.png",
+            "current": false,
+            "uprate_5": [
+                {
+                    "id": 1006,
+                    "name": "Silver Wolf"
+                }
+            ],
+            "uprate_4": [
+                {
+                    "id": 1009,
+                    "name": "Asta"
+                },
+                {
+                    "id": 1002,
+                    "name": "Dan Heng"
+                },
+                {
+                    "id": 1103,
+                    "name": "Serval"
+                }
+            ],
+            "date": {
+                "eu": {
+                    "start": 1686106800,
+                    "end": 1687953600
+                },
+                "na": {
+                    "start": 1686128400,
+                    "end": 1687975200
+                },
+                "asia": {
+                    "start": 1686081600,
+                    "end": 1687928400
+                }
+            }
+        },
+        {
+            "name": "Swirl of Heavenly Spear",
+            "image": "https://static.wikia.nocookie.net/houkai-star-rail/images/2/2f/Swirl_of_Heavenly_Spear_2023-05-17.png",
+            "current": false,
+            "uprate_5": [
+                {
+                    "id": 1204,
+                    "name": "Jing Yuan"
+                }
+            ],
+            "uprate_4": [
+                {
+                    "id": 1001,
+                    "name": "March 7th"
+                },
+                {
+                    "id": 1206,
+                    "name": "Sushang"
+                },
+                {
+                    "id": 1202,
+                    "name": "Tingyun"
+                }
+            ],
+            "date": {
+                "eu": {
+                    "start": 1684346400,
+                    "end": 1686063540
+                },
+                "na": {
+                    "start": 1684368000,
+                    "end": 1686085140
+                },
+                "asia": {
+                    "start": 1684321200,
+                    "end": 1686038340
+                }
+            }
+        },
+        {
+            "name": "Butterfly on Swordtip",
+            "image": "https://static.wikia.nocookie.net/houkai-star-rail/images/e/e4/Butterfly_on_Swordtip_2023-04-26.jpg",
+            "current": false,
+            "uprate_5": [
+                {
+                    "id": 1102,
+                    "name": "Seele"
+                }
+            ],
+            "uprate_4": [
+                {
+                    "id": 1109,
+                    "name": "Hook"
+                },
+                {
+                    "id": 1105,
+                    "name": "Natasha"
+                },
+                {
+                    "id": 1106,
+                    "name": "Pela"
+                }
+            ],
+            "date": {
+                "eu": {
+                    "start": 1682388000,
+                    "end": 1684346340
+                },
+                "na": {
+                    "start": 1682409600,
+                    "end": 1684367940
+                },
+                "asia": {
+                    "start": 1682362800,
+                    "end": 1684321140
+                }
+            }
+        }
+    ],
+    "lightcone": [
+        {
+            "name": "Brilliant Fixation",
+            "image": "https://static.wikia.nocookie.net/houkai-star-rail/images/3/35/Brilliant_Fixation_2023-08-30.png",
+            "current": true,
+            "uprate_5": [
+                {
+                    "id": 23015,
+                    "name": "Brighter Than the Sun"
+                }
+            ],
+            "uprate_4": [
+                {
+                    "id": 21018,
+                    "name": "Dance! Dance! Dance!"
+                },
+                {
+                    "id": 21009,
+                    "name": "Landau's Choice"
+                },
+                {
+                    "id": 21011,
+                    "name": "Planetary Rendezvous"
+                }
+            ],
+            "date": {
+                "eu": {
+                    "start": 1693364400,
+                    "end": 1695211140
+                },
+                "na": {
+                    "start": 1693386000,
+                    "end": 1695232740
+                },
+                "asia": {
+                    "start": 1693339200,
+                    "end": 1695185940
+                }
+            }
+        },
+        {
+            "name": "Brilliant Fixation",
+            "image": "https://static.wikia.nocookie.net/houkai-star-rail/images/1/1f/Brilliant_Fixation_2023-08-09.png",
+            "current": false,
+            "uprate_5": [
+                {
+                    "id": 23006,
+                    "name": "Patience Is All You Need"
+                }
+            ],
+            "uprate_4": [
+                {
+                    "id": 21008,
+                    "name": "Eyes of the Prey"
+                },
+                {
+                    "id": 21015,
+                    "name": "Resolution Shines As Pearls of Sweat"
+                },
+                {
+                    "id": 21006,
+                    "name": "The Birth of the Self"
+                }
+            ],
+            "date": {
+                "eu": {
+                    "start": 1691582400,
+                    "end": 1693321140
+                },
+                "na": {
+                    "start": 1691604000,
+                    "end": 1693342740
+                },
+                "asia": {
+                    "start": 1691557200,
+                    "end": 1693295940
+                }
+            }
+        },
+        {
+            "name": "Brilliant Fixation",
+            "image": "https://static.wikia.nocookie.net/houkai-star-rail/images/e/e7/Brilliant_Fixation_2023-07-19.png",
+            "current": false,
+            "uprate_5": [
+                {
+                    "id": 23009,
+                    "name": "The Unreachable Side"
+                }
+            ],
+            "uprate_4": [
+                {
+                    "id": 21012,
+                    "name": "A Secret Vow"
+                },
+                {
+                    "id": 21007,
+                    "name": "Shared Feeling"
+                },
+                {
+                    "id": 21010,
+                    "name": "Swordplay"
+                }
+            ],
+            "date": {
+                "eu": {
+                    "start": 1689735600,
+                    "end": 1691582340
+                },
+                "na": {
+                    "start": 1689757200,
+                    "end": 1691603940
+                },
+                "asia": {
+                    "start": 1689710400,
+                    "end": 1691557140
+                }
+            }
+        },
+        {
+            "name": "Brilliant Fixation",
+            "image": "https://static.wikia.nocookie.net/houkai-star-rail/images/6/68/Brilliant_Fixation_2023-06-28.png",
+            "current": false,
+            "uprate_5": [
+                {
+                    "id": 23008,
+                    "name": "Echoes of the Coffin"
+                }
+            ],
+            "uprate_4": [
+                {
+                    "id": 21018,
+                    "name": "Dance! Dance! Dance!"
+                },
+                {
+                    "id": 21020,
+                    "name": "Geniuses' Repose"
+                },
+                {
+                    "id": 21001,
+                    "name": "Good Night and Sleep Well"
+                }
+            ],
+            "date": {
+                "eu": {
+                    "start": 1687953600,
+                    "end": 1689692340
+                },
+                "na": {
+                    "start": 1687975200,
+                    "end": 1689713940
+                },
+                "asia": {
+                    "start": 1687928400,
+                    "end": 1689667140
+                }
+            }
+        },
+        {
+            "name": "Brilliant Fixation",
+            "image": "https://static.wikia.nocookie.net/houkai-star-rail/images/f/f6/Brilliant_Fixation_2023-06-07.png",
+            "current": false,
+            "uprate_5": [
+                {
+                    "id": 23007,
+                    "name": "Incessant Rain"
+                }
+            ],
+            "uprate_4": [
+                {
+                    "id": 21013,
+                    "name": "Make the World Clamor"
+                },
+                {
+                    "id": 21004,
+                    "name": "Memories of the Past"
+                },
+                {
+                    "id": 21017,
+                    "name": "Subscribe for More!"
+                }
+            ],
+            "date": {
+                "eu": {
+                    "start": 1686103200,
+                    "end": 1687953600
+                },
+                "na": {
+                    "start": 1686124800,
+                    "end": 1687975200
+                },
+                "asia": {
+                    "start": 1686078000,
+                    "end": 1687928400
+                }
+            }
+        },
+        {
+            "name": "Brilliant Fixation",
+            "image": "https://static.wikia.nocookie.net/houkai-star-rail/images/e/e9/Brilliant_Fixation_2023-05-17.png",
+            "current": false,
+            "uprate_5": [
+                {
+                    "id": 23010,
+                    "name": "Before Dawn"
+                }
+            ],
+            "uprate_4": [
+                {
+                    "id": 21002,
+                    "name": "Day One of My New Life"
+                },
+                {
+                    "id": 21003,
+                    "name": "Only Silence Remains"
+                },
+                {
+                    "id": 21011,
+                    "name": "Planetary Rendezvous"
+                }
+            ],
+            "date": {
+                "eu": {
+                    "start": 1684346400,
+                    "end": 1686063540
+                },
+                "na": {
+                    "start": 1684368000,
+                    "end": 1686085140
+                },
+                "asia": {
+                    "start": 1684321200,
+                    "end": 1686038340
+                }
+            }
+        },
+        {
+            "name": "Brilliant Fixation",
+            "image": "https://static.wikia.nocookie.net/houkai-star-rail/images/7/70/Brilliant_Fixation_2023-04-26.png",
+            "current": false,
+            "uprate_5": [
+                {
+                    "id": 23001,
+                    "name": "In the Night"
+                }
+            ],
+            "uprate_4": [
+                {
+                    "id": 21001,
+                    "name": "Good Night and Sleep Well"
+                },
+                {
+                    "id": 21000,
+                    "name": "Post-Op Conversation"
+                },
+                {
+                    "id": 21005,
+                    "name": "The Moles Welcome You"
+                }
+            ],
+            "date": {
+                "eu": {
+                    "start": 1682388000,
+                    "end": 1684346340
+                },
+                "na": {
+                    "start": 1682409600,
+                    "end": 1684367940
+                },
+                "asia": {
+                    "start": 1682362800,
+                    "end": 1684321140
+                }
+            }
+        }
+    ]
+}
