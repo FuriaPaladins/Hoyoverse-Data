@@ -5,7 +5,6 @@ import requests
 from bs4 import BeautifulSoup as bs
 
 from tools import download_image
-from rich import print
 
 
 def save_banner_json(data):
