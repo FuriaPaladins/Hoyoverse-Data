@@ -43,6 +43,7 @@ def get_fandom_page():
 
 
 def genshin_main():
+    start_time = datetime.now()
     ## Get data from ambr.top
     characters, weapons = get_characters(), get_weapons()
     chars_n_weapons = characters + weapons
@@ -72,10 +73,10 @@ def genshin_main():
             ## first_td has the banner image and name
             first_td = tds[0]
             try:
-                image_url = f"{str(first_td.find('img')['data-src']).split('.png')[0]}.png" if first_td.find(
+                image_url = f"{str(first_td.find('img')['data-src']).split('/revision')[0]}" if first_td.find(
                     'img') is not None else None
             except:
-                image_url = f"{str(first_td.find('img')['src']).split('.png')[0]}.png" if first_td.find(
+                image_url = f"{str(first_td.find('img')['src']).split('/revision')[0]}" if first_td.find(
                     'img') is not None else None
 
             banner_name = first_td.text.strip()
@@ -133,7 +134,8 @@ def genshin_main():
                               'asia': {'start': start - 25200, 'end': end - 25200}} if start is not None else None})
 
             ## Download the banner images if they aren't already downloaded
-            download_image(image_url, f"assets/banners/{banner_type}/{banner_name}.png")
+            download_image(image_url, f"assets/genshin/{banner_type}/{banner_name}.png")
 
     ## Save the banner data to json
     save_banner_json(banners)
+    print(f"Finished scraping Genshin data in {datetime.now() - start_time}")
