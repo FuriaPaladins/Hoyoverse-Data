@@ -1,4 +1,5 @@
-import os, requests
+import os
+import requests
 
 
 def create_dir(path):
@@ -22,6 +23,3 @@ def download_image(url, filename):
                     f.write(chunk)
     except Exception:
         pass
-
-
-

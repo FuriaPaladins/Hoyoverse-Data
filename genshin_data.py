@@ -108,9 +108,9 @@ def genshin_main():
                 for item in chars_n_weapons:
                     if drop == item['name']:
                         if item['rank'] == 5:
-                            uprate_5.append(drop)
+                            uprate_5.append({'id': item['id'], 'name': item['name']})
                         elif item['rank'] == 4:
-                            uprate_4.append(drop)
+                            uprate_4.append({'id': item['id'], 'name': item['name']})
 
             ## Add the banner to the list
             # Note: Base start/end time is EU. NA is +6 hours, Asia is -6 hours
