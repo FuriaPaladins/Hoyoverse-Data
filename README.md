@@ -11,6 +11,6 @@ This project is maintained primarily for personal use for my Discord Bot, [Itto]
 You should be requesting the json [from this page](https://raw.githubusercontent.com/FuriaPaladins/Hoyoverse-Data/master/genshin_banners.json)  
 
 ## Usage - Star Rail
-You should be requesting json from [this page](https://raw.githubusercontent.com/FuriaPaladins/Hoyoverse-Data/master/starrail_banners.json)
+You should be requesting json [from this page](https://raw.githubusercontent.com/FuriaPaladins/Hoyoverse-Data/master/starrail_banners.json)
 
 This repo has a python file called `cast_dataclasses.py` which just converts the response content to dataclass objects.
