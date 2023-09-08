@@ -96,8 +96,8 @@ def genshin_main():
                 ## If the date_time is not empty or none.
                 # Empty - New/upcoming banner
                 # None - Permanent banners
-                start = int(datetime.strptime(date_time[len(date_time) // 2:], '%Y-%m-%d %H:%M:%S').timestamp() - 3600)
-                end = int(datetime.strptime(date_time[:len(date_time) // 2], '%Y-%m-%d %H:%M:%S').timestamp() - 3600)
+                start = int(datetime.strptime(date_time[len(date_time) // 2:], '%Y-%m-%d %H:%M:%S').timestamp() - 7200)
+                end = int(datetime.strptime(date_time[:len(date_time) // 2], '%Y-%m-%d %H:%M:%S').timestamp() - 7200)
             else:
                 ## Otherwise, no start or end date
                 start, end = None, None
