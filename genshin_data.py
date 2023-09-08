@@ -96,6 +96,9 @@ def genshin_main():
                 ## If the date_time is not empty or none.
                 # Empty - New/upcoming banner
                 # None - Permanent banners
+                
+                if '11:00:00' in date_time:
+                    date_time = date_time.replace('11:00:00', '04:00:00')
                 start = int(datetime.strptime(date_time[len(date_time) // 2:], '%Y-%m-%d %H:%M:%S').timestamp() - 3600)
                 end = int(datetime.strptime(date_time[:len(date_time) // 2], '%Y-%m-%d %H:%M:%S').timestamp() - 3600)
             else:
