@@ -3137,6 +3137,58 @@
                     "end": 1695711599
                 }
             }
+        },
+        {
+            "name": "Ballad in Goblets 4.1",
+            "image": null,
+            "version": 4.1,
+            "uprate_5": [
+                {
+                    "id": 10000022,
+                    "name": "Venti"
+                }
+            ],
+            "uprate_4": [],
+            "date": null
+        },
+        {
+            "name": "Decree of the Deeps 2023-09-27",
+            "image": null,
+            "version": 4.1,
+            "uprate_5": [
+                {
+                    "id": 10000087,
+                    "name": "Neuvillette"
+                }
+            ],
+            "uprate_4": [],
+            "date": null
+        },
+        {
+            "name": "Moment of Bloom 2023-09-27",
+            "image": null,
+            "version": 4.1,
+            "uprate_5": [
+                {
+                    "id": 10000046,
+                    "name": "Hu Tao"
+                }
+            ],
+            "uprate_4": [],
+            "date": null
+        },
+        {
+            "name": "Tempestuous Destiny 4.1",
+            "image": null,
+            "version": 4.1,
+            "uprate_5": [
+                {
+                    "id": 10000086,
+                    "name": "Wriothesley"
+                }
+            ],
+            "uprate_4": [],
+            "date": null
         }
     ],
     "weapon": [
