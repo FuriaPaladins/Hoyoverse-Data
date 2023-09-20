@@ -19,6 +19,45 @@
     ],
     "character": [
         {
+            "name": "Foreseen, Foreknown, Foretold",
+            "image": "https://static.wikia.nocookie.net/houkai-star-rail/images/2/21/Foreseen%2C_Foreknown%2C_Foretold_2023-09-20.png",
+            "current": true,
+            "uprate_5": [
+                {
+                    "id": 1208,
+                    "name": "Fu Xuan"
+                }
+            ],
+            "uprate_4": [
+                {
+                    "id": 1110,
+                    "name": "Lynx"
+                },
+                {
+                    "id": 1109,
+                    "name": "Hook"
+                },
+                {
+                    "id": 1106,
+                    "name": "Pela"
+                }
+            ],
+            "date": {
+                "eu": {
+                    "start": 1695211200,
+                    "end": 1696949940
+                },
+                "na": {
+                    "start": 1695232800,
+                    "end": 1696971540
+                },
+                "asia": {
+                    "start": 1695186000,
+                    "end": 1696924740
+                }
+            }
+        },
+        {
             "name": "Epochal Spectrum",
             "image": "https://static.wikia.nocookie.net/houkai-star-rail/images/e/ee/Epochal_Spectrum_2023-08-30.png",
             "current": true,
@@ -293,6 +332,45 @@
         }
     ],
     "lightcone": [
+        {
+            "name": "Brilliant Fixation",
+            "image": "https://static.wikia.nocookie.net/houkai-star-rail/images/2/2f/Brilliant_Fixation_2023-09-20.png",
+            "current": true,
+            "uprate_5": [
+                {
+                    "id": 23011,
+                    "name": "She Already Shut Her Eyes"
+                }
+            ],
+            "uprate_4": [
+                {
+                    "id": 21014,
+                    "name": "Perfect Timing"
+                },
+                {
+                    "id": 21016,
+                    "name": "Trend of the Universal Market"
+                },
+                {
+                    "id": 21019,
+                    "name": "Under the Blue Sky"
+                }
+            ],
+            "date": {
+                "eu": {
+                    "start": 1695211200,
+                    "end": 1696949940
+                },
+                "na": {
+                    "start": 1695232800,
+                    "end": 1696971540
+                },
+                "asia": {
+                    "start": 1695186000,
+                    "end": 1696924740
+                }
+            }
+        },
         {
             "name": "Brilliant Fixation",
             "image": "https://static.wikia.nocookie.net/houkai-star-rail/images/3/35/Brilliant_Fixation_2023-08-30.png",
