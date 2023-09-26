@@ -60,7 +60,7 @@
         {
             "name": "Epochal Spectrum",
             "image": "https://static.wikia.nocookie.net/houkai-star-rail/images/e/ee/Epochal_Spectrum_2023-08-30.png",
-            "current": true,
+            "current": false,
             "uprate_5": [
                 {
                     "id": 1213,
@@ -374,7 +374,7 @@
         {
             "name": "Brilliant Fixation",
             "image": "https://static.wikia.nocookie.net/houkai-star-rail/images/3/35/Brilliant_Fixation_2023-08-30.png",
-            "current": true,
+            "current": false,
             "uprate_5": [
                 {
                     "id": 23015,

@@ -3139,21 +3139,8 @@
             }
         },
         {
-            "name": "Ballad in Goblets 4.1",
-            "image": null,
-            "version": 4.1,
-            "uprate_5": [
-                {
-                    "id": 10000022,
-                    "name": "Venti"
-                }
-            ],
-            "uprate_4": [],
-            "date": null
-        },
-        {
             "name": "Decree of the Deeps 2023-09-27",
-            "image": null,
+            "image": "https://static.wikia.nocookie.net/gensin-impact/images/a/aa/Decree_of_the_Deeps_2023-09-27.png",
             "version": 4.1,
             "uprate_5": [
                 {
@@ -3161,17 +3148,82 @@
                     "name": "Neuvillette"
                 }
             ],
-            "uprate_4": [],
-            "date": null
+            "uprate_4": [
+                {
+                    "id": 10000031,
+                    "name": "Fischl"
+                },
+                {
+                    "id": 10000025,
+                    "name": "Xingqiu"
+                },
+                {
+                    "id": 10000039,
+                    "name": "Diona"
+                }
+            ],
+            "date": {
+                "eu": {
+                    "start": 1695783600,
+                    "end": 1697561999
+                },
+                "na": {
+                    "start": 1695805200,
+                    "end": 1697583599
+                },
+                "asia": {
+                    "start": 1695758400,
+                    "end": 1697536799
+                }
+            }
         },
         {
             "name": "Moment of Bloom 2023-09-27",
-            "image": null,
+            "image": "https://static.wikia.nocookie.net/gensin-impact/images/0/02/Moment_of_Bloom_2023-09-27.png",
             "version": 4.1,
             "uprate_5": [
                 {
                     "id": 10000046,
                     "name": "Hu Tao"
+                }
+            ],
+            "uprate_4": [
+                {
+                    "id": 10000031,
+                    "name": "Fischl"
+                },
+                {
+                    "id": 10000025,
+                    "name": "Xingqiu"
+                },
+                {
+                    "id": 10000039,
+                    "name": "Diona"
+                }
+            ],
+            "date": {
+                "eu": {
+                    "start": 1695783600,
+                    "end": 1697561999
+                },
+                "na": {
+                    "start": 1695805200,
+                    "end": 1697583599
+                },
+                "asia": {
+                    "start": 1695758400,
+                    "end": 1697536799
+                }
+            }
+        },
+        {
+            "name": "Ballad in Goblets 4.1",
+            "image": null,
+            "version": 4.1,
+            "uprate_5": [
+                {
+                    "id": 10000022,
+                    "name": "Venti"
                 }
             ],
             "uprate_4": [],
@@ -5841,6 +5893,57 @@
                 "asia": {
                     "start": 1693908000,
                     "end": 1695711599
+                }
+            }
+        },
+        {
+            "name": "Epitome Invocation 2023-09-27",
+            "image": "https://static.wikia.nocookie.net/gensin-impact/images/1/1f/Epitome_Invocation_2023-09-27.png",
+            "version": 4.1,
+            "uprate_5": [
+                {
+                    "id": 14514,
+                    "name": "Tome of the Eternal Flow"
+                },
+                {
+                    "id": 13501,
+                    "name": "Staff of Homa"
+                }
+            ],
+            "uprate_4": [
+                {
+                    "id": 11427,
+                    "name": "The Dockhand's Assistant"
+                },
+                {
+                    "id": 12427,
+                    "name": "Portable Power Saw"
+                },
+                {
+                    "id": 15412,
+                    "name": "Mitternachts Waltz"
+                },
+                {
+                    "id": 13407,
+                    "name": "Favonius Lance"
+                },
+                {
+                    "id": 14401,
+                    "name": "Favonius Codex"
+                }
+            ],
+            "date": {
+                "eu": {
+                    "start": 1695783600,
+                    "end": 1697561999
+                },
+                "na": {
+                    "start": 1695805200,
+                    "end": 1697583599
+                },
+                "asia": {
+                    "start": 1695758400,
+                    "end": 1697536799
                 }
             }
         }
