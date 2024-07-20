@@ -1,0 +1,643 @@
+{
+    "title": "Departure Warp",
+    "gacha_type": 2,
+    "content": "<color=#dd7a00>The Departure Warp</color> is a permanent Warp event, you can only make sets of 10 Warps. Within every <color=#dd7a00>10</color> Warps, at least one 4-star or above character or Light Cone is guaranteed. <color=#dd7a00>Enjoy a 20% discount on the Star Rail Passes for 10-Warp sets.</color><br />\r\nYou may only Warp up to 50 times for this event. <color=#dd7a00>At least one 5-star or above character is guaranteed within 50 Warps.</color><br />\r\n<br />\r\n\u258c Warp Details<br />\r\n\u25a0 5-Star Characters<br />\r\n\u25cf In this event, the base chance of obtaining 5-star characters is <color=#dd7a00>0.600%</color>. The consolidated chance of obtaining 5-star characters (including guarantee) is <color=#dd7a00>2.080%</color>. Within <color=#dd7a00>50</color> Warps, at least one 5-star character is guaranteed.<br />\r\n<br />\r\n\u25a0 4-Star Characters and Light Cones<br />\r\n\u25cf In this event, the base chance of obtaining 4-star characters and Light Cones is <color=#dd7a00>5.100%</color>, the base chance of obtaining 4-star characters is <color=#dd7a00>2.550%</color>, and the base chance of obtaining 4-star Light Cones is <color=#dd7a00>2.550%</color>. The consolidated chance of obtaining 4-star characters and Light Cones (including guarantee) is <color=#dd7a00>12.160%</color>. Within <color=#dd7a00>10</color> Warps, at least one 4-star or above character or Light Cone is guaranteed. The chance of obtaining a 4-star character or Light Cone from the guarantee is <color=#dd7a00>99.400%</color>, and the chance of obtaining a 5-star character is <color=#dd7a00>0.600%</color>.<br />\r\n\u25cf In most cases, the base rate applies to all characters or Light Cones. If there is a boost or guarantee in effect, please refer to the corresponding rules.<br />\r\n\u203b Departure Warp is counted as a Special Warp, so the Warp count for its guarantee is independent of and unaffected by other types of Warps.<br />\r\n<br />\r\n\u258c Special Details<br />\r\n\u25cf Whenever you obtain a 4-star Light Cone during the Warp, gain Undying Starlight \u00d7<color=#dd7a00>8</color>. Whenever you obtain a 3-star Light Cone during the Warp, gain Undying Embers \u00d7<color=#dd7a00>20</color>.<br />\r\n\u25cf On obtaining a 5-star character that you already own (whether obtained in a Warp, redeemed at the shop, or redeemed from the system): The 2nd \u2013 7th time you obtain the character, it will be converted into that character's Eidolon \u00d7<color=#dd7a00>1</color> and Undying Starlight \u00d7<color=#dd7a00>40</color>; from the 8th time onwards, it will be converted into Undying Starlight \u00d7<color=#dd7a00>100</color>.<br />\r\n\u25cf On obtaining a 4-star character that you already own (whether obtained in a Warp, redeemed at the shop, or redeemed from the system): The 2nd \u2013 7th time you obtain the character, it will be converted into that character's Eidolon \u00d7<color=#dd7a00>1</color> and Undying Starlight \u00d7<color=#dd7a00>8</color>; from the 8th time onward, it will be converted into Undying Starlight \u00d7<color=#dd7a00>20</color>.<br />\r\n<br />",
+    "items_up_star_5": null,
+    "items_up_star_4": null,
+    "items_avatar_star_5": [
+        {
+            "item_id": 0,
+            "item_name": "Himeko",
+            "item_type": "",
+            "star": 5,
+            "is_up": 0,
+            "image_url": "",
+            "item_attr": "",
+            "item_base_type": ""
+        },
+        {
+            "item_id": -1,
+            "item_name": "Welt",
+            "item_type": "",
+            "star": 5,
+            "is_up": 0,
+            "image_url": "",
+            "item_attr": "",
+            "item_base_type": ""
+        },
+        {
+            "item_id": -2,
+            "item_name": "Bronya",
+            "item_type": "",
+            "star": 5,
+            "is_up": 0,
+            "image_url": "",
+            "item_attr": "",
+            "item_base_type": ""
+        },
+        {
+            "item_id": -3,
+            "item_name": "Gepard",
+            "item_type": "",
+            "star": 5,
+            "is_up": 0,
+            "image_url": "",
+            "item_attr": "",
+            "item_base_type": ""
+        },
+        {
+            "item_id": -4,
+            "item_name": "Clara",
+            "item_type": "",
+            "star": 5,
+            "is_up": 0,
+            "image_url": "",
+            "item_attr": "",
+            "item_base_type": ""
+        },
+        {
+            "item_id": -5,
+            "item_name": "Yanqing",
+            "item_type": "",
+            "star": 5,
+            "is_up": 0,
+            "image_url": "",
+            "item_attr": "",
+            "item_base_type": ""
+        },
+        {
+            "item_id": -6,
+            "item_name": "Bailu",
+            "item_type": "",
+            "star": 5,
+            "is_up": 0,
+            "image_url": "",
+            "item_attr": "",
+            "item_base_type": ""
+        }
+    ],
+    "items_light_cone_star_5": null,
+    "items_avatar_star_4": [
+        {
+            "item_id": -7,
+            "item_name": "March 7th",
+            "item_type": "",
+            "star": 4,
+            "is_up": 0,
+            "image_url": "",
+            "item_attr": "",
+            "item_base_type": ""
+        },
+        {
+            "item_id": -8,
+            "item_name": "Dan Heng",
+            "item_type": "",
+            "star": 4,
+            "is_up": 0,
+            "image_url": "",
+            "item_attr": "",
+            "item_base_type": ""
+        },
+        {
+            "item_id": -9,
+            "item_name": "Arlan",
+            "item_type": "",
+            "star": 4,
+            "is_up": 0,
+            "image_url": "",
+            "item_attr": "",
+            "item_base_type": ""
+        },
+        {
+            "item_id": -10,
+            "item_name": "Asta",
+            "item_type": "",
+            "star": 4,
+            "is_up": 0,
+            "image_url": "",
+            "item_attr": "",
+            "item_base_type": ""
+        },
+        {
+            "item_id": -11,
+            "item_name": "Herta",
+            "item_type": "",
+            "star": 4,
+            "is_up": 0,
+            "image_url": "",
+            "item_attr": "",
+            "item_base_type": ""
+        },
+        {
+            "item_id": -12,
+            "item_name": "Natasha",
+            "item_type": "",
+            "star": 4,
+            "is_up": 0,
+            "image_url": "",
+            "item_attr": "",
+            "item_base_type": ""
+        },
+        {
+            "item_id": -13,
+            "item_name": "Serval",
+            "item_type": "",
+            "star": 4,
+            "is_up": 0,
+            "image_url": "",
+            "item_attr": "",
+            "item_base_type": ""
+        },
+        {
+            "item_id": -14,
+            "item_name": "Pela",
+            "item_type": "",
+            "star": 4,
+            "is_up": 0,
+            "image_url": "",
+            "item_attr": "",
+            "item_base_type": ""
+        },
+        {
+            "item_id": -15,
+            "item_name": "Sampo",
+            "item_type": "",
+            "star": 4,
+            "is_up": 0,
+            "image_url": "",
+            "item_attr": "",
+            "item_base_type": ""
+        },
+        {
+            "item_id": -16,
+            "item_name": "Hook",
+            "item_type": "",
+            "star": 4,
+            "is_up": 0,
+            "image_url": "",
+            "item_attr": "",
+            "item_base_type": ""
+        },
+        {
+            "item_id": -17,
+            "item_name": "Sushang",
+            "item_type": "",
+            "star": 4,
+            "is_up": 0,
+            "image_url": "",
+            "item_attr": "",
+            "item_base_type": ""
+        },
+        {
+            "item_id": -18,
+            "item_name": "Qingque",
+            "item_type": "",
+            "star": 4,
+            "is_up": 0,
+            "image_url": "",
+            "item_attr": "",
+            "item_base_type": ""
+        },
+        {
+            "item_id": -19,
+            "item_name": "Tingyun",
+            "item_type": "",
+            "star": 4,
+            "is_up": 0,
+            "image_url": "",
+            "item_attr": "",
+            "item_base_type": ""
+        }
+    ],
+    "items_light_cone_star_4": [
+        {
+            "item_id": -20,
+            "item_name": "Post-Op Conversation",
+            "item_type": "",
+            "star": 4,
+            "is_up": 0,
+            "image_url": "",
+            "item_attr": "",
+            "item_base_type": ""
+        },
+        {
+            "item_id": -21,
+            "item_name": "Good Night and Sleep Well",
+            "item_type": "",
+            "star": 4,
+            "is_up": 0,
+            "image_url": "",
+            "item_attr": "",
+            "item_base_type": ""
+        },
+        {
+            "item_id": -22,
+            "item_name": "Day One of My New Life",
+            "item_type": "",
+            "star": 4,
+            "is_up": 0,
+            "image_url": "",
+            "item_attr": "",
+            "item_base_type": ""
+        },
+        {
+            "item_id": -23,
+            "item_name": "Only Silence Remains",
+            "item_type": "",
+            "star": 4,
+            "is_up": 0,
+            "image_url": "",
+            "item_attr": "",
+            "item_base_type": ""
+        },
+        {
+            "item_id": -24,
+            "item_name": "Memories of the Past",
+            "item_type": "",
+            "star": 4,
+            "is_up": 0,
+            "image_url": "",
+            "item_attr": "",
+            "item_base_type": ""
+        },
+        {
+            "item_id": -25,
+            "item_name": "The Moles Welcome You",
+            "item_type": "",
+            "star": 4,
+            "is_up": 0,
+            "image_url": "",
+            "item_attr": "",
+            "item_base_type": ""
+        },
+        {
+            "item_id": -26,
+            "item_name": "The Birth of the Self",
+            "item_type": "",
+            "star": 4,
+            "is_up": 0,
+            "image_url": "",
+            "item_attr": "",
+            "item_base_type": ""
+        },
+        {
+            "item_id": -27,
+            "item_name": "Shared Feeling",
+            "item_type": "",
+            "star": 4,
+            "is_up": 0,
+            "image_url": "",
+            "item_attr": "",
+            "item_base_type": ""
+        },
+        {
+            "item_id": -28,
+            "item_name": "Eyes of the Prey",
+            "item_type": "",
+            "star": 4,
+            "is_up": 0,
+            "image_url": "",
+            "item_attr": "",
+            "item_base_type": ""
+        },
+        {
+            "item_id": -29,
+            "item_name": "Landau's Choice",
+            "item_type": "",
+            "star": 4,
+            "is_up": 0,
+            "image_url": "",
+            "item_attr": "",
+            "item_base_type": ""
+        },
+        {
+            "item_id": -30,
+            "item_name": "Swordplay",
+            "item_type": "",
+            "star": 4,
+            "is_up": 0,
+            "image_url": "",
+            "item_attr": "",
+            "item_base_type": ""
+        },
+        {
+            "item_id": -31,
+            "item_name": "Planetary Rendezvous",
+            "item_type": "",
+            "star": 4,
+            "is_up": 0,
+            "image_url": "",
+            "item_attr": "",
+            "item_base_type": ""
+        },
+        {
+            "item_id": -32,
+            "item_name": "A Secret Vow",
+            "item_type": "",
+            "star": 4,
+            "is_up": 0,
+            "image_url": "",
+            "item_attr": "",
+            "item_base_type": ""
+        },
+        {
+            "item_id": -33,
+            "item_name": "Make the World Clamor",
+            "item_type": "",
+            "star": 4,
+            "is_up": 0,
+            "image_url": "",
+            "item_attr": "",
+            "item_base_type": ""
+        },
+        {
+            "item_id": -34,
+            "item_name": "Perfect Timing",
+            "item_type": "",
+            "star": 4,
+            "is_up": 0,
+            "image_url": "",
+            "item_attr": "",
+            "item_base_type": ""
+        },
+        {
+            "item_id": -35,
+            "item_name": "Resolution Shines As Pearls of Sweat",
+            "item_type": "",
+            "star": 4,
+            "is_up": 0,
+            "image_url": "",
+            "item_attr": "",
+            "item_base_type": ""
+        },
+        {
+            "item_id": -36,
+            "item_name": "Trend of the Universal Market",
+            "item_type": "",
+            "star": 4,
+            "is_up": 0,
+            "image_url": "",
+            "item_attr": "",
+            "item_base_type": ""
+        },
+        {
+            "item_id": -37,
+            "item_name": "Subscribe for More!",
+            "item_type": "",
+            "star": 4,
+            "is_up": 0,
+            "image_url": "",
+            "item_attr": "",
+            "item_base_type": ""
+        },
+        {
+            "item_id": -38,
+            "item_name": "Dance! Dance! Dance!",
+            "item_type": "",
+            "star": 4,
+            "is_up": 0,
+            "image_url": "",
+            "item_attr": "",
+            "item_base_type": ""
+        },
+        {
+            "item_id": -39,
+            "item_name": "Under the Blue Sky",
+            "item_type": "",
+            "star": 4,
+            "is_up": 0,
+            "image_url": "",
+            "item_attr": "",
+            "item_base_type": ""
+        },
+        {
+            "item_id": -40,
+            "item_name": "Geniuses' Repose",
+            "item_type": "",
+            "star": 4,
+            "is_up": 0,
+            "image_url": "",
+            "item_attr": "",
+            "item_base_type": ""
+        }
+    ],
+    "items_light_cone_star_3": [
+        {
+            "item_id": -41,
+            "item_name": "Arrows",
+            "item_type": "",
+            "star": 3,
+            "is_up": 0,
+            "image_url": "",
+            "item_attr": "",
+            "item_base_type": ""
+        },
+        {
+            "item_id": -42,
+            "item_name": "Cornucopia",
+            "item_type": "",
+            "star": 3,
+            "is_up": 0,
+            "image_url": "",
+            "item_attr": "",
+            "item_base_type": ""
+        },
+        {
+            "item_id": -43,
+            "item_name": "Collapsing Sky",
+            "item_type": "",
+            "star": 3,
+            "is_up": 0,
+            "image_url": "",
+            "item_attr": "",
+            "item_base_type": ""
+        },
+        {
+            "item_id": -44,
+            "item_name": "Amber",
+            "item_type": "",
+            "star": 3,
+            "is_up": 0,
+            "image_url": "",
+            "item_attr": "",
+            "item_base_type": ""
+        },
+        {
+            "item_id": -45,
+            "item_name": "Void",
+            "item_type": "",
+            "star": 3,
+            "is_up": 0,
+            "image_url": "",
+            "item_attr": "",
+            "item_base_type": ""
+        },
+        {
+            "item_id": -46,
+            "item_name": "Chorus",
+            "item_type": "",
+            "star": 3,
+            "is_up": 0,
+            "image_url": "",
+            "item_attr": "",
+            "item_base_type": ""
+        },
+        {
+            "item_id": -47,
+            "item_name": "Data Bank",
+            "item_type": "",
+            "star": 3,
+            "is_up": 0,
+            "image_url": "",
+            "item_attr": "",
+            "item_base_type": ""
+        },
+        {
+            "item_id": -48,
+            "item_name": "Darting Arrow",
+            "item_type": "",
+            "star": 3,
+            "is_up": 0,
+            "image_url": "",
+            "item_attr": "",
+            "item_base_type": ""
+        },
+        {
+            "item_id": -49,
+            "item_name": "Fine Fruit",
+            "item_type": "",
+            "star": 3,
+            "is_up": 0,
+            "image_url": "",
+            "item_attr": "",
+            "item_base_type": ""
+        },
+        {
+            "item_id": -50,
+            "item_name": "Shattered Home",
+            "item_type": "",
+            "star": 3,
+            "is_up": 0,
+            "image_url": "",
+            "item_attr": "",
+            "item_base_type": ""
+        },
+        {
+            "item_id": -51,
+            "item_name": "Defense",
+            "item_type": "",
+            "star": 3,
+            "is_up": 0,
+            "image_url": "",
+            "item_attr": "",
+            "item_base_type": ""
+        },
+        {
+            "item_id": -52,
+            "item_name": "Loop",
+            "item_type": "",
+            "star": 3,
+            "is_up": 0,
+            "image_url": "",
+            "item_attr": "",
+            "item_base_type": ""
+        },
+        {
+            "item_id": -53,
+            "item_name": "Meshing Cogs",
+            "item_type": "",
+            "star": 3,
+            "is_up": 0,
+            "image_url": "",
+            "item_attr": "",
+            "item_base_type": ""
+        },
+        {
+            "item_id": -54,
+            "item_name": "Passkey",
+            "item_type": "",
+            "star": 3,
+            "is_up": 0,
+            "image_url": "",
+            "item_attr": "",
+            "item_base_type": ""
+        },
+        {
+            "item_id": -55,
+            "item_name": "Adversarial",
+            "item_type": "",
+            "star": 3,
+            "is_up": 0,
+            "image_url": "",
+            "item_attr": "",
+            "item_base_type": ""
+        },
+        {
+            "item_id": -56,
+            "item_name": "Multiplication",
+            "item_type": "",
+            "star": 3,
+            "is_up": 0,
+            "image_url": "",
+            "item_attr": "",
+            "item_base_type": ""
+        },
+        {
+            "item_id": -57,
+            "item_name": "Mutual Demise",
+            "item_type": "",
+            "star": 3,
+            "is_up": 0,
+            "image_url": "",
+            "item_attr": "",
+            "item_base_type": ""
+        },
+        {
+            "item_id": -58,
+            "item_name": "Pioneering",
+            "item_type": "",
+            "star": 3,
+            "is_up": 0,
+            "image_url": "",
+            "item_attr": "",
+            "item_base_type": ""
+        },
+        {
+            "item_id": -59,
+            "item_name": "Hidden Shadow",
+            "item_type": "",
+            "star": 3,
+            "is_up": 0,
+            "image_url": "",
+            "item_attr": "",
+            "item_base_type": ""
+        },
+        {
+            "item_id": -60,
+            "item_name": "Mediation",
+            "item_type": "",
+            "star": 3,
+            "is_up": 0,
+            "image_url": "",
+            "item_attr": "",
+            "item_base_type": ""
+        },
+        {
+            "item_id": -61,
+            "item_name": "Sagacity",
+            "item_type": "",
+            "star": 3,
+            "is_up": 0,
+            "image_url": "",
+            "item_attr": "",
+            "item_base_type": ""
+        }
+    ],
+    "base_prob_star5": "0.600%",
+    "general_prob_star5": "2.080%",
+    "base_prob_star4": "5.100%",
+    "general_prob_star4": "12.160%",
+    "base_prob_star3": "94.300%",
+    "general_prob_star3": "85.760%",
+    "up_prob": "0"
+}
