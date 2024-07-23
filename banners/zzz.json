@@ -27,6 +27,20 @@
             "gacha_id": "ac32d8ed4032a973fd7c48a94ccd9ed065293f",
             "gacha_name": "\u300c5001 \u90a6\u5e03\u81ea\u9009UP\u6c60\u300d",
             "gacha_type": 5001
+        },
+        {
+            "begin_time": "2024-07-24 12:00:00",
+            "end_time": "2024-08-13 14:59:59",
+            "gacha_id": "ecf397ed2e70a3e511288c3b9df6a979356412",
+            "gacha_name": "\u300c2002 \u89d2\u8272\u9650\u5b9a\u6c602\u300d",
+            "gacha_type": 2002
+        },
+        {
+            "begin_time": "2024-07-24 12:00:00",
+            "end_time": "2024-08-13 14:59:59",
+            "gacha_id": "00f33c4d7d2a3c65bee3bc9406480609c3dc95",
+            "gacha_name": "\u300c3002 \u6b66\u5668\u9650\u5b9a\u6c602\u300d",
+            "gacha_type": 3002
         }
     ]
 }
