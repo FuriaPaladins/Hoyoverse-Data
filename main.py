@@ -7,15 +7,15 @@ import aiohttp
 
 
 class GachaListURLS:
-    HSR = "https://operation-webstatic.mihoyo.com/gacha_info/hkrpg/prod_gf_cn/gacha/list.json"
     GENSHIN = "https://operation-webstatic.mihoyo.com/gacha_info/hk4e/cn_gf01/gacha/list.json"
+    HSR = "https://operation-webstatic.mihoyo.com/gacha_info/hkrpg/prod_gf_cn/gacha/list.json"
     ZZZ = "https://operation-webstatic.mihoyo.com/gacha_info/nap/prod_gf_cn/gacha/list.json"
 
 
 class GachaBannerURLS:
-    HSR = "https://operation-webstatic.mihoyo.com/gacha_info/hkrpg/prod_gf_cn/{banner}/en-us.json"
-    GENSHIN = "https://operation-webstatic.mihoyo.com/gacha_info/hk4e/cn_gf01/{banner}/en-us.json"
-    ZZZ = "https://operation-webstatic.mihoyo.com/gacha_info/nap/prod_gf_cn/{banner}/en-us.json"
+    GENSHIN = "https://operation-webstatic.hoyoverse.com/gacha_info/hk4e/os_euro/{banner}/en-us.json"
+    HSR = "https://operation-webstatic.hoyoverse.com/gacha_info/hkrpg/prod_official_eur/{banner}/en-us.json"
+    ZZZ = "https://operation-webstatic.hoyoverse.com/gacha_info/nap/prod_gf_eu/{banner}/en-us.json"
 
 
 async def parse_game(session: aiohttp.ClientSession, game: str):
@@ -26,6 +26,9 @@ async def parse_game(session: aiohttp.ClientSession, game: str):
         return
 
     banners = data['data']['list']
+    ## Delete banner name from each banner
+    for banner in banners:
+        del banner['gacha_name']
     file_path = f"banners/{game}.json"
 
     # Check if the file exists, if not create it with an empty JSON structure
@@ -78,7 +81,6 @@ async def main():
     async with aiohttp.ClientSession() as session:
         tasks = [parse_game(session, game) for game in games]
         await asyncio.gather(*tasks)
-
 
 if __name__ == "__main__":
     asyncio.run(main())

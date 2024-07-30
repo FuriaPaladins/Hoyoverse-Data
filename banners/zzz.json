@@ -1,0 +1,28 @@
+{
+    "banners": [
+        {
+            "begin_time": "2024-07-24 12:00:00",
+            "end_time": "2024-08-13 14:59:59",
+            "gacha_id": "ecf397ed2e70a3e511288c3b9df6a979356412",
+            "gacha_type": 2002
+        },
+        {
+            "begin_time": "2024-07-24 12:00:00",
+            "end_time": "2024-08-13 14:59:59",
+            "gacha_id": "00f33c4d7d2a3c65bee3bc9406480609c3dc95",
+            "gacha_type": 3002
+        },
+        {
+            "begin_time": "2024-06-06 00:25:47",
+            "end_time": "2099-12-31 23:59:59",
+            "gacha_id": "40a0441f75c73deef8b958d37ce56679d91cef",
+            "gacha_type": 1001
+        },
+        {
+            "begin_time": "2024-06-06 00:26:43",
+            "end_time": "2099-12-31 23:59:59",
+            "gacha_id": "ac32d8ed4032a973fd7c48a94ccd9ed065293f",
+            "gacha_type": 5001
+        }
+    ]
+}
