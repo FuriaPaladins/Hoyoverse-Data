@@ -1,0 +1,365 @@
+{
+    "title": "An Outstanding Partner",
+    "gacha_type": 5001,
+    "content": "The Bangboo Channel <color=#FFFFFF>An Outstanding Partner</color> is now available. Use Boopons to Signal Search.<br/>\n\u203b This channel is a Bangboo Channel. The Search count for guaranteed Signals in this Channel is effective only in the Bangboo Channel and is independent of and unaffected by other types of Channels.<br/><br/><color=#FFFFFF>\u3013 Bangboo Channel Signal Search \u3013</color><br/>\n<color=#FFFFFF>[S-Rank Bangboo Selection]</color><br/>\nBefore Signal Searching for Bangboo, Proxies should select an S-Rank Bangboo. Upon obtaining an S-Rank Bangboo through Signal Search, the Signal is <color=#FFFFFF>guaranteed</color> to be the selected S-Rank Bangboo.<br/>\nIf Proxies wish to change their selection, the Signal Search count for the guarantee will not be reset.<br/>\n<color=#FFFFFF>[S-Rank Signals]</color><br/>\nThe base probability of an S-Rank Bangboo is <color=#FFFFFF>1.000%</color>. Within <color=#FFFFFF>80</color> Signal Searches, the <color=#FFFFFF>selected</color> S-Rank Bangboo is guaranteed. The overall probability of an S-Rank Bangboo (including the guarantee) is <color=#FFFFFF>2.000%</color>.<br/>\n<color=#FFFFFF>[A-Rank Signals]</color><br/>\nThe base probability of an A-Rank Bangboo Signal is <color=#FFFFFF>15.000%</color>. Within <color=#FFFFFF>10</color> Signal Searches, at least one A-Rank or higher Bangboo Signal is guaranteed. The overall probability of A-Rank Bangboo (including the guarantee) is <color=#FFFFFF>18.000%</color>.<br/>\nWhen an A-Rank Bangboo is obtained through this Signal Search, there's an equal probability of obtaining any individual A-Rank Bangboo.<br/><br/><color=#FFFFFF>\u3013 Bangbucks \u3013</color><br/>\nBangbucks can be obtained when Signal Searching on the Bangboo Channel. Bangbucks can be exchanged for items in the Signal Shop's Bangbuck tab. See below for details:<br/>\n<color=#FFFFFF>[From Signal Search]</color><br/>\nBangbucks can be obtained through Signal Searching on the Bangboo Channel:<br/>\n\u2022 Whenever you obtain an S-Rank Signal through Signal Search, get Bangbuck \u00d750.<br/>\n\u2022 Whenever you obtain an A-Rank Signal through Signal Search, get Bangbuck \u00d710.<br/>\n\u2022 Whenever you obtain a B-Rank Signal through Signal Search, get Bangbuck \u00d72.<br/>\n<color=#FFFFFF>[Duplicate Bangboo]</color><br/>\n\u2022 The 2nd to 5th copies of an S-Rank Bangboo will be converted into Bangboo Core \u00d71. From the 6th copy onwards, Bangboo will be converted into Bangbuck \u00d775.<br/>\n\u2022 The 2nd to 5th copies of an A-Rank Bangboo will be converted into Bangboo Core \u00d71. From the 6th copy onwards, Bangboo will be converted into Bangbuck \u00d715.<br/>(While no Reception Rate boosts are active, the base probabilities apply to the selected S-Rank Bangboo.)",
+    "items_up_star_5": null,
+    "items_up_star_4": null,
+    "items_avatar_star_5": null,
+    "items_avatar_star_4": null,
+    "items_light_cone_star_5": null,
+    "items_light_cone_star_4": null,
+    "items_light_cone_star_3": [
+        {
+            "item_id": 0,
+            "item_name": "[Lunar] Pleniluna",
+            "item_type": "",
+            "star": 3,
+            "is_up": 0,
+            "image_url": "",
+            "item_attr": "",
+            "item_base_type": ""
+        },
+        {
+            "item_id": -1,
+            "item_name": "[Lunar] Decrescent",
+            "item_type": "",
+            "star": 3,
+            "is_up": 0,
+            "image_url": "",
+            "item_attr": "",
+            "item_base_type": ""
+        },
+        {
+            "item_id": -2,
+            "item_name": "[Lunar] Noviluna",
+            "item_type": "",
+            "star": 3,
+            "is_up": 0,
+            "image_url": "",
+            "item_attr": "",
+            "item_base_type": ""
+        },
+        {
+            "item_id": -3,
+            "item_name": "[Reverb] Mark I",
+            "item_type": "",
+            "star": 3,
+            "is_up": 0,
+            "image_url": "",
+            "item_attr": "",
+            "item_base_type": ""
+        },
+        {
+            "item_id": -4,
+            "item_name": "[Reverb] Mark II",
+            "item_type": "",
+            "star": 3,
+            "is_up": 0,
+            "image_url": "",
+            "item_attr": "",
+            "item_base_type": ""
+        },
+        {
+            "item_id": -5,
+            "item_name": "[Reverb] Mark III",
+            "item_type": "",
+            "star": 3,
+            "is_up": 0,
+            "image_url": "",
+            "item_attr": "",
+            "item_base_type": ""
+        },
+        {
+            "item_id": -6,
+            "item_name": "[Vortex] Revolver",
+            "item_type": "",
+            "star": 3,
+            "is_up": 0,
+            "image_url": "",
+            "item_attr": "",
+            "item_base_type": ""
+        },
+        {
+            "item_id": -7,
+            "item_name": "[Vortex] Arrow",
+            "item_type": "",
+            "star": 3,
+            "is_up": 0,
+            "image_url": "",
+            "item_attr": "",
+            "item_base_type": ""
+        },
+        {
+            "item_id": -8,
+            "item_name": "[Vortex] Hatchet",
+            "item_type": "",
+            "star": 3,
+            "is_up": 0,
+            "image_url": "",
+            "item_attr": "",
+            "item_base_type": ""
+        },
+        {
+            "item_id": -9,
+            "item_name": "[Magnetic Storm] Alpha",
+            "item_type": "",
+            "star": 3,
+            "is_up": 0,
+            "image_url": "",
+            "item_attr": "",
+            "item_base_type": ""
+        },
+        {
+            "item_id": -10,
+            "item_name": "[Magnetic Storm] Bravo",
+            "item_type": "",
+            "star": 3,
+            "is_up": 0,
+            "image_url": "",
+            "item_attr": "",
+            "item_base_type": ""
+        },
+        {
+            "item_id": -11,
+            "item_name": "[Magnetic Storm] Charlie",
+            "item_type": "",
+            "star": 3,
+            "is_up": 0,
+            "image_url": "",
+            "item_attr": "",
+            "item_base_type": ""
+        },
+        {
+            "item_id": -12,
+            "item_name": "[Identity] Base",
+            "item_type": "",
+            "star": 3,
+            "is_up": 0,
+            "image_url": "",
+            "item_attr": "",
+            "item_base_type": ""
+        },
+        {
+            "item_id": -13,
+            "item_name": "[Identity] Inflection",
+            "item_type": "",
+            "star": 3,
+            "is_up": 0,
+            "image_url": "",
+            "item_attr": "",
+            "item_base_type": ""
+        }
+    ],
+    "items_pet_star_5": [
+        {
+            "item_id": -25,
+            "item_name": "Safety",
+            "item_type": "",
+            "star": 5,
+            "is_up": 0,
+            "image_url": "",
+            "item_attr": "",
+            "item_base_type": ""
+        },
+        {
+            "item_id": -26,
+            "item_name": "Butler",
+            "item_type": "",
+            "star": 5,
+            "is_up": 0,
+            "image_url": "",
+            "item_attr": "",
+            "item_base_type": ""
+        },
+        {
+            "item_id": -27,
+            "item_name": "Amillion",
+            "item_type": "",
+            "star": 5,
+            "is_up": 0,
+            "image_url": "",
+            "item_attr": "",
+            "item_base_type": ""
+        },
+        {
+            "item_id": -28,
+            "item_name": "Rocketboo",
+            "item_type": "",
+            "star": 5,
+            "is_up": 0,
+            "image_url": "",
+            "item_attr": "",
+            "item_base_type": ""
+        },
+        {
+            "item_id": -29,
+            "item_name": "Plugboo",
+            "item_type": "",
+            "star": 5,
+            "is_up": 0,
+            "image_url": "",
+            "item_attr": "",
+            "item_base_type": ""
+        },
+        {
+            "item_id": -30,
+            "item_name": "Resonaboo",
+            "item_type": "",
+            "star": 5,
+            "is_up": 0,
+            "image_url": "",
+            "item_attr": "",
+            "item_base_type": ""
+        },
+        {
+            "item_id": -31,
+            "item_name": "Sharkboo",
+            "item_type": "",
+            "star": 5,
+            "is_up": 0,
+            "image_url": "",
+            "item_attr": "",
+            "item_base_type": ""
+        },
+        {
+            "item_id": -32,
+            "item_name": "Bangvolver",
+            "item_type": "",
+            "star": 5,
+            "is_up": 0,
+            "image_url": "",
+            "item_attr": "",
+            "item_base_type": ""
+        },
+        {
+            "item_id": -33,
+            "item_name": "Officer Cui",
+            "item_type": "",
+            "star": 5,
+            "is_up": 0,
+            "image_url": "",
+            "item_attr": "",
+            "item_base_type": ""
+        }
+    ],
+    "items_pet_star_4": [
+        {
+            "item_id": -14,
+            "item_name": "Penguinboo",
+            "item_type": "",
+            "star": 4,
+            "is_up": 0,
+            "image_url": "",
+            "item_attr": "",
+            "item_base_type": ""
+        },
+        {
+            "item_id": -15,
+            "item_name": "Exploreboo",
+            "item_type": "",
+            "star": 4,
+            "is_up": 0,
+            "image_url": "",
+            "item_attr": "",
+            "item_base_type": ""
+        },
+        {
+            "item_id": -16,
+            "item_name": "Paperboo",
+            "item_type": "",
+            "star": 4,
+            "is_up": 0,
+            "image_url": "",
+            "item_attr": "",
+            "item_base_type": ""
+        },
+        {
+            "item_id": -17,
+            "item_name": "Sumoboo",
+            "item_type": "",
+            "star": 4,
+            "is_up": 0,
+            "image_url": "",
+            "item_attr": "",
+            "item_base_type": ""
+        },
+        {
+            "item_id": -18,
+            "item_name": "Bagboo",
+            "item_type": "",
+            "star": 4,
+            "is_up": 0,
+            "image_url": "",
+            "item_attr": "",
+            "item_base_type": ""
+        },
+        {
+            "item_id": -19,
+            "item_name": "Cryboo",
+            "item_type": "",
+            "star": 4,
+            "is_up": 0,
+            "image_url": "",
+            "item_attr": "",
+            "item_base_type": ""
+        },
+        {
+            "item_id": -20,
+            "item_name": "Avocaboo",
+            "item_type": "",
+            "star": 4,
+            "is_up": 0,
+            "image_url": "",
+            "item_attr": "",
+            "item_base_type": ""
+        },
+        {
+            "item_id": -21,
+            "item_name": "Boollseye",
+            "item_type": "",
+            "star": 4,
+            "is_up": 0,
+            "image_url": "",
+            "item_attr": "",
+            "item_base_type": ""
+        },
+        {
+            "item_id": -22,
+            "item_name": "Electroboo",
+            "item_type": "",
+            "star": 4,
+            "is_up": 0,
+            "image_url": "",
+            "item_attr": "",
+            "item_base_type": ""
+        },
+        {
+            "item_id": -23,
+            "item_name": "Magnetiboo",
+            "item_type": "",
+            "star": 4,
+            "is_up": 0,
+            "image_url": "",
+            "item_attr": "",
+            "item_base_type": ""
+        },
+        {
+            "item_id": -24,
+            "item_name": "Devilboo",
+            "item_type": "",
+            "star": 4,
+            "is_up": 0,
+            "image_url": "",
+            "item_attr": "",
+            "item_base_type": ""
+        }
+    ],
+    "items_pet_star_3": null,
+    "base_prob_star5": "1.000%",
+    "general_prob_star5": "2.000%",
+    "base_prob_star4": "15.000%",
+    "general_prob_star4": "18.000%",
+    "base_prob_star3": "84.000%",
+    "general_prob_star3": "80.000%",
+    "up_prob": "100.000%"
+}
