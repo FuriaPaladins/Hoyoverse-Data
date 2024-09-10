@@ -97,6 +97,62 @@
             "gacha_id": "823db9a2661f2341bf1bc9e836c1c6ddd078858a",
             "gacha_label": "12_2",
             "gacha_type": 12
+        },
+        {
+            "begin_time": "2024-09-10 06:30:00",
+            "end_time": "2024-10-02 11:59:00",
+            "gacha_id": "921189bdf80a393521799c7bcb31dbc264d5d34e",
+            "gacha_label": "11",
+            "gacha_type": 11
+        },
+        {
+            "begin_time": "2024-09-10 06:30:00",
+            "end_time": "2024-10-02 11:59:00",
+            "gacha_id": "0f41e695a8a0ba7f38aebc712a987202cb2d2d98",
+            "gacha_label": "11_2",
+            "gacha_type": 11
+        },
+        {
+            "begin_time": "2024-09-10 06:30:00",
+            "end_time": "2024-10-02 11:59:00",
+            "gacha_id": "3db0361b31b7e9292ed484f1ce1abf1b118058ba",
+            "gacha_label": "11_3",
+            "gacha_type": 11
+        },
+        {
+            "begin_time": "2024-09-10 06:30:00",
+            "end_time": "2024-10-02 11:59:00",
+            "gacha_id": "0ab841e44aad0edf0c1214caa9f6754f05302172",
+            "gacha_label": "11_4",
+            "gacha_type": 11
+        },
+        {
+            "begin_time": "2024-09-10 06:30:00",
+            "end_time": "2024-10-02 11:59:00",
+            "gacha_id": "597e527e66146a973bc0f6a2dce1b41d00bb0a9a",
+            "gacha_label": "12",
+            "gacha_type": 12
+        },
+        {
+            "begin_time": "2024-09-10 06:30:00",
+            "end_time": "2024-10-02 11:59:00",
+            "gacha_id": "e87e3ca6b480c0707a1223ef03c55126afdd79e1",
+            "gacha_label": "12_2",
+            "gacha_type": 12
+        },
+        {
+            "begin_time": "2024-09-10 06:30:00",
+            "end_time": "2024-10-02 11:59:00",
+            "gacha_id": "f7ce2e0dceb55f2096d01c7ed8470b92764d8ea4",
+            "gacha_label": "12_3",
+            "gacha_type": 12
+        },
+        {
+            "begin_time": "2024-09-10 06:30:00",
+            "end_time": "2024-10-02 11:59:00",
+            "gacha_id": "b6694f9185c60f95a1b4dde0ebdf9f9e32ef55c8",
+            "gacha_label": "12_4",
+            "gacha_type": 12
         }
     ]
 }
