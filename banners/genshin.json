@@ -89,6 +89,30 @@
             "end_time": "2024-10-08 14:59:59",
             "gacha_id": "1dd6d7c6439887f7d73114e5f6365fd6e835fabf",
             "gacha_type": 302
+        },
+        {
+            "begin_time": "2024-10-09 07:00:00",
+            "end_time": "2025-11-19 15:59:59",
+            "gacha_id": "2c7adbd3466e9cefd5ca0fd003d743a5caa5b702",
+            "gacha_type": 200
+        },
+        {
+            "begin_time": "2024-10-09 07:00:00",
+            "end_time": "2024-10-29 17:59:00",
+            "gacha_id": "ae6138d58370586028f620bbad119392f5554233",
+            "gacha_type": 301
+        },
+        {
+            "begin_time": "2024-10-09 07:00:00",
+            "end_time": "2024-10-29 17:59:00",
+            "gacha_id": "d345de8b60a496e142a9cc7b457dfe4157ce7d8a",
+            "gacha_type": 400
+        },
+        {
+            "begin_time": "2024-10-09 07:00:00",
+            "end_time": "2024-10-29 17:59:00",
+            "gacha_id": "801fab6e77712d6cec770d8f042c081220c918d7",
+            "gacha_type": 302
         }
     ]
 }
