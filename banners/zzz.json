@@ -71,6 +71,18 @@
             "end_time": "2099-12-31 23:59:59",
             "gacha_id": "76efce75a40e18ad673844c3d8a171e80cbe65",
             "gacha_type": 5001
+        },
+        {
+            "begin_time": "2024-10-16 12:00:00",
+            "end_time": "2024-11-05 14:59:59",
+            "gacha_id": "9ce8beae8296ddfac3fcf13c8d5a282fe9dd18",
+            "gacha_type": 2002
+        },
+        {
+            "begin_time": "2024-10-16 12:00:00",
+            "end_time": "2024-11-05 14:59:59",
+            "gacha_id": "a5d716fde752134d9de060aa2f5f9110cf005b",
+            "gacha_type": 3002
         }
     ]
 }
