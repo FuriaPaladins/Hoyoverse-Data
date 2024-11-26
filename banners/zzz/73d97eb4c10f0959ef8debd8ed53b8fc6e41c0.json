@@ -1,0 +1,558 @@
+{
+    "title": "Champion of Embers",
+    "gacha_type": 2002,
+    "content": "The Exclusive Channel <color=#FFFFFF>Champion of Embers</color> is now available for a limited time only. Use Encrypted Master Tapes to Signal Search.<br/>\r\nDuring the event, Reception Rates for the limited S-Rank Agent <color=#FFB500>Lighter</color>, as well as A-Rank Agents <color=#E900FF>Corin</color> and <color=#E900FF>Ben</color> are significantly boosted!<br/>\r\n\u203b The limited S-Rank Agent above will not become available in the <color=#FFFFFF>Star-Studded Cast</color> Stable Channel.<br/>\r\n\u203b This Channel is an Exclusive Channel. The Search count for guaranteed Signals is cumulative across all Exclusive Channels but is independent of and unaffected by other types of Channels.<br/>\r\n\u203b This event Channel is open for a limited time only. All featured Signals may go live again in the future.<br/><br/><color=#FFFFFF>\u3013 Exclusive Channel Signal Search \u3013</color><br/>\r\n<color=#FFFFFF>[S-Rank Signals]</color><br/>\r\nIn the current Exclusive Channel, the base probability of an S-Rank Agent is <color=#FFFFFF>0.600%</color>. Within <color=#FFFFFF>90</color> Signal Searches, at least one S-Rank Agent is guaranteed. The overall probability of an S-Rank Agent (including the guarantee) is <color=#FFFFFF>1.600%</color>.<br/>\r\nWhen an S-Rank Agent is obtained through this Signal Search, there is a <color=#FFFFFF>50.000%</color> probability that the S-Rank Signal obtained is the limited S-Rank Agent. If the S-Rank Agent obtained is not the current limited S-Rank Agent, then the next S-Rank Agent obtained is <color=#FFFFFF>guaranteed</color> to be the current limited S-Rank Agent <color=#FFB500>Lighter</color>.<br/>\r\n<color=#FFFFFF>[A-Rank Signals]</color><br/>\r\nIn the current Exclusive Channel, the base probability of an A-Rank Signal is <color=#FFFFFF>9.400%</color>, where the base probability for an A-Rank Agent is <color=#FFFFFF>7.050%</color> and the base probability for an A-Rank W-Engine is <color=#FFFFFF>2.350%</color>. Within <color=#FFFFFF>10</color> Signal Searches, at least one A-Rank or higher Signal is guaranteed. The overall probability of A-Rank Signals (including the guarantee) is <color=#FFFFFF>14.400%</color>. <br/>\r\nWhen an A-Rank Signal is obtained through this Signal Search, there is a <color=#FFFFFF>50.000%</color> probability that the obtained A-Rank Signal will be one of the currently boosted A-Rank Agents. If the A-Rank Signal obtained is not one of the boosted Agents, then the next A-Rank Signal you obtain is <color=#FFFFFF>guaranteed</color> to be one of the currently boosted Agents. When a currently boosted A-Rank Agent is obtained through this Signal Search, there is an equal probability of obtaining each individual boosted A-Rank Agent <color=#E900FF>Corin</color> and <color=#E900FF>Ben</color>.<br/><br/><color=#FFFFFF>\u3013 Special Notes \u3013</color><br/>\r\nResidual Signals and Fading Signals can be obtained when Signal Searching in the current Channel. You can exchange Residual Signals and Fading Signals for items in the Signal Shop. See below for details:<br/>\r\n<color=#FFFFFF>[Obtaining an S-Rank Signal]</color><br/>\r\n\u2022 The 2nd to 7th copies of an S-Rank Agent will be converted into Agent Focus \u00d71 and Residual Signal \u00d740. From the 8th copy onwards, Agents will be converted into Residual Signal \u00d7100.<br/>\r\n<color=#FFFFFF>[Obtaining an A-Rank Signal]</color><br/>\r\n\u2022 The 2nd to 7th copies of an A-Rank Agent will be converted into Agent Focus \u00d71 and Residual Signal \u00d78. From the 8th copy onwards, Agents will be converted into Residual Signal \u00d720.<br/>\r\n\u2022 Each A-Rank W-Engine obtained in the current Channel will also grant Residual Signal \u00d78.<br/>\r\n<color=#FFFFFF>[Obtaining a B-Rank Signal]</color><br/>\r\n\u2022 Each B-Rank W-Engine obtained in the current Channel will also grant Fading Signal \u00d720.<br/>",
+    "items_up_star_5": [
+        {
+            "item_id": 0,
+            "item_name": "Lighter",
+            "item_type": "3",
+            "star": 5,
+            "is_up": 0,
+            "image_url": "https://operation-webstatic.hoyoverse.com/gacha_info/nap/925dab1c4a0c384adfc197d33d7cd7b3_3735760462820466323.png",
+            "item_attr": "",
+            "item_base_type": ""
+        }
+    ],
+    "items_up_star_4": [
+        {
+            "item_id": -1,
+            "item_name": "Corin",
+            "item_type": "3",
+            "star": 4,
+            "is_up": 0,
+            "image_url": "https://operation-webstatic.hoyoverse.com/gacha_info/nap/f8dd855427f87d502cd1319400c8a336_6562298880634207807.png",
+            "item_attr": "",
+            "item_base_type": ""
+        },
+        {
+            "item_id": -2,
+            "item_name": "Ben",
+            "item_type": "3",
+            "star": 4,
+            "is_up": 0,
+            "image_url": "https://operation-webstatic.hoyoverse.com/gacha_info/nap/81be33349de7c58cac710aee825252cf_5343607386022412177.png",
+            "item_attr": "",
+            "item_base_type": ""
+        }
+    ],
+    "items_avatar_star_5": [
+        {
+            "item_id": 0,
+            "item_name": "Lighter",
+            "item_type": "",
+            "star": 5,
+            "is_up": 1,
+            "image_url": "",
+            "item_attr": "",
+            "item_base_type": ""
+        },
+        {
+            "item_id": -44,
+            "item_name": "Nekomata",
+            "item_type": "",
+            "star": 5,
+            "is_up": 0,
+            "image_url": "",
+            "item_attr": "",
+            "item_base_type": ""
+        },
+        {
+            "item_id": -45,
+            "item_name": "Soldier 11",
+            "item_type": "",
+            "star": 5,
+            "is_up": 0,
+            "image_url": "",
+            "item_attr": "",
+            "item_base_type": ""
+        },
+        {
+            "item_id": -46,
+            "item_name": "Koleda",
+            "item_type": "",
+            "star": 5,
+            "is_up": 0,
+            "image_url": "",
+            "item_attr": "",
+            "item_base_type": ""
+        },
+        {
+            "item_id": -47,
+            "item_name": "Lycaon",
+            "item_type": "",
+            "star": 5,
+            "is_up": 0,
+            "image_url": "",
+            "item_attr": "",
+            "item_base_type": ""
+        },
+        {
+            "item_id": -48,
+            "item_name": "Grace",
+            "item_type": "",
+            "star": 5,
+            "is_up": 0,
+            "image_url": "",
+            "item_attr": "",
+            "item_base_type": ""
+        },
+        {
+            "item_id": -49,
+            "item_name": "Rina",
+            "item_type": "",
+            "star": 5,
+            "is_up": 0,
+            "image_url": "",
+            "item_attr": "",
+            "item_base_type": ""
+        }
+    ],
+    "items_avatar_star_4": [
+        {
+            "item_id": -1,
+            "item_name": "Corin",
+            "item_type": "",
+            "star": 4,
+            "is_up": 1,
+            "image_url": "",
+            "item_attr": "",
+            "item_base_type": ""
+        },
+        {
+            "item_id": -2,
+            "item_name": "Ben",
+            "item_type": "",
+            "star": 4,
+            "is_up": 1,
+            "image_url": "",
+            "item_attr": "",
+            "item_base_type": ""
+        },
+        {
+            "item_id": -17,
+            "item_name": "Anby",
+            "item_type": "",
+            "star": 4,
+            "is_up": 0,
+            "image_url": "",
+            "item_attr": "",
+            "item_base_type": ""
+        },
+        {
+            "item_id": -18,
+            "item_name": "Nicole",
+            "item_type": "",
+            "star": 4,
+            "is_up": 0,
+            "image_url": "",
+            "item_attr": "",
+            "item_base_type": ""
+        },
+        {
+            "item_id": -19,
+            "item_name": "Billy",
+            "item_type": "",
+            "star": 4,
+            "is_up": 0,
+            "image_url": "",
+            "item_attr": "",
+            "item_base_type": ""
+        },
+        {
+            "item_id": -20,
+            "item_name": "Anton",
+            "item_type": "",
+            "star": 4,
+            "is_up": 0,
+            "image_url": "",
+            "item_attr": "",
+            "item_base_type": ""
+        },
+        {
+            "item_id": -21,
+            "item_name": "Soukaku",
+            "item_type": "",
+            "star": 4,
+            "is_up": 0,
+            "image_url": "",
+            "item_attr": "",
+            "item_base_type": ""
+        },
+        {
+            "item_id": -22,
+            "item_name": "Lucy",
+            "item_type": "",
+            "star": 4,
+            "is_up": 0,
+            "image_url": "",
+            "item_attr": "",
+            "item_base_type": ""
+        },
+        {
+            "item_id": -23,
+            "item_name": "Seth",
+            "item_type": "",
+            "star": 4,
+            "is_up": 0,
+            "image_url": "",
+            "item_attr": "",
+            "item_base_type": ""
+        },
+        {
+            "item_id": -24,
+            "item_name": "Piper",
+            "item_type": "",
+            "star": 4,
+            "is_up": 0,
+            "image_url": "",
+            "item_attr": "",
+            "item_base_type": ""
+        }
+    ],
+    "items_light_cone_star_5": null,
+    "items_light_cone_star_4": [
+        {
+            "item_id": -25,
+            "item_name": "Street Superstar",
+            "item_type": "",
+            "star": 4,
+            "is_up": 0,
+            "image_url": "",
+            "item_attr": "",
+            "item_base_type": ""
+        },
+        {
+            "item_id": -26,
+            "item_name": "Slice of Time",
+            "item_type": "",
+            "star": 4,
+            "is_up": 0,
+            "image_url": "",
+            "item_attr": "",
+            "item_base_type": ""
+        },
+        {
+            "item_id": -27,
+            "item_name": "Rainforest Gourmet",
+            "item_type": "",
+            "star": 4,
+            "is_up": 0,
+            "image_url": "",
+            "item_attr": "",
+            "item_base_type": ""
+        },
+        {
+            "item_id": -28,
+            "item_name": "Starlight Engine",
+            "item_type": "",
+            "star": 4,
+            "is_up": 0,
+            "image_url": "",
+            "item_attr": "",
+            "item_base_type": ""
+        },
+        {
+            "item_id": -29,
+            "item_name": "Steam Oven",
+            "item_type": "",
+            "star": 4,
+            "is_up": 0,
+            "image_url": "",
+            "item_attr": "",
+            "item_base_type": ""
+        },
+        {
+            "item_id": -30,
+            "item_name": "Precious Fossilized Core",
+            "item_type": "",
+            "star": 4,
+            "is_up": 0,
+            "image_url": "",
+            "item_attr": "",
+            "item_base_type": ""
+        },
+        {
+            "item_id": -31,
+            "item_name": "Original Transmorpher",
+            "item_type": "",
+            "star": 4,
+            "is_up": 0,
+            "image_url": "",
+            "item_attr": "",
+            "item_base_type": ""
+        },
+        {
+            "item_id": -32,
+            "item_name": "Weeping Gemini",
+            "item_type": "",
+            "star": 4,
+            "is_up": 0,
+            "image_url": "",
+            "item_attr": "",
+            "item_base_type": ""
+        },
+        {
+            "item_id": -33,
+            "item_name": "Bunny Band",
+            "item_type": "",
+            "star": 4,
+            "is_up": 0,
+            "image_url": "",
+            "item_attr": "",
+            "item_base_type": ""
+        },
+        {
+            "item_id": -34,
+            "item_name": "Demara Battery Mark II",
+            "item_type": "",
+            "star": 4,
+            "is_up": 0,
+            "image_url": "",
+            "item_attr": "",
+            "item_base_type": ""
+        },
+        {
+            "item_id": -35,
+            "item_name": "The Vault",
+            "item_type": "",
+            "star": 4,
+            "is_up": 0,
+            "image_url": "",
+            "item_attr": "",
+            "item_base_type": ""
+        },
+        {
+            "item_id": -36,
+            "item_name": "Housekeeper",
+            "item_type": "",
+            "star": 4,
+            "is_up": 0,
+            "image_url": "",
+            "item_attr": "",
+            "item_base_type": ""
+        },
+        {
+            "item_id": -37,
+            "item_name": "Starlight Engine Replica",
+            "item_type": "",
+            "star": 4,
+            "is_up": 0,
+            "image_url": "",
+            "item_attr": "",
+            "item_base_type": ""
+        },
+        {
+            "item_id": -38,
+            "item_name": "Drill Rig - Red Axis",
+            "item_type": "",
+            "star": 4,
+            "is_up": 0,
+            "image_url": "",
+            "item_attr": "",
+            "item_base_type": ""
+        },
+        {
+            "item_id": -39,
+            "item_name": "Big Cylinder",
+            "item_type": "",
+            "star": 4,
+            "is_up": 0,
+            "image_url": "",
+            "item_attr": "",
+            "item_base_type": ""
+        },
+        {
+            "item_id": -40,
+            "item_name": "Bashful Demon",
+            "item_type": "",
+            "star": 4,
+            "is_up": 0,
+            "image_url": "",
+            "item_attr": "",
+            "item_base_type": ""
+        },
+        {
+            "item_id": -41,
+            "item_name": "Kaboom the Cannon",
+            "item_type": "",
+            "star": 4,
+            "is_up": 0,
+            "image_url": "",
+            "item_attr": "",
+            "item_base_type": ""
+        },
+        {
+            "item_id": -42,
+            "item_name": "Peacekeeper - Specialized",
+            "item_type": "",
+            "star": 4,
+            "is_up": 0,
+            "image_url": "",
+            "item_attr": "",
+            "item_base_type": ""
+        },
+        {
+            "item_id": -43,
+            "item_name": "Roaring Ride",
+            "item_type": "",
+            "star": 4,
+            "is_up": 0,
+            "image_url": "",
+            "item_attr": "",
+            "item_base_type": ""
+        }
+    ],
+    "items_light_cone_star_3": [
+        {
+            "item_id": -3,
+            "item_name": "[Lunar] Pleniluna",
+            "item_type": "",
+            "star": 3,
+            "is_up": 0,
+            "image_url": "",
+            "item_attr": "",
+            "item_base_type": ""
+        },
+        {
+            "item_id": -4,
+            "item_name": "[Lunar] Decrescent",
+            "item_type": "",
+            "star": 3,
+            "is_up": 0,
+            "image_url": "",
+            "item_attr": "",
+            "item_base_type": ""
+        },
+        {
+            "item_id": -5,
+            "item_name": "[Lunar] Noviluna",
+            "item_type": "",
+            "star": 3,
+            "is_up": 0,
+            "image_url": "",
+            "item_attr": "",
+            "item_base_type": ""
+        },
+        {
+            "item_id": -6,
+            "item_name": "[Reverb] Mark I",
+            "item_type": "",
+            "star": 3,
+            "is_up": 0,
+            "image_url": "",
+            "item_attr": "",
+            "item_base_type": ""
+        },
+        {
+            "item_id": -7,
+            "item_name": "[Reverb] Mark II",
+            "item_type": "",
+            "star": 3,
+            "is_up": 0,
+            "image_url": "",
+            "item_attr": "",
+            "item_base_type": ""
+        },
+        {
+            "item_id": -8,
+            "item_name": "[Reverb] Mark III",
+            "item_type": "",
+            "star": 3,
+            "is_up": 0,
+            "image_url": "",
+            "item_attr": "",
+            "item_base_type": ""
+        },
+        {
+            "item_id": -9,
+            "item_name": "[Vortex] Revolver",
+            "item_type": "",
+            "star": 3,
+            "is_up": 0,
+            "image_url": "",
+            "item_attr": "",
+            "item_base_type": ""
+        },
+        {
+            "item_id": -10,
+            "item_name": "[Vortex] Arrow",
+            "item_type": "",
+            "star": 3,
+            "is_up": 0,
+            "image_url": "",
+            "item_attr": "",
+            "item_base_type": ""
+        },
+        {
+            "item_id": -11,
+            "item_name": "[Vortex] Hatchet",
+            "item_type": "",
+            "star": 3,
+            "is_up": 0,
+            "image_url": "",
+            "item_attr": "",
+            "item_base_type": ""
+        },
+        {
+            "item_id": -12,
+            "item_name": "[Magnetic Storm] Alpha",
+            "item_type": "",
+            "star": 3,
+            "is_up": 0,
+            "image_url": "",
+            "item_attr": "",
+            "item_base_type": ""
+        },
+        {
+            "item_id": -13,
+            "item_name": "[Magnetic Storm] Bravo",
+            "item_type": "",
+            "star": 3,
+            "is_up": 0,
+            "image_url": "",
+            "item_attr": "",
+            "item_base_type": ""
+        },
+        {
+            "item_id": -14,
+            "item_name": "[Magnetic Storm] Charlie",
+            "item_type": "",
+            "star": 3,
+            "is_up": 0,
+            "image_url": "",
+            "item_attr": "",
+            "item_base_type": ""
+        },
+        {
+            "item_id": -15,
+            "item_name": "[Identity] Base",
+            "item_type": "",
+            "star": 3,
+            "is_up": 0,
+            "image_url": "",
+            "item_attr": "",
+            "item_base_type": ""
+        },
+        {
+            "item_id": -16,
+            "item_name": "[Identity] Inflection",
+            "item_type": "",
+            "star": 3,
+            "is_up": 0,
+            "image_url": "",
+            "item_attr": "",
+            "item_base_type": ""
+        }
+    ],
+    "items_pet_star_5": null,
+    "items_pet_star_4": null,
+    "items_pet_star_3": null,
+    "base_prob_star5": "0.600%",
+    "general_prob_star5": "1.600%",
+    "base_prob_star4": "9.400%",
+    "general_prob_star4": "14.400%",
+    "base_prob_star3": "90.000%",
+    "general_prob_star3": "84.000%",
+    "up_prob": "50.000%"
+}
