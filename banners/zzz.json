@@ -107,6 +107,30 @@
             "end_time": "2024-12-17 14:59:59",
             "gacha_id": "c6d524f23f69fb24a712fd620da6de873b20f3",
             "gacha_type": 3002
+        },
+        {
+            "begin_time": "2024-12-18 06:00:00",
+            "end_time": "2025-01-21 14:59:59",
+            "gacha_id": "8b67e6e1499fce8a67d4dedc2379526bec812f",
+            "gacha_type": 2001
+        },
+        {
+            "begin_time": "2024-12-18 06:00:00",
+            "end_time": "2025-01-21 14:59:59",
+            "gacha_id": "0ce5684b4675bef190a1d427c7383b29a2a019",
+            "gacha_type": 2002
+        },
+        {
+            "begin_time": "2024-12-18 06:00:00",
+            "end_time": "2025-01-21 14:59:59",
+            "gacha_id": "e2db2c41fcdfa3d7491741e37e6f33580c2eed",
+            "gacha_type": 3001
+        },
+        {
+            "begin_time": "2024-12-18 06:00:00",
+            "end_time": "2025-01-21 14:59:59",
+            "gacha_id": "d41f999b54c19fb2fa69496ce91a5b72db6bea",
+            "gacha_type": 3002
         }
     ]
 }
