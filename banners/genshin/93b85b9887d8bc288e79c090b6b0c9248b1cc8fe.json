@@ -1,0 +1,759 @@
+{
+    "banner": "",
+    "content": "Event Wish \"The <color=#EC4923FF>Hearth's</color> Ashen Shadow\" is now available. During this event wish, the <color=#c93f23>event-exclusive</color> 5-star character <color=#EC4923FF>\"Dire Balemoon\" Arlecchino (Pyro)</color> as well as 4-star characters <color=#359697>\"Spring Woven From Jade\" Lan Yan (Anemo)</color>, <color=#EC4923FF>\"Executor of Justice\" Chevreuse (Pyro)</color>, and <color=#35AACCFF>\"Thorny Benevolence\" Rosaria (Cryo)</color> will get a <color=#c93f23>huge drop-rate boost</color>!</P>\n<color=#c93f23>\u203b This event wish is only available for a limited time. All event items may be available again in the future. Of the above characters, the event-exclusive character will not be available in the standard wish \"Wanderlust Invocation.\"</color></P>\n<br />\n\u203bIn most cases, the base probability of all characters and weapons is evenly distributed. If there is a boost or guarantee in effect, please refer to the corresponding rules.</P>\n<br />\n\u3013Rules\u3013</P>\n5-Star Items</P>\nFor Event Wish \"The <color=#EC4923FF>Hearth's</color> Ashen Shadow\": Base probability of winning 5-star character = <color=#c93f23>0.600%</color>; consolidated probability (incl. guarantee) = <color=#c93f23>1.600%</color>; guaranteed to win 5-star character at least once per <color=#c93f23>90</color> attempts.</P>\nThe first time you win a 5-star item in this event wish, there is a <color=#c93f23>50.000%</color> chance (excluding the triggering of \"Capturing Radiance\") it will be the promotional character <color=#EC4923FF>\"Dire Balemoon\" Arlecchino (Pyro)</color>.</P>\nIf the first 5-star character you win in this event wish is not the promotional character, then the next 5-star character you win is <color=#c93f23>guaranteed</color> to be the promotional character.</P>\nIf it is not guaranteed to win the promotional 5-star character during this event wish, when winning a 5-star character, there is a chance of triggering the \"Capturing Radiance\" mechanic. If \"Capturing Radiance\" is triggered, the 5-star character you win in this event wish will be the promotional 5-star character.</P>\nIncluding the possibility of triggering \"Capturing Radiance,\" when winning a 5-star character in this event wish, there is a consolidated probability of <color=#c93f23>55.000%</color> it will be the promotional character <color=#EC4923FF>\"Dire Balemoon\" Arlecchino (Pyro)</color>.</P>\n4-Star Items</P>\nFor Event Wish \"The <color=#EC4923FF>Hearth's</color> Ashen Shadow\": Base probability of winning 4-star item = <color=#c93f23>5.100%</color>; base probability of winning 4-star character = <color=#c93f23>2.550%</color>, and base probability of winning 4-star weapon = <color=#c93f23>2.550%</color>; consolidated probability (incl. guarantee) of winning 4-star item = <color=#c93f23>13.000%</color>; guaranteed to win 4-star or above item at least once per <color=#c93f23>10</color> attempts; probability of winning 4-star item through the guarantee = <color=#c93f23>99.400%</color>, and probability of winning 5-star item through the guarantee = <color=#c93f23>0.600%</color>.</P>\nThe first time you win a 4-star item in this event wish, there is a <color=#c93f23>50.000%</color> chance it will be one of the featured characters <color=#359697>\"Spring Woven From Jade\" Lan Yan (Anemo)</color>, <color=#EC4923FF>\"Executor of Justice\" Chevreuse (Pyro)</color>, and <color=#35AACCFF>\"Thorny Benevolence\" Rosaria (Cryo)</color>. If the first 4-star item you win in this event wish is not one of the featured characters, then the next 4-star item you win is <color=#c93f23>guaranteed</color> to be a featured character. When you win a featured 4-star item, the probability of obtaining each featured 4-star character is equal between all of them.</P>\n<br />\n4-star weapons won in this wish come with <color=#bd6932>Masterless Starglitter</color> \u00d72; 3-star weapons won in this wish come with <color=#a256e1>Masterless Stardust</color> \u00d715.</P>\n<br />\n\u3013Duplicate Characters\u3013</P>\nOn obtaining a 5-star character that you already own (whether obtained in a wish, redeemed at the shop, or awarded by the game): The 2nd \u2013 7th time you obtain the character, it will be converted into <color=#a256e1>that character's Stella Fortuna</color> \u00d71 and <color=#bd6932>Masterless Starglitter</color> \u00d710; from the 8th time onwards it will be converted into <color=#bd6932>Masterless Starglitter</color> \u00d725.</P>\nOn obtaining a 4-star character that you already own (whether obtained in a wish, redeemed at the shop, or awarded by the game): The 2nd \u2013 7th time you obtain the character, it will be converted into <color=#a256e1>that character's Stella Fortuna</color> \u00d71 and <color=#bd6932>Masterless Starglitter</color> \u00d72; from the 8th time onwards it will be converted into <color=#bd6932>Masterless Starglitter</color> \u00d75.</P>\n<br />\n\u203b This is for \"Character Event Wish.\" The wish guarantee count for \"Character Event Wish\" and \"Character Event Wish-2\" is shared, and is accumulated between both \"Character Event Wish\" and \"Character Event Wish-2.\" This wish guarantee count is independent of the guarantee counts of other types of wishes.</P>",
+    "date_range": "Limited-Time Event",
+    "gacha_type": 301,
+    "r3_baodi_prob": "85.400%",
+    "r3_prob": "94.300%",
+    "r3_prob_list": [
+        {
+            "is_up": 0,
+            "item_id": -53,
+            "item_name": "Skyrider Sword",
+            "item_type": "Weapon",
+            "order_value": 53,
+            "rank": 3
+        },
+        {
+            "is_up": 0,
+            "item_id": -54,
+            "item_name": "Harbinger of Dawn",
+            "item_type": "Weapon",
+            "order_value": 54,
+            "rank": 3
+        },
+        {
+            "is_up": 0,
+            "item_id": -55,
+            "item_name": "Cool Steel",
+            "item_type": "Weapon",
+            "order_value": 55,
+            "rank": 3
+        },
+        {
+            "is_up": 0,
+            "item_id": -60,
+            "item_name": "Debate Club",
+            "item_type": "Weapon",
+            "order_value": 60,
+            "rank": 3
+        },
+        {
+            "is_up": 0,
+            "item_id": -61,
+            "item_name": "Bloodtainted Greatsword",
+            "item_type": "Weapon",
+            "order_value": 61,
+            "rank": 3
+        },
+        {
+            "is_up": 0,
+            "item_id": -62,
+            "item_name": "Ferrous Shadow",
+            "item_type": "Weapon",
+            "order_value": 62,
+            "rank": 3
+        },
+        {
+            "is_up": 0,
+            "item_id": -65,
+            "item_name": "Black Tassel",
+            "item_type": "Weapon",
+            "order_value": 65,
+            "rank": 3
+        },
+        {
+            "is_up": 0,
+            "item_id": -70,
+            "item_name": "Emerald Orb",
+            "item_type": "Weapon",
+            "order_value": 70,
+            "rank": 3
+        },
+        {
+            "is_up": 0,
+            "item_id": -71,
+            "item_name": "Thrilling Tales of Dragon Slayers",
+            "item_type": "Weapon",
+            "order_value": 71,
+            "rank": 3
+        },
+        {
+            "is_up": 0,
+            "item_id": -72,
+            "item_name": "Magic Guide",
+            "item_type": "Weapon",
+            "order_value": 72,
+            "rank": 3
+        },
+        {
+            "is_up": 0,
+            "item_id": -77,
+            "item_name": "Slingshot",
+            "item_type": "Weapon",
+            "order_value": 77,
+            "rank": 3
+        },
+        {
+            "is_up": 0,
+            "item_id": -78,
+            "item_name": "Sharpshooter's Oath",
+            "item_type": "Weapon",
+            "order_value": 78,
+            "rank": 3
+        },
+        {
+            "is_up": 0,
+            "item_id": -79,
+            "item_name": "Raven Bow",
+            "item_type": "Weapon",
+            "order_value": 79,
+            "rank": 3
+        }
+    ],
+    "r4_baodi_prob": "13.000%",
+    "r4_prob": "5.100%",
+    "r4_prob_list": [
+        {
+            "is_up": 1,
+            "item_id": -1,
+            "item_name": "Lan Yan",
+            "item_type": "Character",
+            "order_value": 1,
+            "rank": 4
+        },
+        {
+            "is_up": 1,
+            "item_id": -3,
+            "item_name": "Chevreuse",
+            "item_type": "Character",
+            "order_value": 3,
+            "rank": 4
+        },
+        {
+            "is_up": 1,
+            "item_id": -4,
+            "item_name": "Rosaria",
+            "item_type": "Character",
+            "order_value": 4,
+            "rank": 4
+        },
+        {
+            "is_up": 0,
+            "item_id": -5,
+            "item_name": "Ororon",
+            "item_type": "Character",
+            "order_value": 5,
+            "rank": 4
+        },
+        {
+            "is_up": 0,
+            "item_id": -6,
+            "item_name": "Kachina",
+            "item_type": "Character",
+            "order_value": 6,
+            "rank": 4
+        },
+        {
+            "is_up": 0,
+            "item_id": -7,
+            "item_name": "Sethos",
+            "item_type": "Character",
+            "order_value": 7,
+            "rank": 4
+        },
+        {
+            "is_up": 0,
+            "item_id": -8,
+            "item_name": "Gaming",
+            "item_type": "Character",
+            "order_value": 8,
+            "rank": 4
+        },
+        {
+            "is_up": 0,
+            "item_id": -9,
+            "item_name": "Charlotte",
+            "item_type": "Character",
+            "order_value": 9,
+            "rank": 4
+        },
+        {
+            "is_up": 0,
+            "item_id": -10,
+            "item_name": "Freminet",
+            "item_type": "Character",
+            "order_value": 10,
+            "rank": 4
+        },
+        {
+            "is_up": 0,
+            "item_id": -11,
+            "item_name": "Lynette",
+            "item_type": "Character",
+            "order_value": 11,
+            "rank": 4
+        },
+        {
+            "is_up": 0,
+            "item_id": -12,
+            "item_name": "Kaveh",
+            "item_type": "Character",
+            "order_value": 12,
+            "rank": 4
+        },
+        {
+            "is_up": 0,
+            "item_id": -13,
+            "item_name": "Mika",
+            "item_type": "Character",
+            "order_value": 13,
+            "rank": 4
+        },
+        {
+            "is_up": 0,
+            "item_id": -15,
+            "item_name": "Yaoyao",
+            "item_type": "Character",
+            "order_value": 15,
+            "rank": 4
+        },
+        {
+            "is_up": 0,
+            "item_id": -16,
+            "item_name": "Faruzan",
+            "item_type": "Character",
+            "order_value": 16,
+            "rank": 4
+        },
+        {
+            "is_up": 0,
+            "item_id": -17,
+            "item_name": "Layla",
+            "item_type": "Character",
+            "order_value": 17,
+            "rank": 4
+        },
+        {
+            "is_up": 0,
+            "item_id": -18,
+            "item_name": "Candace",
+            "item_type": "Character",
+            "order_value": 18,
+            "rank": 4
+        },
+        {
+            "is_up": 0,
+            "item_id": -20,
+            "item_name": "Dori",
+            "item_type": "Character",
+            "order_value": 20,
+            "rank": 4
+        },
+        {
+            "is_up": 0,
+            "item_id": -21,
+            "item_name": "Collei",
+            "item_type": "Character",
+            "order_value": 21,
+            "rank": 4
+        },
+        {
+            "is_up": 0,
+            "item_id": -22,
+            "item_name": "Kuki Shinobu",
+            "item_type": "Character",
+            "order_value": 22,
+            "rank": 4
+        },
+        {
+            "is_up": 0,
+            "item_id": -23,
+            "item_name": "Yun Jin",
+            "item_type": "Character",
+            "order_value": 23,
+            "rank": 4
+        },
+        {
+            "is_up": 0,
+            "item_id": -24,
+            "item_name": "Kirara",
+            "item_type": "Character",
+            "order_value": 24,
+            "rank": 4
+        },
+        {
+            "is_up": 0,
+            "item_id": -25,
+            "item_name": "Shikanoin Heizou",
+            "item_type": "Character",
+            "order_value": 25,
+            "rank": 4
+        },
+        {
+            "is_up": 0,
+            "item_id": -26,
+            "item_name": "Kujou Sara",
+            "item_type": "Character",
+            "order_value": 26,
+            "rank": 4
+        },
+        {
+            "is_up": 0,
+            "item_id": -27,
+            "item_name": "Gorou",
+            "item_type": "Character",
+            "order_value": 27,
+            "rank": 4
+        },
+        {
+            "is_up": 0,
+            "item_id": -28,
+            "item_name": "Sayu",
+            "item_type": "Character",
+            "order_value": 28,
+            "rank": 4
+        },
+        {
+            "is_up": 0,
+            "item_id": -29,
+            "item_name": "Thoma",
+            "item_type": "Character",
+            "order_value": 29,
+            "rank": 4
+        },
+        {
+            "is_up": 0,
+            "item_id": -30,
+            "item_name": "Yanfei",
+            "item_type": "Character",
+            "order_value": 30,
+            "rank": 4
+        },
+        {
+            "is_up": 0,
+            "item_id": -31,
+            "item_name": "Xinyan",
+            "item_type": "Character",
+            "order_value": 31,
+            "rank": 4
+        },
+        {
+            "is_up": 0,
+            "item_id": -32,
+            "item_name": "Sucrose",
+            "item_type": "Character",
+            "order_value": 32,
+            "rank": 4
+        },
+        {
+            "is_up": 0,
+            "item_id": -35,
+            "item_name": "Diona",
+            "item_type": "Character",
+            "order_value": 35,
+            "rank": 4
+        },
+        {
+            "is_up": 0,
+            "item_id": -36,
+            "item_name": "Chongyun",
+            "item_type": "Character",
+            "order_value": 36,
+            "rank": 4
+        },
+        {
+            "is_up": 0,
+            "item_id": -38,
+            "item_name": "Noelle",
+            "item_type": "Character",
+            "order_value": 38,
+            "rank": 4
+        },
+        {
+            "is_up": 0,
+            "item_id": -39,
+            "item_name": "Bennett",
+            "item_type": "Character",
+            "order_value": 39,
+            "rank": 4
+        },
+        {
+            "is_up": 0,
+            "item_id": -40,
+            "item_name": "Fischl",
+            "item_type": "Character",
+            "order_value": 40,
+            "rank": 4
+        },
+        {
+            "is_up": 0,
+            "item_id": -41,
+            "item_name": "Ningguang",
+            "item_type": "Character",
+            "order_value": 41,
+            "rank": 4
+        },
+        {
+            "is_up": 0,
+            "item_id": -42,
+            "item_name": "Xingqiu",
+            "item_type": "Character",
+            "order_value": 42,
+            "rank": 4
+        },
+        {
+            "is_up": 0,
+            "item_id": -43,
+            "item_name": "Beidou",
+            "item_type": "Character",
+            "order_value": 43,
+            "rank": 4
+        },
+        {
+            "is_up": 0,
+            "item_id": -44,
+            "item_name": "Xiangling",
+            "item_type": "Character",
+            "order_value": 44,
+            "rank": 4
+        },
+        {
+            "is_up": 0,
+            "item_id": -45,
+            "item_name": "Razor",
+            "item_type": "Character",
+            "order_value": 45,
+            "rank": 4
+        },
+        {
+            "is_up": 0,
+            "item_id": -47,
+            "item_name": "Barbara",
+            "item_type": "Character",
+            "order_value": 47,
+            "rank": 4
+        },
+        {
+            "is_up": 0,
+            "item_id": -49,
+            "item_name": "Lion's Roar",
+            "item_type": "Weapon",
+            "order_value": 49,
+            "rank": 4
+        },
+        {
+            "is_up": 0,
+            "item_id": -50,
+            "item_name": "Sacrificial Sword",
+            "item_type": "Weapon",
+            "order_value": 50,
+            "rank": 4
+        },
+        {
+            "is_up": 0,
+            "item_id": -51,
+            "item_name": "The Flute",
+            "item_type": "Weapon",
+            "order_value": 51,
+            "rank": 4
+        },
+        {
+            "is_up": 0,
+            "item_id": -52,
+            "item_name": "Favonius Sword",
+            "item_type": "Weapon",
+            "order_value": 52,
+            "rank": 4
+        },
+        {
+            "is_up": 0,
+            "item_id": -56,
+            "item_name": "Rainslasher",
+            "item_type": "Weapon",
+            "order_value": 56,
+            "rank": 4
+        },
+        {
+            "is_up": 0,
+            "item_id": -57,
+            "item_name": "Sacrificial Greatsword",
+            "item_type": "Weapon",
+            "order_value": 57,
+            "rank": 4
+        },
+        {
+            "is_up": 0,
+            "item_id": -58,
+            "item_name": "The Bell",
+            "item_type": "Weapon",
+            "order_value": 58,
+            "rank": 4
+        },
+        {
+            "is_up": 0,
+            "item_id": -59,
+            "item_name": "Favonius Greatsword",
+            "item_type": "Weapon",
+            "order_value": 59,
+            "rank": 4
+        },
+        {
+            "is_up": 0,
+            "item_id": -63,
+            "item_name": "Favonius Lance",
+            "item_type": "Weapon",
+            "order_value": 63,
+            "rank": 4
+        },
+        {
+            "is_up": 0,
+            "item_id": -64,
+            "item_name": "Dragon's Bane",
+            "item_type": "Weapon",
+            "order_value": 64,
+            "rank": 4
+        },
+        {
+            "is_up": 0,
+            "item_id": -66,
+            "item_name": "Eye of Perception",
+            "item_type": "Weapon",
+            "order_value": 66,
+            "rank": 4
+        },
+        {
+            "is_up": 0,
+            "item_id": -67,
+            "item_name": "Sacrificial Fragments",
+            "item_type": "Weapon",
+            "order_value": 67,
+            "rank": 4
+        },
+        {
+            "is_up": 0,
+            "item_id": -68,
+            "item_name": "The Widsith",
+            "item_type": "Weapon",
+            "order_value": 68,
+            "rank": 4
+        },
+        {
+            "is_up": 0,
+            "item_id": -69,
+            "item_name": "Favonius Codex",
+            "item_type": "Weapon",
+            "order_value": 69,
+            "rank": 4
+        },
+        {
+            "is_up": 0,
+            "item_id": -73,
+            "item_name": "Rust",
+            "item_type": "Weapon",
+            "order_value": 73,
+            "rank": 4
+        },
+        {
+            "is_up": 0,
+            "item_id": -74,
+            "item_name": "Sacrificial Bow",
+            "item_type": "Weapon",
+            "order_value": 74,
+            "rank": 4
+        },
+        {
+            "is_up": 0,
+            "item_id": -75,
+            "item_name": "The Stringless",
+            "item_type": "Weapon",
+            "order_value": 75,
+            "rank": 4
+        },
+        {
+            "is_up": 0,
+            "item_id": -76,
+            "item_name": "Favonius Warbow",
+            "item_type": "Weapon",
+            "order_value": 76,
+            "rank": 4
+        }
+    ],
+    "r4_up_items": [
+        {
+            "item_attr": "\u98ce",
+            "item_color": "#359697",
+            "item_id": -1,
+            "item_img": "https://operation-webstatic.hoyoverse.com/gacha_info/hk4e/_pic_source_/JeDr9TIzsG6lT4vkHHKy_tx1eFVS39J.png",
+            "item_name": "Lan Yan",
+            "item_type": "Character",
+            "item_type_cn": "\u89d2\u8272"
+        },
+        {
+            "item_attr": "\u706b",
+            "item_color": "#EC4923FF",
+            "item_id": -3,
+            "item_img": "https://operation-webstatic.hoyoverse.com/gacha_info/hk4e/_pic_source_/igFNp8l02hefhuzIVU3J_C71CDqWIzl.png",
+            "item_name": "Chevreuse",
+            "item_type": "Character",
+            "item_type_cn": "\u89d2\u8272"
+        },
+        {
+            "item_attr": "\u51b0",
+            "item_color": "#35AACCFF",
+            "item_id": -4,
+            "item_img": "https://operation-webstatic.hoyoverse.com/gacha_info/hk4e/_pic_source_/cZrwgBBp13KMjYDZRCQi_qXQK8aYCxA.png",
+            "item_name": "Rosaria",
+            "item_type": "Character",
+            "item_type_cn": "\u89d2\u8272"
+        }
+    ],
+    "r4_up_prob": "50.000%",
+    "r5_2_prob_list": [
+        {
+            "is_up": 1,
+            "item_id": -2,
+            "item_name": "Arlecchino",
+            "item_type": "Character",
+            "order_value": 2,
+            "rank": 5
+        },
+        {
+            "is_up": 0,
+            "item_id": -14,
+            "item_name": "Dehya",
+            "item_type": "Character",
+            "order_value": 14,
+            "rank": 5
+        },
+        {
+            "is_up": 0,
+            "item_id": -19,
+            "item_name": "Tighnari",
+            "item_type": "Character",
+            "order_value": 19,
+            "rank": 5
+        },
+        {
+            "is_up": 0,
+            "item_id": -33,
+            "item_name": "Keqing",
+            "item_type": "Character",
+            "order_value": 33,
+            "rank": 5
+        },
+        {
+            "is_up": 0,
+            "item_id": -34,
+            "item_name": "Mona",
+            "item_type": "Character",
+            "order_value": 34,
+            "rank": 5
+        },
+        {
+            "is_up": 0,
+            "item_id": -37,
+            "item_name": "Qiqi",
+            "item_type": "Character",
+            "order_value": 37,
+            "rank": 5
+        },
+        {
+            "is_up": 0,
+            "item_id": -46,
+            "item_name": "Diluc",
+            "item_type": "Character",
+            "order_value": 46,
+            "rank": 5
+        },
+        {
+            "is_up": 0,
+            "item_id": -48,
+            "item_name": "Jean",
+            "item_type": "Character",
+            "order_value": 48,
+            "rank": 5
+        }
+    ],
+    "r5_baodi_prob": "1.600%",
+    "r5_prob": "0.600%",
+    "r5_prob_list": [
+        {
+            "is_up": 1,
+            "item_id": -2,
+            "item_name": "Arlecchino",
+            "item_type": "Character",
+            "order_value": 2,
+            "rank": 5
+        },
+        {
+            "is_up": 0,
+            "item_id": -14,
+            "item_name": "Dehya",
+            "item_type": "Character",
+            "order_value": 14,
+            "rank": 5
+        },
+        {
+            "is_up": 0,
+            "item_id": -19,
+            "item_name": "Tighnari",
+            "item_type": "Character",
+            "order_value": 19,
+            "rank": 5
+        },
+        {
+            "is_up": 0,
+            "item_id": -33,
+            "item_name": "Keqing",
+            "item_type": "Character",
+            "order_value": 33,
+            "rank": 5
+        },
+        {
+            "is_up": 0,
+            "item_id": -34,
+            "item_name": "Mona",
+            "item_type": "Character",
+            "order_value": 34,
+            "rank": 5
+        },
+        {
+            "is_up": 0,
+            "item_id": -37,
+            "item_name": "Qiqi",
+            "item_type": "Character",
+            "order_value": 37,
+            "rank": 5
+        },
+        {
+            "is_up": 0,
+            "item_id": -46,
+            "item_name": "Diluc",
+            "item_type": "Character",
+            "order_value": 46,
+            "rank": 5
+        },
+        {
+            "is_up": 0,
+            "item_id": -48,
+            "item_name": "Jean",
+            "item_type": "Character",
+            "order_value": 48,
+            "rank": 5
+        }
+    ],
+    "r5_up_items": [
+        {
+            "item_attr": "\u706b",
+            "item_color": "#EC4923FF",
+            "item_id": -2,
+            "item_img": "https://operation-webstatic.hoyoverse.com/gacha_info/hk4e/_pic_source_/7XNsDDUeTUPYdIvmFqfU_QcEOXwps4B.png",
+            "item_name": "Arlecchino",
+            "item_type": "Character",
+            "item_type_cn": "\u89d2\u8272"
+        }
+    ],
+    "r5_up_prob": "50.000%",
+    "title": "Event Wish \"The <color=#EC4923FF>Hearth's</color> Ashen Shadow\""
+}

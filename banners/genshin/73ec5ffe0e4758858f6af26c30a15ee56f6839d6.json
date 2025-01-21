@@ -1,0 +1,772 @@
+{
+    "banner": "",
+    "content": "Chronicled Wish \"Remembrance of <color=#cc9046FF>Jade and Stone</color>\" is now available. During this event wish, the <color=#c93f23>event-exclusive</color> 5-star characters <color=#66ad16FF>\"Beyond Mortality\" Baizhu (Dendro)</color>, <color=#35AACCFF>\"Lonesome Transcendence\" Shenhe (Cryo)</color>, <color=#35AACCFF>\"Plenilune Gaze\" Ganyu (Cryo)</color>, <color=#498fccFF>\"Childe\" Tartaglia (Hydro)</color>, and <color=#359697>\"Vigilant Yaksha\" Xiao (Anemo)</color>, the <color=#c93f23>event-exclusive</color> 5-star weapons <color=#bd6932>Primordial Jade Cutter (Sword)</color>, <color=#bd6932>Summit Shaper (Sword)</color>, <color=#bd6932>The Unforged (Claymore)</color>, <color=#bd6932>Calamity Queller (Polearm)</color>, <color=#bd6932>Jadefall's Splendor (Catalyst)</color>, <color=#bd6932>Memory of Dust (Catalyst)</color>, and <color=#bd6932>Polar Star (Bow)</color>, as well as the <color=#c93f23>event-exclusive</color> 4-star weapons <color=#a256e1>Lithic Blade (Claymore)</color> and <color=#a256e1>Lithic Spear (Polearm)</color> will be available for a limited time.</P>\n<br />\n\u203b In most cases, the base probability of all characters and weapons is evenly distributed. If there is a boost or guarantee in effect, please refer to the corresponding rules.</P>\n<br />\n\u3013Rules\u3013</P>\n5-Star Items</P>\nFor Chronicled Wish \"Remembrance of <color=#cc9046FF>Jade and Stone</color>\": Base probability of winning 5-star item = <color=#c93f23>0.600%</color>; consolidated probability of winning 5-star item (incl. guarantee) = <color=#c93f23>1.600%</color>; guaranteed to win 5-star item at least once per <color=#c93f23>90</color> attempts.</P>\nFor Chronicled Wish \"Remembrance of <color=#cc9046FF>Jade and Stone</color>\", you can chart a course towards your chosen <color=#c93f23>boosted</color> 5-star character or weapon amongst all 5-star items with \"Chronicled Path.\" The choice of item will only be valid for this period of Chronicled Wish \"Remembrance of <color=#cc9046FF>Jade and Stone</color>\".</P>\n\u203b When the Designated Item is a <color=#c93f23>5-Star Character</color>, the 5-star items you can obtain in the Wish are: <color=#c93f23>5-Star Characters</color>. When the Designated Item is a <color=#c93f23>5-Star Weapon</color>, the 5-star items you can obtain in the Wish are: <color=#c93f23>5-Star Weapons</color>.</P>\nWhen you obtain a 5-star item in this event wish, there is a <color=#c93f23>50.000%</color> chance it will be the Designated Item. If you obtain a 5-star item that was not your chosen item, you will receive 1 Fate Point. Once you have reached the <color=#c93f23>maximum amount</color> of Fate Points, the next 5-star item will be <color=#c93f23>guaranteed</color> to be your chosen item. Once you have obtained the chosen item, the number of Fate Points will reset to <color=#c93f23>0</color> whether or not you have reached maximum points, and you will have to accumulate them again.</P>\nAfter charting a course towards a Designated Item, you can change your choice, but doing so will reset the Fate Points to <color=#c93f23>0</color> and you will have to accumulate them again. </P>\n\u203b The Fate Points for this Wish are only valid for the current period of Chronicled Wish \"Remembrance of <color=#cc9046FF>Jade and Stone</color>\". Once the Wish event is over, the number of Fate Points will reset to <color=#c93f23>0</color>, and you will have to accumulate them again. </P>\n4-Star Items</P>\nFor Chronicled Wish \"Remembrance of <color=#cc9046FF>Jade and Stone</color>\": Base probability of winning 4-star item = <color=#c93f23>5.100%</color>; base probability of winning 4-star character = <color=#c93f23>2.550%</color>, and base probability of winning 4-star weapon = <color=#c93f23>2.550%</color>; consolidated probability (incl. guarantee) of winning 4-star item = <color=#c93f23>13.000%</color>; guaranteed to win 4-star or above item at least once per <color=#c93f23>10</color> attempts; probability of winning 4-star item through the guarantee = <color=#c93f23>99.400%</color>, and probability of winning 5-star item through the guarantee = <color=#c93f23>0.600%</color>.</P>\n<br />\n5-star weapons won in this wish come with <color=#bd6932>Masterless Starglitter</color> \u00d710; 4-star weapons won in this wish come with <color=#bd6932>Masterless Starglitter</color> \u00d72; 3-star weapons won in this wish come with <color=#a256e1>Masterless Stardust</color> \u00d715.</P>\n<br />\n\u3013Duplicate Characters\u3013</P>\nOn obtaining a 5-star character that you already own (whether obtained in a wish, redeemed at the shop, or awarded by the game): The 2nd \u2013 7th time you obtain the character, it will be converted into <color=#a256e1>that character's Stella Fortuna</color> \u00d71 and <color=#bd6932>Masterless Starglitter</color> \u00d710; from the 8th time onwards it will be converted into <color=#bd6932>Masterless Starglitter</color> \u00d725.</P>\nOn obtaining a 4-star character that you already own (whether obtained in a wish, redeemed at the shop, or awarded by the game): The 2nd \u2013 7th time you obtain the character, it will be converted into <color=#a256e1>that character's Stella Fortuna</color> \u00d71 and <color=#bd6932>Masterless Starglitter</color> \u00d72; from the 8th time onwards it will be converted into <color=#bd6932>Masterless Starglitter</color> \u00d75.</P>\n<br />\n\u203b This is for \"Chronicled Wish.\" The wish guarantee count is accumulated within \"Chronicled Wish\" only and is independent of the guarantee counts of other types of wishes.</P>",
+    "date_range": "Limited-Time Event",
+    "gacha_type": 500,
+    "r3_baodi_prob": "85.400%",
+    "r3_prob": "94.300%",
+    "r3_prob_list": [
+        {
+            "is_up": 0,
+            "item_id": -24,
+            "item_name": "Skyrider Sword",
+            "item_type": "Weapon",
+            "order_value": 24,
+            "rank": 3
+        },
+        {
+            "is_up": 0,
+            "item_id": -25,
+            "item_name": "Harbinger of Dawn",
+            "item_type": "Weapon",
+            "order_value": 25,
+            "rank": 3
+        },
+        {
+            "is_up": 0,
+            "item_id": -26,
+            "item_name": "Cool Steel",
+            "item_type": "Weapon",
+            "order_value": 26,
+            "rank": 3
+        },
+        {
+            "is_up": 0,
+            "item_id": -33,
+            "item_name": "Debate Club",
+            "item_type": "Weapon",
+            "order_value": 33,
+            "rank": 3
+        },
+        {
+            "is_up": 0,
+            "item_id": -34,
+            "item_name": "Bloodtainted Greatsword",
+            "item_type": "Weapon",
+            "order_value": 34,
+            "rank": 3
+        },
+        {
+            "is_up": 0,
+            "item_id": -35,
+            "item_name": "Ferrous Shadow",
+            "item_type": "Weapon",
+            "order_value": 35,
+            "rank": 3
+        },
+        {
+            "is_up": 0,
+            "item_id": -41,
+            "item_name": "Black Tassel",
+            "item_type": "Weapon",
+            "order_value": 41,
+            "rank": 3
+        },
+        {
+            "is_up": 0,
+            "item_id": -48,
+            "item_name": "Emerald Orb",
+            "item_type": "Weapon",
+            "order_value": 48,
+            "rank": 3
+        },
+        {
+            "is_up": 0,
+            "item_id": -49,
+            "item_name": "Thrilling Tales of Dragon Slayers",
+            "item_type": "Weapon",
+            "order_value": 49,
+            "rank": 3
+        },
+        {
+            "is_up": 0,
+            "item_id": -50,
+            "item_name": "Magic Guide",
+            "item_type": "Weapon",
+            "order_value": 50,
+            "rank": 3
+        },
+        {
+            "is_up": 0,
+            "item_id": -57,
+            "item_name": "Slingshot",
+            "item_type": "Weapon",
+            "order_value": 57,
+            "rank": 3
+        },
+        {
+            "is_up": 0,
+            "item_id": -58,
+            "item_name": "Sharpshooter's Oath",
+            "item_type": "Weapon",
+            "order_value": 58,
+            "rank": 3
+        },
+        {
+            "is_up": 0,
+            "item_id": -59,
+            "item_name": "Raven Bow",
+            "item_type": "Weapon",
+            "order_value": 59,
+            "rank": 3
+        }
+    ],
+    "r4_baodi_prob": "13.000%",
+    "r4_prob": "5.100%",
+    "r4_prob_list": [
+        {
+            "is_up": 0,
+            "item_id": -1,
+            "item_name": "Gaming",
+            "item_type": "Character",
+            "order_value": 1,
+            "rank": 4
+        },
+        {
+            "is_up": 0,
+            "item_id": -3,
+            "item_name": "Yaoyao",
+            "item_type": "Character",
+            "order_value": 3,
+            "rank": 4
+        },
+        {
+            "is_up": 0,
+            "item_id": -4,
+            "item_name": "Yun Jin",
+            "item_type": "Character",
+            "order_value": 4,
+            "rank": 4
+        },
+        {
+            "is_up": 0,
+            "item_id": -6,
+            "item_name": "Yanfei",
+            "item_type": "Character",
+            "order_value": 6,
+            "rank": 4
+        },
+        {
+            "is_up": 0,
+            "item_id": -7,
+            "item_name": "Xinyan",
+            "item_type": "Character",
+            "order_value": 7,
+            "rank": 4
+        },
+        {
+            "is_up": 0,
+            "item_id": -10,
+            "item_name": "Chongyun",
+            "item_type": "Character",
+            "order_value": 10,
+            "rank": 4
+        },
+        {
+            "is_up": 0,
+            "item_id": -13,
+            "item_name": "Ningguang",
+            "item_type": "Character",
+            "order_value": 13,
+            "rank": 4
+        },
+        {
+            "is_up": 0,
+            "item_id": -15,
+            "item_name": "Xingqiu",
+            "item_type": "Character",
+            "order_value": 15,
+            "rank": 4
+        },
+        {
+            "is_up": 0,
+            "item_id": -16,
+            "item_name": "Beidou",
+            "item_type": "Character",
+            "order_value": 16,
+            "rank": 4
+        },
+        {
+            "is_up": 0,
+            "item_id": -17,
+            "item_name": "Xiangling",
+            "item_type": "Character",
+            "order_value": 17,
+            "rank": 4
+        },
+        {
+            "is_up": 0,
+            "item_id": -20,
+            "item_name": "Lion's Roar",
+            "item_type": "Weapon",
+            "order_value": 20,
+            "rank": 4
+        },
+        {
+            "is_up": 0,
+            "item_id": -21,
+            "item_name": "Sacrificial Sword",
+            "item_type": "Weapon",
+            "order_value": 21,
+            "rank": 4
+        },
+        {
+            "is_up": 0,
+            "item_id": -22,
+            "item_name": "The Flute",
+            "item_type": "Weapon",
+            "order_value": 22,
+            "rank": 4
+        },
+        {
+            "is_up": 0,
+            "item_id": -23,
+            "item_name": "Favonius Sword",
+            "item_type": "Weapon",
+            "order_value": 23,
+            "rank": 4
+        },
+        {
+            "is_up": 0,
+            "item_id": -28,
+            "item_name": "Lithic Blade",
+            "item_type": "Weapon",
+            "order_value": 28,
+            "rank": 4
+        },
+        {
+            "is_up": 0,
+            "item_id": -29,
+            "item_name": "Rainslasher",
+            "item_type": "Weapon",
+            "order_value": 29,
+            "rank": 4
+        },
+        {
+            "is_up": 0,
+            "item_id": -30,
+            "item_name": "Sacrificial Greatsword",
+            "item_type": "Weapon",
+            "order_value": 30,
+            "rank": 4
+        },
+        {
+            "is_up": 0,
+            "item_id": -31,
+            "item_name": "The Bell",
+            "item_type": "Weapon",
+            "order_value": 31,
+            "rank": 4
+        },
+        {
+            "is_up": 0,
+            "item_id": -32,
+            "item_name": "Favonius Greatsword",
+            "item_type": "Weapon",
+            "order_value": 32,
+            "rank": 4
+        },
+        {
+            "is_up": 0,
+            "item_id": -38,
+            "item_name": "Favonius Lance",
+            "item_type": "Weapon",
+            "order_value": 38,
+            "rank": 4
+        },
+        {
+            "is_up": 0,
+            "item_id": -39,
+            "item_name": "Lithic Spear",
+            "item_type": "Weapon",
+            "order_value": 39,
+            "rank": 4
+        },
+        {
+            "is_up": 0,
+            "item_id": -40,
+            "item_name": "Dragon's Bane",
+            "item_type": "Weapon",
+            "order_value": 40,
+            "rank": 4
+        },
+        {
+            "is_up": 0,
+            "item_id": -44,
+            "item_name": "Eye of Perception",
+            "item_type": "Weapon",
+            "order_value": 44,
+            "rank": 4
+        },
+        {
+            "is_up": 0,
+            "item_id": -45,
+            "item_name": "Sacrificial Fragments",
+            "item_type": "Weapon",
+            "order_value": 45,
+            "rank": 4
+        },
+        {
+            "is_up": 0,
+            "item_id": -46,
+            "item_name": "The Widsith",
+            "item_type": "Weapon",
+            "order_value": 46,
+            "rank": 4
+        },
+        {
+            "is_up": 0,
+            "item_id": -47,
+            "item_name": "Favonius Codex",
+            "item_type": "Weapon",
+            "order_value": 47,
+            "rank": 4
+        },
+        {
+            "is_up": 0,
+            "item_id": -53,
+            "item_name": "Rust",
+            "item_type": "Weapon",
+            "order_value": 53,
+            "rank": 4
+        },
+        {
+            "is_up": 0,
+            "item_id": -54,
+            "item_name": "Sacrificial Bow",
+            "item_type": "Weapon",
+            "order_value": 54,
+            "rank": 4
+        },
+        {
+            "is_up": 0,
+            "item_id": -55,
+            "item_name": "The Stringless",
+            "item_type": "Weapon",
+            "order_value": 55,
+            "rank": 4
+        },
+        {
+            "is_up": 0,
+            "item_id": -56,
+            "item_name": "Favonius Warbow",
+            "item_type": "Weapon",
+            "order_value": 56,
+            "rank": 4
+        }
+    ],
+    "r4_up_items": null,
+    "r4_up_prob": "0%",
+    "r5_2_prob_list": [
+        {
+            "is_up": 0,
+            "item_id": -2,
+            "item_name": "Baizhu",
+            "item_type": "Character",
+            "order_value": 2,
+            "rank": 5
+        },
+        {
+            "is_up": 0,
+            "item_id": -5,
+            "item_name": "Shenhe",
+            "item_type": "Character",
+            "order_value": 5,
+            "rank": 5
+        },
+        {
+            "is_up": 0,
+            "item_id": -8,
+            "item_name": "Keqing",
+            "item_type": "Character",
+            "order_value": 8,
+            "rank": 5
+        },
+        {
+            "is_up": 0,
+            "item_id": -9,
+            "item_name": "Ganyu",
+            "item_type": "Character",
+            "order_value": 9,
+            "rank": 5
+        },
+        {
+            "is_up": 0,
+            "item_id": -11,
+            "item_name": "Qiqi",
+            "item_type": "Character",
+            "order_value": 11,
+            "rank": 5
+        },
+        {
+            "is_up": 0,
+            "item_id": -12,
+            "item_name": "Tartaglia",
+            "item_type": "Character",
+            "order_value": 12,
+            "rank": 5
+        },
+        {
+            "is_up": 0,
+            "item_id": -14,
+            "item_name": "Xiao",
+            "item_type": "Character",
+            "order_value": 14,
+            "rank": 5
+        }
+    ],
+    "r5_4_prob_list": [
+        {
+            "is_up": 0,
+            "item_id": -18,
+            "item_name": "Primordial Jade Cutter",
+            "item_type": "Weapon",
+            "order_value": 18,
+            "rank": 5
+        },
+        {
+            "is_up": 0,
+            "item_id": -19,
+            "item_name": "Summit Shaper",
+            "item_type": "Weapon",
+            "order_value": 19,
+            "rank": 5
+        },
+        {
+            "is_up": 0,
+            "item_id": -27,
+            "item_name": "The Unforged",
+            "item_type": "Weapon",
+            "order_value": 27,
+            "rank": 5
+        },
+        {
+            "is_up": 0,
+            "item_id": -36,
+            "item_name": "Calamity Queller",
+            "item_type": "Weapon",
+            "order_value": 36,
+            "rank": 5
+        },
+        {
+            "is_up": 0,
+            "item_id": -37,
+            "item_name": "Primordial Jade Winged-Spear",
+            "item_type": "Weapon",
+            "order_value": 37,
+            "rank": 5
+        },
+        {
+            "is_up": 0,
+            "item_id": -42,
+            "item_name": "Jadefall's Splendor",
+            "item_type": "Weapon",
+            "order_value": 42,
+            "rank": 5
+        },
+        {
+            "is_up": 0,
+            "item_id": -43,
+            "item_name": "Memory of Dust",
+            "item_type": "Weapon",
+            "order_value": 43,
+            "rank": 5
+        },
+        {
+            "is_up": 0,
+            "item_id": -51,
+            "item_name": "Polar Star",
+            "item_type": "Weapon",
+            "order_value": 51,
+            "rank": 5
+        },
+        {
+            "is_up": 0,
+            "item_id": -52,
+            "item_name": "Amos' Bow",
+            "item_type": "Weapon",
+            "order_value": 52,
+            "rank": 5
+        }
+    ],
+    "r5_baodi_prob": "1.600%",
+    "r5_prob": "0.600%",
+    "r5_prob_list": [
+        {
+            "is_up": 0,
+            "item_id": -2,
+            "item_name": "Baizhu",
+            "item_type": "Character",
+            "order_value": 2,
+            "rank": 5
+        },
+        {
+            "is_up": 0,
+            "item_id": -5,
+            "item_name": "Shenhe",
+            "item_type": "Character",
+            "order_value": 5,
+            "rank": 5
+        },
+        {
+            "is_up": 0,
+            "item_id": -8,
+            "item_name": "Keqing",
+            "item_type": "Character",
+            "order_value": 8,
+            "rank": 5
+        },
+        {
+            "is_up": 0,
+            "item_id": -9,
+            "item_name": "Ganyu",
+            "item_type": "Character",
+            "order_value": 9,
+            "rank": 5
+        },
+        {
+            "is_up": 0,
+            "item_id": -11,
+            "item_name": "Qiqi",
+            "item_type": "Character",
+            "order_value": 11,
+            "rank": 5
+        },
+        {
+            "is_up": 0,
+            "item_id": -12,
+            "item_name": "Tartaglia",
+            "item_type": "Character",
+            "order_value": 12,
+            "rank": 5
+        },
+        {
+            "is_up": 0,
+            "item_id": -14,
+            "item_name": "Xiao",
+            "item_type": "Character",
+            "order_value": 14,
+            "rank": 5
+        },
+        {
+            "is_up": 0,
+            "item_id": -18,
+            "item_name": "Primordial Jade Cutter",
+            "item_type": "Weapon",
+            "order_value": 18,
+            "rank": 5
+        },
+        {
+            "is_up": 0,
+            "item_id": -19,
+            "item_name": "Summit Shaper",
+            "item_type": "Weapon",
+            "order_value": 19,
+            "rank": 5
+        },
+        {
+            "is_up": 0,
+            "item_id": -27,
+            "item_name": "The Unforged",
+            "item_type": "Weapon",
+            "order_value": 27,
+            "rank": 5
+        },
+        {
+            "is_up": 0,
+            "item_id": -36,
+            "item_name": "Calamity Queller",
+            "item_type": "Weapon",
+            "order_value": 36,
+            "rank": 5
+        },
+        {
+            "is_up": 0,
+            "item_id": -37,
+            "item_name": "Primordial Jade Winged-Spear",
+            "item_type": "Weapon",
+            "order_value": 37,
+            "rank": 5
+        },
+        {
+            "is_up": 0,
+            "item_id": -42,
+            "item_name": "Jadefall's Splendor",
+            "item_type": "Weapon",
+            "order_value": 42,
+            "rank": 5
+        },
+        {
+            "is_up": 0,
+            "item_id": -43,
+            "item_name": "Memory of Dust",
+            "item_type": "Weapon",
+            "order_value": 43,
+            "rank": 5
+        },
+        {
+            "is_up": 0,
+            "item_id": -51,
+            "item_name": "Polar Star",
+            "item_type": "Weapon",
+            "order_value": 51,
+            "rank": 5
+        },
+        {
+            "is_up": 0,
+            "item_id": -52,
+            "item_name": "Amos' Bow",
+            "item_type": "Weapon",
+            "order_value": 52,
+            "rank": 5
+        }
+    ],
+    "r5_up_items": [
+        {
+            "item_attr": "\u8349",
+            "item_color": "#66ad16FF",
+            "item_id": -2,
+            "item_img": "https://operation-webstatic.hoyoverse.com/gacha_info/hk4e/_pic_source_/47jeRcrtM1TV4n0mvQmS_9jjJnO62bh.png",
+            "item_name": "Baizhu",
+            "item_type": "Character",
+            "item_type_cn": "\u89d2\u8272"
+        },
+        {
+            "item_attr": "\u51b0",
+            "item_color": "#35AACCFF",
+            "item_id": -5,
+            "item_img": "https://operation-webstatic.hoyoverse.com/gacha_info/hk4e/_pic_source_/t9HekSuBpFTeBWdolDS1_bAReNyXPOX.png",
+            "item_name": "Shenhe",
+            "item_type": "Character",
+            "item_type_cn": "\u89d2\u8272"
+        },
+        {
+            "item_attr": "\u96f7",
+            "item_color": "#6957C2FF",
+            "item_id": -8,
+            "item_img": "https://operation-webstatic.hoyoverse.com/gacha_info/hk4e/_pic_source_/Mdeg0JskG7WWCLpJTWe6_7fUGmiuGte.png",
+            "item_name": "Keqing",
+            "item_type": "Character",
+            "item_type_cn": "\u89d2\u8272"
+        },
+        {
+            "item_attr": "\u51b0",
+            "item_color": "#35AACCFF",
+            "item_id": -9,
+            "item_img": "https://operation-webstatic.hoyoverse.com/gacha_info/hk4e/_pic_source_/DJkudj3hOkZxi8o3wCFv_EW6kNp9eWJ.png",
+            "item_name": "Ganyu",
+            "item_type": "Character",
+            "item_type_cn": "\u89d2\u8272"
+        },
+        {
+            "item_attr": "\u51b0",
+            "item_color": "#35AACCFF",
+            "item_id": -11,
+            "item_img": "https://operation-webstatic.hoyoverse.com/gacha_info/hk4e/_pic_source_/yGlYHVvZJRIwZMFclFj8_Lx8LwR7t7T.png",
+            "item_name": "Qiqi",
+            "item_type": "Character",
+            "item_type_cn": "\u89d2\u8272"
+        },
+        {
+            "item_attr": "\u6c34",
+            "item_color": "#498fccFF",
+            "item_id": -12,
+            "item_img": "https://operation-webstatic.hoyoverse.com/gacha_info/hk4e/_pic_source_/CcwAPFP8A3o49twmjZRX_K1oLXLxiVN.png",
+            "item_name": "Tartaglia",
+            "item_type": "Character",
+            "item_type_cn": "\u89d2\u8272"
+        },
+        {
+            "item_attr": "\u98ce",
+            "item_color": "#359697",
+            "item_id": -14,
+            "item_img": "https://operation-webstatic.hoyoverse.com/gacha_info/hk4e/_pic_source_/u4kexQPtDFa3MmajCVrg_C9lc0JG4RA.png",
+            "item_name": "Xiao",
+            "item_type": "Character",
+            "item_type_cn": "\u89d2\u8272"
+        },
+        {
+            "item_attr": "",
+            "item_color": "",
+            "item_id": -18,
+            "item_img": "https://operation-webstatic.hoyoverse.com/gacha_info/hk4e/_pic_source_/V9lQnzrwdffiQovduAKc_UfmiyKpF8M.png",
+            "item_name": "Primordial Jade Cutter",
+            "item_type": "Weapon",
+            "item_type_cn": "\u6b66\u5668"
+        },
+        {
+            "item_attr": "",
+            "item_color": "",
+            "item_id": -19,
+            "item_img": "https://operation-webstatic.hoyoverse.com/gacha_info/hk4e/_pic_source_/v3n2305zsb6Nkme0Ow91_Xmlrkx0LY7.png",
+            "item_name": "Summit Shaper",
+            "item_type": "Weapon",
+            "item_type_cn": "\u6b66\u5668"
+        },
+        {
+            "item_attr": "",
+            "item_color": "",
+            "item_id": -27,
+            "item_img": "https://operation-webstatic.hoyoverse.com/gacha_info/hk4e/_pic_source_/3dH8hBO73Ece2oxy6iea_EJkDLVR6rd.png",
+            "item_name": "The Unforged",
+            "item_type": "Weapon",
+            "item_type_cn": "\u6b66\u5668"
+        },
+        {
+            "item_attr": "",
+            "item_color": "",
+            "item_id": -36,
+            "item_img": "https://operation-webstatic.hoyoverse.com/gacha_info/hk4e/_pic_source_/1UJcLOQVpC3NWd7nM7JI_8jvFDCxlw8.png",
+            "item_name": "Calamity Queller",
+            "item_type": "Weapon",
+            "item_type_cn": "\u6b66\u5668"
+        },
+        {
+            "item_attr": "",
+            "item_color": "",
+            "item_id": -37,
+            "item_img": "https://operation-webstatic.hoyoverse.com/gacha_info/hk4e/_pic_source_/jMHqoF5IWzK5X73Mm3uP_7g0isjv19j.png",
+            "item_name": "Primordial Jade Winged-Spear",
+            "item_type": "Weapon",
+            "item_type_cn": "\u6b66\u5668"
+        },
+        {
+            "item_attr": "",
+            "item_color": "",
+            "item_id": -42,
+            "item_img": "https://operation-webstatic.hoyoverse.com/gacha_info/hk4e/_pic_source_/AXLXmGUq5cgsGoYBaszN_AkJxuHd3vZ.png",
+            "item_name": "Jadefall's Splendor",
+            "item_type": "Weapon",
+            "item_type_cn": "\u6b66\u5668"
+        },
+        {
+            "item_attr": "",
+            "item_color": "",
+            "item_id": -43,
+            "item_img": "https://operation-webstatic.hoyoverse.com/gacha_info/hk4e/_pic_source_/ad9naMMBdXgs849tGzqb_j1hOSfM6Kz.png",
+            "item_name": "Memory of Dust",
+            "item_type": "Weapon",
+            "item_type_cn": "\u6b66\u5668"
+        },
+        {
+            "item_attr": "",
+            "item_color": "",
+            "item_id": -51,
+            "item_img": "https://operation-webstatic.hoyoverse.com/gacha_info/hk4e/_pic_source_/9szoeOp7Nnx90OYnLGp5_SkAx9Q4rHS.png",
+            "item_name": "Polar Star",
+            "item_type": "Weapon",
+            "item_type_cn": "\u6b66\u5668"
+        },
+        {
+            "item_attr": "",
+            "item_color": "",
+            "item_id": -52,
+            "item_img": "https://operation-webstatic.hoyoverse.com/gacha_info/hk4e/_pic_source_/nvDOXrCCSNziUubiyQXv_SnPmHumngJ.png",
+            "item_name": "Amos' Bow",
+            "item_type": "Weapon",
+            "item_type_cn": "\u6b66\u5668"
+        }
+    ],
+    "r5_up_prob": "0%",
+    "title": "Chronicled Wish \"Remembrance of <color=#cc9046FF>Jade and Stone</color>\""
+}
