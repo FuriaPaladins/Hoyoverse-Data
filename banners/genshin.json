@@ -245,6 +245,24 @@
             "end_time": "2025-03-04 17:59:00",
             "gacha_id": "c41902f5424a21a45b0a8ee3c96b35484f56b244",
             "gacha_type": 302
+        },
+        {
+            "begin_time": "2025-03-04 18:00:00",
+            "end_time": "2025-03-25 14:59:59",
+            "gacha_id": "c878791d97ff02292a76576fdc0eee2bf647c450",
+            "gacha_type": 301
+        },
+        {
+            "begin_time": "2025-03-04 18:00:00",
+            "end_time": "2025-03-25 14:59:59",
+            "gacha_id": "80540c07e377cb401b0d30bfc098f522d16ffc32",
+            "gacha_type": 400
+        },
+        {
+            "begin_time": "2025-03-04 18:00:00",
+            "end_time": "2025-03-25 14:59:59",
+            "gacha_id": "24fea9e7ee0c6e7abc4c6b17b5f551a663d3fceb",
+            "gacha_type": 302
         }
     ]
 }
