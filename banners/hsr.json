@@ -573,6 +573,34 @@
             "gacha_id": "c13867199255ed4ed3f6fda264dac041e855381e",
             "gacha_label": "12_2",
             "gacha_type": 12
+        },
+        {
+            "begin_time": "2025-06-11 12:00:00",
+            "end_time": "2025-07-01 15:00:00",
+            "gacha_id": "45bf212c54b5f610dba5185d2a71fa1519ace6ce",
+            "gacha_label": "11",
+            "gacha_type": 11
+        },
+        {
+            "begin_time": "2025-06-11 12:00:00",
+            "end_time": "2025-07-01 15:00:00",
+            "gacha_id": "fee8dd033b0dfdba77ee4215edec89e946920373",
+            "gacha_label": "11_2",
+            "gacha_type": 11
+        },
+        {
+            "begin_time": "2025-06-11 12:00:00",
+            "end_time": "2025-07-01 15:00:00",
+            "gacha_id": "5476c77493b0ca90cb3298e4fa279c829e82250f",
+            "gacha_label": "12",
+            "gacha_type": 12
+        },
+        {
+            "begin_time": "2025-06-11 12:00:00",
+            "end_time": "2025-07-01 15:00:00",
+            "gacha_id": "ded446c568697180a51b2992158311e0fcc5beb7",
+            "gacha_label": "12_2",
+            "gacha_type": 12
         }
     ]
 }
