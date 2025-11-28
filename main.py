@@ -271,7 +271,7 @@ class BannerParser:
         start_server_time = "12:00:00" in start
         start_dt = self.parse_time(start, start_server_time)
         if "06:00:00" in start_dt.isoformat():
-            start_dt -= timedelta(hours=3)
+            start_dt -= timedelta(hours=4)
 
         end = banner["end_time"]
         end_server_time = True  # Always server time for Starrail
