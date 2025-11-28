@@ -4,7 +4,7 @@ on:
   schedule:
     - cron: '1 2,3 * * 2,3'   # Start banners: At 02:01 and 03:01 on Tuesday and Wednesday
     - cron: '1 12,17 * * 2,3' # 2nd Half Banners: At 12:01 and 17:01 on Tuesday and Wednesday
-    - cron: '1 */72 * * *'    # Every 72 hours at 01 minute past the hour in case of missed runs
+    - cron: '1 */23 * * *'    # Every 23 hours at 01 minute past the hour in case of missed runs
   workflow_dispatch:
 
 jobs:
