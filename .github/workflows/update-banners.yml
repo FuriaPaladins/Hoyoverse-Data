@@ -2,7 +2,9 @@ name: Update Banners
 
 on:
   schedule:
-    - cron: '1 */24 * * *'
+    - cron: '1 2,3 * * 2,3'   # Start banners: At 02:01 and 03:01 on Tuesday and Wednesday
+    - cron: '1 12,17 * * 2,3' # 2nd Half Banners: At 12:01 and 17:01 on Tuesday and Wednesday
+    - cron: '1 */72 * * *'    # Every 72 hours at 01 minute past the hour in case of missed runs
   workflow_dispatch:
 
 jobs:
@@ -14,7 +16,7 @@ jobs:
     - name: Set up Python
       uses: actions/setup-python@v2
       with:
-        python-version: '3.x'
+        python-version: '3.14'
     - name: Install dependencies
       run: |
         python -m pip install --upgrade pip
