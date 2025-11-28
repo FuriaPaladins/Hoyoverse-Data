@@ -2242,6 +2242,12 @@
                     "name": "Make Farewells More Beautiful",
                     "rank": 5,
                     "item_type": "lightcone"
+                },
+                {
+                    "id": 23052,
+                    "name": "This Love, Forever",
+                    "rank": 5,
+                    "item_type": "lightcone"
                 }
             ],
             "uprate_4": [
@@ -2271,47 +2277,11 @@
             "end_time": {
                 "time": "2025-11-26 11:59:00+01:00",
                 "is_server_time": true
-            }
-        },
-        {
-            "name": "Brilliant Fixation",
-            "banner_type": 12,
-            "uprate_5": [
-                {
-                    "id": 23052,
-                    "name": "This Love, Forever",
-                    "rank": 5,
-                    "item_type": "lightcone"
-                }
-            ],
-            "uprate_4": [
-                {
-                    "id": 21044,
-                    "name": "Boundless Choreo",
-                    "rank": 4,
-                    "item_type": "lightcone"
-                },
-                {
-                    "id": 21043,
-                    "name": "Concert for Two",
-                    "rank": 4,
-                    "item_type": "lightcone"
-                },
-                {
-                    "id": 21054,
-                    "name": "The Story's Next Page",
-                    "rank": 4,
-                    "item_type": "lightcone"
-                }
-            ],
-            "start_time": {
-                "time": "2025-11-05 10:00:00+08:00",
-                "is_server_time": false
             },
-            "end_time": {
-                "time": "2025-12-16 15:00:00+01:00",
-                "is_server_time": true
-            }
+            "names": [
+                "Coalesced Truths",
+                "Brilliant Fixation"
+            ]
         },
         {
             "name": "Coalesced Truths",
@@ -2332,6 +2302,12 @@
                 {
                     "id": "23043",
                     "name": "Lies Dance on the Breeze",
+                    "rank": 5,
+                    "item_type": "lightcone"
+                },
+                {
+                    "id": 23052,
+                    "name": "This Love, Forever",
                     "rank": 5,
                     "item_type": "lightcone"
                 }
@@ -2365,7 +2341,8 @@
                 "is_server_time": true
             },
             "names": [
-                "Coalesced Truths"
+                "Coalesced Truths",
+                "Brilliant Fixation"
             ]
         }
     ],
@@ -4777,6 +4754,13 @@
                     "rank": 5,
                     "path": "Remembrance",
                     "item_type": "character"
+                },
+                {
+                    "id": 1415,
+                    "name": "Cyrene",
+                    "rank": 5,
+                    "path": "Remembrance",
+                    "item_type": "character"
                 }
             ],
             "uprate_4": [
@@ -4809,51 +4793,11 @@
             "end_time": {
                 "time": "2025-11-26 11:59:00+01:00",
                 "is_server_time": true
-            }
-        },
-        {
-            "name": "Ripples Rejoined",
-            "banner_type": 11,
-            "uprate_5": [
-                {
-                    "id": 1415,
-                    "name": "Cyrene",
-                    "rank": 5,
-                    "path": "Remembrance",
-                    "item_type": "character"
-                }
-            ],
-            "uprate_4": [
-                {
-                    "id": 1110,
-                    "name": "Lynx",
-                    "rank": 4,
-                    "path": "Abundance",
-                    "item_type": "character"
-                },
-                {
-                    "id": 1106,
-                    "name": "Pela",
-                    "rank": 4,
-                    "path": "Nihility",
-                    "item_type": "character"
-                },
-                {
-                    "id": 1223,
-                    "name": "Moze",
-                    "rank": 4,
-                    "path": "The Hunt",
-                    "item_type": "character"
-                }
-            ],
-            "start_time": {
-                "time": "2025-11-05 10:00:00+08:00",
-                "is_server_time": false
             },
-            "end_time": {
-                "time": "2025-12-16 15:00:00+01:00",
-                "is_server_time": true
-            }
+            "names": [
+                "Indelible Coterie",
+                "Ripples Rejoined"
+            ]
         },
         {
             "name": "Indelible Coterie",
@@ -4875,6 +4819,13 @@
                     "id": "1404",
                     "name": "Mydei",
                     "rank": 5,
+                    "item_type": "character"
+                },
+                {
+                    "id": 1415,
+                    "name": "Cyrene",
+                    "rank": 5,
+                    "path": "Remembrance",
                     "item_type": "character"
                 }
             ],
@@ -4907,7 +4858,8 @@
                 "is_server_time": true
             },
             "names": [
-                "Indelible Coterie"
+                "Indelible Coterie",
+                "Ripples Rejoined"
             ]
         }
     ]
