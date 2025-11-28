@@ -1,6 +1,40 @@
 {
     "2": [
         {
+            "name": "Mellow Waveride",
+            "banner_type": 2,
+            "uprate_5": [
+                {
+                    "id": "1191",
+                    "name": "Ellen",
+                    "rank": 5,
+                    "item_type": "character"
+                }
+            ],
+            "uprate_4": [
+                {
+                    "id": "1111",
+                    "name": "Anton",
+                    "rank": 4,
+                    "item_type": "character"
+                },
+                {
+                    "id": "1131",
+                    "name": "Soukaku",
+                    "rank": 4,
+                    "item_type": "character"
+                }
+            ],
+            "start_time": {
+                "time": "2024-07-04 02:00:00+08:00",
+                "is_server_time": false
+            },
+            "end_time": {
+                "time": "2024-07-24 11:59:59+01:00",
+                "is_server_time": true
+            }
+        },
+        {
             "name": "Unswerving Bullet",
             "banner_type": 2,
             "uprate_5": [
@@ -942,7 +976,7 @@
                 }
             ],
             "start_time": {
-                "time": "2025-11-26 03:00:00+08:00",
+                "time": "2025-11-26 02:00:00+08:00",
                 "is_server_time": false
             },
             "end_time": {
@@ -956,6 +990,40 @@
         }
     ],
     "3": [
+        {
+            "name": "Dissonant Sonata",
+            "banner_type": 2,
+            "uprate_5": [
+                {
+                    "id": "14119",
+                    "name": "Deep Sea Visitor",
+                    "rank": 5,
+                    "item_type": "weapon"
+                }
+            ],
+            "uprate_4": [
+                {
+                    "id": "13113",
+                    "name": "Bashful Demon",
+                    "rank": 4,
+                    "item_type": "weapon"
+                },
+                {
+                    "id": "13111",
+                    "name": "Drill Rig - Red Axis",
+                    "rank": 4,
+                    "item_type": "weapon"
+                }
+            ],
+            "start_time": {
+                "time": "2024-07-04 02:00:00+08:00",
+                "is_server_time": false
+            },
+            "end_time": {
+                "time": "2024-07-24 11:59:59+01:00",
+                "is_server_time": true
+            }
+        },
         {
             "name": "Dissonant Sonata",
             "banner_type": 3,
@@ -1898,7 +1966,7 @@
                 }
             ],
             "start_time": {
-                "time": "2025-11-26 03:00:00+08:00",
+                "time": "2025-11-26 02:00:00+08:00",
                 "is_server_time": false
             },
             "end_time": {
