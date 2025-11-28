@@ -1,0 +1,1914 @@
+{
+    "2": [
+        {
+            "name": "Unswerving Bullet",
+            "banner_type": 2,
+            "uprate_5": [
+                {
+                    "id": "1241",
+                    "name": "Zhu Yuan",
+                    "rank": 5,
+                    "item_type": "character"
+                }
+            ],
+            "uprate_4": [
+                {
+                    "id": "1031",
+                    "name": "Nicole",
+                    "rank": 4,
+                    "item_type": "character"
+                },
+                {
+                    "id": "1121",
+                    "name": "Ben",
+                    "rank": 4,
+                    "item_type": "character"
+                }
+            ],
+            "start_time": {
+                "time": "2024-07-24 12:00:00+01:00",
+                "is_server_time": true
+            },
+            "end_time": {
+                "time": "2024-08-13 14:59:59+01:00",
+                "is_server_time": true
+            }
+        },
+        {
+            "name": "Untainted Jade",
+            "banner_type": 2,
+            "uprate_5": [
+                {
+                    "id": "1251",
+                    "name": "Qingyi",
+                    "rank": 5,
+                    "item_type": "character"
+                }
+            ],
+            "uprate_4": [
+                {
+                    "id": "1061",
+                    "name": "Corin",
+                    "rank": 4,
+                    "item_type": "character"
+                },
+                {
+                    "id": "1081",
+                    "name": "Billy",
+                    "rank": 4,
+                    "item_type": "character"
+                }
+            ],
+            "start_time": {
+                "time": "2024-08-14 02:00:00+08:00",
+                "is_server_time": false
+            },
+            "end_time": {
+                "time": "2024-09-04 11:59:59+01:00",
+                "is_server_time": true
+            }
+        },
+        {
+            "name": "No Match Found",
+            "banner_type": 2,
+            "uprate_5": [
+                {
+                    "id": "1261",
+                    "name": "Jane",
+                    "rank": 5,
+                    "item_type": "character"
+                }
+            ],
+            "uprate_4": [
+                {
+                    "id": "1271",
+                    "name": "Seth",
+                    "rank": 4,
+                    "item_type": "character"
+                },
+                {
+                    "id": "1011",
+                    "name": "Anby",
+                    "rank": 4,
+                    "item_type": "character"
+                }
+            ],
+            "start_time": {
+                "time": "2024-09-04 12:00:00+01:00",
+                "is_server_time": true
+            },
+            "end_time": {
+                "time": "2024-09-24 14:59:59+01:00",
+                "is_server_time": true
+            }
+        },
+        {
+            "name": "Ember-Crowned Overlord",
+            "banner_type": 2,
+            "uprate_5": [
+                {
+                    "id": "1071",
+                    "name": "Caesar",
+                    "rank": 5,
+                    "item_type": "character"
+                }
+            ],
+            "uprate_4": [
+                {
+                    "id": "1281",
+                    "name": "Piper",
+                    "rank": 4,
+                    "item_type": "character"
+                },
+                {
+                    "id": "1111",
+                    "name": "Anton",
+                    "rank": 4,
+                    "item_type": "character"
+                }
+            ],
+            "start_time": {
+                "time": "2024-09-25 02:00:00+08:00",
+                "is_server_time": false
+            },
+            "end_time": {
+                "time": "2024-10-16 11:59:59+01:00",
+                "is_server_time": true
+            }
+        },
+        {
+            "name": "Born to Burn",
+            "banner_type": 2,
+            "uprate_5": [
+                {
+                    "id": "1171",
+                    "name": "Burnice",
+                    "rank": 5,
+                    "item_type": "character"
+                }
+            ],
+            "uprate_4": [
+                {
+                    "id": "1151",
+                    "name": "Lucy",
+                    "rank": 4,
+                    "item_type": "character"
+                },
+                {
+                    "id": "1031",
+                    "name": "Nicole",
+                    "rank": 4,
+                    "item_type": "character"
+                }
+            ],
+            "start_time": {
+                "time": "2024-10-16 12:00:00+01:00",
+                "is_server_time": true
+            },
+            "end_time": {
+                "time": "2024-11-05 14:59:59+01:00",
+                "is_server_time": true
+            }
+        },
+        {
+            "name": "Moonlit Serenity",
+            "banner_type": 2,
+            "uprate_5": [
+                {
+                    "id": "1221",
+                    "name": "Yanagi",
+                    "rank": 5,
+                    "item_type": "character"
+                }
+            ],
+            "uprate_4": [
+                {
+                    "id": "1011",
+                    "name": "Anby",
+                    "rank": 4,
+                    "item_type": "character"
+                },
+                {
+                    "id": "1081",
+                    "name": "Billy",
+                    "rank": 4,
+                    "item_type": "character"
+                }
+            ],
+            "start_time": {
+                "time": "2024-11-06 02:00:00+08:00",
+                "is_server_time": false
+            },
+            "end_time": {
+                "time": "2024-11-27 11:59:59+01:00",
+                "is_server_time": true
+            }
+        },
+        {
+            "name": "Champion of Embers",
+            "banner_type": 2,
+            "uprate_5": [
+                {
+                    "id": "1161",
+                    "name": "Lighter",
+                    "rank": 5,
+                    "item_type": "character"
+                }
+            ],
+            "uprate_4": [
+                {
+                    "id": "1061",
+                    "name": "Corin",
+                    "rank": 4,
+                    "item_type": "character"
+                },
+                {
+                    "id": "1121",
+                    "name": "Ben",
+                    "rank": 4,
+                    "item_type": "character"
+                }
+            ],
+            "start_time": {
+                "time": "2024-11-27 12:00:00+01:00",
+                "is_server_time": true
+            },
+            "end_time": {
+                "time": "2024-12-17 14:59:59+01:00",
+                "is_server_time": true
+            }
+        },
+        {
+            "name": "Honed Blade of Reflection",
+            "banner_type": 2,
+            "uprate_5": [
+                {
+                    "id": "1091",
+                    "name": "Miyabi",
+                    "rank": 5,
+                    "item_type": "character"
+                },
+                {
+                    "id": "1201",
+                    "name": "Harumasa",
+                    "rank": 5,
+                    "item_type": "character"
+                }
+            ],
+            "uprate_4": [
+                {
+                    "id": "1281",
+                    "name": "Piper",
+                    "rank": 4,
+                    "item_type": "character"
+                },
+                {
+                    "id": "1131",
+                    "name": "Soukaku",
+                    "rank": 4,
+                    "item_type": "character"
+                },
+                {
+                    "id": "1151",
+                    "name": "Lucy",
+                    "rank": 4,
+                    "item_type": "character"
+                },
+                {
+                    "id": "1271",
+                    "name": "Seth",
+                    "rank": 4,
+                    "item_type": "character"
+                }
+            ],
+            "start_time": {
+                "time": "2024-12-18 02:00:00+08:00",
+                "is_server_time": false
+            },
+            "end_time": {
+                "time": "2025-01-21 14:59:59+01:00",
+                "is_server_time": true
+            },
+            "names": [
+                "Honed Blade of Reflection",
+                "Per Aspera"
+            ]
+        },
+        {
+            "name": "Thousand Melodies",
+            "banner_type": 2,
+            "uprate_5": [
+                {
+                    "id": "1311",
+                    "name": "Astra Yao",
+                    "rank": 5,
+                    "item_type": "character"
+                },
+                {
+                    "id": "1191",
+                    "name": "Ellen",
+                    "rank": 5,
+                    "item_type": "character"
+                }
+            ],
+            "uprate_4": [
+                {
+                    "id": "1011",
+                    "name": "Anby",
+                    "rank": 4,
+                    "item_type": "character"
+                },
+                {
+                    "id": "1061",
+                    "name": "Corin",
+                    "rank": 4,
+                    "item_type": "character"
+                }
+            ],
+            "start_time": {
+                "time": "2025-01-22 02:00:00+08:00",
+                "is_server_time": false
+            },
+            "end_time": {
+                "time": "2025-02-12 11:59:59+01:00",
+                "is_server_time": true
+            },
+            "names": [
+                "Thousand Melodies",
+                "Mellow Waveride"
+            ]
+        },
+        {
+            "name": "Web of Light and Shadow",
+            "banner_type": 2,
+            "uprate_5": [
+                {
+                    "id": "1321",
+                    "name": "Evelyn",
+                    "rank": 5,
+                    "item_type": "character"
+                },
+                {
+                    "id": "1251",
+                    "name": "Qingyi",
+                    "rank": 5,
+                    "item_type": "character"
+                }
+            ],
+            "uprate_4": [
+                {
+                    "id": "1111",
+                    "name": "Anton",
+                    "rank": 4,
+                    "item_type": "character"
+                },
+                {
+                    "id": "1031",
+                    "name": "Nicole",
+                    "rank": 4,
+                    "item_type": "character"
+                }
+            ],
+            "start_time": {
+                "time": "2025-02-12 12:00:00+01:00",
+                "is_server_time": true
+            },
+            "end_time": {
+                "time": "2025-03-11 14:59:59+01:00",
+                "is_server_time": true
+            },
+            "names": [
+                "Untainted Jade",
+                "Web of Light and Shadow"
+            ]
+        },
+        {
+            "name": "Electric Reflection",
+            "banner_type": 2,
+            "uprate_5": [
+                {
+                    "id": "1381",
+                    "name": "Soldier 0 - Anby",
+                    "rank": 5,
+                    "item_type": "character"
+                },
+                {
+                    "id": "1171",
+                    "name": "Burnice",
+                    "rank": 5,
+                    "item_type": "character"
+                }
+            ],
+            "uprate_4": [
+                {
+                    "id": "1351",
+                    "name": "Pulchra",
+                    "rank": 4,
+                    "item_type": "character"
+                },
+                {
+                    "id": "1121",
+                    "name": "Ben",
+                    "rank": 4,
+                    "item_type": "character"
+                }
+            ],
+            "start_time": {
+                "time": "2025-03-12 02:00:00+08:00",
+                "is_server_time": false
+            },
+            "end_time": {
+                "time": "2025-04-02 11:59:59+01:00",
+                "is_server_time": true
+            },
+            "names": [
+                "Electric Reflection",
+                "Born to Burn"
+            ]
+        },
+        {
+            "name": "Sights of Asphodel",
+            "banner_type": 2,
+            "uprate_5": [
+                {
+                    "id": "1361",
+                    "name": "Trigger",
+                    "rank": 5,
+                    "item_type": "character"
+                },
+                {
+                    "id": "1241",
+                    "name": "Zhu Yuan",
+                    "rank": 5,
+                    "item_type": "character"
+                }
+            ],
+            "uprate_4": [
+                {
+                    "id": "1151",
+                    "name": "Lucy",
+                    "rank": 4,
+                    "item_type": "character"
+                },
+                {
+                    "id": "1081",
+                    "name": "Billy",
+                    "rank": 4,
+                    "item_type": "character"
+                }
+            ],
+            "start_time": {
+                "time": "2025-04-02 12:00:00+01:00",
+                "is_server_time": true
+            },
+            "end_time": {
+                "time": "2025-04-22 14:59:59+01:00",
+                "is_server_time": true
+            },
+            "names": [
+                "Unswerving Bullet",
+                "Sights of Asphodel"
+            ]
+        },
+        {
+            "name": "Soar Into the Gentle Night",
+            "banner_type": 2,
+            "uprate_5": [
+                {
+                    "id": "1331",
+                    "name": "Vivian",
+                    "rank": 5,
+                    "item_type": "character"
+                },
+                {
+                    "id": "1261",
+                    "name": "Jane",
+                    "rank": 5,
+                    "item_type": "character"
+                }
+            ],
+            "uprate_4": [
+                {
+                    "id": "1281",
+                    "name": "Piper",
+                    "rank": 4,
+                    "item_type": "character"
+                },
+                {
+                    "id": "1271",
+                    "name": "Seth",
+                    "rank": 4,
+                    "item_type": "character"
+                }
+            ],
+            "start_time": {
+                "time": "2025-04-23 02:00:00+08:00",
+                "is_server_time": false
+            },
+            "end_time": {
+                "time": "2025-05-14 11:59:59+01:00",
+                "is_server_time": true
+            },
+            "names": [
+                "No Match Found",
+                "Soar Into the Gentle Night"
+            ]
+        },
+        {
+            "name": "As Yesterday Dies",
+            "banner_type": 2,
+            "uprate_5": [
+                {
+                    "id": "1291",
+                    "name": "Hugo",
+                    "rank": 5,
+                    "item_type": "character"
+                },
+                {
+                    "id": "1161",
+                    "name": "Lighter",
+                    "rank": 5,
+                    "item_type": "character"
+                }
+            ],
+            "uprate_4": [
+                {
+                    "id": "1131",
+                    "name": "Soukaku",
+                    "rank": 4,
+                    "item_type": "character"
+                },
+                {
+                    "id": "1111",
+                    "name": "Anton",
+                    "rank": 4,
+                    "item_type": "character"
+                }
+            ],
+            "start_time": {
+                "time": "2025-05-14 12:00:00+01:00",
+                "is_server_time": true
+            },
+            "end_time": {
+                "time": "2025-06-05 14:59:59+01:00",
+                "is_server_time": true
+            },
+            "names": [
+                "Champion of Embers",
+                "As Yesterday Dies"
+            ]
+        },
+        {
+            "name": "Lonely Wayfarer Beyond",
+            "banner_type": 2,
+            "uprate_5": [
+                {
+                    "id": "1371",
+                    "name": "Yixuan",
+                    "rank": 5,
+                    "item_type": "character"
+                },
+                {
+                    "id": "1311",
+                    "name": "Astra Yao",
+                    "rank": 5,
+                    "item_type": "character"
+                }
+            ],
+            "uprate_4": [
+                {
+                    "id": "1421",
+                    "name": "Pan Yinhu",
+                    "rank": 4,
+                    "item_type": "character"
+                },
+                {
+                    "id": "1351",
+                    "name": "Pulchra",
+                    "rank": 4,
+                    "item_type": "character"
+                }
+            ],
+            "start_time": {
+                "time": "2025-06-06 02:00:00+08:00",
+                "is_server_time": false
+            },
+            "end_time": {
+                "time": "2025-06-25 11:59:59+01:00",
+                "is_server_time": true
+            },
+            "names": [
+                "Thousand Melodies",
+                "Lonely Wayfarer Beyond"
+            ]
+        },
+        {
+            "name": "Fu-rocious Feline",
+            "banner_type": 2,
+            "uprate_5": [
+                {
+                    "id": "1391",
+                    "name": "Ju Fufu",
+                    "rank": 5,
+                    "item_type": "character"
+                },
+                {
+                    "id": "1071",
+                    "name": "Caesar",
+                    "rank": 5,
+                    "item_type": "character"
+                }
+            ],
+            "uprate_4": [
+                {
+                    "id": "1061",
+                    "name": "Corin",
+                    "rank": 4,
+                    "item_type": "character"
+                },
+                {
+                    "id": "1121",
+                    "name": "Ben",
+                    "rank": 4,
+                    "item_type": "character"
+                }
+            ],
+            "start_time": {
+                "time": "2025-06-25 12:00:00+01:00",
+                "is_server_time": true
+            },
+            "end_time": {
+                "time": "2025-07-15 14:59:59+01:00",
+                "is_server_time": true
+            },
+            "names": [
+                "Ember-Crowned Overlord",
+                "Fu-rocious Feline"
+            ]
+        },
+        {
+            "name": "Whispered Tales",
+            "banner_type": 2,
+            "uprate_5": [
+                {
+                    "id": "1411",
+                    "name": "Yuzuha",
+                    "rank": 5,
+                    "item_type": "character"
+                },
+                {
+                    "id": "1091",
+                    "name": "Miyabi",
+                    "rank": 5,
+                    "item_type": "character"
+                }
+            ],
+            "uprate_4": [
+                {
+                    "id": "1281",
+                    "name": "Piper",
+                    "rank": 4,
+                    "item_type": "character"
+                },
+                {
+                    "id": "1081",
+                    "name": "Billy",
+                    "rank": 4,
+                    "item_type": "character"
+                }
+            ],
+            "start_time": {
+                "time": "2025-07-16 02:00:00+08:00",
+                "is_server_time": false
+            },
+            "end_time": {
+                "time": "2025-08-06 11:59:59+01:00",
+                "is_server_time": true
+            },
+            "names": [
+                "Whispered Tales",
+                "Honed Blade of Reflection"
+            ]
+        },
+        {
+            "name": "Sworn to Noble Courage",
+            "banner_type": 2,
+            "uprate_5": [
+                {
+                    "id": "1401",
+                    "name": "Alice",
+                    "rank": 5,
+                    "item_type": "character"
+                },
+                {
+                    "id": "1221",
+                    "name": "Yanagi",
+                    "rank": 5,
+                    "item_type": "character"
+                }
+            ],
+            "uprate_4": [
+                {
+                    "id": "1131",
+                    "name": "Soukaku",
+                    "rank": 4,
+                    "item_type": "character"
+                },
+                {
+                    "id": "1271",
+                    "name": "Seth",
+                    "rank": 4,
+                    "item_type": "character"
+                }
+            ],
+            "start_time": {
+                "time": "2025-08-06 12:00:00+01:00",
+                "is_server_time": true
+            },
+            "end_time": {
+                "time": "2025-09-03 14:59:59+01:00",
+                "is_server_time": true
+            },
+            "names": [
+                "Moonlit Serenity",
+                "Sworn to Noble Courage"
+            ]
+        },
+        {
+            "name": "Tearforged Blossoms",
+            "banner_type": 2,
+            "uprate_5": [
+                {
+                    "id": "1461",
+                    "name": "Seed",
+                    "rank": 5,
+                    "item_type": "character"
+                },
+                {
+                    "id": "1361",
+                    "name": "Trigger",
+                    "rank": 5,
+                    "item_type": "character"
+                }
+            ],
+            "uprate_4": [
+                {
+                    "id": "1031",
+                    "name": "Nicole",
+                    "rank": 4,
+                    "item_type": "character"
+                },
+                {
+                    "id": "1011",
+                    "name": "Anby",
+                    "rank": 4,
+                    "item_type": "character"
+                }
+            ],
+            "start_time": {
+                "time": "2025-09-04 02:00:00+08:00",
+                "is_server_time": false
+            },
+            "end_time": {
+                "time": "2025-09-24 11:59:59+01:00",
+                "is_server_time": true
+            },
+            "names": [
+                "Sights of Asphodel",
+                "Tearforged Blossoms"
+            ]
+        },
+        {
+            "name": "Wrathborn Duo",
+            "banner_type": 2,
+            "uprate_5": [
+                {
+                    "id": "1301",
+                    "name": "Orphie & Magus",
+                    "rank": 5,
+                    "item_type": "character"
+                },
+                {
+                    "id": "1321",
+                    "name": "Evelyn",
+                    "rank": 5,
+                    "item_type": "character"
+                }
+            ],
+            "uprate_4": [
+                {
+                    "id": "1151",
+                    "name": "Lucy",
+                    "rank": 4,
+                    "item_type": "character"
+                },
+                {
+                    "id": "1111",
+                    "name": "Anton",
+                    "rank": 4,
+                    "item_type": "character"
+                }
+            ],
+            "start_time": {
+                "time": "2025-09-24 12:00:00+01:00",
+                "is_server_time": true
+            },
+            "end_time": {
+                "time": "2025-10-14 14:59:59+01:00",
+                "is_server_time": true
+            },
+            "names": [
+                "Web of Light and Shadow",
+                "Wrathborn Duo"
+            ]
+        },
+        {
+            "name": "Wandering Night Lantern",
+            "banner_type": 2,
+            "uprate_5": [
+                {
+                    "id": "1451",
+                    "name": "Lucia",
+                    "rank": 5,
+                    "item_type": "character"
+                },
+                {
+                    "id": "1331",
+                    "name": "Vivian",
+                    "rank": 5,
+                    "item_type": "character"
+                }
+            ],
+            "uprate_4": [
+                {
+                    "id": "1441",
+                    "name": "Manato",
+                    "rank": 4,
+                    "item_type": "character"
+                },
+                {
+                    "id": "1281",
+                    "name": "Piper",
+                    "rank": 4,
+                    "item_type": "character"
+                }
+            ],
+            "start_time": {
+                "time": "2025-10-15 02:00:00+08:00",
+                "is_server_time": false
+            },
+            "end_time": {
+                "time": "2025-11-05 11:59:59+01:00",
+                "is_server_time": true
+            },
+            "names": [
+                "Wandering Night Lantern",
+                "Soar Into the Gentle Night"
+            ]
+        },
+        {
+            "name": "Alone in a Shared Dream",
+            "banner_type": 2,
+            "uprate_5": [
+                {
+                    "id": "1051",
+                    "name": "Yidhari",
+                    "rank": 5,
+                    "item_type": "character"
+                },
+                {
+                    "id": "1391",
+                    "name": "Ju Fufu",
+                    "rank": 5,
+                    "item_type": "character"
+                }
+            ],
+            "uprate_4": [
+                {
+                    "id": "1421",
+                    "name": "Pan Yinhu",
+                    "rank": 4,
+                    "item_type": "character"
+                },
+                {
+                    "id": "1351",
+                    "name": "Pulchra",
+                    "rank": 4,
+                    "item_type": "character"
+                }
+            ],
+            "start_time": {
+                "time": "2025-11-05 12:00:00+01:00",
+                "is_server_time": true
+            },
+            "end_time": {
+                "time": "2025-11-25 14:59:59+01:00",
+                "is_server_time": true
+            },
+            "names": [
+                "Fu-rocious Feline",
+                "Alone in a Shared Dream"
+            ]
+        },
+        {
+            "name": "As Yesterday Dies",
+            "banner_type": 2,
+            "uprate_5": [
+                {
+                    "id": "1291",
+                    "name": "Hugo",
+                    "rank": 5,
+                    "item_type": "character"
+                },
+                {
+                    "id": "1481",
+                    "name": "Dialyn",
+                    "rank": 5,
+                    "item_type": "character"
+                }
+            ],
+            "uprate_4": [
+                {
+                    "id": "1061",
+                    "name": "Corin",
+                    "rank": 4,
+                    "item_type": "character"
+                },
+                {
+                    "id": "1081",
+                    "name": "Billy",
+                    "rank": 4,
+                    "item_type": "character"
+                }
+            ],
+            "start_time": {
+                "time": "2025-11-26 03:00:00+08:00",
+                "is_server_time": false
+            },
+            "end_time": {
+                "time": "2025-12-17 11:59:59+01:00",
+                "is_server_time": true
+            },
+            "names": [
+                "Voice of the Once-Spoken",
+                "As Yesterday Dies"
+            ]
+        }
+    ],
+    "3": [
+        {
+            "name": "Dissonant Sonata",
+            "banner_type": 3,
+            "uprate_5": [
+                {
+                    "id": "14124",
+                    "name": "Riot Suppressor Mark VI",
+                    "rank": 5,
+                    "item_type": "weapon"
+                }
+            ],
+            "uprate_4": [
+                {
+                    "id": "13103",
+                    "name": "The Vault",
+                    "rank": 4,
+                    "item_type": "weapon"
+                },
+                {
+                    "id": "13112",
+                    "name": "Big Cylinder",
+                    "rank": 4,
+                    "item_type": "weapon"
+                }
+            ],
+            "start_time": {
+                "time": "2024-07-24 12:00:00+01:00",
+                "is_server_time": true
+            },
+            "end_time": {
+                "time": "2024-08-13 14:59:59+01:00",
+                "is_server_time": true
+            }
+        },
+        {
+            "name": "Dissonant Sonata",
+            "banner_type": 3,
+            "uprate_5": [
+                {
+                    "id": "14125",
+                    "name": "Ice-Jade Teapot",
+                    "rank": 5,
+                    "item_type": "weapon"
+                }
+            ],
+            "uprate_4": [
+                {
+                    "id": "13106",
+                    "name": "Housekeeper",
+                    "rank": 4,
+                    "item_type": "weapon"
+                },
+                {
+                    "id": "13108",
+                    "name": "Starlight Engine Replica",
+                    "rank": 4,
+                    "item_type": "weapon"
+                }
+            ],
+            "start_time": {
+                "time": "2024-08-14 02:00:00+08:00",
+                "is_server_time": false
+            },
+            "end_time": {
+                "time": "2024-09-04 11:59:59+01:00",
+                "is_server_time": true
+            }
+        },
+        {
+            "name": "Dissonant Sonata",
+            "banner_type": 3,
+            "uprate_5": [
+                {
+                    "id": "14126",
+                    "name": "Sharpened Stinger",
+                    "rank": 5,
+                    "item_type": "weapon"
+                }
+            ],
+            "uprate_4": [
+                {
+                    "id": "13127",
+                    "name": "Peacekeeper - Specialized",
+                    "rank": 4,
+                    "item_type": "weapon"
+                },
+                {
+                    "id": "13101",
+                    "name": "Demara Battery Mark II",
+                    "rank": 4,
+                    "item_type": "weapon"
+                }
+            ],
+            "start_time": {
+                "time": "2024-09-04 12:00:00+01:00",
+                "is_server_time": true
+            },
+            "end_time": {
+                "time": "2024-09-24 14:59:59+01:00",
+                "is_server_time": true
+            }
+        },
+        {
+            "name": "Dissonant Sonata",
+            "banner_type": 3,
+            "uprate_5": [
+                {
+                    "id": "14107",
+                    "name": "Tusks of Fury",
+                    "rank": 5,
+                    "item_type": "weapon"
+                }
+            ],
+            "uprate_4": [
+                {
+                    "id": "13128",
+                    "name": "Roaring Ride",
+                    "rank": 4,
+                    "item_type": "weapon"
+                },
+                {
+                    "id": "13111",
+                    "name": "Drill Rig - Red Axis",
+                    "rank": 4,
+                    "item_type": "weapon"
+                }
+            ],
+            "start_time": {
+                "time": "2024-09-25 02:00:00+08:00",
+                "is_server_time": false
+            },
+            "end_time": {
+                "time": "2024-10-16 11:59:59+01:00",
+                "is_server_time": true
+            }
+        },
+        {
+            "name": "Dissonant Sonata",
+            "banner_type": 3,
+            "uprate_5": [
+                {
+                    "id": "14117",
+                    "name": "Flamemaker Shaker",
+                    "rank": 5,
+                    "item_type": "weapon"
+                }
+            ],
+            "uprate_4": [
+                {
+                    "id": "13115",
+                    "name": "Kaboom the Cannon",
+                    "rank": 4,
+                    "item_type": "weapon"
+                },
+                {
+                    "id": "13103",
+                    "name": "The Vault",
+                    "rank": 4,
+                    "item_type": "weapon"
+                }
+            ],
+            "start_time": {
+                "time": "2024-10-16 12:00:00+01:00",
+                "is_server_time": true
+            },
+            "end_time": {
+                "time": "2024-11-05 14:59:59+01:00",
+                "is_server_time": true
+            }
+        },
+        {
+            "name": "Dissonant Sonata",
+            "banner_type": 3,
+            "uprate_5": [
+                {
+                    "id": "14122",
+                    "name": "Timeweaver",
+                    "rank": 5,
+                    "item_type": "weapon"
+                }
+            ],
+            "uprate_4": [
+                {
+                    "id": "13101",
+                    "name": "Demara Battery Mark II",
+                    "rank": 4,
+                    "item_type": "weapon"
+                },
+                {
+                    "id": "13108",
+                    "name": "Starlight Engine Replica",
+                    "rank": 4,
+                    "item_type": "weapon"
+                }
+            ],
+            "start_time": {
+                "time": "2024-11-06 02:00:00+08:00",
+                "is_server_time": false
+            },
+            "end_time": {
+                "time": "2024-11-27 11:59:59+01:00",
+                "is_server_time": true
+            }
+        },
+        {
+            "name": "Dissonant Sonata",
+            "banner_type": 3,
+            "uprate_5": [
+                {
+                    "id": "14116",
+                    "name": "Blazing Laurel",
+                    "rank": 5,
+                    "item_type": "weapon"
+                }
+            ],
+            "uprate_4": [
+                {
+                    "id": "13106",
+                    "name": "Housekeeper",
+                    "rank": 4,
+                    "item_type": "weapon"
+                },
+                {
+                    "id": "13112",
+                    "name": "Big Cylinder",
+                    "rank": 4,
+                    "item_type": "weapon"
+                }
+            ],
+            "start_time": {
+                "time": "2024-11-27 12:00:00+01:00",
+                "is_server_time": true
+            },
+            "end_time": {
+                "time": "2024-12-17 14:59:59+01:00",
+                "is_server_time": true
+            }
+        },
+        {
+            "name": "Dissonant Sonata",
+            "banner_type": 3,
+            "uprate_5": [
+                {
+                    "id": "14109",
+                    "name": "Hailstorm Shrine",
+                    "rank": 5,
+                    "item_type": "weapon"
+                },
+                {
+                    "id": "14120",
+                    "name": "Zanshin Herb Case",
+                    "rank": 5,
+                    "item_type": "weapon"
+                }
+            ],
+            "uprate_4": [
+                {
+                    "id": "13128",
+                    "name": "Roaring Ride",
+                    "rank": 4,
+                    "item_type": "weapon"
+                },
+                {
+                    "id": "13113",
+                    "name": "Bashful Demon",
+                    "rank": 4,
+                    "item_type": "weapon"
+                },
+                {
+                    "id": "13115",
+                    "name": "Kaboom the Cannon",
+                    "rank": 4,
+                    "item_type": "weapon"
+                },
+                {
+                    "id": "13127",
+                    "name": "Peacekeeper - Specialized",
+                    "rank": 4,
+                    "item_type": "weapon"
+                }
+            ],
+            "start_time": {
+                "time": "2024-12-18 02:00:00+08:00",
+                "is_server_time": false
+            },
+            "end_time": {
+                "time": "2025-01-21 14:59:59+01:00",
+                "is_server_time": true
+            },
+            "names": [
+                "Dazzling Choir",
+                "Dissonant Sonata"
+            ]
+        },
+        {
+            "name": "Dissonant Sonata",
+            "banner_type": 3,
+            "uprate_5": [
+                {
+                    "id": "14131",
+                    "name": "Elegant Vanity",
+                    "rank": 5,
+                    "item_type": "weapon"
+                },
+                {
+                    "id": "14119",
+                    "name": "Deep Sea Visitor",
+                    "rank": 5,
+                    "item_type": "weapon"
+                }
+            ],
+            "uprate_4": [
+                {
+                    "id": "13101",
+                    "name": "Demara Battery Mark II",
+                    "rank": 4,
+                    "item_type": "weapon"
+                },
+                {
+                    "id": "13106",
+                    "name": "Housekeeper",
+                    "rank": 4,
+                    "item_type": "weapon"
+                }
+            ],
+            "start_time": {
+                "time": "2025-01-22 02:00:00+08:00",
+                "is_server_time": false
+            },
+            "end_time": {
+                "time": "2025-02-12 11:59:59+01:00",
+                "is_server_time": true
+            },
+            "names": [
+                "Dazzling Choir",
+                "Dissonant Sonata"
+            ]
+        },
+        {
+            "name": "Dissonant Sonata",
+            "banner_type": 3,
+            "uprate_5": [
+                {
+                    "id": "14132",
+                    "name": "Heartstring Nocturne",
+                    "rank": 5,
+                    "item_type": "weapon"
+                },
+                {
+                    "id": "14125",
+                    "name": "Ice-Jade Teapot",
+                    "rank": 5,
+                    "item_type": "weapon"
+                }
+            ],
+            "uprate_4": [
+                {
+                    "id": "13111",
+                    "name": "Drill Rig - Red Axis",
+                    "rank": 4,
+                    "item_type": "weapon"
+                },
+                {
+                    "id": "13103",
+                    "name": "The Vault",
+                    "rank": 4,
+                    "item_type": "weapon"
+                }
+            ],
+            "start_time": {
+                "time": "2025-02-12 12:00:00+01:00",
+                "is_server_time": true
+            },
+            "end_time": {
+                "time": "2025-03-11 14:59:59+01:00",
+                "is_server_time": true
+            },
+            "names": [
+                "Dazzling Choir",
+                "Dissonant Sonata"
+            ]
+        },
+        {
+            "name": "Dissonant Sonata",
+            "banner_type": 3,
+            "uprate_5": [
+                {
+                    "id": "14138",
+                    "name": "Severed Innocence",
+                    "rank": 5,
+                    "item_type": "weapon"
+                },
+                {
+                    "id": "14117",
+                    "name": "Flamemaker Shaker",
+                    "rank": 5,
+                    "item_type": "weapon"
+                }
+            ],
+            "uprate_4": [
+                {
+                    "id": "13135",
+                    "name": "Box Cutter",
+                    "rank": 4,
+                    "item_type": "weapon"
+                },
+                {
+                    "id": "13112",
+                    "name": "Big Cylinder",
+                    "rank": 4,
+                    "item_type": "weapon"
+                }
+            ],
+            "start_time": {
+                "time": "2025-03-12 02:00:00+08:00",
+                "is_server_time": false
+            },
+            "end_time": {
+                "time": "2025-04-02 11:59:59+01:00",
+                "is_server_time": true
+            },
+            "names": [
+                "Vibrant Resonance",
+                "Dissonant Sonata"
+            ]
+        },
+        {
+            "name": "Dazzling Choir",
+            "banner_type": 3,
+            "uprate_5": [
+                {
+                    "id": "14136",
+                    "name": "Spectral Gaze",
+                    "rank": 5,
+                    "item_type": "weapon"
+                },
+                {
+                    "id": "14124",
+                    "name": "Riot Suppressor Mark VI",
+                    "rank": 5,
+                    "item_type": "weapon"
+                }
+            ],
+            "uprate_4": [
+                {
+                    "id": "13115",
+                    "name": "Kaboom the Cannon",
+                    "rank": 4,
+                    "item_type": "weapon"
+                },
+                {
+                    "id": "13108",
+                    "name": "Starlight Engine Replica",
+                    "rank": 4,
+                    "item_type": "weapon"
+                }
+            ],
+            "start_time": {
+                "time": "2025-04-02 12:00:00+01:00",
+                "is_server_time": true
+            },
+            "end_time": {
+                "time": "2025-04-22 14:59:59+01:00",
+                "is_server_time": true
+            },
+            "names": [
+                "Dazzling Choir",
+                "Dazzling Melody"
+            ]
+        },
+        {
+            "name": "Dissonant Sonata",
+            "banner_type": 3,
+            "uprate_5": [
+                {
+                    "id": "14133",
+                    "name": "Flight of Fancy",
+                    "rank": 5,
+                    "item_type": "weapon"
+                },
+                {
+                    "id": "14126",
+                    "name": "Sharpened Stinger",
+                    "rank": 5,
+                    "item_type": "weapon"
+                }
+            ],
+            "uprate_4": [
+                {
+                    "id": "13128",
+                    "name": "Roaring Ride",
+                    "rank": 4,
+                    "item_type": "weapon"
+                },
+                {
+                    "id": "13127",
+                    "name": "Peacekeeper - Specialized",
+                    "rank": 4,
+                    "item_type": "weapon"
+                }
+            ],
+            "start_time": {
+                "time": "2025-04-23 02:00:00+08:00",
+                "is_server_time": false
+            },
+            "end_time": {
+                "time": "2025-05-14 11:59:59+01:00",
+                "is_server_time": true
+            },
+            "names": [
+                "Vibrant Resonance",
+                "Dissonant Sonata"
+            ]
+        },
+        {
+            "name": "Dazzling Choir",
+            "banner_type": 3,
+            "uprate_5": [
+                {
+                    "id": "14129",
+                    "name": "Myriad Eclipse",
+                    "rank": 5,
+                    "item_type": "weapon"
+                },
+                {
+                    "id": "14116",
+                    "name": "Blazing Laurel",
+                    "rank": 5,
+                    "item_type": "weapon"
+                }
+            ],
+            "uprate_4": [
+                {
+                    "id": "13113",
+                    "name": "Bashful Demon",
+                    "rank": 4,
+                    "item_type": "weapon"
+                },
+                {
+                    "id": "13111",
+                    "name": "Drill Rig - Red Axis",
+                    "rank": 4,
+                    "item_type": "weapon"
+                }
+            ],
+            "start_time": {
+                "time": "2025-05-14 12:00:00+01:00",
+                "is_server_time": true
+            },
+            "end_time": {
+                "time": "2025-06-05 14:59:59+01:00",
+                "is_server_time": true
+            },
+            "names": [
+                "Dazzling Choir",
+                "Dazzling Melody"
+            ]
+        },
+        {
+            "name": "Dissonant Sonata",
+            "banner_type": 3,
+            "uprate_5": [
+                {
+                    "id": "14137",
+                    "name": "Qingming Birdcage",
+                    "rank": 5,
+                    "item_type": "weapon"
+                },
+                {
+                    "id": "14131",
+                    "name": "Elegant Vanity",
+                    "rank": 5,
+                    "item_type": "weapon"
+                }
+            ],
+            "uprate_4": [
+                {
+                    "id": "13142",
+                    "name": "Tremor Trigram Vessel",
+                    "rank": 4,
+                    "item_type": "weapon"
+                },
+                {
+                    "id": "13135",
+                    "name": "Box Cutter",
+                    "rank": 4,
+                    "item_type": "weapon"
+                }
+            ],
+            "start_time": {
+                "time": "2025-06-06 02:00:00+08:00",
+                "is_server_time": false
+            },
+            "end_time": {
+                "time": "2025-06-25 11:59:59+01:00",
+                "is_server_time": true
+            },
+            "names": [
+                "Vibrant Resonance",
+                "Dissonant Sonata"
+            ]
+        },
+        {
+            "name": "Dazzling Choir",
+            "banner_type": 3,
+            "uprate_5": [
+                {
+                    "id": "14139",
+                    "name": "Roaring Fur-nace",
+                    "rank": 5,
+                    "item_type": "weapon"
+                },
+                {
+                    "id": "14107",
+                    "name": "Tusks of Fury",
+                    "rank": 5,
+                    "item_type": "weapon"
+                }
+            ],
+            "uprate_4": [
+                {
+                    "id": "13106",
+                    "name": "Housekeeper",
+                    "rank": 4,
+                    "item_type": "weapon"
+                },
+                {
+                    "id": "13112",
+                    "name": "Big Cylinder",
+                    "rank": 4,
+                    "item_type": "weapon"
+                }
+            ],
+            "start_time": {
+                "time": "2025-06-25 12:00:00+01:00",
+                "is_server_time": true
+            },
+            "end_time": {
+                "time": "2025-07-15 14:59:59+01:00",
+                "is_server_time": true
+            },
+            "names": [
+                "Dazzling Choir",
+                "Dazzling Melody"
+            ]
+        },
+        {
+            "name": "Dissonant Sonata",
+            "banner_type": 3,
+            "uprate_5": [
+                {
+                    "id": "14141",
+                    "name": "Metanukimorphosis",
+                    "rank": 5,
+                    "item_type": "weapon"
+                },
+                {
+                    "id": "14109",
+                    "name": "Hailstorm Shrine",
+                    "rank": 5,
+                    "item_type": "weapon"
+                }
+            ],
+            "uprate_4": [
+                {
+                    "id": "13128",
+                    "name": "Roaring Ride",
+                    "rank": 4,
+                    "item_type": "weapon"
+                },
+                {
+                    "id": "13108",
+                    "name": "Starlight Engine Replica",
+                    "rank": 4,
+                    "item_type": "weapon"
+                }
+            ],
+            "start_time": {
+                "time": "2025-07-16 02:00:00+08:00",
+                "is_server_time": false
+            },
+            "end_time": {
+                "time": "2025-08-06 11:59:59+01:00",
+                "is_server_time": true
+            },
+            "names": [
+                "Vibrant Resonance",
+                "Dissonant Sonata"
+            ]
+        },
+        {
+            "name": "Dazzling Choir",
+            "banner_type": 3,
+            "uprate_5": [
+                {
+                    "id": "14140",
+                    "name": "Practiced Perfection",
+                    "rank": 5,
+                    "item_type": "weapon"
+                },
+                {
+                    "id": "14122",
+                    "name": "Timeweaver",
+                    "rank": 5,
+                    "item_type": "weapon"
+                }
+            ],
+            "uprate_4": [
+                {
+                    "id": "13113",
+                    "name": "Bashful Demon",
+                    "rank": 4,
+                    "item_type": "weapon"
+                },
+                {
+                    "id": "13127",
+                    "name": "Peacekeeper - Specialized",
+                    "rank": 4,
+                    "item_type": "weapon"
+                }
+            ],
+            "start_time": {
+                "time": "2025-08-06 12:00:00+01:00",
+                "is_server_time": true
+            },
+            "end_time": {
+                "time": "2025-09-03 14:59:59+01:00",
+                "is_server_time": true
+            },
+            "names": [
+                "Dazzling Choir",
+                "Dazzling Melody"
+            ]
+        },
+        {
+            "name": "Dissonant Sonata",
+            "banner_type": 3,
+            "uprate_5": [
+                {
+                    "id": "14146",
+                    "name": "Cordis Germina",
+                    "rank": 5,
+                    "item_type": "weapon"
+                },
+                {
+                    "id": "14136",
+                    "name": "Spectral Gaze",
+                    "rank": 5,
+                    "item_type": "weapon"
+                }
+            ],
+            "uprate_4": [
+                {
+                    "id": "13103",
+                    "name": "The Vault",
+                    "rank": 4,
+                    "item_type": "weapon"
+                },
+                {
+                    "id": "13101",
+                    "name": "Demara Battery Mark II",
+                    "rank": 4,
+                    "item_type": "weapon"
+                }
+            ],
+            "start_time": {
+                "time": "2025-09-04 02:00:00+08:00",
+                "is_server_time": false
+            },
+            "end_time": {
+                "time": "2025-09-24 11:59:59+01:00",
+                "is_server_time": true
+            },
+            "names": [
+                "Vibrant Resonance",
+                "Dissonant Sonata"
+            ]
+        },
+        {
+            "name": "Dazzling Choir",
+            "banner_type": 3,
+            "uprate_5": [
+                {
+                    "id": "14130",
+                    "name": "Bellicose Blaze",
+                    "rank": 5,
+                    "item_type": "weapon"
+                },
+                {
+                    "id": "14132",
+                    "name": "Heartstring Nocturne",
+                    "rank": 5,
+                    "item_type": "weapon"
+                }
+            ],
+            "uprate_4": [
+                {
+                    "id": "13115",
+                    "name": "Kaboom the Cannon",
+                    "rank": 4,
+                    "item_type": "weapon"
+                },
+                {
+                    "id": "13111",
+                    "name": "Drill Rig - Red Axis",
+                    "rank": 4,
+                    "item_type": "weapon"
+                }
+            ],
+            "start_time": {
+                "time": "2025-09-24 12:00:00+01:00",
+                "is_server_time": true
+            },
+            "end_time": {
+                "time": "2025-10-14 14:59:59+01:00",
+                "is_server_time": true
+            },
+            "names": [
+                "Dazzling Choir",
+                "Dazzling Melody"
+            ]
+        },
+        {
+            "name": "Dissonant Sonata",
+            "banner_type": 3,
+            "uprate_5": [
+                {
+                    "id": "14145",
+                    "name": "Dreamlit Hearth",
+                    "rank": 5,
+                    "item_type": "weapon"
+                },
+                {
+                    "id": "14133",
+                    "name": "Flight of Fancy",
+                    "rank": 5,
+                    "item_type": "weapon"
+                }
+            ],
+            "uprate_4": [
+                {
+                    "id": "13144",
+                    "name": "Grill O'Wisp",
+                    "rank": 4,
+                    "item_type": "weapon"
+                },
+                {
+                    "id": "13128",
+                    "name": "Roaring Ride",
+                    "rank": 4,
+                    "item_type": "weapon"
+                }
+            ],
+            "start_time": {
+                "time": "2025-10-15 02:00:00+08:00",
+                "is_server_time": false
+            },
+            "end_time": {
+                "time": "2025-11-05 11:59:59+01:00",
+                "is_server_time": true
+            },
+            "names": [
+                "Vibrant Resonance",
+                "Dissonant Sonata"
+            ]
+        },
+        {
+            "name": "Dazzling Choir",
+            "banner_type": 3,
+            "uprate_5": [
+                {
+                    "id": "14105",
+                    "name": "Kraken's Cradle",
+                    "rank": 5,
+                    "item_type": "weapon"
+                },
+                {
+                    "id": "14139",
+                    "name": "Roaring Fur-nace",
+                    "rank": 5,
+                    "item_type": "weapon"
+                }
+            ],
+            "uprate_4": [
+                {
+                    "id": "13142",
+                    "name": "Tremor Trigram Vessel",
+                    "rank": 4,
+                    "item_type": "weapon"
+                },
+                {
+                    "id": "13135",
+                    "name": "Box Cutter",
+                    "rank": 4,
+                    "item_type": "weapon"
+                }
+            ],
+            "start_time": {
+                "time": "2025-11-05 12:00:00+01:00",
+                "is_server_time": true
+            },
+            "end_time": {
+                "time": "2025-11-25 14:59:59+01:00",
+                "is_server_time": true
+            },
+            "names": [
+                "Dazzling Choir",
+                "Dazzling Melody"
+            ]
+        },
+        {
+            "name": "Dissonant Sonata",
+            "banner_type": 3,
+            "uprate_5": [
+                {
+                    "id": "14148",
+                    "name": "Yesterday Calls",
+                    "rank": 5,
+                    "item_type": "lightcone"
+                },
+                {
+                    "id": "14129",
+                    "name": "Myriad Eclipse",
+                    "rank": 5,
+                    "item_type": "lightcone"
+                }
+            ],
+            "uprate_4": [
+                {
+                    "id": "13106",
+                    "name": "Housekeeper",
+                    "rank": 4,
+                    "item_type": "lightcone"
+                },
+                {
+                    "id": "13108",
+                    "name": "Starlight Engine Replica",
+                    "rank": 4,
+                    "item_type": "lightcone"
+                }
+            ],
+            "start_time": {
+                "time": "2025-11-26 03:00:00+08:00",
+                "is_server_time": false
+            },
+            "end_time": {
+                "time": "2025-12-17 11:59:59+01:00",
+                "is_server_time": true
+            },
+            "names": [
+                "Vibrant Resonance",
+                "Dissonant Sonata"
+            ]
+        }
+    ]
+}
