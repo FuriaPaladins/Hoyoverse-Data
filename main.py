@@ -146,7 +146,7 @@ class BannerParser:
         response = await self.session.get(getattr(GachaBannerURLS, self.game.upper()).format(banner=banner['gacha_id']))
         data = await response.json()
 
-        async with aiofiles.open(self.file_path, "w") as f:
+        async with aiofiles.open(file_path, "w") as f:
             await f.write(json.dumps(data, indent=4))
 
     async def parse_formatted_banner(self, banner: dict):
@@ -222,9 +222,6 @@ class BannerParser:
         async with aiofiles.open(f"banners/hsr/{banner['gacha_id']}.json", "r") as f:
             banner_data = await f.read()
             banner_data = json.loads(banner_data)
-
-        with open(f"banners/hsr/{banner['gacha_id']}.json") as f:
-            banner_data = json.load(f)
 
         parsed_5 = [self.parse_drop_hsr(i) for i in (banner_data["items_up_star_5"] or [])]
         parsed_4 = [self.parse_drop_hsr(i) for i in (banner_data["items_up_star_4"] or [])]
