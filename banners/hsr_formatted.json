@@ -1,0 +1,4966 @@
+{
+    "12": [
+        {
+            "name": "Brilliant Fixation",
+            "banner_type": 12,
+            "uprate_5": [
+                {
+                    "id": 23001,
+                    "name": "In the Night",
+                    "rank": 5,
+                    "item_type": "lightcone"
+                }
+            ],
+            "uprate_4": [
+                {
+                    "id": 21000,
+                    "name": "Post-Op Conversation",
+                    "rank": 4,
+                    "item_type": "lightcone"
+                },
+                {
+                    "id": 21001,
+                    "name": "Good Night and Sleep Well",
+                    "rank": 4,
+                    "item_type": "lightcone"
+                },
+                {
+                    "id": 21005,
+                    "name": "The Moles Welcome You",
+                    "rank": 4,
+                    "item_type": "lightcone"
+                }
+            ],
+            "start_time": {
+                "time": "2023-04-25 09:00:00+08:00",
+                "is_server_time": false
+            },
+            "end_time": {
+                "time": "2023-05-17 17:59:00+01:00",
+                "is_server_time": true
+            }
+        },
+        {
+            "name": "Brilliant Fixation",
+            "banner_type": 12,
+            "uprate_5": [
+                {
+                    "id": 23010,
+                    "name": "Before Dawn",
+                    "rank": 5,
+                    "item_type": "lightcone"
+                }
+            ],
+            "uprate_4": [
+                {
+                    "id": 21003,
+                    "name": "Only Silence Remains",
+                    "rank": 4,
+                    "item_type": "lightcone"
+                },
+                {
+                    "id": 21002,
+                    "name": "Day One of My New Life",
+                    "rank": 4,
+                    "item_type": "lightcone"
+                },
+                {
+                    "id": 21011,
+                    "name": "Planetary Rendezvous",
+                    "rank": 4,
+                    "item_type": "lightcone"
+                }
+            ],
+            "start_time": {
+                "time": "2023-05-17 18:00:00+01:00",
+                "is_server_time": true
+            },
+            "end_time": {
+                "time": "2023-06-06 14:59:59+01:00",
+                "is_server_time": true
+            }
+        },
+        {
+            "name": "Brilliant Fixation",
+            "banner_type": 12,
+            "uprate_5": [
+                {
+                    "id": 23007,
+                    "name": "Incessant Rain",
+                    "rank": 5,
+                    "item_type": "lightcone"
+                }
+            ],
+            "uprate_4": [
+                {
+                    "id": 21013,
+                    "name": "Make the World Clamor",
+                    "rank": 4,
+                    "item_type": "lightcone"
+                },
+                {
+                    "id": 21004,
+                    "name": "Memories of the Past",
+                    "rank": 4,
+                    "item_type": "lightcone"
+                },
+                {
+                    "id": 21017,
+                    "name": "Subscribe for More!",
+                    "rank": 4,
+                    "item_type": "lightcone"
+                }
+            ],
+            "start_time": {
+                "time": "2023-06-07 09:00:00+08:00",
+                "is_server_time": false
+            },
+            "end_time": {
+                "time": "2023-06-28 12:00:00+01:00",
+                "is_server_time": true
+            }
+        },
+        {
+            "name": "Brilliant Fixation",
+            "banner_type": 12,
+            "uprate_5": [
+                {
+                    "id": 23008,
+                    "name": "Echoes of the Coffin",
+                    "rank": 5,
+                    "item_type": "lightcone"
+                }
+            ],
+            "uprate_4": [
+                {
+                    "id": 21020,
+                    "name": "Geniuses' Repose",
+                    "rank": 4,
+                    "item_type": "lightcone"
+                },
+                {
+                    "id": 21001,
+                    "name": "Good Night and Sleep Well",
+                    "rank": 4,
+                    "item_type": "lightcone"
+                },
+                {
+                    "id": 21018,
+                    "name": "Dance! Dance! Dance!",
+                    "rank": 4,
+                    "item_type": "lightcone"
+                }
+            ],
+            "start_time": {
+                "time": "2023-06-28 12:00:00+01:00",
+                "is_server_time": true
+            },
+            "end_time": {
+                "time": "2023-07-18 14:59:59+01:00",
+                "is_server_time": true
+            }
+        },
+        {
+            "name": "Brilliant Fixation",
+            "banner_type": 12,
+            "uprate_5": [
+                {
+                    "id": 23009,
+                    "name": "The Unreachable Side",
+                    "rank": 5,
+                    "item_type": "lightcone"
+                }
+            ],
+            "uprate_4": [
+                {
+                    "id": 21012,
+                    "name": "A Secret Vow",
+                    "rank": 4,
+                    "item_type": "lightcone"
+                },
+                {
+                    "id": 21007,
+                    "name": "Shared Feeling",
+                    "rank": 4,
+                    "item_type": "lightcone"
+                },
+                {
+                    "id": 21010,
+                    "name": "Swordplay",
+                    "rank": 4,
+                    "item_type": "lightcone"
+                }
+            ],
+            "start_time": {
+                "time": "2023-07-19 10:00:00+08:00",
+                "is_server_time": false
+            },
+            "end_time": {
+                "time": "2023-08-09 11:59:00+01:00",
+                "is_server_time": true
+            }
+        },
+        {
+            "name": "Brilliant Fixation",
+            "banner_type": 12,
+            "uprate_5": [
+                {
+                    "id": 23006,
+                    "name": "Patience Is All You Need",
+                    "rank": 5,
+                    "item_type": "lightcone"
+                }
+            ],
+            "uprate_4": [
+                {
+                    "id": 21015,
+                    "name": "Resolution Shines As Pearls of Sweat",
+                    "rank": 4,
+                    "item_type": "lightcone"
+                },
+                {
+                    "id": 21006,
+                    "name": "The Birth of the Self",
+                    "rank": 4,
+                    "item_type": "lightcone"
+                },
+                {
+                    "id": 21008,
+                    "name": "Eyes of the Prey",
+                    "rank": 4,
+                    "item_type": "lightcone"
+                }
+            ],
+            "start_time": {
+                "time": "2023-08-09 12:00:00+01:00",
+                "is_server_time": true
+            },
+            "end_time": {
+                "time": "2023-08-29 14:59:59+01:00",
+                "is_server_time": true
+            }
+        },
+        {
+            "name": "Brilliant Fixation",
+            "banner_type": 12,
+            "uprate_5": [
+                {
+                    "id": 23015,
+                    "name": "Brighter Than the Sun",
+                    "rank": 5,
+                    "item_type": "lightcone"
+                }
+            ],
+            "uprate_4": [
+                {
+                    "id": 21009,
+                    "name": "Landau's Choice",
+                    "rank": 4,
+                    "item_type": "lightcone"
+                },
+                {
+                    "id": 21011,
+                    "name": "Planetary Rendezvous",
+                    "rank": 4,
+                    "item_type": "lightcone"
+                },
+                {
+                    "id": 21018,
+                    "name": "Dance! Dance! Dance!",
+                    "rank": 4,
+                    "item_type": "lightcone"
+                }
+            ],
+            "start_time": {
+                "time": "2023-08-30 10:00:00+08:00",
+                "is_server_time": false
+            },
+            "end_time": {
+                "time": "2023-09-20 11:59:00+01:00",
+                "is_server_time": true
+            }
+        },
+        {
+            "name": "Brilliant Fixation",
+            "banner_type": 12,
+            "uprate_5": [
+                {
+                    "id": 23011,
+                    "name": "She Already Shut Her Eyes",
+                    "rank": 5,
+                    "item_type": "lightcone"
+                }
+            ],
+            "uprate_4": [
+                {
+                    "id": 21019,
+                    "name": "Under the Blue Sky",
+                    "rank": 4,
+                    "item_type": "lightcone"
+                },
+                {
+                    "id": 21014,
+                    "name": "Perfect Timing",
+                    "rank": 4,
+                    "item_type": "lightcone"
+                },
+                {
+                    "id": 21016,
+                    "name": "Trend of the Universal Market",
+                    "rank": 4,
+                    "item_type": "lightcone"
+                }
+            ],
+            "start_time": {
+                "time": "2023-09-20 12:00:00+01:00",
+                "is_server_time": true
+            },
+            "end_time": {
+                "time": "2023-10-10 14:59:59+01:00",
+                "is_server_time": true
+            }
+        },
+        {
+            "name": "Brilliant Fixation",
+            "banner_type": 12,
+            "uprate_5": [
+                {
+                    "id": 23014,
+                    "name": "I Shall Be My Own Sword",
+                    "rank": 5,
+                    "item_type": "lightcone"
+                }
+            ],
+            "uprate_4": [
+                {
+                    "id": 21013,
+                    "name": "Make the World Clamor",
+                    "rank": 4,
+                    "item_type": "lightcone"
+                },
+                {
+                    "id": 21004,
+                    "name": "Memories of the Past",
+                    "rank": 4,
+                    "item_type": "lightcone"
+                },
+                {
+                    "id": 21008,
+                    "name": "Eyes of the Prey",
+                    "rank": 4,
+                    "item_type": "lightcone"
+                }
+            ],
+            "start_time": {
+                "time": "2023-10-11 11:00:00+01:00",
+                "is_server_time": true
+            },
+            "end_time": {
+                "time": "2023-10-27 11:59:00+01:00",
+                "is_server_time": true
+            }
+        },
+        {
+            "name": "Brilliant Fixation",
+            "banner_type": 12,
+            "uprate_5": [
+                {
+                    "id": 23016,
+                    "name": "Worrisome, Blissful",
+                    "rank": 5,
+                    "item_type": "lightcone"
+                },
+                {
+                    "id": 23001,
+                    "name": "In the Night",
+                    "rank": 5,
+                    "item_type": "lightcone"
+                }
+            ],
+            "uprate_4": [
+                {
+                    "id": 21015,
+                    "name": "Resolution Shines As Pearls of Sweat",
+                    "rank": 4,
+                    "item_type": "lightcone"
+                },
+                {
+                    "id": 21003,
+                    "name": "Only Silence Remains",
+                    "rank": 4,
+                    "item_type": "lightcone"
+                },
+                {
+                    "id": 21005,
+                    "name": "The Moles Welcome You",
+                    "rank": 4,
+                    "item_type": "lightcone"
+                }
+            ],
+            "start_time": {
+                "time": "2023-10-27 12:00:00+01:00",
+                "is_server_time": true
+            },
+            "end_time": {
+                "time": "2023-11-14 14:59:59+01:00",
+                "is_server_time": true
+            },
+            "names": [
+                "Bygone Reminiscence",
+                "Brilliant Fixation"
+            ]
+        },
+        {
+            "name": "Brilliant Fixation",
+            "banner_type": 12,
+            "uprate_5": [
+                {
+                    "id": 23017,
+                    "name": "Night of Fright",
+                    "rank": 5,
+                    "item_type": "lightcone"
+                }
+            ],
+            "uprate_4": [
+                {
+                    "id": 21016,
+                    "name": "Trend of the Universal Market",
+                    "rank": 4,
+                    "item_type": "lightcone"
+                },
+                {
+                    "id": 21007,
+                    "name": "Shared Feeling",
+                    "rank": 4,
+                    "item_type": "lightcone"
+                },
+                {
+                    "id": 21017,
+                    "name": "Subscribe for More!",
+                    "rank": 4,
+                    "item_type": "lightcone"
+                }
+            ],
+            "start_time": {
+                "time": "2023-11-15 10:00:00+08:00",
+                "is_server_time": false
+            },
+            "end_time": {
+                "time": "2023-12-06 11:59:00+01:00",
+                "is_server_time": true
+            }
+        },
+        {
+            "name": "Brilliant Fixation",
+            "banner_type": 12,
+            "uprate_5": [
+                {
+                    "id": 23018,
+                    "name": "An Instant Before A Gaze",
+                    "rank": 5,
+                    "item_type": "lightcone"
+                }
+            ],
+            "uprate_4": [
+                {
+                    "id": 21019,
+                    "name": "Under the Blue Sky",
+                    "rank": 4,
+                    "item_type": "lightcone"
+                },
+                {
+                    "id": 21006,
+                    "name": "The Birth of the Self",
+                    "rank": 4,
+                    "item_type": "lightcone"
+                },
+                {
+                    "id": 21000,
+                    "name": "Post-Op Conversation",
+                    "rank": 4,
+                    "item_type": "lightcone"
+                }
+            ],
+            "start_time": {
+                "time": "2023-12-06 12:00:00+01:00",
+                "is_server_time": true
+            },
+            "end_time": {
+                "time": "2023-12-26 17:59:00+01:00",
+                "is_server_time": true
+            }
+        },
+        {
+            "name": "Bygone Reminiscence",
+            "banner_type": 12,
+            "uprate_5": [
+                {
+                    "id": 23007,
+                    "name": "Incessant Rain",
+                    "rank": 5,
+                    "item_type": "lightcone"
+                }
+            ],
+            "uprate_4": [
+                {
+                    "id": 21019,
+                    "name": "Under the Blue Sky",
+                    "rank": 4,
+                    "item_type": "lightcone"
+                },
+                {
+                    "id": 21006,
+                    "name": "The Birth of the Self",
+                    "rank": 4,
+                    "item_type": "lightcone"
+                },
+                {
+                    "id": 21000,
+                    "name": "Post-Op Conversation",
+                    "rank": 4,
+                    "item_type": "lightcone"
+                }
+            ],
+            "start_time": {
+                "time": "2023-12-06 12:00:00+01:00",
+                "is_server_time": true
+            },
+            "end_time": {
+                "time": "2023-12-26 14:59:59+01:00",
+                "is_server_time": true
+            }
+        },
+        {
+            "name": "Bygone Reminiscence",
+            "banner_type": 12,
+            "uprate_5": [
+                {
+                    "id": 23009,
+                    "name": "The Unreachable Side",
+                    "rank": 5,
+                    "item_type": "lightcone"
+                },
+                {
+                    "id": 23019,
+                    "name": "Past Self in Mirror",
+                    "rank": 5,
+                    "item_type": "lightcone"
+                }
+            ],
+            "uprate_4": [
+                {
+                    "id": 21012,
+                    "name": "A Secret Vow",
+                    "rank": 4,
+                    "item_type": "lightcone"
+                },
+                {
+                    "id": 21002,
+                    "name": "Day One of My New Life",
+                    "rank": 4,
+                    "item_type": "lightcone"
+                },
+                {
+                    "id": 21011,
+                    "name": "Planetary Rendezvous",
+                    "rank": 4,
+                    "item_type": "lightcone"
+                }
+            ],
+            "start_time": {
+                "time": "2023-12-27 10:00:00+08:00",
+                "is_server_time": false
+            },
+            "end_time": {
+                "time": "2024-01-17 11:59:00+01:00",
+                "is_server_time": true
+            },
+            "names": [
+                "Bygone Reminiscence",
+                "Brilliant Fixation"
+            ]
+        },
+        {
+            "name": "Brilliant Fixation",
+            "banner_type": 12,
+            "uprate_5": [
+                {
+                    "id": 23020,
+                    "name": "Baptism of Pure Thought",
+                    "rank": 5,
+                    "item_type": "lightcone"
+                },
+                {
+                    "id": 23006,
+                    "name": "Patience Is All You Need",
+                    "rank": 5,
+                    "item_type": "lightcone"
+                }
+            ],
+            "uprate_4": [
+                {
+                    "id": 21009,
+                    "name": "Landau's Choice",
+                    "rank": 4,
+                    "item_type": "lightcone"
+                },
+                {
+                    "id": 21014,
+                    "name": "Perfect Timing",
+                    "rank": 4,
+                    "item_type": "lightcone"
+                },
+                {
+                    "id": 21003,
+                    "name": "Only Silence Remains",
+                    "rank": 4,
+                    "item_type": "lightcone"
+                }
+            ],
+            "start_time": {
+                "time": "2024-01-17 12:00:00+01:00",
+                "is_server_time": true
+            },
+            "end_time": {
+                "time": "2024-02-05 14:59:59+01:00",
+                "is_server_time": true
+            },
+            "names": [
+                "Bygone Reminiscence",
+                "Brilliant Fixation"
+            ]
+        },
+        {
+            "name": "Brilliant Fixation",
+            "banner_type": 12,
+            "uprate_5": [
+                {
+                    "id": 23022,
+                    "name": "Reforged Remembrance",
+                    "rank": 5,
+                    "item_type": "lightcone"
+                },
+                {
+                    "id": 23015,
+                    "name": "Brighter Than the Sun",
+                    "rank": 5,
+                    "item_type": "lightcone"
+                }
+            ],
+            "uprate_4": [
+                {
+                    "id": 21015,
+                    "name": "Resolution Shines As Pearls of Sweat",
+                    "rank": 4,
+                    "item_type": "lightcone"
+                },
+                {
+                    "id": 21042,
+                    "name": "Indelible Promise",
+                    "rank": 4,
+                    "item_type": "lightcone"
+                },
+                {
+                    "id": 21018,
+                    "name": "Dance! Dance! Dance!",
+                    "rank": 4,
+                    "item_type": "lightcone"
+                }
+            ],
+            "start_time": {
+                "time": "2024-02-06 10:00:00+08:00",
+                "is_server_time": false
+            },
+            "end_time": {
+                "time": "2024-02-29 11:59:00+01:00",
+                "is_server_time": true
+            },
+            "names": [
+                "Bygone Reminiscence",
+                "Brilliant Fixation"
+            ]
+        },
+        {
+            "name": "Bygone Reminiscence",
+            "banner_type": 12,
+            "uprate_5": [
+                {
+                    "id": 23010,
+                    "name": "Before Dawn",
+                    "rank": 5,
+                    "item_type": "lightcone"
+                },
+                {
+                    "id": 23021,
+                    "name": "Earthly Escapade",
+                    "rank": 5,
+                    "item_type": "lightcone"
+                }
+            ],
+            "uprate_4": [
+                {
+                    "id": 21019,
+                    "name": "Under the Blue Sky",
+                    "rank": 4,
+                    "item_type": "lightcone"
+                },
+                {
+                    "id": 21020,
+                    "name": "Geniuses' Repose",
+                    "rank": 4,
+                    "item_type": "lightcone"
+                },
+                {
+                    "id": 21011,
+                    "name": "Planetary Rendezvous",
+                    "rank": 4,
+                    "item_type": "lightcone"
+                }
+            ],
+            "start_time": {
+                "time": "2024-02-29 12:00:00+01:00",
+                "is_server_time": true
+            },
+            "end_time": {
+                "time": "2024-03-26 14:59:59+01:00",
+                "is_server_time": true
+            },
+            "names": [
+                "Bygone Reminiscence",
+                "Brilliant Fixation"
+            ]
+        },
+        {
+            "name": "Brilliant Fixation",
+            "banner_type": 12,
+            "uprate_5": [
+                {
+                    "id": 23024,
+                    "name": "Along the Passing Shore",
+                    "rank": 5,
+                    "item_type": "lightcone"
+                }
+            ],
+            "uprate_4": [
+                {
+                    "id": 21017,
+                    "name": "Subscribe for More!",
+                    "rank": 4,
+                    "item_type": "lightcone"
+                },
+                {
+                    "id": 21000,
+                    "name": "Post-Op Conversation",
+                    "rank": 4,
+                    "item_type": "lightcone"
+                },
+                {
+                    "id": 21001,
+                    "name": "Good Night and Sleep Well",
+                    "rank": 4,
+                    "item_type": "lightcone"
+                }
+            ],
+            "start_time": {
+                "time": "2024-03-27 10:00:00+08:00",
+                "is_server_time": false
+            },
+            "end_time": {
+                "time": "2024-04-17 12:59:00+01:00",
+                "is_server_time": true
+            }
+        },
+        {
+            "name": "Bygone Reminiscence",
+            "banner_type": 12,
+            "uprate_5": [
+                {
+                    "id": 23008,
+                    "name": "Echoes of the Coffin",
+                    "rank": 5,
+                    "item_type": "lightcone"
+                }
+            ],
+            "uprate_4": [
+                {
+                    "id": 21000,
+                    "name": "Post-Op Conversation",
+                    "rank": 4,
+                    "item_type": "lightcone"
+                },
+                {
+                    "id": 21001,
+                    "name": "Good Night and Sleep Well",
+                    "rank": 4,
+                    "item_type": "lightcone"
+                },
+                {
+                    "id": 21017,
+                    "name": "Subscribe for More!",
+                    "rank": 4,
+                    "item_type": "lightcone"
+                }
+            ],
+            "start_time": {
+                "time": "2024-03-27 10:00:00+08:00",
+                "is_server_time": false
+            },
+            "end_time": {
+                "time": "2024-04-17 11:59:00+01:00",
+                "is_server_time": true
+            }
+        },
+        {
+            "name": "Bygone Reminiscence",
+            "banner_type": 12,
+            "uprate_5": [
+                {
+                    "id": 23014,
+                    "name": "I Shall Be My Own Sword",
+                    "rank": 5,
+                    "item_type": "lightcone"
+                },
+                {
+                    "id": 23023,
+                    "name": "Inherently Unjust Destiny",
+                    "rank": 5,
+                    "item_type": "lightcone"
+                }
+            ],
+            "uprate_4": [
+                {
+                    "id": 21013,
+                    "name": "Make the World Clamor",
+                    "rank": 4,
+                    "item_type": "lightcone"
+                },
+                {
+                    "id": 21043,
+                    "name": "Concert for Two",
+                    "rank": 4,
+                    "item_type": "lightcone"
+                },
+                {
+                    "id": 21007,
+                    "name": "Shared Feeling",
+                    "rank": 4,
+                    "item_type": "lightcone"
+                }
+            ],
+            "start_time": {
+                "time": "2024-04-17 12:00:00+01:00",
+                "is_server_time": true
+            },
+            "end_time": {
+                "time": "2024-05-07 15:00:00+01:00",
+                "is_server_time": true
+            },
+            "names": [
+                "Bygone Reminiscence",
+                "Brilliant Fixation"
+            ]
+        },
+        {
+            "name": "Bygone Reminiscence",
+            "banner_type": 12,
+            "uprate_5": [
+                {
+                    "id": 23016,
+                    "name": "Worrisome, Blissful",
+                    "rank": 5,
+                    "item_type": "lightcone"
+                },
+                {
+                    "id": 23026,
+                    "name": "Flowing Nightglow",
+                    "rank": 5,
+                    "item_type": "lightcone"
+                }
+            ],
+            "uprate_4": [
+                {
+                    "id": 21010,
+                    "name": "Swordplay",
+                    "rank": 4,
+                    "item_type": "lightcone"
+                },
+                {
+                    "id": 21014,
+                    "name": "Perfect Timing",
+                    "rank": 4,
+                    "item_type": "lightcone"
+                },
+                {
+                    "id": 21044,
+                    "name": "Boundless Choreo",
+                    "rank": 4,
+                    "item_type": "lightcone"
+                }
+            ],
+            "start_time": {
+                "time": "2024-05-08 10:00:00+08:00",
+                "is_server_time": false
+            },
+            "end_time": {
+                "time": "2024-05-29 11:59:00+01:00",
+                "is_server_time": true
+            },
+            "names": [
+                "Bygone Reminiscence",
+                "Brilliant Fixation"
+            ]
+        },
+        {
+            "name": "Bygone Reminiscence",
+            "banner_type": 12,
+            "uprate_5": [
+                {
+                    "id": 23011,
+                    "name": "She Already Shut Her Eyes",
+                    "rank": 5,
+                    "item_type": "lightcone"
+                },
+                {
+                    "id": 23027,
+                    "name": "Sailing Towards a Second Life",
+                    "rank": 5,
+                    "item_type": "lightcone"
+                }
+            ],
+            "uprate_4": [
+                {
+                    "id": 21020,
+                    "name": "Geniuses' Repose",
+                    "rank": 4,
+                    "item_type": "lightcone"
+                },
+                {
+                    "id": 21009,
+                    "name": "Landau's Choice",
+                    "rank": 4,
+                    "item_type": "lightcone"
+                },
+                {
+                    "id": 21012,
+                    "name": "A Secret Vow",
+                    "rank": 4,
+                    "item_type": "lightcone"
+                }
+            ],
+            "start_time": {
+                "time": "2024-05-29 12:00:00+01:00",
+                "is_server_time": true
+            },
+            "end_time": {
+                "time": "2024-06-18 15:00:00+01:00",
+                "is_server_time": true
+            },
+            "names": [
+                "Bygone Reminiscence",
+                "Brilliant Fixation"
+            ]
+        },
+        {
+            "name": "Brilliant Fixation",
+            "banner_type": 12,
+            "uprate_5": [
+                {
+                    "id": 23025,
+                    "name": "Whereabouts Should Dreams Rest",
+                    "rank": 5,
+                    "item_type": "lightcone"
+                },
+                {
+                    "id": 23019,
+                    "name": "Past Self in Mirror",
+                    "rank": 5,
+                    "item_type": "lightcone"
+                }
+            ],
+            "uprate_4": [
+                {
+                    "id": 21008,
+                    "name": "Eyes of the Prey",
+                    "rank": 4,
+                    "item_type": "lightcone"
+                },
+                {
+                    "id": 21002,
+                    "name": "Day One of My New Life",
+                    "rank": 4,
+                    "item_type": "lightcone"
+                },
+                {
+                    "id": 21004,
+                    "name": "Memories of the Past",
+                    "rank": 4,
+                    "item_type": "lightcone"
+                }
+            ],
+            "start_time": {
+                "time": "2024-06-19 10:00:00+08:00",
+                "is_server_time": false
+            },
+            "end_time": {
+                "time": "2024-07-10 11:59:00+01:00",
+                "is_server_time": true
+            },
+            "names": [
+                "Bygone Reminiscence",
+                "Brilliant Fixation"
+            ]
+        },
+        {
+            "name": "Brilliant Fixation",
+            "banner_type": 12,
+            "uprate_5": [
+                {
+                    "id": 23028,
+                    "name": "Yet Hope Is Priceless",
+                    "rank": 5,
+                    "item_type": "lightcone"
+                },
+                {
+                    "id": 23018,
+                    "name": "An Instant Before A Gaze",
+                    "rank": 5,
+                    "item_type": "lightcone"
+                }
+            ],
+            "uprate_4": [
+                {
+                    "id": 21045,
+                    "name": "After the Charmony Fall",
+                    "rank": 4,
+                    "item_type": "lightcone"
+                },
+                {
+                    "id": 21007,
+                    "name": "Shared Feeling",
+                    "rank": 4,
+                    "item_type": "lightcone"
+                },
+                {
+                    "id": 21016,
+                    "name": "Trend of the Universal Market",
+                    "rank": 4,
+                    "item_type": "lightcone"
+                }
+            ],
+            "start_time": {
+                "time": "2024-07-10 12:00:00+01:00",
+                "is_server_time": true
+            },
+            "end_time": {
+                "time": "2024-07-30 15:00:00+01:00",
+                "is_server_time": true
+            },
+            "names": [
+                "Bygone Reminiscence",
+                "Brilliant Fixation"
+            ]
+        },
+        {
+            "name": "Brilliant Fixation",
+            "banner_type": 12,
+            "uprate_5": [
+                {
+                    "id": 23030,
+                    "name": "Dance at Sunset",
+                    "rank": 5,
+                    "item_type": "lightcone"
+                },
+                {
+                    "id": 23017,
+                    "name": "Night of Fright",
+                    "rank": 5,
+                    "item_type": "lightcone"
+                }
+            ],
+            "uprate_4": [
+                {
+                    "id": 21014,
+                    "name": "Perfect Timing",
+                    "rank": 4,
+                    "item_type": "lightcone"
+                },
+                {
+                    "id": 21006,
+                    "name": "The Birth of the Self",
+                    "rank": 4,
+                    "item_type": "lightcone"
+                },
+                {
+                    "id": 21005,
+                    "name": "The Moles Welcome You",
+                    "rank": 4,
+                    "item_type": "lightcone"
+                }
+            ],
+            "start_time": {
+                "time": "2024-07-31 10:00:00+08:00",
+                "is_server_time": false
+            },
+            "end_time": {
+                "time": "2024-08-21 11:59:00+01:00",
+                "is_server_time": true
+            },
+            "names": [
+                "Bygone Reminiscence",
+                "Brilliant Fixation"
+            ]
+        },
+        {
+            "name": "Brilliant Fixation",
+            "banner_type": 12,
+            "uprate_5": [
+                {
+                    "id": 23029,
+                    "name": "Those Many Springs",
+                    "rank": 5,
+                    "item_type": "lightcone"
+                },
+                {
+                    "id": 23021,
+                    "name": "Earthly Escapade",
+                    "rank": 5,
+                    "item_type": "lightcone"
+                }
+            ],
+            "uprate_4": [
+                {
+                    "id": 21012,
+                    "name": "A Secret Vow",
+                    "rank": 4,
+                    "item_type": "lightcone"
+                },
+                {
+                    "id": 21008,
+                    "name": "Eyes of the Prey",
+                    "rank": 4,
+                    "item_type": "lightcone"
+                },
+                {
+                    "id": 21046,
+                    "name": "Poised to Bloom",
+                    "rank": 4,
+                    "item_type": "lightcone"
+                }
+            ],
+            "start_time": {
+                "time": "2024-08-21 12:00:00+01:00",
+                "is_server_time": true
+            },
+            "end_time": {
+                "time": "2024-09-09 15:00:00+01:00",
+                "is_server_time": true
+            },
+            "names": [
+                "Bygone Reminiscence",
+                "Brilliant Fixation"
+            ]
+        },
+        {
+            "name": "Coalesced Truths",
+            "banner_type": 12,
+            "uprate_5": [
+                {
+                    "id": 23006,
+                    "name": "Patience Is All You Need",
+                    "rank": 5,
+                    "item_type": "lightcone"
+                },
+                {
+                    "id": 23022,
+                    "name": "Reforged Remembrance",
+                    "rank": 5,
+                    "item_type": "lightcone"
+                },
+                {
+                    "id": 23026,
+                    "name": "Flowing Nightglow",
+                    "rank": 5,
+                    "item_type": "lightcone"
+                },
+                {
+                    "id": 23031,
+                    "name": "I Venture Forth to Hunt",
+                    "rank": 5,
+                    "item_type": "lightcone"
+                }
+            ],
+            "uprate_4": [
+                {
+                    "id": 21010,
+                    "name": "Swordplay",
+                    "rank": 4,
+                    "item_type": "lightcone"
+                },
+                {
+                    "id": 21015,
+                    "name": "Resolution Shines As Pearls of Sweat",
+                    "rank": 4,
+                    "item_type": "lightcone"
+                },
+                {
+                    "id": 21006,
+                    "name": "The Birth of the Self",
+                    "rank": 4,
+                    "item_type": "lightcone"
+                }
+            ],
+            "start_time": {
+                "time": "2024-09-10 10:00:00+08:00",
+                "is_server_time": false
+            },
+            "end_time": {
+                "time": "2024-10-02 11:59:00+01:00",
+                "is_server_time": true
+            },
+            "names": [
+                "Coalesced Truths",
+                "Brilliant Fixation"
+            ]
+        },
+        {
+            "name": "Brilliant Fixation",
+            "banner_type": 12,
+            "uprate_5": [
+                {
+                    "id": 23032,
+                    "name": "Scent Alone Stays True",
+                    "rank": 5,
+                    "item_type": "lightcone"
+                },
+                {
+                    "id": 23016,
+                    "name": "Worrisome, Blissful",
+                    "rank": 5,
+                    "item_type": "lightcone"
+                }
+            ],
+            "uprate_4": [
+                {
+                    "id": 21047,
+                    "name": "Shadowed by Night",
+                    "rank": 4,
+                    "item_type": "lightcone"
+                },
+                {
+                    "id": 21011,
+                    "name": "Planetary Rendezvous",
+                    "rank": 4,
+                    "item_type": "lightcone"
+                },
+                {
+                    "id": 21007,
+                    "name": "Shared Feeling",
+                    "rank": 4,
+                    "item_type": "lightcone"
+                }
+            ],
+            "start_time": {
+                "time": "2024-10-02 12:00:00+01:00",
+                "is_server_time": true
+            },
+            "end_time": {
+                "time": "2024-10-22 15:00:00+01:00",
+                "is_server_time": true
+            },
+            "names": [
+                "Bygone Reminiscence",
+                "Brilliant Fixation"
+            ]
+        },
+        {
+            "name": "Bygone Reminiscence",
+            "banner_type": 12,
+            "uprate_5": [
+                {
+                    "id": 23015,
+                    "name": "Brighter Than the Sun",
+                    "rank": 5,
+                    "item_type": "lightcone"
+                },
+                {
+                    "id": 23033,
+                    "name": "Ninjutsu Inscription: Dazzling Evilbreaker",
+                    "rank": 5,
+                    "item_type": "lightcone"
+                }
+            ],
+            "uprate_4": [
+                {
+                    "id": 21019,
+                    "name": "Under the Blue Sky",
+                    "rank": 4,
+                    "item_type": "lightcone"
+                },
+                {
+                    "id": 21045,
+                    "name": "After the Charmony Fall",
+                    "rank": 4,
+                    "item_type": "lightcone"
+                },
+                {
+                    "id": 21048,
+                    "name": "Dream's Montage",
+                    "rank": 4,
+                    "item_type": "lightcone"
+                }
+            ],
+            "start_time": {
+                "time": "2024-10-23 10:00:00+08:00",
+                "is_server_time": false
+            },
+            "end_time": {
+                "time": "2024-11-13 11:59:00+01:00",
+                "is_server_time": true
+            },
+            "names": [
+                "Bygone Reminiscence",
+                "Brilliant Fixation"
+            ]
+        },
+        {
+            "name": "Bygone Reminiscence 2024-11-13",
+            "banner_type": 12,
+            "uprate_5": [
+                {
+                    "id": 23023,
+                    "name": "Inherently Unjust Destiny",
+                    "rank": 5,
+                    "item_type": "lightcone"
+                },
+                {
+                    "id": 23024,
+                    "name": "Along the Passing Shore",
+                    "rank": 5,
+                    "item_type": "lightcone"
+                }
+            ],
+            "uprate_4": [
+                {
+                    "id": 21013,
+                    "name": "Make the World Clamor",
+                    "rank": 4,
+                    "item_type": "lightcone"
+                },
+                {
+                    "id": 21002,
+                    "name": "Day One of My New Life",
+                    "rank": 4,
+                    "item_type": "lightcone"
+                },
+                {
+                    "id": 21044,
+                    "name": "Boundless Choreo",
+                    "rank": 4,
+                    "item_type": "lightcone"
+                }
+            ],
+            "start_time": {
+                "time": "2024-11-13 12:00:00+01:00",
+                "is_server_time": true
+            },
+            "end_time": {
+                "time": "2024-12-03 15:00:00+01:00",
+                "is_server_time": true
+            },
+            "names": [
+                "Bygone Reminiscence 2024-11-13"
+            ]
+        },
+        {
+            "name": "Bygone Reminiscence",
+            "banner_type": 12,
+            "uprate_5": [
+                {
+                    "id": 23010,
+                    "name": "Before Dawn",
+                    "rank": 5,
+                    "item_type": "lightcone"
+                },
+                {
+                    "id": 23034,
+                    "name": "A Grounded Ascent",
+                    "rank": 5,
+                    "item_type": "lightcone"
+                }
+            ],
+            "uprate_4": [
+                {
+                    "id": 21046,
+                    "name": "Poised to Bloom",
+                    "rank": 4,
+                    "item_type": "lightcone"
+                },
+                {
+                    "id": 21010,
+                    "name": "Swordplay",
+                    "rank": 4,
+                    "item_type": "lightcone"
+                },
+                {
+                    "id": 21006,
+                    "name": "The Birth of the Self",
+                    "rank": 4,
+                    "item_type": "lightcone"
+                }
+            ],
+            "start_time": {
+                "time": "2024-12-04 10:00:00+08:00",
+                "is_server_time": false
+            },
+            "end_time": {
+                "time": "2024-12-25 11:59:00+01:00",
+                "is_server_time": true
+            },
+            "names": [
+                "Bygone Reminiscence",
+                "Brilliant Fixation"
+            ]
+        },
+        {
+            "name": "Bygone Reminiscence",
+            "banner_type": 12,
+            "uprate_5": [
+                {
+                    "id": 23025,
+                    "name": "Whereabouts Should Dreams Rest",
+                    "rank": 5,
+                    "item_type": "lightcone"
+                },
+                {
+                    "id": 23035,
+                    "name": "Long Road Leads Home",
+                    "rank": 5,
+                    "item_type": "lightcone"
+                }
+            ],
+            "uprate_4": [
+                {
+                    "id": 21015,
+                    "name": "Resolution Shines As Pearls of Sweat",
+                    "rank": 4,
+                    "item_type": "lightcone"
+                },
+                {
+                    "id": 21042,
+                    "name": "Indelible Promise",
+                    "rank": 4,
+                    "item_type": "lightcone"
+                },
+                {
+                    "id": 21043,
+                    "name": "Concert for Two",
+                    "rank": 4,
+                    "item_type": "lightcone"
+                }
+            ],
+            "start_time": {
+                "time": "2024-12-25 12:00:00+01:00",
+                "is_server_time": true
+            },
+            "end_time": {
+                "time": "2025-01-14 14:59:59+01:00",
+                "is_server_time": true
+            },
+            "names": [
+                "Bygone Reminiscence",
+                "Brilliant Fixation"
+            ]
+        },
+        {
+            "name": "Brilliant Fixation",
+            "banner_type": 12,
+            "uprate_5": [
+                {
+                    "id": 23037,
+                    "name": "Into the Unreachable Veil",
+                    "rank": 5,
+                    "item_type": "lightcone"
+                },
+                {
+                    "id": 23031,
+                    "name": "I Venture Forth to Hunt",
+                    "rank": 5,
+                    "item_type": "lightcone"
+                },
+                {
+                    "id": 23028,
+                    "name": "Yet Hope Is Priceless",
+                    "rank": 5,
+                    "item_type": "lightcone"
+                },
+                {
+                    "id": 23032,
+                    "name": "Scent Alone Stays True",
+                    "rank": 5,
+                    "item_type": "lightcone"
+                }
+            ],
+            "uprate_4": [
+                {
+                    "id": 21020,
+                    "name": "Geniuses' Repose",
+                    "rank": 4,
+                    "item_type": "lightcone"
+                },
+                {
+                    "id": 21009,
+                    "name": "Landau's Choice",
+                    "rank": 4,
+                    "item_type": "lightcone"
+                },
+                {
+                    "id": 21003,
+                    "name": "Only Silence Remains",
+                    "rank": 4,
+                    "item_type": "lightcone"
+                }
+            ],
+            "start_time": {
+                "time": "2025-01-15 10:00:00+08:00",
+                "is_server_time": false
+            },
+            "end_time": {
+                "time": "2025-02-05 11:59:00+01:00",
+                "is_server_time": true
+            },
+            "names": [
+                "Coalesced Truths",
+                "Brilliant Fixation"
+            ]
+        },
+        {
+            "name": "Brilliant Fixation",
+            "banner_type": 12,
+            "uprate_5": [
+                {
+                    "id": 23036,
+                    "name": "Time Woven Into Gold",
+                    "rank": 5,
+                    "item_type": "lightcone"
+                },
+                {
+                    "id": 23007,
+                    "name": "Incessant Rain",
+                    "rank": 5,
+                    "item_type": "lightcone"
+                },
+                {
+                    "id": 23027,
+                    "name": "Sailing Towards a Second Life",
+                    "rank": 5,
+                    "item_type": "lightcone"
+                },
+                {
+                    "id": 23026,
+                    "name": "Flowing Nightglow",
+                    "rank": 5,
+                    "item_type": "lightcone"
+                }
+            ],
+            "uprate_4": [
+                {
+                    "id": 21018,
+                    "name": "Dance! Dance! Dance!",
+                    "rank": 4,
+                    "item_type": "lightcone"
+                },
+                {
+                    "id": 21017,
+                    "name": "Subscribe for More!",
+                    "rank": 4,
+                    "item_type": "lightcone"
+                },
+                {
+                    "id": 21051,
+                    "name": "Geniuses' Greetings",
+                    "rank": 4,
+                    "item_type": "lightcone"
+                }
+            ],
+            "start_time": {
+                "time": "2025-02-05 12:00:00+01:00",
+                "is_server_time": true
+            },
+            "end_time": {
+                "time": "2025-02-25 14:59:59+01:00",
+                "is_server_time": true
+            },
+            "names": [
+                "Coalesced Truths",
+                "Brilliant Fixation"
+            ]
+        },
+        {
+            "name": "Bygone Reminiscence",
+            "banner_type": 12,
+            "uprate_5": [
+                {
+                    "id": 23030,
+                    "name": "Dance at Sunset",
+                    "rank": 5,
+                    "item_type": "lightcone"
+                },
+                {
+                    "id": 23038,
+                    "name": "If Time Were a Flower",
+                    "rank": 5,
+                    "item_type": "lightcone"
+                }
+            ],
+            "uprate_4": [
+                {
+                    "id": 21000,
+                    "name": "Post-Op Conversation",
+                    "rank": 4,
+                    "item_type": "lightcone"
+                },
+                {
+                    "id": 21011,
+                    "name": "Planetary Rendezvous",
+                    "rank": 4,
+                    "item_type": "lightcone"
+                },
+                {
+                    "id": 21016,
+                    "name": "Trend of the Universal Market",
+                    "rank": 4,
+                    "item_type": "lightcone"
+                }
+            ],
+            "start_time": {
+                "time": "2025-02-26 10:00:00+08:00",
+                "is_server_time": false
+            },
+            "end_time": {
+                "time": "2025-03-19 11:59:00+01:00",
+                "is_server_time": true
+            },
+            "names": [
+                "Bygone Reminiscence",
+                "Brilliant Fixation"
+            ]
+        },
+        {
+            "name": "Brilliant Fixation",
+            "banner_type": 12,
+            "uprate_5": [
+                {
+                    "id": 23039,
+                    "name": "Flame of Blood, Blaze My Path",
+                    "rank": 5,
+                    "item_type": "lightcone"
+                },
+                {
+                    "id": 23017,
+                    "name": "Night of Fright",
+                    "rank": 5,
+                    "item_type": "lightcone"
+                }
+            ],
+            "uprate_4": [
+                {
+                    "id": 21012,
+                    "name": "A Secret Vow",
+                    "rank": 4,
+                    "item_type": "lightcone"
+                },
+                {
+                    "id": 21014,
+                    "name": "Perfect Timing",
+                    "rank": 4,
+                    "item_type": "lightcone"
+                },
+                {
+                    "id": 21004,
+                    "name": "Memories of the Past",
+                    "rank": 4,
+                    "item_type": "lightcone"
+                }
+            ],
+            "start_time": {
+                "time": "2025-03-19 12:00:00+01:00",
+                "is_server_time": true
+            },
+            "end_time": {
+                "time": "2025-04-08 15:00:00+01:00",
+                "is_server_time": true
+            },
+            "names": [
+                "Bygone Reminiscence",
+                "Brilliant Fixation"
+            ]
+        },
+        {
+            "name": "Coalesced Truths",
+            "banner_type": 12,
+            "uprate_5": [
+                {
+                    "id": 23029,
+                    "name": "Those Many Springs",
+                    "rank": 5,
+                    "item_type": "lightcone"
+                },
+                {
+                    "id": 23035,
+                    "name": "Long Road Leads Home",
+                    "rank": 5,
+                    "item_type": "lightcone"
+                },
+                {
+                    "id": 23024,
+                    "name": "Along the Passing Shore",
+                    "rank": 5,
+                    "item_type": "lightcone"
+                },
+                {
+                    "id": 23040,
+                    "name": "Make Farewells More Beautiful",
+                    "rank": 5,
+                    "item_type": "lightcone"
+                }
+            ],
+            "uprate_4": [
+                {
+                    "id": 21001,
+                    "name": "Good Night and Sleep Well",
+                    "rank": 4,
+                    "item_type": "lightcone"
+                },
+                {
+                    "id": 21000,
+                    "name": "Post-Op Conversation",
+                    "rank": 4,
+                    "item_type": "lightcone"
+                },
+                {
+                    "id": 21044,
+                    "name": "Boundless Choreo",
+                    "rank": 4,
+                    "item_type": "lightcone"
+                }
+            ],
+            "start_time": {
+                "time": "2025-04-09 10:00:00+08:00",
+                "is_server_time": false
+            },
+            "end_time": {
+                "time": "2025-04-30 11:59:00+01:00",
+                "is_server_time": true
+            },
+            "names": [
+                "Coalesced Truths",
+                "Brilliant Fixation"
+            ]
+        },
+        {
+            "name": "Bygone Reminiscence",
+            "banner_type": 12,
+            "uprate_5": [
+                {
+                    "id": 23020,
+                    "name": "Baptism of Pure Thought",
+                    "rank": 5,
+                    "item_type": "lightcone"
+                },
+                {
+                    "id": 23041,
+                    "name": "Life Should Be Cast to Flames",
+                    "rank": 5,
+                    "item_type": "lightcone"
+                }
+            ],
+            "uprate_4": [
+                {
+                    "id": 21045,
+                    "name": "After the Charmony Fall",
+                    "rank": 4,
+                    "item_type": "lightcone"
+                },
+                {
+                    "id": 21005,
+                    "name": "The Moles Welcome You",
+                    "rank": 4,
+                    "item_type": "lightcone"
+                },
+                {
+                    "id": 21016,
+                    "name": "Trend of the Universal Market",
+                    "rank": 4,
+                    "item_type": "lightcone"
+                }
+            ],
+            "start_time": {
+                "time": "2025-04-30 12:00:00+01:00",
+                "is_server_time": true
+            },
+            "end_time": {
+                "time": "2025-05-20 15:00:00+01:00",
+                "is_server_time": true
+            },
+            "names": [
+                "Bygone Reminiscence",
+                "Brilliant Fixation"
+            ]
+        },
+        {
+            "name": "Brilliant Fixation",
+            "banner_type": 12,
+            "uprate_5": [
+                {
+                    "id": 23042,
+                    "name": "Long May Rainbows Adorn the Sky",
+                    "rank": 5,
+                    "item_type": "lightcone"
+                },
+                {
+                    "id": 23037,
+                    "name": "Into the Unreachable Veil",
+                    "rank": 5,
+                    "item_type": "lightcone"
+                }
+            ],
+            "uprate_4": [
+                {
+                    "id": 21013,
+                    "name": "Make the World Clamor",
+                    "rank": 4,
+                    "item_type": "lightcone"
+                },
+                {
+                    "id": 21047,
+                    "name": "Shadowed by Night",
+                    "rank": 4,
+                    "item_type": "lightcone"
+                },
+                {
+                    "id": 21002,
+                    "name": "Day One of My New Life",
+                    "rank": 4,
+                    "item_type": "lightcone"
+                }
+            ],
+            "start_time": {
+                "time": "2025-05-21 10:00:00+08:00",
+                "is_server_time": false
+            },
+            "end_time": {
+                "time": "2025-06-11 11:59:00+01:00",
+                "is_server_time": true
+            },
+            "names": [
+                "Bygone Reminiscence",
+                "Brilliant Fixation"
+            ]
+        },
+        {
+            "name": "Brilliant Fixation",
+            "banner_type": 12,
+            "uprate_5": [
+                {
+                    "id": 23043,
+                    "name": "Lies Dance on the Breeze",
+                    "rank": 5,
+                    "item_type": "lightcone"
+                },
+                {
+                    "id": 23036,
+                    "name": "Time Woven Into Gold",
+                    "rank": 5,
+                    "item_type": "lightcone"
+                }
+            ],
+            "uprate_4": [
+                {
+                    "id": 21007,
+                    "name": "Shared Feeling",
+                    "rank": 4,
+                    "item_type": "lightcone"
+                },
+                {
+                    "id": 21008,
+                    "name": "Eyes of the Prey",
+                    "rank": 4,
+                    "item_type": "lightcone"
+                },
+                {
+                    "id": 21051,
+                    "name": "Geniuses' Greetings",
+                    "rank": 4,
+                    "item_type": "lightcone"
+                }
+            ],
+            "start_time": {
+                "time": "2025-06-11 12:00:00+01:00",
+                "is_server_time": true
+            },
+            "end_time": {
+                "time": "2025-07-01 15:00:00+01:00",
+                "is_server_time": true
+            },
+            "names": [
+                "Bygone Reminiscence",
+                "Brilliant Fixation"
+            ]
+        },
+        {
+            "name": "Coalesced Truths",
+            "banner_type": 12,
+            "uprate_5": [
+                {
+                    "id": 23021,
+                    "name": "Earthly Escapade",
+                    "rank": 5,
+                    "item_type": "lightcone"
+                },
+                {
+                    "id": 23034,
+                    "name": "A Grounded Ascent",
+                    "rank": 5,
+                    "item_type": "lightcone"
+                },
+                {
+                    "id": 23038,
+                    "name": "If Time Were a Flower",
+                    "rank": 5,
+                    "item_type": "lightcone"
+                },
+                {
+                    "id": 23044,
+                    "name": "Thus Burns the Dawn",
+                    "rank": 5,
+                    "item_type": "lightcone"
+                }
+            ],
+            "uprate_4": [
+                {
+                    "id": 21019,
+                    "name": "Under the Blue Sky",
+                    "rank": 4,
+                    "item_type": "lightcone"
+                },
+                {
+                    "id": 21011,
+                    "name": "Planetary Rendezvous",
+                    "rank": 4,
+                    "item_type": "lightcone"
+                },
+                {
+                    "id": 21054,
+                    "name": "The Story's Next Page",
+                    "rank": 4,
+                    "item_type": "lightcone"
+                }
+            ],
+            "start_time": {
+                "time": "2025-07-02 10:00:00+08:00",
+                "is_server_time": false
+            },
+            "end_time": {
+                "time": "2025-07-23 11:59:00+01:00",
+                "is_server_time": true
+            },
+            "names": [
+                "Coalesced Truths",
+                "Brilliant Fixation"
+            ]
+        },
+        {
+            "name": "Coalesced Truths",
+            "banner_type": 12,
+            "uprate_5": [
+                {
+                    "id": 23014,
+                    "name": "I Shall Be My Own Sword",
+                    "rank": 5,
+                    "item_type": "lightcone"
+                },
+                {
+                    "id": 23025,
+                    "name": "Whereabouts Should Dreams Rest",
+                    "rank": 5,
+                    "item_type": "lightcone"
+                },
+                {
+                    "id": 23009,
+                    "name": "The Unreachable Side",
+                    "rank": 5,
+                    "item_type": "lightcone"
+                }
+            ],
+            "uprate_4": [
+                {
+                    "id": 21017,
+                    "name": "Subscribe for More!",
+                    "rank": 4,
+                    "item_type": "lightcone"
+                },
+                {
+                    "id": 21012,
+                    "name": "A Secret Vow",
+                    "rank": 4,
+                    "item_type": "lightcone"
+                },
+                {
+                    "id": 21015,
+                    "name": "Resolution Shines As Pearls of Sweat",
+                    "rank": 4,
+                    "item_type": "lightcone"
+                }
+            ],
+            "start_time": {
+                "time": "2025-07-23 12:00:00+01:00",
+                "is_server_time": true
+            },
+            "end_time": {
+                "time": "2025-08-12 14:59:59+01:00",
+                "is_server_time": true
+            }
+        },
+        {
+            "name": "Brilliant Fixation",
+            "banner_type": 12,
+            "uprate_5": [
+                {
+                    "id": 23047,
+                    "name": "Why Does the Ocean Sing",
+                    "rank": 5,
+                    "item_type": "lightcone"
+                },
+                {
+                    "id": 23006,
+                    "name": "Patience Is All You Need",
+                    "rank": 5,
+                    "item_type": "lightcone"
+                }
+            ],
+            "uprate_4": [
+                {
+                    "id": 21042,
+                    "name": "Indelible Promise",
+                    "rank": 4,
+                    "item_type": "lightcone"
+                },
+                {
+                    "id": 21008,
+                    "name": "Eyes of the Prey",
+                    "rank": 4,
+                    "item_type": "lightcone"
+                },
+                {
+                    "id": 21046,
+                    "name": "Poised to Bloom",
+                    "rank": 4,
+                    "item_type": "lightcone"
+                }
+            ],
+            "start_time": {
+                "time": "2025-08-13 10:00:00+08:00",
+                "is_server_time": false
+            },
+            "end_time": {
+                "time": "2025-09-02 11:59:00+01:00",
+                "is_server_time": true
+            },
+            "names": [
+                "Bygone Reminiscence",
+                "Brilliant Fixation"
+            ]
+        },
+        {
+            "name": "Bygone Reminiscence",
+            "banner_type": 12,
+            "uprate_5": [
+                {
+                    "id": 23007,
+                    "name": "Incessant Rain",
+                    "rank": 5,
+                    "item_type": "lightcone"
+                },
+                {
+                    "id": 23048,
+                    "name": "Epoch Etched in Golden Blood",
+                    "rank": 5,
+                    "item_type": "lightcone"
+                }
+            ],
+            "uprate_4": [
+                {
+                    "id": 21006,
+                    "name": "The Birth of the Self",
+                    "rank": 4,
+                    "item_type": "lightcone"
+                },
+                {
+                    "id": 21001,
+                    "name": "Good Night and Sleep Well",
+                    "rank": 4,
+                    "item_type": "lightcone"
+                },
+                {
+                    "id": 21010,
+                    "name": "Swordplay",
+                    "rank": 4,
+                    "item_type": "lightcone"
+                }
+            ],
+            "start_time": {
+                "time": "2025-09-02 12:00:00+01:00",
+                "is_server_time": true
+            },
+            "end_time": {
+                "time": "2025-09-23 14:59:59+01:00",
+                "is_server_time": true
+            },
+            "names": [
+                "Bygone Reminiscence",
+                "Brilliant Fixation"
+            ]
+        },
+        {
+            "name": "Bygone Reminiscence",
+            "banner_type": 12,
+            "uprate_5": [
+                {
+                    "id": 23037,
+                    "name": "Into the Unreachable Veil",
+                    "rank": 5,
+                    "item_type": "lightcone"
+                },
+                {
+                    "id": 23049,
+                    "name": "To Evernight's Stars",
+                    "rank": 5,
+                    "item_type": "lightcone"
+                }
+            ],
+            "uprate_4": [
+                {
+                    "id": 21045,
+                    "name": "After the Charmony Fall",
+                    "rank": 4,
+                    "item_type": "lightcone"
+                },
+                {
+                    "id": 21048,
+                    "name": "Dream's Montage",
+                    "rank": 4,
+                    "item_type": "lightcone"
+                },
+                {
+                    "id": 21018,
+                    "name": "Dance! Dance! Dance!",
+                    "rank": 4,
+                    "item_type": "lightcone"
+                }
+            ],
+            "start_time": {
+                "time": "2025-09-24 10:00:00+08:00",
+                "is_server_time": false
+            },
+            "end_time": {
+                "time": "2025-10-15 11:59:00+01:00",
+                "is_server_time": true
+            },
+            "names": [
+                "Bygone Reminiscence",
+                "Brilliant Fixation"
+            ]
+        },
+        {
+            "name": "Brilliant Fixation",
+            "banner_type": 12,
+            "uprate_5": [
+                {
+                    "id": 23051,
+                    "name": "Though Worlds Apart",
+                    "rank": 5,
+                    "item_type": "lightcone"
+                },
+                {
+                    "id": 23041,
+                    "name": "Life Should Be Cast to Flames",
+                    "rank": 5,
+                    "item_type": "lightcone"
+                }
+            ],
+            "uprate_4": [
+                {
+                    "id": 21009,
+                    "name": "Landau's Choice",
+                    "rank": 4,
+                    "item_type": "lightcone"
+                },
+                {
+                    "id": 21014,
+                    "name": "Perfect Timing",
+                    "rank": 4,
+                    "item_type": "lightcone"
+                },
+                {
+                    "id": 21003,
+                    "name": "Only Silence Remains",
+                    "rank": 4,
+                    "item_type": "lightcone"
+                }
+            ],
+            "start_time": {
+                "time": "2025-10-15 12:00:00+01:00",
+                "is_server_time": true
+            },
+            "end_time": {
+                "time": "2025-11-04 14:59:59+01:00",
+                "is_server_time": true
+            },
+            "names": [
+                "Bygone Reminiscence",
+                "Brilliant Fixation"
+            ]
+        },
+        {
+            "name": "Coalesced Truths",
+            "banner_type": 12,
+            "uprate_5": [
+                {
+                    "id": 23042,
+                    "name": "Long May Rainbows Adorn the Sky",
+                    "rank": 5,
+                    "item_type": "lightcone"
+                },
+                {
+                    "id": 23038,
+                    "name": "If Time Were a Flower",
+                    "rank": 5,
+                    "item_type": "lightcone"
+                },
+                {
+                    "id": 23040,
+                    "name": "Make Farewells More Beautiful",
+                    "rank": 5,
+                    "item_type": "lightcone"
+                },
+                {
+                    "id": 23052,
+                    "name": "This Love, Forever",
+                    "rank": 5,
+                    "item_type": "lightcone"
+                }
+            ],
+            "uprate_4": [
+                {
+                    "id": 21043,
+                    "name": "Concert for Two",
+                    "rank": 4,
+                    "item_type": "lightcone"
+                },
+                {
+                    "id": 21044,
+                    "name": "Boundless Choreo",
+                    "rank": 4,
+                    "item_type": "lightcone"
+                },
+                {
+                    "id": 21054,
+                    "name": "The Story's Next Page",
+                    "rank": 4,
+                    "item_type": "lightcone"
+                }
+            ],
+            "start_time": {
+                "time": "2025-11-05 10:00:00+08:00",
+                "is_server_time": false
+            },
+            "end_time": {
+                "time": "2025-11-26 11:59:00+01:00",
+                "is_server_time": true
+            },
+            "names": [
+                "Coalesced Truths",
+                "Brilliant Fixation"
+            ]
+        },
+        {
+            "name": "Coalesced Truths",
+            "banner_type": 12,
+            "uprate_5": [
+                {
+                    "id": "23039",
+                    "name": "Flame of Blood, Blaze My Path",
+                    "rank": 5,
+                    "item_type": "lightcone"
+                },
+                {
+                    "id": "23044",
+                    "name": "Thus Burns the Dawn",
+                    "rank": 5,
+                    "item_type": "lightcone"
+                },
+                {
+                    "id": "23043",
+                    "name": "Lies Dance on the Breeze",
+                    "rank": 5,
+                    "item_type": "lightcone"
+                },
+                {
+                    "id": 23052,
+                    "name": "This Love, Forever",
+                    "rank": 5,
+                    "item_type": "lightcone"
+                }
+            ],
+            "uprate_4": [
+                {
+                    "id": "21054",
+                    "name": "The Story's Next Page",
+                    "rank": 4,
+                    "item_type": "lightcone"
+                },
+                {
+                    "id": "21043",
+                    "name": "Concert for Two",
+                    "rank": 4,
+                    "item_type": "lightcone"
+                },
+                {
+                    "id": "21044",
+                    "name": "Boundless Choreo",
+                    "rank": 4,
+                    "item_type": "lightcone"
+                }
+            ],
+            "start_time": {
+                "time": "2025-11-26 12:00:00+01:00",
+                "is_server_time": true
+            },
+            "end_time": {
+                "time": "2025-12-16 15:00:00+01:00",
+                "is_server_time": true
+            },
+            "names": [
+                "Coalesced Truths",
+                "Brilliant Fixation"
+            ]
+        },
+        {
+            "name": "Bygone Reminiscence",
+            "banner_type": 12,
+            "uprate_5": [
+                {
+                    "id": "23025",
+                    "name": "Whereabouts Should Dreams Rest",
+                    "rank": 5,
+                    "item_type": "lightcone"
+                },
+                {
+                    "id": "23050",
+                    "name": "Never Forget Her Flame",
+                    "rank": 5,
+                    "item_type": "lightcone"
+                }
+            ],
+            "uprate_4": [
+                {
+                    "id": "21043",
+                    "name": "Concert for Two",
+                    "rank": 4,
+                    "item_type": "lightcone"
+                },
+                {
+                    "id": "21001",
+                    "name": "Good Night and Sleep Well",
+                    "rank": 4,
+                    "item_type": "lightcone"
+                },
+                {
+                    "id": "21004",
+                    "name": "Memories of the Past",
+                    "rank": 4,
+                    "item_type": "lightcone"
+                }
+            ],
+            "start_time": {
+                "time": "2025-12-17 03:00:00+08:00",
+                "is_server_time": false
+            },
+            "end_time": {
+                "time": "2026-01-07 11:59:00+01:00",
+                "is_server_time": true
+            },
+            "names": [
+                "Bygone Reminiscence",
+                "Brilliant Fixation"
+            ]
+        }
+    ],
+    "11": [
+        {
+            "name": "Butterfly on Swordtip",
+            "banner_type": 11,
+            "uprate_5": [
+                {
+                    "id": 1102,
+                    "name": "Seele",
+                    "rank": 5,
+                    "path": "The Hunt",
+                    "item_type": "character"
+                }
+            ],
+            "uprate_4": [
+                {
+                    "id": 1106,
+                    "name": "Pela",
+                    "rank": 4,
+                    "path": "Nihility",
+                    "item_type": "character"
+                },
+                {
+                    "id": 1109,
+                    "name": "Hook",
+                    "rank": 4,
+                    "path": "Destruction",
+                    "item_type": "character"
+                },
+                {
+                    "id": 1105,
+                    "name": "Natasha",
+                    "rank": 4,
+                    "path": "Abundance",
+                    "item_type": "character"
+                }
+            ],
+            "start_time": {
+                "time": "2023-04-25 09:00:00+08:00",
+                "is_server_time": false
+            },
+            "end_time": {
+                "time": "2023-05-17 17:59:00+01:00",
+                "is_server_time": true
+            }
+        },
+        {
+            "name": "Swirl of Heavenly Spear",
+            "banner_type": 11,
+            "uprate_5": [
+                {
+                    "id": 1204,
+                    "name": "Jing Yuan",
+                    "rank": 5,
+                    "path": "Erudition",
+                    "item_type": "character"
+                }
+            ],
+            "uprate_4": [
+                {
+                    "id": 1001,
+                    "name": "March 7th",
+                    "rank": 4,
+                    "path": "Preservation",
+                    "item_type": "character"
+                },
+                {
+                    "id": 1206,
+                    "name": "Sushang",
+                    "rank": 4,
+                    "path": "The Hunt",
+                    "item_type": "character"
+                },
+                {
+                    "id": 1202,
+                    "name": "Tingyun",
+                    "rank": 4,
+                    "path": "Harmony",
+                    "item_type": "character"
+                }
+            ],
+            "start_time": {
+                "time": "2023-05-17 18:00:00+01:00",
+                "is_server_time": true
+            },
+            "end_time": {
+                "time": "2023-06-06 14:59:59+01:00",
+                "is_server_time": true
+            }
+        },
+        {
+            "name": "Contract Zero",
+            "banner_type": 11,
+            "uprate_5": [
+                {
+                    "id": 1006,
+                    "name": "Silver Wolf",
+                    "rank": 5,
+                    "path": "Nihility",
+                    "item_type": "character"
+                }
+            ],
+            "uprate_4": [
+                {
+                    "id": 1002,
+                    "name": "Dan Heng",
+                    "rank": 4,
+                    "path": "The Hunt",
+                    "item_type": "character"
+                },
+                {
+                    "id": 1103,
+                    "name": "Serval",
+                    "rank": 4,
+                    "path": "Erudition",
+                    "item_type": "character"
+                },
+                {
+                    "id": 1009,
+                    "name": "Asta",
+                    "rank": 4,
+                    "path": "Harmony",
+                    "item_type": "character"
+                }
+            ],
+            "start_time": {
+                "time": "2023-06-07 10:00:00+08:00",
+                "is_server_time": false
+            },
+            "end_time": {
+                "time": "2023-06-28 12:00:00+01:00",
+                "is_server_time": true
+            }
+        },
+        {
+            "name": "Laic Pursuit",
+            "banner_type": 11,
+            "uprate_5": [
+                {
+                    "id": 1203,
+                    "name": "Luocha",
+                    "rank": 5,
+                    "path": "Abundance",
+                    "item_type": "character"
+                }
+            ],
+            "uprate_4": [
+                {
+                    "id": 1201,
+                    "name": "Qingque",
+                    "rank": 4,
+                    "path": "Erudition",
+                    "item_type": "character"
+                },
+                {
+                    "id": 1207,
+                    "name": "Yukong",
+                    "rank": 4,
+                    "path": "Harmony",
+                    "item_type": "character"
+                },
+                {
+                    "id": 1106,
+                    "name": "Pela",
+                    "rank": 4,
+                    "path": "Nihility",
+                    "item_type": "character"
+                }
+            ],
+            "start_time": {
+                "time": "2023-06-28 12:00:00+01:00",
+                "is_server_time": true
+            },
+            "end_time": {
+                "time": "2023-07-18 14:59:59+01:00",
+                "is_server_time": true
+            }
+        },
+        {
+            "name": "A Lost Soul",
+            "banner_type": 11,
+            "uprate_5": [
+                {
+                    "id": 1205,
+                    "name": "Blade",
+                    "rank": 5,
+                    "path": "Destruction",
+                    "item_type": "character"
+                }
+            ],
+            "uprate_4": [
+                {
+                    "id": 1008,
+                    "name": "Arlan",
+                    "rank": 4,
+                    "path": "Destruction",
+                    "item_type": "character"
+                },
+                {
+                    "id": 1206,
+                    "name": "Sushang",
+                    "rank": 4,
+                    "path": "The Hunt",
+                    "item_type": "character"
+                },
+                {
+                    "id": 1105,
+                    "name": "Natasha",
+                    "rank": 4,
+                    "path": "Abundance",
+                    "item_type": "character"
+                }
+            ],
+            "start_time": {
+                "time": "2023-07-19 10:00:00+08:00",
+                "is_server_time": false
+            },
+            "end_time": {
+                "time": "2023-08-09 11:59:00+01:00",
+                "is_server_time": true
+            }
+        },
+        {
+            "name": "Nessun Dorma",
+            "banner_type": 11,
+            "uprate_5": [
+                {
+                    "id": 1005,
+                    "name": "Kafka",
+                    "rank": 5,
+                    "path": "Nihility",
+                    "item_type": "character"
+                }
+            ],
+            "uprate_4": [
+                {
+                    "id": 1111,
+                    "name": "Luka",
+                    "rank": 4,
+                    "path": "Nihility",
+                    "item_type": "character"
+                },
+                {
+                    "id": 1108,
+                    "name": "Sampo",
+                    "rank": 4,
+                    "path": "Nihility",
+                    "item_type": "character"
+                },
+                {
+                    "id": 1103,
+                    "name": "Serval",
+                    "rank": 4,
+                    "path": "Erudition",
+                    "item_type": "character"
+                }
+            ],
+            "start_time": {
+                "time": "2023-08-09 12:00:00+01:00",
+                "is_server_time": true
+            },
+            "end_time": {
+                "time": "2023-08-29 14:59:59+01:00",
+                "is_server_time": true
+            }
+        },
+        {
+            "name": "Epochal Spectrum",
+            "banner_type": 11,
+            "uprate_5": [
+                {
+                    "id": 1213,
+                    "name": "Dan Heng \u2022 Imbibitor Lunae",
+                    "rank": 5,
+                    "path": "Destruction",
+                    "item_type": "character"
+                }
+            ],
+            "uprate_4": [
+                {
+                    "id": 1207,
+                    "name": "Yukong",
+                    "rank": 4,
+                    "path": "Harmony",
+                    "item_type": "character"
+                },
+                {
+                    "id": 1001,
+                    "name": "March 7th",
+                    "rank": 4,
+                    "path": "Preservation",
+                    "item_type": "character"
+                },
+                {
+                    "id": 1009,
+                    "name": "Asta",
+                    "rank": 4,
+                    "path": "Harmony",
+                    "item_type": "character"
+                }
+            ],
+            "start_time": {
+                "time": "2023-08-30 10:00:00+08:00",
+                "is_server_time": false
+            },
+            "end_time": {
+                "time": "2023-09-20 11:59:00+01:00",
+                "is_server_time": true
+            }
+        },
+        {
+            "name": "Foreseen, Foreknown, Foretold",
+            "banner_type": 11,
+            "uprate_5": [
+                {
+                    "id": 1208,
+                    "name": "Fu Xuan",
+                    "rank": 5,
+                    "path": "Preservation",
+                    "item_type": "character"
+                }
+            ],
+            "uprate_4": [
+                {
+                    "id": 1110,
+                    "name": "Lynx",
+                    "rank": 4,
+                    "path": "Abundance",
+                    "item_type": "character"
+                },
+                {
+                    "id": 1109,
+                    "name": "Hook",
+                    "rank": 4,
+                    "path": "Destruction",
+                    "item_type": "character"
+                },
+                {
+                    "id": 1106,
+                    "name": "Pela",
+                    "rank": 4,
+                    "path": "Nihility",
+                    "item_type": "character"
+                }
+            ],
+            "start_time": {
+                "time": "2023-09-20 12:00:00+01:00",
+                "is_server_time": true
+            },
+            "end_time": {
+                "time": "2023-10-10 14:59:59+01:00",
+                "is_server_time": true
+            }
+        },
+        {
+            "name": "Gentle Eclipse of the Moon",
+            "banner_type": 11,
+            "uprate_5": [
+                {
+                    "id": 1212,
+                    "name": "Jingliu",
+                    "rank": 5,
+                    "path": "Destruction",
+                    "item_type": "character"
+                }
+            ],
+            "uprate_4": [
+                {
+                    "id": 1201,
+                    "name": "Qingque",
+                    "rank": 4,
+                    "path": "Erudition",
+                    "item_type": "character"
+                },
+                {
+                    "id": 1108,
+                    "name": "Sampo",
+                    "rank": 4,
+                    "path": "Nihility",
+                    "item_type": "character"
+                },
+                {
+                    "id": 1202,
+                    "name": "Tingyun",
+                    "rank": 4,
+                    "path": "Harmony",
+                    "item_type": "character"
+                }
+            ],
+            "start_time": {
+                "time": "2023-10-11 10:00:00+08:00",
+                "is_server_time": false
+            },
+            "end_time": {
+                "time": "2023-10-27 10:59:00+08:00",
+                "is_server_time": false
+            }
+        },
+        {
+            "name": "Sunset Clause",
+            "banner_type": 11,
+            "uprate_5": [
+                {
+                    "id": 1112,
+                    "name": "Topaz & Numby",
+                    "rank": 5,
+                    "path": "The Hunt",
+                    "item_type": "character"
+                },
+                {
+                    "id": 1102,
+                    "name": "Seele",
+                    "rank": 5,
+                    "path": "The Hunt",
+                    "item_type": "character"
+                }
+            ],
+            "uprate_4": [
+                {
+                    "id": 1111,
+                    "name": "Luka",
+                    "rank": 4,
+                    "path": "Nihility",
+                    "item_type": "character"
+                },
+                {
+                    "id": 1206,
+                    "name": "Sushang",
+                    "rank": 4,
+                    "path": "The Hunt",
+                    "item_type": "character"
+                },
+                {
+                    "id": 1210,
+                    "name": "Guinaifen",
+                    "rank": 4,
+                    "path": "Nihility",
+                    "item_type": "character"
+                }
+            ],
+            "start_time": {
+                "time": "2023-10-27 12:00:00+01:00",
+                "is_server_time": true
+            },
+            "end_time": {
+                "time": "2023-11-14 14:59:59+01:00",
+                "is_server_time": true
+            },
+            "names": [
+                "Butterfly on Swordtip",
+                "Sunset Clause"
+            ]
+        },
+        {
+            "name": "Bloom in Gloom",
+            "banner_type": 11,
+            "uprate_5": [
+                {
+                    "id": 1217,
+                    "name": "Huohuo",
+                    "rank": 5,
+                    "path": "Abundance",
+                    "item_type": "character"
+                }
+            ],
+            "uprate_4": [
+                {
+                    "id": 1008,
+                    "name": "Arlan",
+                    "rank": 4,
+                    "path": "Destruction",
+                    "item_type": "character"
+                },
+                {
+                    "id": 1103,
+                    "name": "Serval",
+                    "rank": 4,
+                    "path": "Erudition",
+                    "item_type": "character"
+                },
+                {
+                    "id": 1002,
+                    "name": "Dan Heng",
+                    "rank": 4,
+                    "path": "The Hunt",
+                    "item_type": "character"
+                }
+            ],
+            "start_time": {
+                "time": "2023-11-15 10:00:00+08:00",
+                "is_server_time": false
+            },
+            "end_time": {
+                "time": "2023-12-06 11:59:00+01:00",
+                "is_server_time": true
+            }
+        },
+        {
+            "name": "Thorns of Scented Crown",
+            "banner_type": 11,
+            "uprate_5": [
+                {
+                    "id": 1302,
+                    "name": "Argenti",
+                    "rank": 5,
+                    "path": "Erudition",
+                    "item_type": "character"
+                },
+                {
+                    "id": 1006,
+                    "name": "Silver Wolf",
+                    "rank": 5,
+                    "path": "Nihility",
+                    "item_type": "character"
+                }
+            ],
+            "uprate_4": [
+                {
+                    "id": 1110,
+                    "name": "Lynx",
+                    "rank": 4,
+                    "path": "Abundance",
+                    "item_type": "character"
+                },
+                {
+                    "id": 1215,
+                    "name": "Hanya",
+                    "rank": 4,
+                    "path": "Harmony",
+                    "item_type": "character"
+                },
+                {
+                    "id": 1009,
+                    "name": "Asta",
+                    "rank": 4,
+                    "path": "Harmony",
+                    "item_type": "character"
+                }
+            ],
+            "start_time": {
+                "time": "2023-12-06 12:00:00+01:00",
+                "is_server_time": true
+            },
+            "end_time": {
+                "time": "2023-12-26 14:59:59+01:00",
+                "is_server_time": true
+            },
+            "names": [
+                "Contract Zero",
+                "Thorns of Scented Crown"
+            ]
+        },
+        {
+            "name": "Floral Triptych",
+            "banner_type": 11,
+            "uprate_5": [
+                {
+                    "id": 1303,
+                    "name": "Ruan Mei",
+                    "rank": 5,
+                    "path": "Harmony",
+                    "item_type": "character"
+                },
+                {
+                    "id": 1205,
+                    "name": "Blade",
+                    "rank": 5,
+                    "path": "Destruction",
+                    "item_type": "character"
+                }
+            ],
+            "uprate_4": [
+                {
+                    "id": 1214,
+                    "name": "Xueyi",
+                    "rank": 4,
+                    "path": "Destruction",
+                    "item_type": "character"
+                },
+                {
+                    "id": 1001,
+                    "name": "March 7th",
+                    "rank": 4,
+                    "path": "Preservation",
+                    "item_type": "character"
+                },
+                {
+                    "id": 1202,
+                    "name": "Tingyun",
+                    "rank": 4,
+                    "path": "Harmony",
+                    "item_type": "character"
+                }
+            ],
+            "start_time": {
+                "time": "2023-12-27 10:00:00+08:00",
+                "is_server_time": false
+            },
+            "end_time": {
+                "time": "2024-01-17 11:59:00+01:00",
+                "is_server_time": true
+            },
+            "names": [
+                "A Lost Soul",
+                "Floral Triptych"
+            ]
+        },
+        {
+            "name": "Nessun Dorma",
+            "banner_type": 11,
+            "uprate_5": [
+                {
+                    "id": 1005,
+                    "name": "Kafka",
+                    "rank": 5,
+                    "path": "Nihility",
+                    "item_type": "character"
+                },
+                {
+                    "id": 1305,
+                    "name": "Dr. Ratio",
+                    "rank": 5,
+                    "path": "The Hunt",
+                    "item_type": "character"
+                }
+            ],
+            "uprate_4": [
+                {
+                    "id": 1206,
+                    "name": "Sushang",
+                    "rank": 4,
+                    "path": "The Hunt",
+                    "item_type": "character"
+                },
+                {
+                    "id": 1109,
+                    "name": "Hook",
+                    "rank": 4,
+                    "path": "Destruction",
+                    "item_type": "character"
+                },
+                {
+                    "id": 1105,
+                    "name": "Natasha",
+                    "rank": 4,
+                    "path": "Abundance",
+                    "item_type": "character"
+                }
+            ],
+            "start_time": {
+                "time": "2024-01-17 12:00:00+01:00",
+                "is_server_time": true
+            },
+            "end_time": {
+                "time": "2024-02-05 14:59:59+01:00",
+                "is_server_time": true
+            },
+            "names": [
+                "Panta Rhei",
+                "Nessun Dorma"
+            ]
+        },
+        {
+            "name": "Ripples in Reflection",
+            "banner_type": 11,
+            "uprate_5": [
+                {
+                    "id": 1307,
+                    "name": "Black Swan",
+                    "rank": 5,
+                    "path": "Nihility",
+                    "item_type": "character"
+                },
+                {
+                    "id": 1213,
+                    "name": "Dan Heng \u2022 Imbibitor Lunae",
+                    "rank": 5,
+                    "path": "Destruction",
+                    "item_type": "character"
+                }
+            ],
+            "uprate_4": [
+                {
+                    "id": 1210,
+                    "name": "Guinaifen",
+                    "rank": 4,
+                    "path": "Nihility",
+                    "item_type": "character"
+                },
+                {
+                    "id": 1202,
+                    "name": "Tingyun",
+                    "rank": 4,
+                    "path": "Harmony",
+                    "item_type": "character"
+                },
+                {
+                    "id": 1312,
+                    "name": "Misha",
+                    "rank": 4,
+                    "path": "Destruction",
+                    "item_type": "character"
+                }
+            ],
+            "start_time": {
+                "time": "2024-02-06 10:00:00+08:00",
+                "is_server_time": false
+            },
+            "end_time": {
+                "time": "2024-02-29 11:59:00+01:00",
+                "is_server_time": true
+            },
+            "names": [
+                "Epochal Spectrum",
+                "Ripples in Reflection"
+            ]
+        },
+        {
+            "name": "Swirl of Heavenly Spear",
+            "banner_type": 11,
+            "uprate_5": [
+                {
+                    "id": 1204,
+                    "name": "Jing Yuan",
+                    "rank": 5,
+                    "path": "Erudition",
+                    "item_type": "character"
+                },
+                {
+                    "id": 1306,
+                    "name": "Sparkle",
+                    "rank": 5,
+                    "path": "Harmony",
+                    "item_type": "character"
+                }
+            ],
+            "uprate_4": [
+                {
+                    "id": 1201,
+                    "name": "Qingque",
+                    "rank": 4,
+                    "path": "Erudition",
+                    "item_type": "character"
+                },
+                {
+                    "id": 1108,
+                    "name": "Sampo",
+                    "rank": 4,
+                    "path": "Nihility",
+                    "item_type": "character"
+                },
+                {
+                    "id": 1215,
+                    "name": "Hanya",
+                    "rank": 4,
+                    "path": "Harmony",
+                    "item_type": "character"
+                }
+            ],
+            "start_time": {
+                "time": "2024-02-29 12:00:00+01:00",
+                "is_server_time": true
+            },
+            "end_time": {
+                "time": "2024-03-26 14:59:59+01:00",
+                "is_server_time": true
+            },
+            "names": [
+                "Sparkling Splendor",
+                "Swirl of Heavenly Spear"
+            ]
+        },
+        {
+            "name": "Words of Yore",
+            "banner_type": 11,
+            "uprate_5": [
+                {
+                    "id": 1308,
+                    "name": "Acheron",
+                    "rank": 5,
+                    "path": "Nihility",
+                    "item_type": "character"
+                },
+                {
+                    "id": 1203,
+                    "name": "Luocha",
+                    "rank": 5,
+                    "path": "Abundance",
+                    "item_type": "character"
+                }
+            ],
+            "uprate_4": [
+                {
+                    "id": 1106,
+                    "name": "Pela",
+                    "rank": 4,
+                    "path": "Nihility",
+                    "item_type": "character"
+                },
+                {
+                    "id": 1002,
+                    "name": "Dan Heng",
+                    "rank": 4,
+                    "path": "The Hunt",
+                    "item_type": "character"
+                },
+                {
+                    "id": 1301,
+                    "name": "Gallagher",
+                    "rank": 4,
+                    "path": "Abundance",
+                    "item_type": "character"
+                }
+            ],
+            "start_time": {
+                "time": "2024-03-27 10:00:00+08:00",
+                "is_server_time": false
+            },
+            "end_time": {
+                "time": "2024-04-17 11:59:00+01:00",
+                "is_server_time": true
+            },
+            "names": [
+                "Laic Pursuit",
+                "Words of Yore"
+            ]
+        },
+        {
+            "name": "Gentle Eclipse of the Moon",
+            "banner_type": 11,
+            "uprate_5": [
+                {
+                    "id": 1212,
+                    "name": "Jingliu",
+                    "rank": 5,
+                    "path": "Destruction",
+                    "item_type": "character"
+                },
+                {
+                    "id": 1304,
+                    "name": "Aventurine",
+                    "rank": 5,
+                    "path": "Preservation",
+                    "item_type": "character"
+                }
+            ],
+            "uprate_4": [
+                {
+                    "id": 1111,
+                    "name": "Luka",
+                    "rank": 4,
+                    "path": "Nihility",
+                    "item_type": "character"
+                },
+                {
+                    "id": 1110,
+                    "name": "Lynx",
+                    "rank": 4,
+                    "path": "Abundance",
+                    "item_type": "character"
+                },
+                {
+                    "id": 1103,
+                    "name": "Serval",
+                    "rank": 4,
+                    "path": "Erudition",
+                    "item_type": "character"
+                }
+            ],
+            "start_time": {
+                "time": "2024-04-17 12:00:00+01:00",
+                "is_server_time": true
+            },
+            "end_time": {
+                "time": "2024-05-07 15:00:00+01:00",
+                "is_server_time": true
+            },
+            "names": [
+                "Gentle Eclipse of the Moon",
+                "Gilded Imprisonment"
+            ]
+        },
+        {
+            "name": "Just Intonation",
+            "banner_type": 11,
+            "uprate_5": [
+                {
+                    "id": 1309,
+                    "name": "Robin",
+                    "rank": 5,
+                    "path": "Harmony",
+                    "item_type": "character"
+                },
+                {
+                    "id": 1112,
+                    "name": "Topaz & Numby",
+                    "rank": 5,
+                    "path": "The Hunt",
+                    "item_type": "character"
+                }
+            ],
+            "uprate_4": [
+                {
+                    "id": 1214,
+                    "name": "Xueyi",
+                    "rank": 4,
+                    "path": "Destruction",
+                    "item_type": "character"
+                },
+                {
+                    "id": 1215,
+                    "name": "Hanya",
+                    "rank": 4,
+                    "path": "Harmony",
+                    "item_type": "character"
+                },
+                {
+                    "id": 1001,
+                    "name": "March 7th",
+                    "rank": 4,
+                    "path": "Preservation",
+                    "item_type": "character"
+                }
+            ],
+            "start_time": {
+                "time": "2024-05-08 10:00:00+08:00",
+                "is_server_time": false
+            },
+            "end_time": {
+                "time": "2024-05-29 11:59:00+01:00",
+                "is_server_time": true
+            },
+            "names": [
+                "Just Intonation",
+                "Sunset Clause"
+            ]
+        },
+        {
+            "name": "Foreseen, Foreknown, Foretold",
+            "banner_type": 11,
+            "uprate_5": [
+                {
+                    "id": 1208,
+                    "name": "Fu Xuan",
+                    "rank": 5,
+                    "path": "Preservation",
+                    "item_type": "character"
+                },
+                {
+                    "id": 1315,
+                    "name": "Boothill",
+                    "rank": 5,
+                    "path": "The Hunt",
+                    "item_type": "character"
+                }
+            ],
+            "uprate_4": [
+                {
+                    "id": 1111,
+                    "name": "Luka",
+                    "rank": 4,
+                    "path": "Nihility",
+                    "item_type": "character"
+                },
+                {
+                    "id": 1109,
+                    "name": "Hook",
+                    "rank": 4,
+                    "path": "Destruction",
+                    "item_type": "character"
+                },
+                {
+                    "id": 1106,
+                    "name": "Pela",
+                    "rank": 4,
+                    "path": "Nihility",
+                    "item_type": "character"
+                }
+            ],
+            "start_time": {
+                "time": "2024-05-29 12:00:00+01:00",
+                "is_server_time": true
+            },
+            "end_time": {
+                "time": "2024-06-18 15:00:00+01:00",
+                "is_server_time": true
+            },
+            "names": [
+                "Foreseen, Foreknown, Foretold",
+                "Dusty Trail's Lone Star"
+            ]
+        },
+        {
+            "name": "Firefull Flyshine",
+            "banner_type": 11,
+            "uprate_5": [
+                {
+                    "id": 1310,
+                    "name": "Firefly",
+                    "rank": 5,
+                    "path": "Destruction",
+                    "item_type": "character"
+                },
+                {
+                    "id": 1303,
+                    "name": "Ruan Mei",
+                    "rank": 5,
+                    "path": "Harmony",
+                    "item_type": "character"
+                }
+            ],
+            "uprate_4": [
+                {
+                    "id": 1312,
+                    "name": "Misha",
+                    "rank": 4,
+                    "path": "Destruction",
+                    "item_type": "character"
+                },
+                {
+                    "id": 1301,
+                    "name": "Gallagher",
+                    "rank": 4,
+                    "path": "Abundance",
+                    "item_type": "character"
+                },
+                {
+                    "id": 1214,
+                    "name": "Xueyi",
+                    "rank": 4,
+                    "path": "Destruction",
+                    "item_type": "character"
+                }
+            ],
+            "start_time": {
+                "time": "2024-06-19 10:00:00+08:00",
+                "is_server_time": false
+            },
+            "end_time": {
+                "time": "2024-07-10 11:59:00+01:00",
+                "is_server_time": true
+            },
+            "names": [
+                "Firefull Flyshine",
+                "Floral Triptych"
+            ]
+        },
+        {
+            "name": "Thorns of Scented Crown",
+            "banner_type": 11,
+            "uprate_5": [
+                {
+                    "id": 1302,
+                    "name": "Argenti",
+                    "rank": 5,
+                    "path": "Erudition",
+                    "item_type": "character"
+                },
+                {
+                    "id": 1314,
+                    "name": "Jade",
+                    "rank": 5,
+                    "path": "Erudition",
+                    "item_type": "character"
+                }
+            ],
+            "uprate_4": [
+                {
+                    "id": 1103,
+                    "name": "Serval",
+                    "rank": 4,
+                    "path": "Erudition",
+                    "item_type": "character"
+                },
+                {
+                    "id": 1105,
+                    "name": "Natasha",
+                    "rank": 4,
+                    "path": "Abundance",
+                    "item_type": "character"
+                },
+                {
+                    "id": 1009,
+                    "name": "Asta",
+                    "rank": 4,
+                    "path": "Harmony",
+                    "item_type": "character"
+                }
+            ],
+            "start_time": {
+                "time": "2024-07-10 12:00:00+01:00",
+                "is_server_time": true
+            },
+            "end_time": {
+                "time": "2024-07-30 15:00:00+01:00",
+                "is_server_time": true
+            },
+            "names": [
+                "Lien on Life, Lease on Fate",
+                "Thorns of Scented Crown"
+            ]
+        },
+        {
+            "name": "Bloom in Gloom",
+            "banner_type": 11,
+            "uprate_5": [
+                {
+                    "id": 1217,
+                    "name": "Huohuo",
+                    "rank": 5,
+                    "path": "Abundance",
+                    "item_type": "character"
+                },
+                {
+                    "id": 1221,
+                    "name": "Yunli",
+                    "rank": 5,
+                    "path": "Destruction",
+                    "item_type": "character"
+                }
+            ],
+            "uprate_4": [
+                {
+                    "id": 1207,
+                    "name": "Yukong",
+                    "rank": 4,
+                    "path": "Harmony",
+                    "item_type": "character"
+                },
+                {
+                    "id": 1110,
+                    "name": "Lynx",
+                    "rank": 4,
+                    "path": "Abundance",
+                    "item_type": "character"
+                },
+                {
+                    "id": 1215,
+                    "name": "Hanya",
+                    "rank": 4,
+                    "path": "Harmony",
+                    "item_type": "character"
+                }
+            ],
+            "start_time": {
+                "time": "2024-07-31 10:00:00+08:00",
+                "is_server_time": false
+            },
+            "end_time": {
+                "time": "2024-08-21 11:59:00+01:00",
+                "is_server_time": true
+            },
+            "names": [
+                "Earth Hurled, Ether Curled",
+                "Bloom in Gloom"
+            ]
+        },
+        {
+            "name": "Sparkling Splendor",
+            "banner_type": 11,
+            "uprate_5": [
+                {
+                    "id": 1306,
+                    "name": "Sparkle",
+                    "rank": 5,
+                    "path": "Harmony",
+                    "item_type": "character"
+                },
+                {
+                    "id": 1218,
+                    "name": "Jiaoqiu",
+                    "rank": 5,
+                    "path": "Nihility",
+                    "item_type": "character"
+                }
+            ],
+            "uprate_4": [
+                {
+                    "id": 1008,
+                    "name": "Arlan",
+                    "rank": 4,
+                    "path": "Destruction",
+                    "item_type": "character"
+                },
+                {
+                    "id": 1210,
+                    "name": "Guinaifen",
+                    "rank": 4,
+                    "path": "Nihility",
+                    "item_type": "character"
+                },
+                {
+                    "id": 1109,
+                    "name": "Hook",
+                    "rank": 4,
+                    "path": "Destruction",
+                    "item_type": "character"
+                }
+            ],
+            "start_time": {
+                "time": "2024-08-21 12:00:00+01:00",
+                "is_server_time": true
+            },
+            "end_time": {
+                "time": "2024-09-09 15:00:00+01:00",
+                "is_server_time": true
+            },
+            "names": [
+                "Cauldron Contrivance",
+                "Sparkling Splendor"
+            ]
+        },
+        {
+            "name": "Stormrider's Bolt",
+            "banner_type": 11,
+            "uprate_5": [
+                {
+                    "id": 1220,
+                    "name": "Feixiao",
+                    "rank": 5,
+                    "path": "The Hunt",
+                    "item_type": "character"
+                },
+                {
+                    "id": 1307,
+                    "name": "Black Swan",
+                    "rank": 5,
+                    "path": "Nihility",
+                    "item_type": "character"
+                },
+                {
+                    "id": 1005,
+                    "name": "Kafka",
+                    "rank": 5,
+                    "path": "Nihility",
+                    "item_type": "character"
+                },
+                {
+                    "id": 1309,
+                    "name": "Robin",
+                    "rank": 5,
+                    "path": "Harmony",
+                    "item_type": "character"
+                }
+            ],
+            "uprate_4": [
+                {
+                    "id": 1111,
+                    "name": "Luka",
+                    "rank": 4,
+                    "path": "Nihility",
+                    "item_type": "character"
+                },
+                {
+                    "id": 1223,
+                    "name": "Moze",
+                    "rank": 4,
+                    "path": "The Hunt",
+                    "item_type": "character"
+                },
+                {
+                    "id": 1009,
+                    "name": "Asta",
+                    "rank": 4,
+                    "path": "Harmony",
+                    "item_type": "character"
+                }
+            ],
+            "start_time": {
+                "time": "2024-09-10 10:00:00+08:00",
+                "is_server_time": false
+            },
+            "end_time": {
+                "time": "2024-10-02 11:59:00+01:00",
+                "is_server_time": true
+            },
+            "names": [
+                "Stormrider's Bolt",
+                "Indelible Coterie"
+            ]
+        },
+        {
+            "name": "Sunset Clause",
+            "banner_type": 11,
+            "uprate_5": [
+                {
+                    "id": 1112,
+                    "name": "Topaz & Numby",
+                    "rank": 5,
+                    "path": "The Hunt",
+                    "item_type": "character"
+                },
+                {
+                    "id": 1222,
+                    "name": "Lingsha",
+                    "rank": 5,
+                    "path": "Abundance",
+                    "item_type": "character"
+                }
+            ],
+            "uprate_4": [
+                {
+                    "id": 1105,
+                    "name": "Natasha",
+                    "rank": 4,
+                    "path": "Abundance",
+                    "item_type": "character"
+                },
+                {
+                    "id": 1210,
+                    "name": "Guinaifen",
+                    "rank": 4,
+                    "path": "Nihility",
+                    "item_type": "character"
+                },
+                {
+                    "id": 1312,
+                    "name": "Misha",
+                    "rank": 4,
+                    "path": "Destruction",
+                    "item_type": "character"
+                }
+            ],
+            "start_time": {
+                "time": "2024-10-02 12:00:00+01:00",
+                "is_server_time": true
+            },
+            "end_time": {
+                "time": "2024-10-22 15:00:00+01:00",
+                "is_server_time": true
+            },
+            "names": [
+                "Let Scent Sink In",
+                "Sunset Clause"
+            ]
+        },
+        {
+            "name": "Epochal Spectrum",
+            "banner_type": 11,
+            "uprate_5": [
+                {
+                    "id": 1213,
+                    "name": "Dan Heng \u2022 Imbibitor Lunae",
+                    "rank": 5,
+                    "path": "Destruction",
+                    "item_type": "character"
+                },
+                {
+                    "id": 1317,
+                    "name": "Rappa",
+                    "rank": 5,
+                    "path": "Erudition",
+                    "item_type": "character"
+                }
+            ],
+            "uprate_4": [
+                {
+                    "id": 1207,
+                    "name": "Yukong",
+                    "rank": 4,
+                    "path": "Harmony",
+                    "item_type": "character"
+                },
+                {
+                    "id": 1110,
+                    "name": "Lynx",
+                    "rank": 4,
+                    "path": "Abundance",
+                    "item_type": "character"
+                },
+                {
+                    "id": 1214,
+                    "name": "Xueyi",
+                    "rank": 4,
+                    "path": "Destruction",
+                    "item_type": "character"
+                }
+            ],
+            "start_time": {
+                "time": "2024-10-23 10:00:00+08:00",
+                "is_server_time": false
+            },
+            "end_time": {
+                "time": "2024-11-13 11:59:00+01:00",
+                "is_server_time": true
+            },
+            "names": [
+                "Eyes of a Ninja",
+                "Epochal Spectrum"
+            ]
+        },
+        {
+            "name": "Gilded Imprisonment",
+            "banner_type": 11,
+            "uprate_5": [
+                {
+                    "id": 1304,
+                    "name": "Aventurine",
+                    "rank": 5,
+                    "path": "Preservation",
+                    "item_type": "character"
+                },
+                {
+                    "id": 1308,
+                    "name": "Acheron",
+                    "rank": 5,
+                    "path": "Nihility",
+                    "item_type": "character"
+                }
+            ],
+            "uprate_4": [
+                {
+                    "id": 1108,
+                    "name": "Sampo",
+                    "rank": 4,
+                    "path": "Nihility",
+                    "item_type": "character"
+                },
+                {
+                    "id": 1001,
+                    "name": "March 7th",
+                    "rank": 4,
+                    "path": "Preservation",
+                    "item_type": "character"
+                },
+                {
+                    "id": 1106,
+                    "name": "Pela",
+                    "rank": 4,
+                    "path": "Nihility",
+                    "item_type": "character"
+                }
+            ],
+            "start_time": {
+                "time": "2024-11-13 12:00:00+01:00",
+                "is_server_time": true
+            },
+            "end_time": {
+                "time": "2024-12-03 15:00:00+01:00",
+                "is_server_time": true
+            },
+            "names": [
+                "Words of Yore",
+                "Gilded Imprisonment"
+            ]
+        },
+        {
+            "name": "Swirl of Heavenly Spear",
+            "banner_type": 11,
+            "uprate_5": [
+                {
+                    "id": 1204,
+                    "name": "Jing Yuan",
+                    "rank": 5,
+                    "path": "Erudition",
+                    "item_type": "character"
+                },
+                {
+                    "id": 1313,
+                    "name": "Sunday",
+                    "rank": 5,
+                    "path": "Harmony",
+                    "item_type": "character"
+                }
+            ],
+            "uprate_4": [
+                {
+                    "id": 1201,
+                    "name": "Qingque",
+                    "rank": 4,
+                    "path": "Erudition",
+                    "item_type": "character"
+                },
+                {
+                    "id": 1008,
+                    "name": "Arlan",
+                    "rank": 4,
+                    "path": "Destruction",
+                    "item_type": "character"
+                },
+                {
+                    "id": 1202,
+                    "name": "Tingyun",
+                    "rank": 4,
+                    "path": "Harmony",
+                    "item_type": "character"
+                }
+            ],
+            "start_time": {
+                "time": "2024-12-04 10:00:00+08:00",
+                "is_server_time": false
+            },
+            "end_time": {
+                "time": "2024-12-25 11:59:00+01:00",
+                "is_server_time": true
+            },
+            "names": [
+                "Eyes to the Stars",
+                "Swirl of Heavenly Spear"
+            ]
+        },
+        {
+            "name": "Firefull Flyshine",
+            "banner_type": 11,
+            "uprate_5": [
+                {
+                    "id": 1310,
+                    "name": "Firefly",
+                    "rank": 5,
+                    "path": "Destruction",
+                    "item_type": "character"
+                },
+                {
+                    "id": 1225,
+                    "name": "Fugue",
+                    "rank": 5,
+                    "path": "Nihility",
+                    "item_type": "character"
+                }
+            ],
+            "uprate_4": [
+                {
+                    "id": 1207,
+                    "name": "Yukong",
+                    "rank": 4,
+                    "path": "Harmony",
+                    "item_type": "character"
+                },
+                {
+                    "id": 1301,
+                    "name": "Gallagher",
+                    "rank": 4,
+                    "path": "Abundance",
+                    "item_type": "character"
+                },
+                {
+                    "id": 1312,
+                    "name": "Misha",
+                    "rank": 4,
+                    "path": "Destruction",
+                    "item_type": "character"
+                }
+            ],
+            "start_time": {
+                "time": "2024-12-25 12:00:00+01:00",
+                "is_server_time": true
+            },
+            "end_time": {
+                "time": "2025-01-14 14:59:59+01:00",
+                "is_server_time": true
+            },
+            "names": [
+                "Firefull Flyshine",
+                "The Long Voyage Home"
+            ]
+        },
+        {
+            "name": "Message From Beyond",
+            "banner_type": 11,
+            "uprate_5": [
+                {
+                    "id": 1401,
+                    "name": "The Herta",
+                    "rank": 5,
+                    "path": "Erudition",
+                    "item_type": "character"
+                },
+                {
+                    "id": 1222,
+                    "name": "Lingsha",
+                    "rank": 5,
+                    "path": "Abundance",
+                    "item_type": "character"
+                },
+                {
+                    "id": 1220,
+                    "name": "Feixiao",
+                    "rank": 5,
+                    "path": "The Hunt",
+                    "item_type": "character"
+                },
+                {
+                    "id": 1314,
+                    "name": "Jade",
+                    "rank": 5,
+                    "path": "Erudition",
+                    "item_type": "character"
+                }
+            ],
+            "uprate_4": [
+                {
+                    "id": 1223,
+                    "name": "Moze",
+                    "rank": 4,
+                    "path": "The Hunt",
+                    "item_type": "character"
+                },
+                {
+                    "id": 1105,
+                    "name": "Natasha",
+                    "rank": 4,
+                    "path": "Abundance",
+                    "item_type": "character"
+                },
+                {
+                    "id": 1009,
+                    "name": "Asta",
+                    "rank": 4,
+                    "path": "Harmony",
+                    "item_type": "character"
+                }
+            ],
+            "start_time": {
+                "time": "2025-01-15 10:00:00+08:00",
+                "is_server_time": false
+            },
+            "end_time": {
+                "time": "2025-02-05 11:59:00+01:00",
+                "is_server_time": true
+            },
+            "names": [
+                "Message From Beyond",
+                "Indelible Coterie"
+            ]
+        },
+        {
+            "name": "Indelible Coterie",
+            "banner_type": 11,
+            "uprate_5": [
+                {
+                    "id": 1006,
+                    "name": "Silver Wolf",
+                    "rank": 5,
+                    "path": "Nihility",
+                    "item_type": "character"
+                },
+                {
+                    "id": 1315,
+                    "name": "Boothill",
+                    "rank": 5,
+                    "path": "The Hunt",
+                    "item_type": "character"
+                },
+                {
+                    "id": 1309,
+                    "name": "Robin",
+                    "rank": 5,
+                    "path": "Harmony",
+                    "item_type": "character"
+                },
+                {
+                    "id": 1402,
+                    "name": "Aglaea",
+                    "rank": 5,
+                    "path": "Remembrance",
+                    "item_type": "character"
+                }
+            ],
+            "uprate_4": [
+                {
+                    "id": 1215,
+                    "name": "Hanya",
+                    "rank": 4,
+                    "path": "Harmony",
+                    "item_type": "character"
+                },
+                {
+                    "id": 1206,
+                    "name": "Sushang",
+                    "rank": 4,
+                    "path": "The Hunt",
+                    "item_type": "character"
+                },
+                {
+                    "id": 1202,
+                    "name": "Tingyun",
+                    "rank": 4,
+                    "path": "Harmony",
+                    "item_type": "character"
+                }
+            ],
+            "start_time": {
+                "time": "2025-02-05 12:00:00+01:00",
+                "is_server_time": true
+            },
+            "end_time": {
+                "time": "2025-02-25 14:59:59+01:00",
+                "is_server_time": true
+            },
+            "names": [
+                "Indelible Coterie",
+                "Tailored Fate"
+            ]
+        },
+        {
+            "name": "Back to Fons et Origo",
+            "banner_type": 11,
+            "uprate_5": [
+                {
+                    "id": 1403,
+                    "name": "Tribbie",
+                    "rank": 5,
+                    "path": "Harmony",
+                    "item_type": "character"
+                },
+                {
+                    "id": 1221,
+                    "name": "Yunli",
+                    "rank": 5,
+                    "path": "Destruction",
+                    "item_type": "character"
+                }
+            ],
+            "uprate_4": [
+                {
+                    "id": 1110,
+                    "name": "Lynx",
+                    "rank": 4,
+                    "path": "Abundance",
+                    "item_type": "character"
+                },
+                {
+                    "id": 1210,
+                    "name": "Guinaifen",
+                    "rank": 4,
+                    "path": "Nihility",
+                    "item_type": "character"
+                },
+                {
+                    "id": 1109,
+                    "name": "Hook",
+                    "rank": 4,
+                    "path": "Destruction",
+                    "item_type": "character"
+                }
+            ],
+            "start_time": {
+                "time": "2025-02-26 10:00:00+08:00",
+                "is_server_time": false
+            },
+            "end_time": {
+                "time": "2025-03-19 11:59:00+01:00",
+                "is_server_time": true
+            },
+            "names": [
+                "Earth Hurled, Ether Curled",
+                "Back to Fons et Origo"
+            ]
+        },
+        {
+            "name": "Bloom in Gloom",
+            "banner_type": 11,
+            "uprate_5": [
+                {
+                    "id": 1217,
+                    "name": "Huohuo",
+                    "rank": 5,
+                    "path": "Abundance",
+                    "item_type": "character"
+                },
+                {
+                    "id": 1404,
+                    "name": "Mydei",
+                    "rank": 5,
+                    "path": "Destruction",
+                    "item_type": "character"
+                }
+            ],
+            "uprate_4": [
+                {
+                    "id": 1008,
+                    "name": "Arlan",
+                    "rank": 4,
+                    "path": "Destruction",
+                    "item_type": "character"
+                },
+                {
+                    "id": 1105,
+                    "name": "Natasha",
+                    "rank": 4,
+                    "path": "Abundance",
+                    "item_type": "character"
+                },
+                {
+                    "id": 1214,
+                    "name": "Xueyi",
+                    "rank": 4,
+                    "path": "Destruction",
+                    "item_type": "character"
+                }
+            ],
+            "start_time": {
+                "time": "2025-03-19 12:00:00+01:00",
+                "is_server_time": true
+            },
+            "end_time": {
+                "time": "2025-04-08 15:00:00+01:00",
+                "is_server_time": true
+            },
+            "names": [
+                "Fiery Lionheart",
+                "Bloom in Gloom"
+            ]
+        },
+        {
+            "name": "Blossom to the Beyond",
+            "banner_type": 11,
+            "uprate_5": [
+                {
+                    "id": 1407,
+                    "name": "Castorice",
+                    "rank": 5,
+                    "path": "Remembrance",
+                    "item_type": "character"
+                },
+                {
+                    "id": 1308,
+                    "name": "Acheron",
+                    "rank": 5,
+                    "path": "Nihility",
+                    "item_type": "character"
+                },
+                {
+                    "id": 1218,
+                    "name": "Jiaoqiu",
+                    "rank": 5,
+                    "path": "Nihility",
+                    "item_type": "character"
+                },
+                {
+                    "id": 1225,
+                    "name": "Fugue",
+                    "rank": 5,
+                    "path": "Nihility",
+                    "item_type": "character"
+                }
+            ],
+            "uprate_4": [
+                {
+                    "id": 1110,
+                    "name": "Lynx",
+                    "rank": 4,
+                    "path": "Abundance",
+                    "item_type": "character"
+                },
+                {
+                    "id": 1106,
+                    "name": "Pela",
+                    "rank": 4,
+                    "path": "Nihility",
+                    "item_type": "character"
+                },
+                {
+                    "id": 1301,
+                    "name": "Gallagher",
+                    "rank": 4,
+                    "path": "Abundance",
+                    "item_type": "character"
+                }
+            ],
+            "start_time": {
+                "time": "2025-04-09 10:00:00+08:00",
+                "is_server_time": false
+            },
+            "end_time": {
+                "time": "2025-04-30 11:59:00+01:00",
+                "is_server_time": true
+            },
+            "names": [
+                "Indelible Coterie",
+                "Blossom to the Beyond"
+            ]
+        },
+        {
+            "name": "The Universe in a Seed",
+            "banner_type": 11,
+            "uprate_5": [
+                {
+                    "id": 1405,
+                    "name": "Anaxa",
+                    "rank": 5,
+                    "path": "Erudition",
+                    "item_type": "character"
+                },
+                {
+                    "id": 1305,
+                    "name": "Dr. Ratio",
+                    "rank": 5,
+                    "path": "The Hunt",
+                    "item_type": "character"
+                }
+            ],
+            "uprate_4": [
+                {
+                    "id": 1103,
+                    "name": "Serval",
+                    "rank": 4,
+                    "path": "Erudition",
+                    "item_type": "character"
+                },
+                {
+                    "id": 1002,
+                    "name": "Dan Heng",
+                    "rank": 4,
+                    "path": "The Hunt",
+                    "item_type": "character"
+                },
+                {
+                    "id": 1223,
+                    "name": "Moze",
+                    "rank": 4,
+                    "path": "The Hunt",
+                    "item_type": "character"
+                }
+            ],
+            "start_time": {
+                "time": "2025-04-30 12:00:00+01:00",
+                "is_server_time": true
+            },
+            "end_time": {
+                "time": "2025-05-20 15:00:00+01:00",
+                "is_server_time": true
+            },
+            "names": [
+                "Panta Rhei",
+                "The Universe in a Seed"
+            ]
+        },
+        {
+            "name": "Message From Beyond",
+            "banner_type": 11,
+            "uprate_5": [
+                {
+                    "id": 1401,
+                    "name": "The Herta",
+                    "rank": 5,
+                    "path": "Erudition",
+                    "item_type": "character"
+                },
+                {
+                    "id": 1409,
+                    "name": "Hyacine",
+                    "rank": 5,
+                    "path": "Remembrance",
+                    "item_type": "character"
+                }
+            ],
+            "uprate_4": [
+                {
+                    "id": 1312,
+                    "name": "Misha",
+                    "rank": 4,
+                    "path": "Destruction",
+                    "item_type": "character"
+                },
+                {
+                    "id": 1103,
+                    "name": "Serval",
+                    "rank": 4,
+                    "path": "Erudition",
+                    "item_type": "character"
+                },
+                {
+                    "id": 1105,
+                    "name": "Natasha",
+                    "rank": 4,
+                    "path": "Abundance",
+                    "item_type": "character"
+                }
+            ],
+            "start_time": {
+                "time": "2025-05-21 10:00:00+08:00",
+                "is_server_time": false
+            },
+            "end_time": {
+                "time": "2025-06-11 11:59:00+01:00",
+                "is_server_time": true
+            },
+            "names": [
+                "Message From Beyond",
+                "A Rainbow onto Twilight"
+            ]
+        },
+        {
+            "name": "Tailored Fate",
+            "banner_type": 11,
+            "uprate_5": [
+                {
+                    "id": 1402,
+                    "name": "Aglaea",
+                    "rank": 5,
+                    "path": "Remembrance",
+                    "item_type": "character"
+                },
+                {
+                    "id": 1406,
+                    "name": "Cipher",
+                    "rank": 5,
+                    "path": "Nihility",
+                    "item_type": "character"
+                }
+            ],
+            "uprate_4": [
+                {
+                    "id": 1201,
+                    "name": "Qingque",
+                    "rank": 4,
+                    "path": "Erudition",
+                    "item_type": "character"
+                },
+                {
+                    "id": 1206,
+                    "name": "Sushang",
+                    "rank": 4,
+                    "path": "The Hunt",
+                    "item_type": "character"
+                },
+                {
+                    "id": 1214,
+                    "name": "Xueyi",
+                    "rank": 4,
+                    "path": "Destruction",
+                    "item_type": "character"
+                }
+            ],
+            "start_time": {
+                "time": "2025-06-11 12:00:00+01:00",
+                "is_server_time": true
+            },
+            "end_time": {
+                "time": "2025-07-01 15:00:00+01:00",
+                "is_server_time": true
+            },
+            "names": [
+                "Slick and Speedy Steals the Sky",
+                "Tailored Fate"
+            ]
+        },
+        {
+            "name": "To Evermore Burn as the Sun",
+            "banner_type": 11,
+            "uprate_5": [
+                {
+                    "id": 1408,
+                    "name": "Phainon",
+                    "rank": 5,
+                    "path": "Destruction",
+                    "item_type": "character"
+                },
+                {
+                    "id": 1403,
+                    "name": "Tribbie",
+                    "rank": 5,
+                    "path": "Harmony",
+                    "item_type": "character"
+                },
+                {
+                    "id": 1313,
+                    "name": "Sunday",
+                    "rank": 5,
+                    "path": "Harmony",
+                    "item_type": "character"
+                },
+                {
+                    "id": 1306,
+                    "name": "Sparkle",
+                    "rank": 5,
+                    "path": "Harmony",
+                    "item_type": "character"
+                }
+            ],
+            "uprate_4": [
+                {
+                    "id": 1207,
+                    "name": "Yukong",
+                    "rank": 4,
+                    "path": "Harmony",
+                    "item_type": "character"
+                },
+                {
+                    "id": 1001,
+                    "name": "March 7th",
+                    "rank": 4,
+                    "path": "Preservation",
+                    "item_type": "character"
+                },
+                {
+                    "id": 1202,
+                    "name": "Tingyun",
+                    "rank": 4,
+                    "path": "Harmony",
+                    "item_type": "character"
+                }
+            ],
+            "start_time": {
+                "time": "2025-07-02 10:00:00+08:00",
+                "is_server_time": false
+            },
+            "end_time": {
+                "time": "2025-07-23 11:59:00+01:00",
+                "is_server_time": true
+            },
+            "names": [
+                "Indelible Coterie",
+                "To Evermore Burn as the Sun"
+            ]
+        },
+        {
+            "name": "Indelible Coterie",
+            "banner_type": 11,
+            "uprate_5": [
+                {
+                    "id": 1205,
+                    "name": "Blade",
+                    "rank": 5,
+                    "path": "Destruction",
+                    "item_type": "character"
+                },
+                {
+                    "id": 1212,
+                    "name": "Jingliu",
+                    "rank": 5,
+                    "path": "Destruction",
+                    "item_type": "character"
+                },
+                {
+                    "id": 1310,
+                    "name": "Firefly",
+                    "rank": 5,
+                    "path": "Destruction",
+                    "item_type": "character"
+                }
+            ],
+            "uprate_4": [
+                {
+                    "id": 1215,
+                    "name": "Hanya",
+                    "rank": 4,
+                    "path": "Harmony",
+                    "item_type": "character"
+                },
+                {
+                    "id": 1111,
+                    "name": "Luka",
+                    "rank": 4,
+                    "path": "Nihility",
+                    "item_type": "character"
+                },
+                {
+                    "id": 1110,
+                    "name": "Lynx",
+                    "rank": 4,
+                    "path": "Abundance",
+                    "item_type": "character"
+                }
+            ],
+            "start_time": {
+                "time": "2025-07-23 12:00:00+01:00",
+                "is_server_time": true
+            },
+            "end_time": {
+                "time": "2025-08-12 14:59:59+01:00",
+                "is_server_time": true
+            }
+        },
+        {
+            "name": "Nessun Dorma",
+            "banner_type": 11,
+            "uprate_5": [
+                {
+                    "id": 1005,
+                    "name": "Kafka",
+                    "rank": 5,
+                    "path": "Nihility",
+                    "item_type": "character"
+                },
+                {
+                    "id": 1410,
+                    "name": "Hysilens",
+                    "rank": 5,
+                    "path": "Nihility",
+                    "item_type": "character"
+                }
+            ],
+            "uprate_4": [
+                {
+                    "id": 1008,
+                    "name": "Arlan",
+                    "rank": 4,
+                    "path": "Destruction",
+                    "item_type": "character"
+                },
+                {
+                    "id": 1109,
+                    "name": "Hook",
+                    "rank": 4,
+                    "path": "Destruction",
+                    "item_type": "character"
+                },
+                {
+                    "id": 1009,
+                    "name": "Asta",
+                    "rank": 4,
+                    "path": "Harmony",
+                    "item_type": "character"
+                }
+            ],
+            "start_time": {
+                "time": "2025-08-13 10:00:00+08:00",
+                "is_server_time": false
+            },
+            "end_time": {
+                "time": "2025-09-02 11:59:00+01:00",
+                "is_server_time": true
+            },
+            "names": [
+                "Winedark Swansong",
+                "Nessun Dorma"
+            ]
+        },
+        {
+            "name": "Contract Zero",
+            "banner_type": 11,
+            "uprate_5": [
+                {
+                    "id": 1006,
+                    "name": "Silver Wolf",
+                    "rank": 5,
+                    "path": "Nihility",
+                    "item_type": "character"
+                },
+                {
+                    "id": 1412,
+                    "name": "Cerydra",
+                    "rank": 5,
+                    "path": "Harmony",
+                    "item_type": "character"
+                }
+            ],
+            "uprate_4": [
+                {
+                    "id": 1201,
+                    "name": "Qingque",
+                    "rank": 4,
+                    "path": "Erudition",
+                    "item_type": "character"
+                },
+                {
+                    "id": 1108,
+                    "name": "Sampo",
+                    "rank": 4,
+                    "path": "Nihility",
+                    "item_type": "character"
+                },
+                {
+                    "id": 1002,
+                    "name": "Dan Heng",
+                    "rank": 4,
+                    "path": "The Hunt",
+                    "item_type": "character"
+                }
+            ],
+            "start_time": {
+                "time": "2025-09-02 12:00:00+01:00",
+                "is_server_time": true
+            },
+            "end_time": {
+                "time": "2025-09-23 14:59:59+01:00",
+                "is_server_time": true
+            },
+            "names": [
+                "The Iron Tamer of Tides",
+                "Contract Zero"
+            ]
+        },
+        {
+            "name": "The Remembrance of None",
+            "banner_type": 11,
+            "uprate_5": [
+                {
+                    "id": 1413,
+                    "name": "Evernight",
+                    "rank": 5,
+                    "path": "Remembrance",
+                    "item_type": "character"
+                },
+                {
+                    "id": 1401,
+                    "name": "The Herta",
+                    "rank": 5,
+                    "path": "Erudition",
+                    "item_type": "character"
+                }
+            ],
+            "uprate_4": [
+                {
+                    "id": 1214,
+                    "name": "Xueyi",
+                    "rank": 4,
+                    "path": "Destruction",
+                    "item_type": "character"
+                },
+                {
+                    "id": 1210,
+                    "name": "Guinaifen",
+                    "rank": 4,
+                    "path": "Nihility",
+                    "item_type": "character"
+                },
+                {
+                    "id": 1312,
+                    "name": "Misha",
+                    "rank": 4,
+                    "path": "Destruction",
+                    "item_type": "character"
+                }
+            ],
+            "start_time": {
+                "time": "2025-09-24 10:00:00+08:00",
+                "is_server_time": false
+            },
+            "end_time": {
+                "time": "2025-10-15 11:59:00+01:00",
+                "is_server_time": true
+            },
+            "names": [
+                "Message From Beyond",
+                "The Remembrance of None"
+            ]
+        },
+        {
+            "name": "Slay Until Evil Ends",
+            "banner_type": 11,
+            "uprate_5": [
+                {
+                    "id": 1414,
+                    "name": "Dan Heng \u2022 Permansor Terrae",
+                    "rank": 5,
+                    "path": "Preservation",
+                    "item_type": "character"
+                },
+                {
+                    "id": 1405,
+                    "name": "Anaxa",
+                    "rank": 5,
+                    "path": "Erudition",
+                    "item_type": "character"
+                }
+            ],
+            "uprate_4": [
+                {
+                    "id": 1215,
+                    "name": "Hanya",
+                    "rank": 4,
+                    "path": "Harmony",
+                    "item_type": "character"
+                },
+                {
+                    "id": 1206,
+                    "name": "Sushang",
+                    "rank": 4,
+                    "path": "The Hunt",
+                    "item_type": "character"
+                },
+                {
+                    "id": 1103,
+                    "name": "Serval",
+                    "rank": 4,
+                    "path": "Erudition",
+                    "item_type": "character"
+                }
+            ],
+            "start_time": {
+                "time": "2025-10-15 12:00:00+01:00",
+                "is_server_time": true
+            },
+            "end_time": {
+                "time": "2025-11-04 14:59:59+01:00",
+                "is_server_time": true
+            },
+            "names": [
+                "The Universe in a Seed",
+                "Slay Until Evil Ends"
+            ]
+        },
+        {
+            "name": "Indelible Coterie",
+            "banner_type": 11,
+            "uprate_5": [
+                {
+                    "id": 1407,
+                    "name": "Castorice",
+                    "rank": 5,
+                    "path": "Remembrance",
+                    "item_type": "character"
+                },
+                {
+                    "id": 1403,
+                    "name": "Tribbie",
+                    "rank": 5,
+                    "path": "Harmony",
+                    "item_type": "character"
+                },
+                {
+                    "id": 1409,
+                    "name": "Hyacine",
+                    "rank": 5,
+                    "path": "Remembrance",
+                    "item_type": "character"
+                },
+                {
+                    "id": 1415,
+                    "name": "Cyrene",
+                    "rank": 5,
+                    "path": "Remembrance",
+                    "item_type": "character"
+                }
+            ],
+            "uprate_4": [
+                {
+                    "id": 1223,
+                    "name": "Moze",
+                    "rank": 4,
+                    "path": "The Hunt",
+                    "item_type": "character"
+                },
+                {
+                    "id": 1106,
+                    "name": "Pela",
+                    "rank": 4,
+                    "path": "Nihility",
+                    "item_type": "character"
+                },
+                {
+                    "id": 1110,
+                    "name": "Lynx",
+                    "rank": 4,
+                    "path": "Abundance",
+                    "item_type": "character"
+                }
+            ],
+            "start_time": {
+                "time": "2025-11-05 10:00:00+08:00",
+                "is_server_time": false
+            },
+            "end_time": {
+                "time": "2025-11-26 11:59:00+01:00",
+                "is_server_time": true
+            },
+            "names": [
+                "Indelible Coterie",
+                "Ripples Rejoined"
+            ]
+        },
+        {
+            "name": "Indelible Coterie",
+            "banner_type": 11,
+            "uprate_5": [
+                {
+                    "id": "1408",
+                    "name": "Phainon",
+                    "rank": 5,
+                    "item_type": "character"
+                },
+                {
+                    "id": "1406",
+                    "name": "Cipher",
+                    "rank": 5,
+                    "item_type": "character"
+                },
+                {
+                    "id": "1404",
+                    "name": "Mydei",
+                    "rank": 5,
+                    "item_type": "character"
+                },
+                {
+                    "id": 1415,
+                    "name": "Cyrene",
+                    "rank": 5,
+                    "path": "Remembrance",
+                    "item_type": "character"
+                }
+            ],
+            "uprate_4": [
+                {
+                    "id": "1223",
+                    "name": "Moze",
+                    "rank": 4,
+                    "item_type": "character"
+                },
+                {
+                    "id": "1110",
+                    "name": "Lynx",
+                    "rank": 4,
+                    "item_type": "character"
+                },
+                {
+                    "id": "1106",
+                    "name": "Pela",
+                    "rank": 4,
+                    "item_type": "character"
+                }
+            ],
+            "start_time": {
+                "time": "2025-11-26 12:00:00+01:00",
+                "is_server_time": true
+            },
+            "end_time": {
+                "time": "2025-12-16 15:00:00+01:00",
+                "is_server_time": true
+            },
+            "names": [
+                "Indelible Coterie",
+                "Ripples Rejoined"
+            ]
+        },
+        {
+            "name": "Firefull Flyshine",
+            "banner_type": 11,
+            "uprate_5": [
+                {
+                    "id": "1310",
+                    "name": "Firefly",
+                    "rank": 5,
+                    "item_type": "character"
+                },
+                {
+                    "id": "1321",
+                    "name": "The Dahlia",
+                    "rank": 5,
+                    "item_type": "character"
+                }
+            ],
+            "uprate_4": [
+                {
+                    "id": "1301",
+                    "name": "Gallagher",
+                    "rank": 4,
+                    "item_type": "character"
+                },
+                {
+                    "id": "1111",
+                    "name": "Luka",
+                    "rank": 4,
+                    "item_type": "character"
+                },
+                {
+                    "id": "1001",
+                    "name": "March 7th",
+                    "rank": 4,
+                    "item_type": "character"
+                }
+            ],
+            "start_time": {
+                "time": "2025-12-17 03:00:00+08:00",
+                "is_server_time": false
+            },
+            "end_time": {
+                "time": "2026-01-07 11:59:00+01:00",
+                "is_server_time": true
+            },
+            "names": [
+                "Firefull Flyshine",
+                "Dance in Flame"
+            ]
+        }
+    ]
+}
