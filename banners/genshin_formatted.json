@@ -4003,6 +4003,50 @@
                 "time": "2025-12-02 14:59:59+01:00",
                 "is_server_time": true
             }
+        },
+        {
+            "name": "Rubedo, of White Stone Born",
+            "banner_type": 301,
+            "uprate_5": [
+                {
+                    "id": "10000123",
+                    "name": "Durin",
+                    "rank": 5,
+                    "colour": "#EC4923FF",
+                    "item_type": "character"
+                }
+            ],
+            "uprate_4": [
+                {
+                    "id": "10000124",
+                    "name": "Jahoda",
+                    "rank": 4,
+                    "colour": "#359697",
+                    "item_type": "character"
+                },
+                {
+                    "id": "10000032",
+                    "name": "Bennett",
+                    "rank": 4,
+                    "colour": "#EC4923FF",
+                    "item_type": "character"
+                },
+                {
+                    "id": "10000076",
+                    "name": "Faruzan",
+                    "rank": 4,
+                    "colour": "#359697",
+                    "item_type": "character"
+                }
+            ],
+            "start_time": {
+                "time": "2025-12-03 07:00:00+08:00",
+                "is_server_time": false
+            },
+            "end_time": {
+                "time": "2025-12-23 17:59:00+01:00",
+                "is_server_time": true
+            }
         }
     ],
     "302": [
@@ -9225,6 +9269,64 @@
                 "time": "2025-12-02 14:59:59+01:00",
                 "is_server_time": true
             }
+        },
+        {
+            "name": "Epitome Invocation",
+            "banner_type": 302,
+            "uprate_5": [
+                {
+                    "id": "11518",
+                    "name": "Athame Artis",
+                    "rank": 5,
+                    "item_type": "weapon"
+                },
+                {
+                    "id": "15515",
+                    "name": "The Daybreak Chronicles",
+                    "rank": 5,
+                    "item_type": "weapon"
+                }
+            ],
+            "uprate_4": [
+                {
+                    "id": "11410",
+                    "name": "The Alley Flash",
+                    "rank": 4,
+                    "item_type": "weapon"
+                },
+                {
+                    "id": "13427",
+                    "name": "Prospector's Drill",
+                    "rank": 4,
+                    "item_type": "weapon"
+                },
+                {
+                    "id": "14410",
+                    "name": "Wine and Song",
+                    "rank": 4,
+                    "item_type": "weapon"
+                },
+                {
+                    "id": "12405",
+                    "name": "Rainslasher",
+                    "rank": 4,
+                    "item_type": "weapon"
+                },
+                {
+                    "id": "15402",
+                    "name": "The Stringless",
+                    "rank": 4,
+                    "item_type": "weapon"
+                }
+            ],
+            "start_time": {
+                "time": "2025-12-03 07:00:00+08:00",
+                "is_server_time": false
+            },
+            "end_time": {
+                "time": "2025-12-23 17:59:00+01:00",
+                "is_server_time": true
+            }
         }
     ],
     "400": [
@@ -12085,6 +12187,50 @@
             },
             "end_time": {
                 "time": "2025-12-02 14:59:59+01:00",
+                "is_server_time": true
+            }
+        },
+        {
+            "name": "Ballad in Goblets",
+            "banner_type": 400,
+            "uprate_5": [
+                {
+                    "id": "10000022",
+                    "name": "Venti",
+                    "rank": 5,
+                    "colour": "#359697",
+                    "item_type": "character"
+                }
+            ],
+            "uprate_4": [
+                {
+                    "id": "10000124",
+                    "name": "Jahoda",
+                    "rank": 4,
+                    "colour": "#359697",
+                    "item_type": "character"
+                },
+                {
+                    "id": "10000032",
+                    "name": "Bennett",
+                    "rank": 4,
+                    "colour": "#EC4923FF",
+                    "item_type": "character"
+                },
+                {
+                    "id": "10000076",
+                    "name": "Faruzan",
+                    "rank": 4,
+                    "colour": "#359697",
+                    "item_type": "character"
+                }
+            ],
+            "start_time": {
+                "time": "2025-12-03 07:00:00+08:00",
+                "is_server_time": false
+            },
+            "end_time": {
+                "time": "2025-12-23 17:59:00+01:00",
                 "is_server_time": true
             }
         }
