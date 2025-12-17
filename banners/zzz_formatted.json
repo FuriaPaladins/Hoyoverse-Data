@@ -987,6 +987,50 @@
                 "Voice of the Once-Spoken",
                 "As Yesterday Dies"
             ]
+        },
+        {
+            "name": "Through Night's Inferno",
+            "banner_type": 2,
+            "uprate_5": [
+                {
+                    "id": "1471",
+                    "name": "Banyue",
+                    "rank": 5,
+                    "item_type": "character"
+                },
+                {
+                    "id": "1191",
+                    "name": "Ellen",
+                    "rank": 5,
+                    "item_type": "character"
+                }
+            ],
+            "uprate_4": [
+                {
+                    "id": "1131",
+                    "name": "Soukaku",
+                    "rank": 4,
+                    "item_type": "character"
+                },
+                {
+                    "id": "1271",
+                    "name": "Seth",
+                    "rank": 4,
+                    "item_type": "character"
+                }
+            ],
+            "start_time": {
+                "time": "2025-12-17 12:00:00+01:00",
+                "is_server_time": true
+            },
+            "end_time": {
+                "time": "2025-12-29 14:59:59+01:00",
+                "is_server_time": true
+            },
+            "names": [
+                "Mellow Waveride",
+                "Through Night's Inferno"
+            ]
         }
     ],
     "3": [
@@ -1976,6 +2020,50 @@
             "names": [
                 "Vibrant Resonance",
                 "Dissonant Sonata"
+            ]
+        },
+        {
+            "name": "Dazzling Melody",
+            "banner_type": 3,
+            "uprate_5": [
+                {
+                    "id": "14119",
+                    "name": "Deep Sea Visitor",
+                    "rank": 5,
+                    "item_type": "lightcone"
+                },
+                {
+                    "id": "14147",
+                    "name": "Wrathful Vajra",
+                    "rank": 5,
+                    "item_type": "lightcone"
+                }
+            ],
+            "uprate_4": [
+                {
+                    "id": "13113",
+                    "name": "Bashful Demon",
+                    "rank": 4,
+                    "item_type": "lightcone"
+                },
+                {
+                    "id": "13127",
+                    "name": "Peacekeeper - Specialized",
+                    "rank": 4,
+                    "item_type": "lightcone"
+                }
+            ],
+            "start_time": {
+                "time": "2025-12-17 12:00:00+01:00",
+                "is_server_time": true
+            },
+            "end_time": {
+                "time": "2025-12-29 14:59:59+01:00",
+                "is_server_time": true
+            },
+            "names": [
+                "Dazzling Melody",
+                "Dazzling Choir"
             ]
         }
     ]

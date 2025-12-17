@@ -2344,6 +2344,56 @@
                 "Coalesced Truths",
                 "Brilliant Fixation"
             ]
+        },
+        {
+            "name": "Bygone Reminiscence",
+            "banner_type": 12,
+            "uprate_5": [
+                {
+                    "id": "23025",
+                    "name": "Whereabouts Should Dreams Rest",
+                    "rank": 5,
+                    "item_type": "lightcone"
+                },
+                {
+                    "id": "23050",
+                    "name": "Never Forget Her Flame",
+                    "rank": 5,
+                    "item_type": "lightcone"
+                }
+            ],
+            "uprate_4": [
+                {
+                    "id": "21043",
+                    "name": "Concert for Two",
+                    "rank": 4,
+                    "item_type": "lightcone"
+                },
+                {
+                    "id": "21001",
+                    "name": "Good Night and Sleep Well",
+                    "rank": 4,
+                    "item_type": "lightcone"
+                },
+                {
+                    "id": "21004",
+                    "name": "Memories of the Past",
+                    "rank": 4,
+                    "item_type": "lightcone"
+                }
+            ],
+            "start_time": {
+                "time": "2025-12-17 03:00:00+08:00",
+                "is_server_time": false
+            },
+            "end_time": {
+                "time": "2026-01-07 11:59:00+01:00",
+                "is_server_time": true
+            },
+            "names": [
+                "Bygone Reminiscence",
+                "Brilliant Fixation"
+            ]
         }
     ],
     "11": [
@@ -4860,6 +4910,56 @@
             "names": [
                 "Indelible Coterie",
                 "Ripples Rejoined"
+            ]
+        },
+        {
+            "name": "Firefull Flyshine",
+            "banner_type": 11,
+            "uprate_5": [
+                {
+                    "id": "1310",
+                    "name": "Firefly",
+                    "rank": 5,
+                    "item_type": "character"
+                },
+                {
+                    "id": "1321",
+                    "name": "The Dahlia",
+                    "rank": 5,
+                    "item_type": "character"
+                }
+            ],
+            "uprate_4": [
+                {
+                    "id": "1301",
+                    "name": "Gallagher",
+                    "rank": 4,
+                    "item_type": "character"
+                },
+                {
+                    "id": "1111",
+                    "name": "Luka",
+                    "rank": 4,
+                    "item_type": "character"
+                },
+                {
+                    "id": "1001",
+                    "name": "March 7th",
+                    "rank": 4,
+                    "item_type": "character"
+                }
+            ],
+            "start_time": {
+                "time": "2025-12-17 03:00:00+08:00",
+                "is_server_time": false
+            },
+            "end_time": {
+                "time": "2026-01-07 11:59:00+01:00",
+                "is_server_time": true
+            },
+            "names": [
+                "Firefull Flyshine",
+                "Dance in Flame"
             ]
         }
     ]
