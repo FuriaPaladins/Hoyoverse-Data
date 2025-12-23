@@ -4047,6 +4047,50 @@
                 "time": "2025-12-23 17:59:00+01:00",
                 "is_server_time": true
             }
+        },
+        {
+            "name": "Cornucopia of Contention",
+            "banner_type": 301,
+            "uprate_5": [
+                {
+                    "id": "10000111",
+                    "name": "Varesa",
+                    "rank": 5,
+                    "colour": "#6957C2FF",
+                    "item_type": "character"
+                }
+            ],
+            "uprate_4": [
+                {
+                    "id": "10000110",
+                    "name": "Iansan",
+                    "rank": 4,
+                    "colour": "#6957C2FF",
+                    "item_type": "character"
+                },
+                {
+                    "id": "10000090",
+                    "name": "Chevreuse",
+                    "rank": 4,
+                    "colour": "#EC4923FF",
+                    "item_type": "character"
+                },
+                {
+                    "id": "10000092",
+                    "name": "Gaming",
+                    "rank": 4,
+                    "colour": "#EC4923FF",
+                    "item_type": "character"
+                }
+            ],
+            "start_time": {
+                "time": "2025-12-23 18:00:00+01:00",
+                "is_server_time": true
+            },
+            "end_time": {
+                "time": "2026-01-13 14:59:59+01:00",
+                "is_server_time": true
+            }
         }
     ],
     "302": [
@@ -9327,6 +9371,64 @@
                 "time": "2025-12-23 17:59:00+01:00",
                 "is_server_time": true
             }
+        },
+        {
+            "name": "Epitome Invocation",
+            "banner_type": 302,
+            "uprate_5": [
+                {
+                    "id": "14519",
+                    "name": "Vivid Notions",
+                    "rank": 5,
+                    "item_type": "weapon"
+                },
+                {
+                    "id": "11516",
+                    "name": "Peak Patrol Song",
+                    "rank": 5,
+                    "item_type": "weapon"
+                }
+            ],
+            "uprate_4": [
+                {
+                    "id": "12430",
+                    "name": "Fruitful Hook",
+                    "rank": 4,
+                    "item_type": "weapon"
+                },
+                {
+                    "id": "15410",
+                    "name": "Alley Hunter",
+                    "rank": 4,
+                    "item_type": "weapon"
+                },
+                {
+                    "id": "11401",
+                    "name": "Favonius Sword",
+                    "rank": 4,
+                    "item_type": "weapon"
+                },
+                {
+                    "id": "13407",
+                    "name": "Favonius Lance",
+                    "rank": 4,
+                    "item_type": "weapon"
+                },
+                {
+                    "id": "14402",
+                    "name": "The Widsith",
+                    "rank": 4,
+                    "item_type": "weapon"
+                }
+            ],
+            "start_time": {
+                "time": "2025-12-23 18:00:00+01:00",
+                "is_server_time": true
+            },
+            "end_time": {
+                "time": "2026-01-13 14:59:59+01:00",
+                "is_server_time": true
+            }
         }
     ],
     "400": [
@@ -12231,6 +12333,50 @@
             },
             "end_time": {
                 "time": "2025-12-23 17:59:00+01:00",
+                "is_server_time": true
+            }
+        },
+        {
+            "name": "Forgefire's Blessing",
+            "banner_type": 400,
+            "uprate_5": [
+                {
+                    "id": "10000103",
+                    "name": "Xilonen",
+                    "rank": 5,
+                    "colour": "#cc9046FF",
+                    "item_type": "character"
+                }
+            ],
+            "uprate_4": [
+                {
+                    "id": "10000110",
+                    "name": "Iansan",
+                    "rank": 4,
+                    "colour": "#6957C2FF",
+                    "item_type": "character"
+                },
+                {
+                    "id": "10000090",
+                    "name": "Chevreuse",
+                    "rank": 4,
+                    "colour": "#EC4923FF",
+                    "item_type": "character"
+                },
+                {
+                    "id": "10000092",
+                    "name": "Gaming",
+                    "rank": 4,
+                    "colour": "#EC4923FF",
+                    "item_type": "character"
+                }
+            ],
+            "start_time": {
+                "time": "2025-12-23 18:00:00+01:00",
+                "is_server_time": true
+            },
+            "end_time": {
+                "time": "2026-01-13 14:59:59+01:00",
                 "is_server_time": true
             }
         }
