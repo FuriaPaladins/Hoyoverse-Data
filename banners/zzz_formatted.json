@@ -1031,6 +1031,62 @@
                 "Mellow Waveride",
                 "Through Night's Inferno"
             ]
+        },
+        {
+            "name": "Light Upon Fingertips",
+            "banner_type": 2,
+            "uprate_5": [
+                {
+                    "id": "1431",
+                    "name": "Ye Shunguang",
+                    "rank": 5,
+                    "item_type": "character"
+                },
+                {
+                    "id": "1341",
+                    "name": "Zhao",
+                    "rank": 5,
+                    "item_type": "character"
+                }
+            ],
+            "uprate_4": [
+                {
+                    "id": "1031",
+                    "name": "Nicole",
+                    "rank": 4,
+                    "item_type": "character"
+                },
+                {
+                    "id": "1151",
+                    "name": "Lucy",
+                    "rank": 4,
+                    "item_type": "character"
+                },
+                {
+                    "id": "1011",
+                    "name": "Anby",
+                    "rank": 4,
+                    "item_type": "character"
+                },
+                {
+                    "id": "1121",
+                    "name": "Ben",
+                    "rank": 4,
+                    "item_type": "character"
+                }
+            ],
+            "start_time": {
+                "time": "2025-12-30 02:00:00+08:00",
+                "is_server_time": false
+            },
+            "end_time": {
+                "time": "2026-02-05 14:59:59+01:00",
+                "is_server_time": true
+            },
+            "names": [
+                "Light Upon Fingertips",
+                "Priceless Heart"
+            ]
         }
     ],
     "3": [
@@ -2064,6 +2120,62 @@
             "names": [
                 "Dazzling Melody",
                 "Dazzling Choir"
+            ]
+        },
+        {
+            "name": "Dissonant Sonata",
+            "banner_type": 3,
+            "uprate_5": [
+                {
+                    "id": "14143",
+                    "name": "Cloudcleave Radiance",
+                    "rank": 5,
+                    "item_type": "lightcone"
+                },
+                {
+                    "id": "14134",
+                    "name": "Half-Sugar Bunny",
+                    "rank": 5,
+                    "item_type": "lightcone"
+                }
+            ],
+            "uprate_4": [
+                {
+                    "id": "13103",
+                    "name": "The Vault",
+                    "rank": 4,
+                    "item_type": "lightcone"
+                },
+                {
+                    "id": "13115",
+                    "name": "Kaboom the Cannon",
+                    "rank": 4,
+                    "item_type": "lightcone"
+                },
+                {
+                    "id": "13101",
+                    "name": "Demara Battery Mark II",
+                    "rank": 4,
+                    "item_type": "lightcone"
+                },
+                {
+                    "id": "13112",
+                    "name": "Big Cylinder",
+                    "rank": 4,
+                    "item_type": "lightcone"
+                }
+            ],
+            "start_time": {
+                "time": "2025-12-30 02:00:00+08:00",
+                "is_server_time": false
+            },
+            "end_time": {
+                "time": "2026-02-05 14:59:59+01:00",
+                "is_server_time": true
+            },
+            "names": [
+                "Dazzling Choir",
+                "Dissonant Sonata"
             ]
         }
     ]
