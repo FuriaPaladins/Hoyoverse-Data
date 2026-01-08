@@ -2394,6 +2394,55 @@
                 "Bygone Reminiscence",
                 "Brilliant Fixation"
             ]
+        },
+        {
+            "name": "Bygone Reminiscence",
+            "banner_type": 12,
+            "uprate_5": [
+                {
+                    "id": "23035",
+                    "name": "Long Road Leads Home",
+                    "rank": 5,
+                    "item_type": "lightcone"
+                },
+                {
+                    "id": "23032",
+                    "name": "Scent Alone Stays True",
+                    "rank": 5,
+                    "item_type": "lightcone"
+                }
+            ],
+            "uprate_4": [
+                {
+                    "id": "21020",
+                    "name": "Geniuses' Repose",
+                    "rank": 4,
+                    "item_type": "lightcone"
+                },
+                {
+                    "id": "21000",
+                    "name": "Post-Op Conversation",
+                    "rank": 4,
+                    "item_type": "lightcone"
+                },
+                {
+                    "id": "21005",
+                    "name": "The Moles Welcome You",
+                    "rank": 4,
+                    "item_type": "lightcone"
+                }
+            ],
+            "start_time": {
+                "time": "2026-01-07 12:00:00+01:00",
+                "is_server_time": true
+            },
+            "end_time": {
+                "time": "2026-01-28 11:59:00+01:00",
+                "is_server_time": true
+            },
+            "names": [
+                "Bygone Reminiscence"
+            ]
         }
     ],
     "11": [
@@ -4960,6 +5009,56 @@
             "names": [
                 "Firefull Flyshine",
                 "Dance in Flame"
+            ]
+        },
+        {
+            "name": "The Long Voyage Home",
+            "banner_type": 11,
+            "uprate_5": [
+                {
+                    "id": "1225",
+                    "name": "Fugue",
+                    "rank": 5,
+                    "item_type": "character"
+                },
+                {
+                    "id": "1222",
+                    "name": "Lingsha",
+                    "rank": 5,
+                    "item_type": "character"
+                }
+            ],
+            "uprate_4": [
+                {
+                    "id": "1105",
+                    "name": "Natasha",
+                    "rank": 4,
+                    "item_type": "character"
+                },
+                {
+                    "id": "1108",
+                    "name": "Sampo",
+                    "rank": 4,
+                    "item_type": "character"
+                },
+                {
+                    "id": "1008",
+                    "name": "Arlan",
+                    "rank": 4,
+                    "item_type": "character"
+                }
+            ],
+            "start_time": {
+                "time": "2026-01-07 12:00:00+01:00",
+                "is_server_time": true
+            },
+            "end_time": {
+                "time": "2026-01-28 11:59:00+01:00",
+                "is_server_time": true
+            },
+            "names": [
+                "The Long Voyage Home",
+                "Let Scent Sink In"
             ]
         }
     ]
