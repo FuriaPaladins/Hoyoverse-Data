@@ -4091,6 +4091,50 @@
                 "time": "2026-01-13 14:59:59+01:00",
                 "is_server_time": true
             }
+        },
+        {
+            "name": "Somnias a Luna",
+            "banner_type": 301,
+            "uprate_5": [
+                {
+                    "id": "10000125",
+                    "name": "Columbina",
+                    "rank": 5,
+                    "colour": "#498fccFF",
+                    "item_type": "character"
+                }
+            ],
+            "uprate_4": [
+                {
+                    "id": "10000097",
+                    "name": "Sethos",
+                    "rank": 4,
+                    "colour": "#6957C2FF",
+                    "item_type": "character"
+                },
+                {
+                    "id": "10000031",
+                    "name": "Fischl",
+                    "rank": 4,
+                    "colour": "#6957C2FF",
+                    "item_type": "character"
+                },
+                {
+                    "id": "10000113",
+                    "name": "Ifa",
+                    "rank": 4,
+                    "colour": "#359697",
+                    "item_type": "character"
+                }
+            ],
+            "start_time": {
+                "time": "2026-01-14 07:00:00+08:00",
+                "is_server_time": false
+            },
+            "end_time": {
+                "time": "2026-02-03 17:59:00+01:00",
+                "is_server_time": true
+            }
         }
     ],
     "302": [
@@ -9429,6 +9473,64 @@
                 "time": "2026-01-13 14:59:59+01:00",
                 "is_server_time": true
             }
+        },
+        {
+            "name": "Epitome Invocation",
+            "banner_type": 302,
+            "uprate_5": [
+                {
+                    "id": "14522",
+                    "name": "Nocturne's Curtain Call",
+                    "rank": 5,
+                    "item_type": "weapon"
+                },
+                {
+                    "id": "13515",
+                    "name": "Fractured Halo",
+                    "rank": 5,
+                    "item_type": "weapon"
+                }
+            ],
+            "uprate_4": [
+                {
+                    "id": "13430",
+                    "name": "Mountain-Bracing Bolt",
+                    "rank": 4,
+                    "item_type": "weapon"
+                },
+                {
+                    "id": "14430",
+                    "name": "Waveriding Whirl",
+                    "rank": 4,
+                    "item_type": "weapon"
+                },
+                {
+                    "id": "15412",
+                    "name": "Mitternachts Waltz",
+                    "rank": 4,
+                    "item_type": "weapon"
+                },
+                {
+                    "id": "11402",
+                    "name": "The Flute",
+                    "rank": 4,
+                    "item_type": "weapon"
+                },
+                {
+                    "id": "12403",
+                    "name": "Sacrificial Greatsword",
+                    "rank": 4,
+                    "item_type": "weapon"
+                }
+            ],
+            "start_time": {
+                "time": "2026-01-14 07:00:00+08:00",
+                "is_server_time": false
+            },
+            "end_time": {
+                "time": "2026-02-03 17:59:00+01:00",
+                "is_server_time": true
+            }
         }
     ],
     "400": [
@@ -12377,6 +12479,50 @@
             },
             "end_time": {
                 "time": "2026-01-13 14:59:59+01:00",
+                "is_server_time": true
+            }
+        },
+        {
+            "name": "Astral Actuation",
+            "banner_type": 400,
+            "uprate_5": [
+                {
+                    "id": "10000116",
+                    "name": "Ineffa",
+                    "rank": 5,
+                    "colour": "#6957C2FF",
+                    "item_type": "character"
+                }
+            ],
+            "uprate_4": [
+                {
+                    "id": "10000097",
+                    "name": "Sethos",
+                    "rank": 4,
+                    "colour": "#6957C2FF",
+                    "item_type": "character"
+                },
+                {
+                    "id": "10000031",
+                    "name": "Fischl",
+                    "rank": 4,
+                    "colour": "#6957C2FF",
+                    "item_type": "character"
+                },
+                {
+                    "id": "10000113",
+                    "name": "Ifa",
+                    "rank": 4,
+                    "colour": "#359697",
+                    "item_type": "character"
+                }
+            ],
+            "start_time": {
+                "time": "2026-01-14 07:00:00+08:00",
+                "is_server_time": false
+            },
+            "end_time": {
+                "time": "2026-02-03 17:59:00+01:00",
                 "is_server_time": true
             }
         }
