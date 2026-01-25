@@ -2178,5 +2178,83 @@
                 "Dissonant Sonata"
             ]
         }
+    ],
+    "12": [
+        {
+            "name": "Sworn to Noble Courage",
+            "banner_type": 12,
+            "uprate_5": [
+                {
+                    "id": "1401",
+                    "name": "Alice",
+                    "rank": 5,
+                    "item_type": "character"
+                },
+                {
+                    "id": "1311",
+                    "name": "Astra Yao",
+                    "rank": 5,
+                    "item_type": "character"
+                },
+                {
+                    "id": "1381",
+                    "name": "Soldier 0 - Anby",
+                    "rank": 5,
+                    "item_type": "character"
+                }
+            ],
+            "uprate_4": [],
+            "start_time": {
+                "time": "2026-01-21 12:00:00+01:00",
+                "is_server_time": true
+            },
+            "end_time": {
+                "time": "2026-02-05 14:59:59+01:00",
+                "is_server_time": true
+            },
+            "names": [
+                "Sworn to Noble Courage",
+                "Thousand Melodies",
+                "Electric Reflection"
+            ]
+        }
+    ],
+    "13": [
+        {
+            "name": "Dazzling Melody",
+            "banner_type": 13,
+            "uprate_5": [
+                {
+                    "id": "14138",
+                    "name": "Severed Innocence",
+                    "rank": 5,
+                    "item_type": "lightcone"
+                },
+                {
+                    "id": "14140",
+                    "name": "Practiced Perfection",
+                    "rank": 5,
+                    "item_type": "lightcone"
+                },
+                {
+                    "id": "14131",
+                    "name": "Elegant Vanity",
+                    "rank": 5,
+                    "item_type": "lightcone"
+                }
+            ],
+            "uprate_4": [],
+            "start_time": {
+                "time": "2026-01-21 12:00:00+01:00",
+                "is_server_time": true
+            },
+            "end_time": {
+                "time": "2026-02-05 14:59:59+01:00",
+                "is_server_time": true
+            },
+            "names": [
+                "Dazzling Melody"
+            ]
+        }
     ]
 }
