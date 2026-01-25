@@ -41,7 +41,7 @@ class BannerParser:
         self.character_data: dict = {}
         self.weapon_data: dict = {}
 
-        self.formatted_banner_data: dict = {}
+        self.formatted_banner_data: dict = defaultdict(list)
         self.data_to_add: dict = defaultdict(list)
 
         self.logger = logging.getLogger(f"BannerParser({self.short_game:<3}) ")
@@ -74,12 +74,13 @@ class BannerParser:
             for add_banner in banners:
 
                 exists = False
-                for saved_banner in self.formatted_banner_data[banner_type]:
+                for saved_banner in self.formatted_banner_data.get(banner_type, []):
                     if saved_banner["name"] == add_banner["name"] and str(saved_banner["start_time"]) == str(add_banner["start_time"]):
                         exists = True
                         break
 
                 if not exists:
+                    self.formatted_banner_data.setdefault(banner_type, [])
                     self.formatted_banner_data[banner_type].append(add_banner)
                     banner_count += 1
 
@@ -260,7 +261,7 @@ class BannerParser:
             self.data_to_add[str(banner["gacha_type"])].append(parsed_data)
 
     async def _parse_banner_zzz(self, banner: dict):
-        banner_id = int(str(banner["gacha_type"])[0])
+        banner_id = int(str(banner["gacha_type"])[0] if len(str(banner["gacha_type"])) == 4 else str(banner["gacha_type"])[:2])
         if banner_id in [1, 5]:
             return  # skip bangboo & standard banner
 
