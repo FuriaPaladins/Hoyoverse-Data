@@ -2443,6 +2443,55 @@
             "names": [
                 "Bygone Reminiscence"
             ]
+        },
+        {
+            "name": "Bygone Reminiscence",
+            "banner_type": 12,
+            "uprate_5": [
+                {
+                    "id": "23034",
+                    "name": "A Grounded Ascent",
+                    "rank": 5,
+                    "item_type": "lightcone"
+                },
+                {
+                    "id": "23036",
+                    "name": "Time Woven Into Gold",
+                    "rank": 5,
+                    "item_type": "lightcone"
+                }
+            ],
+            "uprate_4": [
+                {
+                    "id": "21051",
+                    "name": "Geniuses' Greetings",
+                    "rank": 4,
+                    "item_type": "lightcone"
+                },
+                {
+                    "id": "21016",
+                    "name": "Trend of the Universal Market",
+                    "rank": 4,
+                    "item_type": "lightcone"
+                },
+                {
+                    "id": "21018",
+                    "name": "Dance! Dance! Dance!",
+                    "rank": 4,
+                    "item_type": "lightcone"
+                }
+            ],
+            "start_time": {
+                "time": "2026-01-28 12:00:00+01:00",
+                "is_server_time": true
+            },
+            "end_time": {
+                "time": "2026-02-12 15:00:00+01:00",
+                "is_server_time": true
+            },
+            "names": [
+                "Bygone Reminiscence"
+            ]
         }
     ],
     "11": [
@@ -5059,6 +5108,56 @@
             "names": [
                 "The Long Voyage Home",
                 "Let Scent Sink In"
+            ]
+        },
+        {
+            "name": "Eyes to the Stars",
+            "banner_type": 11,
+            "uprate_5": [
+                {
+                    "id": "1313",
+                    "name": "Sunday",
+                    "rank": 5,
+                    "item_type": "character"
+                },
+                {
+                    "id": "1402",
+                    "name": "Aglaea",
+                    "rank": 5,
+                    "item_type": "character"
+                }
+            ],
+            "uprate_4": [
+                {
+                    "id": "1207",
+                    "name": "Yukong",
+                    "rank": 4,
+                    "item_type": "character"
+                },
+                {
+                    "id": "1202",
+                    "name": "Tingyun",
+                    "rank": 4,
+                    "item_type": "character"
+                },
+                {
+                    "id": "1002",
+                    "name": "Dan Heng",
+                    "rank": 4,
+                    "item_type": "character"
+                }
+            ],
+            "start_time": {
+                "time": "2026-01-28 12:00:00+01:00",
+                "is_server_time": true
+            },
+            "end_time": {
+                "time": "2026-02-12 15:00:00+01:00",
+                "is_server_time": true
+            },
+            "names": [
+                "Eyes to the Stars",
+                "Tailored Fate"
             ]
         }
     ]
