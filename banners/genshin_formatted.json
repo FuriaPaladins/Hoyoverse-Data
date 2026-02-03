@@ -4135,6 +4135,50 @@
                 "time": "2026-02-03 17:59:00+01:00",
                 "is_server_time": true
             }
+        },
+        {
+            "name": "Harmonious Abundance",
+            "banner_type": 301,
+            "uprate_5": [
+                {
+                    "id": "10000126",
+                    "name": "Zibai",
+                    "rank": 5,
+                    "colour": "#cc9046FF",
+                    "item_type": "character"
+                }
+            ],
+            "uprate_4": [
+                {
+                    "id": "10000127",
+                    "name": "Illuga",
+                    "rank": 4,
+                    "colour": "#cc9046FF",
+                    "item_type": "character"
+                },
+                {
+                    "id": "10000121",
+                    "name": "Aino",
+                    "rank": 4,
+                    "colour": "#498fccFF",
+                    "item_type": "character"
+                },
+                {
+                    "id": "10000055",
+                    "name": "Gorou",
+                    "rank": 4,
+                    "colour": "#cc9046FF",
+                    "item_type": "character"
+                }
+            ],
+            "start_time": {
+                "time": "2026-02-03 18:00:00+01:00",
+                "is_server_time": true
+            },
+            "end_time": {
+                "time": "2026-02-24 14:59:59+01:00",
+                "is_server_time": true
+            }
         }
     ],
     "302": [
@@ -9531,6 +9575,64 @@
                 "time": "2026-02-03 17:59:00+01:00",
                 "is_server_time": true
             }
+        },
+        {
+            "name": "Epitome Invocation",
+            "banner_type": 302,
+            "uprate_5": [
+                {
+                    "id": "11519",
+                    "name": "Lightbearing Moonshard",
+                    "rank": 5,
+                    "item_type": "weapon"
+                },
+                {
+                    "id": "14514",
+                    "name": "Tome of the Eternal Flow",
+                    "rank": 5,
+                    "item_type": "weapon"
+                }
+            ],
+            "uprate_4": [
+                {
+                    "id": "11418",
+                    "name": "Xiphos' Moonlight",
+                    "rank": 4,
+                    "item_type": "weapon"
+                },
+                {
+                    "id": "12401",
+                    "name": "Favonius Greatsword",
+                    "rank": 4,
+                    "item_type": "weapon"
+                },
+                {
+                    "id": "13401",
+                    "name": "Dragon's Bane",
+                    "rank": 4,
+                    "item_type": "weapon"
+                },
+                {
+                    "id": "14409",
+                    "name": "Eye of Perception",
+                    "rank": 4,
+                    "item_type": "weapon"
+                },
+                {
+                    "id": "15401",
+                    "name": "Favonius Warbow",
+                    "rank": 4,
+                    "item_type": "weapon"
+                }
+            ],
+            "start_time": {
+                "time": "2026-02-03 18:00:00+01:00",
+                "is_server_time": true
+            },
+            "end_time": {
+                "time": "2026-02-24 14:59:59+01:00",
+                "is_server_time": true
+            }
         }
     ],
     "400": [
@@ -12523,6 +12625,50 @@
             },
             "end_time": {
                 "time": "2026-02-03 17:59:00+01:00",
+                "is_server_time": true
+            }
+        },
+        {
+            "name": "Decree of the Deeps",
+            "banner_type": 400,
+            "uprate_5": [
+                {
+                    "id": "10000087",
+                    "name": "Neuvillette",
+                    "rank": 5,
+                    "colour": "#498fccFF",
+                    "item_type": "character"
+                }
+            ],
+            "uprate_4": [
+                {
+                    "id": "10000127",
+                    "name": "Illuga",
+                    "rank": 4,
+                    "colour": "#cc9046FF",
+                    "item_type": "character"
+                },
+                {
+                    "id": "10000121",
+                    "name": "Aino",
+                    "rank": 4,
+                    "colour": "#498fccFF",
+                    "item_type": "character"
+                },
+                {
+                    "id": "10000055",
+                    "name": "Gorou",
+                    "rank": 4,
+                    "colour": "#cc9046FF",
+                    "item_type": "character"
+                }
+            ],
+            "start_time": {
+                "time": "2026-02-03 18:00:00+01:00",
+                "is_server_time": true
+            },
+            "end_time": {
+                "time": "2026-02-24 14:59:59+01:00",
                 "is_server_time": true
             }
         }
