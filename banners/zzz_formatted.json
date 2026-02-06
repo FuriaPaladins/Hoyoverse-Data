@@ -1087,6 +1087,50 @@
                 "Light Upon Fingertips",
                 "Priceless Heart"
             ]
+        },
+        {
+            "name": "Whimsy in Triple Meter",
+            "banner_type": 2,
+            "uprate_5": [
+                {
+                    "id": "1491",
+                    "name": "Sunna",
+                    "rank": 5,
+                    "item_type": "character"
+                },
+                {
+                    "id": "1371",
+                    "name": "Yixuan",
+                    "rank": 5,
+                    "item_type": "character"
+                }
+            ],
+            "uprate_4": [
+                {
+                    "id": "1061",
+                    "name": "Corin",
+                    "rank": 4,
+                    "item_type": "character"
+                },
+                {
+                    "id": "1081",
+                    "name": "Billy",
+                    "rank": 4,
+                    "item_type": "character"
+                }
+            ],
+            "start_time": {
+                "time": "2026-02-06 02:00:00+08:00",
+                "is_server_time": false
+            },
+            "end_time": {
+                "time": "2026-03-04 11:59:59+01:00",
+                "is_server_time": true
+            },
+            "names": [
+                "Lonely Wayfarer Beyond",
+                "Whimsy in Triple Meter"
+            ]
         }
     ],
     "3": [
@@ -2176,6 +2220,50 @@
             "names": [
                 "Dazzling Choir",
                 "Dissonant Sonata"
+            ]
+        },
+        {
+            "name": "Dissonant Sonata",
+            "banner_type": 3,
+            "uprate_5": [
+                {
+                    "id": "14149",
+                    "name": "Thoughtbop",
+                    "rank": 5,
+                    "item_type": "lightcone"
+                },
+                {
+                    "id": "14137",
+                    "name": "Qingming Birdcage",
+                    "rank": 5,
+                    "item_type": "lightcone"
+                }
+            ],
+            "uprate_4": [
+                {
+                    "id": "13106",
+                    "name": "Housekeeper",
+                    "rank": 4,
+                    "item_type": "lightcone"
+                },
+                {
+                    "id": "13108",
+                    "name": "Starlight Engine Replica",
+                    "rank": 4,
+                    "item_type": "lightcone"
+                }
+            ],
+            "start_time": {
+                "time": "2026-02-06 02:00:00+08:00",
+                "is_server_time": false
+            },
+            "end_time": {
+                "time": "2026-03-04 11:59:59+01:00",
+                "is_server_time": true
+            },
+            "names": [
+                "Dissonant Sonata",
+                "Vibrant Resonance"
             ]
         }
     ],
