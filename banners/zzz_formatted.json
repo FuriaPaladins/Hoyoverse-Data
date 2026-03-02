@@ -2086,13 +2086,13 @@
                     "id": "14148",
                     "name": "Yesterday Calls",
                     "rank": 5,
-                    "item_type": "lightcone"
+                    "item_type": "weapon"
                 },
                 {
                     "id": "14129",
                     "name": "Myriad Eclipse",
                     "rank": 5,
-                    "item_type": "lightcone"
+                    "item_type": "weapon"
                 }
             ],
             "uprate_4": [
@@ -2100,13 +2100,13 @@
                     "id": "13106",
                     "name": "Housekeeper",
                     "rank": 4,
-                    "item_type": "lightcone"
+                    "item_type": "weapon"
                 },
                 {
                     "id": "13108",
                     "name": "Starlight Engine Replica",
                     "rank": 4,
-                    "item_type": "lightcone"
+                    "item_type": "weapon"
                 }
             ],
             "start_time": {
@@ -2130,13 +2130,13 @@
                     "id": "14119",
                     "name": "Deep Sea Visitor",
                     "rank": 5,
-                    "item_type": "lightcone"
+                    "item_type": "weapon"
                 },
                 {
                     "id": "14147",
                     "name": "Wrathful Vajra",
                     "rank": 5,
-                    "item_type": "lightcone"
+                    "item_type": "weapon"
                 }
             ],
             "uprate_4": [
@@ -2144,13 +2144,13 @@
                     "id": "13113",
                     "name": "Bashful Demon",
                     "rank": 4,
-                    "item_type": "lightcone"
+                    "item_type": "weapon"
                 },
                 {
                     "id": "13127",
                     "name": "Peacekeeper - Specialized",
                     "rank": 4,
-                    "item_type": "lightcone"
+                    "item_type": "weapon"
                 }
             ],
             "start_time": {
@@ -2174,13 +2174,13 @@
                     "id": "14143",
                     "name": "Cloudcleave Radiance",
                     "rank": 5,
-                    "item_type": "lightcone"
+                    "item_type": "weapon"
                 },
                 {
                     "id": "14134",
                     "name": "Half-Sugar Bunny",
                     "rank": 5,
-                    "item_type": "lightcone"
+                    "item_type": "weapon"
                 }
             ],
             "uprate_4": [
@@ -2188,25 +2188,25 @@
                     "id": "13103",
                     "name": "The Vault",
                     "rank": 4,
-                    "item_type": "lightcone"
+                    "item_type": "weapon"
                 },
                 {
                     "id": "13115",
                     "name": "Kaboom the Cannon",
                     "rank": 4,
-                    "item_type": "lightcone"
+                    "item_type": "weapon"
                 },
                 {
                     "id": "13101",
                     "name": "Demara Battery Mark II",
                     "rank": 4,
-                    "item_type": "lightcone"
+                    "item_type": "weapon"
                 },
                 {
                     "id": "13112",
                     "name": "Big Cylinder",
                     "rank": 4,
-                    "item_type": "lightcone"
+                    "item_type": "weapon"
                 }
             ],
             "start_time": {
@@ -2230,13 +2230,13 @@
                     "id": "14149",
                     "name": "Thoughtbop",
                     "rank": 5,
-                    "item_type": "lightcone"
+                    "item_type": "weapon"
                 },
                 {
                     "id": "14137",
                     "name": "Qingming Birdcage",
                     "rank": 5,
-                    "item_type": "lightcone"
+                    "item_type": "weapon"
                 }
             ],
             "uprate_4": [
@@ -2244,13 +2244,13 @@
                     "id": "13106",
                     "name": "Housekeeper",
                     "rank": 4,
-                    "item_type": "lightcone"
+                    "item_type": "weapon"
                 },
                 {
                     "id": "13108",
                     "name": "Starlight Engine Replica",
                     "rank": 4,
-                    "item_type": "lightcone"
+                    "item_type": "weapon"
                 }
             ],
             "start_time": {
@@ -2316,19 +2316,19 @@
                     "id": "14138",
                     "name": "Severed Innocence",
                     "rank": 5,
-                    "item_type": "lightcone"
+                    "item_type": "weapon"
                 },
                 {
                     "id": "14140",
                     "name": "Practiced Perfection",
                     "rank": 5,
-                    "item_type": "lightcone"
+                    "item_type": "weapon"
                 },
                 {
                     "id": "14131",
                     "name": "Elegant Vanity",
                     "rank": 5,
-                    "item_type": "lightcone"
+                    "item_type": "weapon"
                 }
             ],
             "uprate_4": [],

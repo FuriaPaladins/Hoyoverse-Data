@@ -4179,6 +4179,46 @@
                 "time": "2026-02-24 14:59:59+01:00",
                 "is_server_time": true
             }
+        },
+        {
+            "name": "The Northerly Wind's Song of Triumph",
+            "banner_type": 301,
+            "uprate_5": [
+                {
+                    "id": 10000128,
+                    "name": "Varka",
+                    "rarity": 5,
+                    "item_type": "character"
+                }
+            ],
+            "uprate_4": [
+                {
+                    "id": 10000032,
+                    "name": "Bennett",
+                    "rarity": 4,
+                    "item_type": "character"
+                },
+                {
+                    "id": 10000023,
+                    "name": "Xiangling",
+                    "rarity": 4,
+                    "item_type": "character"
+                },
+                {
+                    "id": 10000043,
+                    "name": "Sucrose",
+                    "rarity": 4,
+                    "item_type": "character"
+                }
+            ],
+            "start_time": {
+                "time": "2026-02-25 07:00:00+08:00",
+                "is_server_time": false
+            },
+            "end_time": {
+                "time": "2026-03-17 17:59:00+01:00",
+                "is_server_time": true
+            }
         }
     ],
     "302": [
@@ -9633,6 +9673,64 @@
                 "time": "2026-02-24 14:59:59+01:00",
                 "is_server_time": true
             }
+        },
+        {
+            "name": "Epitome Invocation",
+            "banner_type": 302,
+            "uprate_5": [
+                {
+                    "id": 12515,
+                    "name": "Gest of the Mighty Wolf",
+                    "rarity": 5,
+                    "item_type": "weapon"
+                },
+                {
+                    "id": 13516,
+                    "name": "Bloodsoaked Ruins",
+                    "rarity": 5,
+                    "item_type": "weapon"
+                }
+            ],
+            "uprate_4": [
+                {
+                    "id": 13434,
+                    "name": "Sacrificer's Staff",
+                    "rarity": 4,
+                    "item_type": "weapon"
+                },
+                {
+                    "id": 11401,
+                    "name": "Favonius Sword",
+                    "rarity": 4,
+                    "item_type": "weapon"
+                },
+                {
+                    "id": 12401,
+                    "name": "Favonius Greatsword",
+                    "rarity": 4,
+                    "item_type": "weapon"
+                },
+                {
+                    "id": 14403,
+                    "name": "Sacrificial Fragments",
+                    "rarity": 4,
+                    "item_type": "weapon"
+                },
+                {
+                    "id": 15403,
+                    "name": "Sacrificial Bow",
+                    "rarity": 4,
+                    "item_type": "weapon"
+                }
+            ],
+            "start_time": {
+                "time": "2026-02-25 07:00:00+08:00",
+                "is_server_time": false
+            },
+            "end_time": {
+                "time": "2026-03-17 17:59:00+01:00",
+                "is_server_time": true
+            }
         }
     ],
     "400": [
@@ -12671,6 +12769,46 @@
                 "time": "2026-02-24 14:59:59+01:00",
                 "is_server_time": true
             }
+        },
+        {
+            "name": "The Lone Light Knocks at Night",
+            "banner_type": 400,
+            "uprate_5": [
+                {
+                    "id": 10000120,
+                    "name": "Flins",
+                    "rarity": 5,
+                    "item_type": "character"
+                }
+            ],
+            "uprate_4": [
+                {
+                    "id": 10000032,
+                    "name": "Bennett",
+                    "rarity": 4,
+                    "item_type": "character"
+                },
+                {
+                    "id": 10000023,
+                    "name": "Xiangling",
+                    "rarity": 4,
+                    "item_type": "character"
+                },
+                {
+                    "id": 10000043,
+                    "name": "Sucrose",
+                    "rarity": 4,
+                    "item_type": "character"
+                }
+            ],
+            "start_time": {
+                "time": "2026-02-25 07:00:00+08:00",
+                "is_server_time": false
+            },
+            "end_time": {
+                "time": "2026-03-17 17:59:00+01:00",
+                "is_server_time": true
+            }
         }
     ],
     "500": [
@@ -13124,6 +13262,117 @@
             },
             "end_time": {
                 "time": "2025-09-30 17:59:00+01:00",
+                "is_server_time": true
+            }
+        },
+        {
+            "name": "Ode to the Dawn Breeze",
+            "banner_type": 500,
+            "uprate_5": [
+                {
+                    "id": 10000051,
+                    "name": "Eula",
+                    "rarity": 5,
+                    "item_type": "character"
+                },
+                {
+                    "id": 10000041,
+                    "name": "Mona",
+                    "rarity": 5,
+                    "item_type": "character"
+                },
+                {
+                    "id": 10000038,
+                    "name": "Albedo",
+                    "rarity": 5,
+                    "item_type": "character"
+                },
+                {
+                    "id": 10000029,
+                    "name": "Klee",
+                    "rarity": 5,
+                    "item_type": "character"
+                },
+                {
+                    "id": 10000016,
+                    "name": "Diluc",
+                    "rarity": 5,
+                    "item_type": "character"
+                },
+                {
+                    "id": 10000003,
+                    "name": "Jean",
+                    "rarity": 5,
+                    "item_type": "character"
+                },
+                {
+                    "id": 11502,
+                    "name": "Skyward Blade",
+                    "rarity": 5,
+                    "item_type": "weapon"
+                },
+                {
+                    "id": 11501,
+                    "name": "Aquila Favonia",
+                    "rarity": 5,
+                    "item_type": "weapon"
+                },
+                {
+                    "id": 12503,
+                    "name": "Song of Broken Pines",
+                    "rarity": 5,
+                    "item_type": "weapon"
+                },
+                {
+                    "id": 12502,
+                    "name": "Wolf's Gravestone",
+                    "rarity": 5,
+                    "item_type": "weapon"
+                },
+                {
+                    "id": 12501,
+                    "name": "Skyward Pride",
+                    "rarity": 5,
+                    "item_type": "weapon"
+                },
+                {
+                    "id": 13502,
+                    "name": "Skyward Spine",
+                    "rarity": 5,
+                    "item_type": "weapon"
+                },
+                {
+                    "id": 14502,
+                    "name": "Lost Prayer to the Sacred Winds",
+                    "rarity": 5,
+                    "item_type": "weapon"
+                },
+                {
+                    "id": 14501,
+                    "name": "Skyward Atlas",
+                    "rarity": 5,
+                    "item_type": "weapon"
+                },
+                {
+                    "id": 15503,
+                    "name": "Elegy for the End",
+                    "rarity": 5,
+                    "item_type": "weapon"
+                },
+                {
+                    "id": 15501,
+                    "name": "Skyward Harp",
+                    "rarity": 5,
+                    "item_type": "weapon"
+                }
+            ],
+            "uprate_4": [],
+            "start_time": {
+                "time": "2026-02-25 07:00:00+08:00",
+                "is_server_time": false
+            },
+            "end_time": {
+                "time": "2026-03-17 17:59:00+01:00",
                 "is_server_time": true
             }
         }
