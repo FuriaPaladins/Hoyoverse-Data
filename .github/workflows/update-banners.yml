@@ -22,12 +22,11 @@ jobs:
       run: uv python install 3.14
 
     - name: Install dependencies
-      run: uv pip install -r requirements.txt
+      run: uv pip install --system -r requirements.txt
 
     - name: Run main.py and check for changes
       run: |
-        # Use 'uv run' to ensure the script uses the synced environment
-        uv run main.py
+        python main.py
         
         git config --global user.name "GitHub Actions"
         git config --global user.email "noreply@github-action.com"
