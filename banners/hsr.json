@@ -1133,6 +1133,34 @@
       "gacha_id": "ee25deff6ad277cce76d006caca58aeb1104993b",
       "gacha_label": "12_5",
       "gacha_type": 12
+    },
+    {
+      "begin_time": "2026-03-25 06:30:00",
+      "end_time": "2026-04-21 15:00:00",
+      "gacha_id": "e9c17c07fa15dd7a9e85de2cc23594ea2e557371",
+      "gacha_label": "11",
+      "gacha_type": 11
+    },
+    {
+      "begin_time": "2026-03-25 06:30:00",
+      "end_time": "2026-04-08 11:59:00",
+      "gacha_id": "ea4a70f1e9443dd1ead20b543687998cd234993f",
+      "gacha_label": "11_2",
+      "gacha_type": 11
+    },
+    {
+      "begin_time": "2026-03-25 06:30:00",
+      "end_time": "2026-04-21 15:00:00",
+      "gacha_id": "f01e9f36b742f9adc1b118cf3be218f97511e5e3",
+      "gacha_label": "12",
+      "gacha_type": 12
+    },
+    {
+      "begin_time": "2026-03-25 06:30:00",
+      "end_time": "2026-04-08 11:59:00",
+      "gacha_id": "ccfdb867d60554c3123065320e1ea27bd58f22a5",
+      "gacha_label": "12_2",
+      "gacha_type": 12
     }
   ]
 }
