@@ -16,6 +16,7 @@ logging.basicConfig(level=logging.INFO)
 BANNER_NAME_RE = re.compile(r'"(.*?)"')
 CLEAN_TAGS_RE = re.compile(r'</?color[^>]*>')
 TAGS_RE = re.compile(r'<[^>]+>')
+from rich import print
 
 
 class GachaListURLS:
@@ -124,7 +125,7 @@ class BannerParser:
                 else:
                     name_hash = str(item_data.get(VALUES[self.short_game]["name"]))
 
-                name = text_map.get(name_hash, "Unknown")
+                name = TAGS_RE.sub("", text_map.get(name_hash, "Unknown"))
 
                 # Rarity logic
                 raw_rarity = item_data.get("QualityType") or item_data.get("Rarity")
@@ -180,11 +181,9 @@ class BannerParser:
                 await f.write(data)
 
     def parse_drop(self, drop: dict) -> dict:
-        # O(1) lookup instead of O(N) loop
         return self.item_lookup.get(drop["item_name"], {})
 
     async def parse_formatted_banner(self, banner: dict):
-        # Dispatch table for cleaner routing
         parsers = {
             "genshin": self._parse_banner_gi,
             "hsr": self._parse_banner_hsr,
@@ -192,7 +191,6 @@ class BannerParser:
         }
         await parsers[self.game](banner)
 
-    # Simplified common logic for the internal parsers
     async def _get_banner_json(self, gacha_id):
         async with aiofiles.open(f"banners/{self.game}/{gacha_id}.json", "rb") as f:
             return orjson.loads(await f.read())
