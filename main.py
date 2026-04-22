@@ -16,7 +16,6 @@ logging.basicConfig(level=logging.INFO)
 BANNER_NAME_RE = re.compile(r'"(.*?)"')
 CLEAN_TAGS_RE = re.compile(r'</?color[^>]*>')
 TAGS_RE = re.compile(r'<[^>]+>')
-from rich import print
 
 
 class GachaListURLS:
