@@ -15,6 +15,7 @@ logging.basicConfig(level=logging.INFO)
 # Pre-compile regex for performance
 BANNER_NAME_RE = re.compile(r'"(.*?)"')
 CLEAN_TAGS_RE = re.compile(r'</?color[^>]*>')
+TAGS_RE = re.compile(r'<[^>]+>')
 
 
 class GachaListURLS:
@@ -132,7 +133,7 @@ class BannerParser:
 
                 self.item_lookup[name] = {
                     "id": int(str(item_id).split("-")[0]),
-                    "name": name,
+                    "name": TAGS_RE.sub("", name),
                     "rarity": fin_rarity,
                     "item_type": itype
                 }
