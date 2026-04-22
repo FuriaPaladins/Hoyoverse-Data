@@ -1,604 +1,676 @@
 {
-    "banners": [
-        {
-            "begin_time": "2024-07-24 12:00:00",
-            "end_time": "2024-08-13 14:59:59",
-            "gacha_id": "ecf397ed2e70a3e511288c3b9df6a979356412",
-            "gacha_type": 2002
-        },
-        {
-            "begin_time": "2024-07-24 12:00:00",
-            "end_time": "2024-08-13 14:59:59",
-            "gacha_id": "00f33c4d7d2a3c65bee3bc9406480609c3dc95",
-            "gacha_type": 3002
-        },
-        {
-            "begin_time": "2024-06-06 00:25:47",
-            "end_time": "2099-12-31 23:59:59",
-            "gacha_id": "40a0441f75c73deef8b958d37ce56679d91cef",
-            "gacha_type": 1001
-        },
-        {
-            "begin_time": "2024-06-06 00:26:43",
-            "end_time": "2099-12-31 23:59:59",
-            "gacha_id": "ac32d8ed4032a973fd7c48a94ccd9ed065293f",
-            "gacha_type": 5001
-        },
-        {
-            "begin_time": "2024-08-14 06:00:00",
-            "end_time": "2024-09-04 11:59:59",
-            "gacha_id": "7083b8f538908fae48f161333dfb709835bfd8",
-            "gacha_type": 2001
-        },
-        {
-            "begin_time": "2024-08-14 06:00:00",
-            "end_time": "2024-09-04 11:59:59",
-            "gacha_id": "4ceb90846f025d9cfdd1328e17cf65c2d2d2f9",
-            "gacha_type": 3001
-        },
-        {
-            "begin_time": "2024-08-14 06:00:00",
-            "end_time": "2099-01-01 05:59:59",
-            "gacha_id": "76efce75a40e18ad673844c3d8a171e80cbe65",
-            "gacha_type": 5001
-        },
-        {
-            "begin_time": "2024-09-04 12:00:00",
-            "end_time": "2024-09-24 14:59:59",
-            "gacha_id": "960f1ade003b3a5dc099a1c168b7103676388f",
-            "gacha_type": 2002
-        },
-        {
-            "begin_time": "2024-09-04 12:00:00",
-            "end_time": "2024-09-24 14:59:59",
-            "gacha_id": "eb7597be661d068112c95b96f21d87869882cd",
-            "gacha_type": 3002
-        },
-        {
-            "begin_time": "2024-09-25 06:00:00",
-            "end_time": "2024-10-16 11:59:59",
-            "gacha_id": "dc99ad08e070bb9087fe2405c9b3b89c3dca71",
-            "gacha_type": 2001
-        },
-        {
-            "begin_time": "2024-09-25 06:00:00",
-            "end_time": "2024-10-16 11:59:59",
-            "gacha_id": "32d2d7561f077a1988ddfaa98d38684016ac5b",
-            "gacha_type": 3001
-        },
-        {
-            "begin_time": "2024-08-14 06:00:00",
-            "end_time": "2099-12-31 23:59:59",
-            "gacha_id": "76efce75a40e18ad673844c3d8a171e80cbe65",
-            "gacha_type": 5001
-        },
-        {
-            "begin_time": "2024-10-16 12:00:00",
-            "end_time": "2024-11-05 14:59:59",
-            "gacha_id": "9ce8beae8296ddfac3fcf13c8d5a282fe9dd18",
-            "gacha_type": 2002
-        },
-        {
-            "begin_time": "2024-10-16 12:00:00",
-            "end_time": "2024-11-05 14:59:59",
-            "gacha_id": "a5d716fde752134d9de060aa2f5f9110cf005b",
-            "gacha_type": 3002
-        },
-        {
-            "begin_time": "2024-11-06 06:00:00",
-            "end_time": "2024-11-27 11:59:59",
-            "gacha_id": "4f012aff42ee2cf6115d744ed4ff3c3180323b",
-            "gacha_type": 2001
-        },
-        {
-            "begin_time": "2024-11-06 06:00:00",
-            "end_time": "2024-11-27 11:59:59",
-            "gacha_id": "f379fcf49ba4442696569d42eb11110d66bfb5",
-            "gacha_type": 3001
-        },
-        {
-            "begin_time": "2024-11-27 12:00:00",
-            "end_time": "2024-12-17 14:59:59",
-            "gacha_id": "73d97eb4c10f0959ef8debd8ed53b8fc6e41c0",
-            "gacha_type": 2002
-        },
-        {
-            "begin_time": "2024-11-27 12:00:00",
-            "end_time": "2024-12-17 14:59:59",
-            "gacha_id": "c6d524f23f69fb24a712fd620da6de873b20f3",
-            "gacha_type": 3002
-        },
-        {
-            "begin_time": "2024-12-18 06:00:00",
-            "end_time": "2025-01-21 14:59:59",
-            "gacha_id": "8b67e6e1499fce8a67d4dedc2379526bec812f",
-            "gacha_type": 2001
-        },
-        {
-            "begin_time": "2024-12-18 06:00:00",
-            "end_time": "2025-01-21 14:59:59",
-            "gacha_id": "0ce5684b4675bef190a1d427c7383b29a2a019",
-            "gacha_type": 2002
-        },
-        {
-            "begin_time": "2024-12-18 06:00:00",
-            "end_time": "2025-01-21 14:59:59",
-            "gacha_id": "e2db2c41fcdfa3d7491741e37e6f33580c2eed",
-            "gacha_type": 3001
-        },
-        {
-            "begin_time": "2024-12-18 06:00:00",
-            "end_time": "2025-01-21 14:59:59",
-            "gacha_id": "d41f999b54c19fb2fa69496ce91a5b72db6bea",
-            "gacha_type": 3002
-        },
-        {
-            "begin_time": "2025-01-22 06:00:00",
-            "end_time": "2025-02-12 11:59:59",
-            "gacha_id": "0b1b520f33c0bbaa732f959b5d01644d9fa6d8",
-            "gacha_type": 2001
-        },
-        {
-            "begin_time": "2025-01-22 06:00:00",
-            "end_time": "2025-02-12 11:59:59",
-            "gacha_id": "d6bd522e5e7541630743ac88cd752d41e35efa",
-            "gacha_type": 2011
-        },
-        {
-            "begin_time": "2025-01-22 06:00:00",
-            "end_time": "2025-02-12 11:59:59",
-            "gacha_id": "1401d974bbb287cd91b31051b66328b4c535ea",
-            "gacha_type": 3001
-        },
-        {
-            "begin_time": "2025-01-22 06:00:00",
-            "end_time": "2025-02-12 11:59:59",
-            "gacha_id": "e064e2d5e533e65cd77e5fedc0395d3a172455",
-            "gacha_type": 3011
-        },
-        {
-            "begin_time": "2025-02-12 12:00:00",
-            "end_time": "2025-03-11 14:59:59",
-            "gacha_id": "2ce6f2389df9c13ce7987e4cb17172dd6dcf25",
-            "gacha_type": 2002
-        },
-        {
-            "begin_time": "2025-02-12 12:00:00",
-            "end_time": "2025-03-11 14:59:59",
-            "gacha_id": "e7d3063ae9c361377f8e5a39bad52ad1821132",
-            "gacha_type": 2012
-        },
-        {
-            "begin_time": "2025-02-12 12:00:00",
-            "end_time": "2025-03-11 14:59:59",
-            "gacha_id": "c85d832ef5834680632fadf35b45d80c449e69",
-            "gacha_type": 3002
-        },
-        {
-            "begin_time": "2025-02-12 12:00:00",
-            "end_time": "2025-03-11 14:59:59",
-            "gacha_id": "1a025356050c128e515462e30d7982c04e4690",
-            "gacha_type": 3012
-        },
-        {
-            "begin_time": "2025-03-12 06:00:00",
-            "end_time": "2025-04-02 11:59:59",
-            "gacha_id": "359f7a972a4ab21e3113112ad1e310351f8da6",
-            "gacha_type": 2001
-        },
-        {
-            "begin_time": "2025-03-12 06:00:00",
-            "end_time": "2025-04-02 11:59:59",
-            "gacha_id": "dff682f435f818c6860d6b906385b658cb8e77",
-            "gacha_type": 2011
-        },
-        {
-            "begin_time": "2025-03-12 06:00:00",
-            "end_time": "2025-04-02 11:59:59",
-            "gacha_id": "4d76c424edb77c044e27c72cd49f3234115796",
-            "gacha_type": 3001
-        },
-        {
-            "begin_time": "2025-03-12 06:00:00",
-            "end_time": "2025-04-02 11:59:59",
-            "gacha_id": "2ee4fa743b7532adfacbf75c716aa0205cbe3d",
-            "gacha_type": 3011
-        },
-        {
-            "begin_time": "2025-04-02 12:00:00",
-            "end_time": "2025-04-22 14:59:59",
-            "gacha_id": "d4d6de075d6f750321a36b683fbb764a980369",
-            "gacha_type": 2002
-        },
-        {
-            "begin_time": "2025-04-02 12:00:00",
-            "end_time": "2025-04-22 14:59:59",
-            "gacha_id": "379be781aaaba04f78dbd4cc5f0e491a8002ef",
-            "gacha_type": 2012
-        },
-        {
-            "begin_time": "2025-04-02 12:00:00",
-            "end_time": "2025-04-22 14:59:59",
-            "gacha_id": "f220a0b0054b04d4414f0022be9dc001a9f735",
-            "gacha_type": 3002
-        },
-        {
-            "begin_time": "2025-04-02 12:00:00",
-            "end_time": "2025-04-22 14:59:59",
-            "gacha_id": "1e36dc6e56aad26171966f2a53706f9ed562f3",
-            "gacha_type": 3012
-        },
-        {
-            "begin_time": "2025-04-23 06:00:00",
-            "end_time": "2025-05-14 11:59:59",
-            "gacha_id": "672e2922b999a90f28fbaf5e69787fd1eb154c",
-            "gacha_type": 2001
-        },
-        {
-            "begin_time": "2025-04-23 06:00:00",
-            "end_time": "2025-05-14 11:59:59",
-            "gacha_id": "fe05253cfc1cb181dabadbfd12f7705252bd9d",
-            "gacha_type": 2011
-        },
-        {
-            "begin_time": "2025-04-23 06:00:00",
-            "end_time": "2025-05-14 11:59:59",
-            "gacha_id": "395a4d1bedef6d8dac3f3c92fe561596283d82",
-            "gacha_type": 3001
-        },
-        {
-            "begin_time": "2025-04-23 06:00:00",
-            "end_time": "2025-05-14 11:59:59",
-            "gacha_id": "49725a64db50250e03effe82adcb9731276d4c",
-            "gacha_type": 3011
-        },
-        {
-            "begin_time": "2025-05-14 12:00:00",
-            "end_time": "2025-06-05 14:59:59",
-            "gacha_id": "9413bfce67ce0d257b889e435433496bf9f96b",
-            "gacha_type": 2002
-        },
-        {
-            "begin_time": "2025-05-14 12:00:00",
-            "end_time": "2025-06-05 14:59:59",
-            "gacha_id": "25e1c58a5c987150cfd9aa322637f25365ad89",
-            "gacha_type": 2012
-        },
-        {
-            "begin_time": "2025-05-14 12:00:00",
-            "end_time": "2025-06-05 14:59:59",
-            "gacha_id": "2a328598d219cf10f6bd6e02c3481b782f955c",
-            "gacha_type": 3002
-        },
-        {
-            "begin_time": "2025-05-14 12:00:00",
-            "end_time": "2025-06-05 14:59:59",
-            "gacha_id": "79c246f5f8bb818f5a12cbcb9df67126d551154a",
-            "gacha_type": 3012
-        },
-        {
-            "begin_time": "2025-06-06 06:00:00",
-            "end_time": "2025-06-25 11:59:59",
-            "gacha_id": "ab661a7ad928f17ee22a87f9b1f959b49ef58175",
-            "gacha_type": 2001
-        },
-        {
-            "begin_time": "2025-06-06 06:00:00",
-            "end_time": "2025-06-25 11:59:59",
-            "gacha_id": "04618818e7e432e293a26a747f223941454113a3",
-            "gacha_type": 2011
-        },
-        {
-            "begin_time": "2025-06-06 06:00:00",
-            "end_time": "2025-06-25 11:59:59",
-            "gacha_id": "dfc7705b19520d8bfa8fd5ac76af6a4eabb6f32b",
-            "gacha_type": 3001
-        },
-        {
-            "begin_time": "2025-06-06 06:00:00",
-            "end_time": "2025-06-25 11:59:59",
-            "gacha_id": "26046d4243677dba8e885061c6da5e5f1d4d516f",
-            "gacha_type": 3011
-        },
-        {
-            "begin_time": "2025-06-25 12:00:00",
-            "end_time": "2025-07-15 14:59:59",
-            "gacha_id": "3e1850c1a6b397ebea068dd1b427b0673013e4d2",
-            "gacha_type": 2002
-        },
-        {
-            "begin_time": "2025-06-25 12:00:00",
-            "end_time": "2025-07-15 14:59:59",
-            "gacha_id": "1b92e5054f78e83a0017d1bf9c08261c1b5c9568",
-            "gacha_type": 2012
-        },
-        {
-            "begin_time": "2025-06-25 12:00:00",
-            "end_time": "2025-07-15 14:59:59",
-            "gacha_id": "db85141c42945bf98886895cdc1c4a72121a8c56",
-            "gacha_type": 3002
-        },
-        {
-            "begin_time": "2025-06-25 12:00:00",
-            "end_time": "2025-07-15 14:59:59",
-            "gacha_id": "a9660e2fe8f51f25b315c42cac5b5063142caa8e",
-            "gacha_type": 3012
-        },
-        {
-            "begin_time": "2025-07-16 06:00:00",
-            "end_time": "2025-08-06 11:59:59",
-            "gacha_id": "3ba5ba7ff93f0a9925c25fc93c54230dc9562f1e",
-            "gacha_type": 2001
-        },
-        {
-            "begin_time": "2025-07-16 06:00:00",
-            "end_time": "2025-08-06 11:59:59",
-            "gacha_id": "eedc034891cc0655fbb3525aed0163c232348d23",
-            "gacha_type": 2011
-        },
-        {
-            "begin_time": "2025-07-16 06:00:00",
-            "end_time": "2025-08-06 11:59:59",
-            "gacha_id": "38d2bba86697d5cda7503228da2747366e45f5b9",
-            "gacha_type": 3001
-        },
-        {
-            "begin_time": "2025-07-16 06:00:00",
-            "end_time": "2025-08-06 11:59:59",
-            "gacha_id": "4a2679527315c4309ddc8b8d9cfccede3e0cc63b",
-            "gacha_type": 3011
-        },
-        {
-            "begin_time": "2025-08-06 12:00:00",
-            "end_time": "2025-09-03 14:59:59",
-            "gacha_id": "a7d1e0dc8cf71e276cda68fe434a83e9ae680f29",
-            "gacha_type": 2002
-        },
-        {
-            "begin_time": "2025-08-06 12:00:00",
-            "end_time": "2025-09-03 14:59:59",
-            "gacha_id": "158c007fdb539c515b9f3ebfe7eb409a166d0690",
-            "gacha_type": 2012
-        },
-        {
-            "begin_time": "2025-08-06 12:00:00",
-            "end_time": "2025-09-03 14:59:59",
-            "gacha_id": "db29c23296a6c98addf82042288ecc858305114c",
-            "gacha_type": 3002
-        },
-        {
-            "begin_time": "2025-08-06 12:00:00",
-            "end_time": "2025-09-03 14:59:59",
-            "gacha_id": "300c726952d390fb9e1539d1b3e7019862f44f40",
-            "gacha_type": 3012
-        },
-        {
-            "begin_time": "2025-09-04 06:00:00",
-            "end_time": "2025-09-24 11:59:59",
-            "gacha_id": "0e780888f13565c6d1dace3392395c5a1af96176",
-            "gacha_type": 2001
-        },
-        {
-            "begin_time": "2025-09-04 06:00:00",
-            "end_time": "2025-09-24 11:59:59",
-            "gacha_id": "3b673db30c54038a0f009fe6e62e0b271c3516f1",
-            "gacha_type": 2011
-        },
-        {
-            "begin_time": "2025-09-04 06:00:00",
-            "end_time": "2025-09-24 11:59:59",
-            "gacha_id": "ce9f4ff765e438926c402f649899dab8a6775a65",
-            "gacha_type": 3001
-        },
-        {
-            "begin_time": "2025-09-04 06:00:00",
-            "end_time": "2025-09-24 11:59:59",
-            "gacha_id": "958b295f7c73fd351e4d63bb5dfeab3bee7afa75",
-            "gacha_type": 3011
-        },
-        {
-            "begin_time": "2025-09-24 12:00:00",
-            "end_time": "2025-10-14 14:59:59",
-            "gacha_id": "8972d30f6ba92a9dd62f5c723bdf8c1a73df664e",
-            "gacha_type": 2002
-        },
-        {
-            "begin_time": "2025-09-24 12:00:00",
-            "end_time": "2025-10-14 14:59:59",
-            "gacha_id": "ddaa9b002e266f9e47d47f9e7632775a4b885a79",
-            "gacha_type": 2012
-        },
-        {
-            "begin_time": "2025-09-24 12:00:00",
-            "end_time": "2025-10-14 14:59:59",
-            "gacha_id": "a349f46d9ebb159fbd4e0de43d80137c6584f598",
-            "gacha_type": 3002
-        },
-        {
-            "begin_time": "2025-09-24 12:00:00",
-            "end_time": "2025-10-14 14:59:59",
-            "gacha_id": "fee0a01ecf959041840c857ad1c220a8a6f128f0",
-            "gacha_type": 3012
-        },
-        {
-            "begin_time": "2025-10-15 06:00:00",
-            "end_time": "2025-11-05 11:59:59",
-            "gacha_id": "bc5a996eab16a29eab770fda50f39b26fd3465cb",
-            "gacha_type": 2001
-        },
-        {
-            "begin_time": "2025-10-15 06:00:00",
-            "end_time": "2025-11-05 11:59:59",
-            "gacha_id": "6d218b6b37adbb561d6c7845151c46ba3c7f6f6c",
-            "gacha_type": 2011
-        },
-        {
-            "begin_time": "2025-10-15 06:00:00",
-            "end_time": "2025-11-05 11:59:59",
-            "gacha_id": "2e5586dfe338af76d3e65dffd1c9ba39036ba326",
-            "gacha_type": 3001
-        },
-        {
-            "begin_time": "2025-10-15 06:00:00",
-            "end_time": "2025-11-05 11:59:59",
-            "gacha_id": "be4bb307a755ada7914bbafbbefb1bd2c4bf163f",
-            "gacha_type": 3011
-        },
-        {
-            "begin_time": "2025-11-05 12:00:00",
-            "end_time": "2025-11-25 14:59:59",
-            "gacha_id": "1a4b89bd73b4a1505796cd9c88c2abb2e99e4f4d",
-            "gacha_type": 2002
-        },
-        {
-            "begin_time": "2025-11-05 12:00:00",
-            "end_time": "2025-11-25 14:59:59",
-            "gacha_id": "035ea38bc948a4c6198ddd62f7eec79bc7de6762",
-            "gacha_type": 2012
-        },
-        {
-            "begin_time": "2025-11-05 12:00:00",
-            "end_time": "2025-11-25 14:59:59",
-            "gacha_id": "488a4d4a55de53347e126a0d40265292aaf6f9a7",
-            "gacha_type": 3002
-        },
-        {
-            "begin_time": "2025-11-05 12:00:00",
-            "end_time": "2025-11-25 14:59:59",
-            "gacha_id": "45a8f0d99b83cc8daa1736c5a73050f668dd5f6a",
-            "gacha_type": 3012
-        },
-        {
-            "begin_time": "2025-11-26 06:00:00",
-            "end_time": "2025-12-17 11:59:59",
-            "gacha_id": "239678b88036b6e6ad682a569182433355bf5e62",
-            "gacha_type": 2001
-        },
-        {
-            "begin_time": "2025-11-26 06:00:00",
-            "end_time": "2025-12-17 11:59:59",
-            "gacha_id": "58e4bbf65f566c15c3f2d73efe60da678a96634f",
-            "gacha_type": 2011
-        },
-        {
-            "begin_time": "2025-11-26 06:00:00",
-            "end_time": "2025-12-17 11:59:59",
-            "gacha_id": "a4d7860787e66b67759d0b4448c7aad97109621c",
-            "gacha_type": 3001
-        },
-        {
-            "begin_time": "2025-11-26 06:00:00",
-            "end_time": "2025-12-17 11:59:59",
-            "gacha_id": "8597b85aa77d2ef9d53721c3bb1ced5d76dee3a1",
-            "gacha_type": 3011
-        },
-        {
-            "begin_time": "2025-12-17 12:00:00",
-            "end_time": "2025-12-29 14:59:59",
-            "gacha_id": "ee63fff903974a00bfa13b1fa9246ef85cc5bb47",
-            "gacha_type": 2002
-        },
-        {
-            "begin_time": "2025-12-17 12:00:00",
-            "end_time": "2025-12-29 14:59:59",
-            "gacha_id": "d164e144b915d15f69721cd2516012737ed6d1fb",
-            "gacha_type": 2012
-        },
-        {
-            "begin_time": "2025-12-17 12:00:00",
-            "end_time": "2025-12-29 14:59:59",
-            "gacha_id": "a620f3c50e2d62ca6a69941af88737599404f9fa",
-            "gacha_type": 3002
-        },
-        {
-            "begin_time": "2025-12-17 12:00:00",
-            "end_time": "2025-12-29 14:59:59",
-            "gacha_id": "387d4159bb2b8388c23cd98212f0d34dcb374541",
-            "gacha_type": 3012
-        },
-        {
-            "begin_time": "2025-12-30 06:00:00",
-            "end_time": "2026-02-05 14:59:59",
-            "gacha_id": "a26173b25c0f989326c4832a93f8fbfa1c091167",
-            "gacha_type": 2001
-        },
-        {
-            "begin_time": "2025-12-30 06:00:00",
-            "end_time": "2026-02-05 14:59:59",
-            "gacha_id": "306858b9c9f1c9c627d953723a41777ac49b230b",
-            "gacha_type": 2002
-        },
-        {
-            "begin_time": "2025-12-30 06:00:00",
-            "end_time": "2026-02-05 14:59:59",
-            "gacha_id": "38796d5556b1e18637cd3c1882468d4835bec365",
-            "gacha_type": 3001
-        },
-        {
-            "begin_time": "2025-12-30 06:00:00",
-            "end_time": "2026-02-05 14:59:59",
-            "gacha_id": "a430dcf8188be213614fd5e862e40c24e901dd14",
-            "gacha_type": 3002
-        },
-        {
-            "begin_time": "2026-01-21 12:00:00",
-            "end_time": "2026-02-05 14:59:59",
-            "gacha_id": "ca05f37d2f6f33b7f7bfd4d3f85c5d0d9ed6a243",
-            "gacha_type": 12001
-        },
-        {
-            "begin_time": "2026-01-21 12:00:00",
-            "end_time": "2026-02-05 14:59:59",
-            "gacha_id": "96ddaab067e8c58d55f67149d1d9de0ddc57b4c9",
-            "gacha_type": 12001
-        },
-        {
-            "begin_time": "2026-01-21 12:00:00",
-            "end_time": "2026-02-05 14:59:59",
-            "gacha_id": "e7ee8f27bed6b398acaac75139ddacd2bf88945b",
-            "gacha_type": 12001
-        },
-        {
-            "begin_time": "2026-01-21 12:00:00",
-            "end_time": "2026-02-05 14:59:59",
-            "gacha_id": "caf5d3f3272a2f61713bf662a17dbcb6decec0a9",
-            "gacha_type": 13001
-        },
-        {
-            "begin_time": "2026-01-21 12:00:00",
-            "end_time": "2026-02-05 14:59:59",
-            "gacha_id": "8d5e2fbcf16679d292f2503f343dce6acbafcee7",
-            "gacha_type": 13001
-        },
-        {
-            "begin_time": "2026-01-21 12:00:00",
-            "end_time": "2026-02-05 14:59:59",
-            "gacha_id": "6c4c73a7925267b2d168ff313d3acc97ae924ea1",
-            "gacha_type": 13001
-        },
-        {
-            "begin_time": "2026-02-06 06:00:00",
-            "end_time": "2026-03-04 11:59:59",
-            "gacha_id": "0313b25a508de3557bfe91446531d486ea66b44a",
-            "gacha_type": 2001
-        },
-        {
-            "begin_time": "2026-02-06 06:00:00",
-            "end_time": "2026-03-04 11:59:59",
-            "gacha_id": "5cd6588523effbd8680f2e936c3ede79ee23ae23",
-            "gacha_type": 2011
-        },
-        {
-            "begin_time": "2026-02-06 06:00:00",
-            "end_time": "2026-03-04 11:59:59",
-            "gacha_id": "b5911646560849e7e2cc7bdb78dc5f03974e7622",
-            "gacha_type": 3001
-        },
-        {
-            "begin_time": "2026-02-06 06:00:00",
-            "end_time": "2026-03-04 11:59:59",
-            "gacha_id": "87669197425f15c2ff0106c9117c1847939381f9",
-            "gacha_type": 3011
-        }
-    ]
+  "banners": [
+    {
+      "begin_time": "2024-07-24 12:00:00",
+      "end_time": "2024-08-13 14:59:59",
+      "gacha_id": "ecf397ed2e70a3e511288c3b9df6a979356412",
+      "gacha_type": 2002
+    },
+    {
+      "begin_time": "2024-07-24 12:00:00",
+      "end_time": "2024-08-13 14:59:59",
+      "gacha_id": "00f33c4d7d2a3c65bee3bc9406480609c3dc95",
+      "gacha_type": 3002
+    },
+    {
+      "begin_time": "2024-06-06 00:25:47",
+      "end_time": "2099-12-31 23:59:59",
+      "gacha_id": "40a0441f75c73deef8b958d37ce56679d91cef",
+      "gacha_type": 1001
+    },
+    {
+      "begin_time": "2024-06-06 00:26:43",
+      "end_time": "2099-12-31 23:59:59",
+      "gacha_id": "ac32d8ed4032a973fd7c48a94ccd9ed065293f",
+      "gacha_type": 5001
+    },
+    {
+      "begin_time": "2024-08-14 06:00:00",
+      "end_time": "2024-09-04 11:59:59",
+      "gacha_id": "7083b8f538908fae48f161333dfb709835bfd8",
+      "gacha_type": 2001
+    },
+    {
+      "begin_time": "2024-08-14 06:00:00",
+      "end_time": "2024-09-04 11:59:59",
+      "gacha_id": "4ceb90846f025d9cfdd1328e17cf65c2d2d2f9",
+      "gacha_type": 3001
+    },
+    {
+      "begin_time": "2024-08-14 06:00:00",
+      "end_time": "2099-01-01 05:59:59",
+      "gacha_id": "76efce75a40e18ad673844c3d8a171e80cbe65",
+      "gacha_type": 5001
+    },
+    {
+      "begin_time": "2024-09-04 12:00:00",
+      "end_time": "2024-09-24 14:59:59",
+      "gacha_id": "960f1ade003b3a5dc099a1c168b7103676388f",
+      "gacha_type": 2002
+    },
+    {
+      "begin_time": "2024-09-04 12:00:00",
+      "end_time": "2024-09-24 14:59:59",
+      "gacha_id": "eb7597be661d068112c95b96f21d87869882cd",
+      "gacha_type": 3002
+    },
+    {
+      "begin_time": "2024-09-25 06:00:00",
+      "end_time": "2024-10-16 11:59:59",
+      "gacha_id": "dc99ad08e070bb9087fe2405c9b3b89c3dca71",
+      "gacha_type": 2001
+    },
+    {
+      "begin_time": "2024-09-25 06:00:00",
+      "end_time": "2024-10-16 11:59:59",
+      "gacha_id": "32d2d7561f077a1988ddfaa98d38684016ac5b",
+      "gacha_type": 3001
+    },
+    {
+      "begin_time": "2024-08-14 06:00:00",
+      "end_time": "2099-12-31 23:59:59",
+      "gacha_id": "76efce75a40e18ad673844c3d8a171e80cbe65",
+      "gacha_type": 5001
+    },
+    {
+      "begin_time": "2024-10-16 12:00:00",
+      "end_time": "2024-11-05 14:59:59",
+      "gacha_id": "9ce8beae8296ddfac3fcf13c8d5a282fe9dd18",
+      "gacha_type": 2002
+    },
+    {
+      "begin_time": "2024-10-16 12:00:00",
+      "end_time": "2024-11-05 14:59:59",
+      "gacha_id": "a5d716fde752134d9de060aa2f5f9110cf005b",
+      "gacha_type": 3002
+    },
+    {
+      "begin_time": "2024-11-06 06:00:00",
+      "end_time": "2024-11-27 11:59:59",
+      "gacha_id": "4f012aff42ee2cf6115d744ed4ff3c3180323b",
+      "gacha_type": 2001
+    },
+    {
+      "begin_time": "2024-11-06 06:00:00",
+      "end_time": "2024-11-27 11:59:59",
+      "gacha_id": "f379fcf49ba4442696569d42eb11110d66bfb5",
+      "gacha_type": 3001
+    },
+    {
+      "begin_time": "2024-11-27 12:00:00",
+      "end_time": "2024-12-17 14:59:59",
+      "gacha_id": "73d97eb4c10f0959ef8debd8ed53b8fc6e41c0",
+      "gacha_type": 2002
+    },
+    {
+      "begin_time": "2024-11-27 12:00:00",
+      "end_time": "2024-12-17 14:59:59",
+      "gacha_id": "c6d524f23f69fb24a712fd620da6de873b20f3",
+      "gacha_type": 3002
+    },
+    {
+      "begin_time": "2024-12-18 06:00:00",
+      "end_time": "2025-01-21 14:59:59",
+      "gacha_id": "8b67e6e1499fce8a67d4dedc2379526bec812f",
+      "gacha_type": 2001
+    },
+    {
+      "begin_time": "2024-12-18 06:00:00",
+      "end_time": "2025-01-21 14:59:59",
+      "gacha_id": "0ce5684b4675bef190a1d427c7383b29a2a019",
+      "gacha_type": 2002
+    },
+    {
+      "begin_time": "2024-12-18 06:00:00",
+      "end_time": "2025-01-21 14:59:59",
+      "gacha_id": "e2db2c41fcdfa3d7491741e37e6f33580c2eed",
+      "gacha_type": 3001
+    },
+    {
+      "begin_time": "2024-12-18 06:00:00",
+      "end_time": "2025-01-21 14:59:59",
+      "gacha_id": "d41f999b54c19fb2fa69496ce91a5b72db6bea",
+      "gacha_type": 3002
+    },
+    {
+      "begin_time": "2025-01-22 06:00:00",
+      "end_time": "2025-02-12 11:59:59",
+      "gacha_id": "0b1b520f33c0bbaa732f959b5d01644d9fa6d8",
+      "gacha_type": 2001
+    },
+    {
+      "begin_time": "2025-01-22 06:00:00",
+      "end_time": "2025-02-12 11:59:59",
+      "gacha_id": "d6bd522e5e7541630743ac88cd752d41e35efa",
+      "gacha_type": 2011
+    },
+    {
+      "begin_time": "2025-01-22 06:00:00",
+      "end_time": "2025-02-12 11:59:59",
+      "gacha_id": "1401d974bbb287cd91b31051b66328b4c535ea",
+      "gacha_type": 3001
+    },
+    {
+      "begin_time": "2025-01-22 06:00:00",
+      "end_time": "2025-02-12 11:59:59",
+      "gacha_id": "e064e2d5e533e65cd77e5fedc0395d3a172455",
+      "gacha_type": 3011
+    },
+    {
+      "begin_time": "2025-02-12 12:00:00",
+      "end_time": "2025-03-11 14:59:59",
+      "gacha_id": "2ce6f2389df9c13ce7987e4cb17172dd6dcf25",
+      "gacha_type": 2002
+    },
+    {
+      "begin_time": "2025-02-12 12:00:00",
+      "end_time": "2025-03-11 14:59:59",
+      "gacha_id": "e7d3063ae9c361377f8e5a39bad52ad1821132",
+      "gacha_type": 2012
+    },
+    {
+      "begin_time": "2025-02-12 12:00:00",
+      "end_time": "2025-03-11 14:59:59",
+      "gacha_id": "c85d832ef5834680632fadf35b45d80c449e69",
+      "gacha_type": 3002
+    },
+    {
+      "begin_time": "2025-02-12 12:00:00",
+      "end_time": "2025-03-11 14:59:59",
+      "gacha_id": "1a025356050c128e515462e30d7982c04e4690",
+      "gacha_type": 3012
+    },
+    {
+      "begin_time": "2025-03-12 06:00:00",
+      "end_time": "2025-04-02 11:59:59",
+      "gacha_id": "359f7a972a4ab21e3113112ad1e310351f8da6",
+      "gacha_type": 2001
+    },
+    {
+      "begin_time": "2025-03-12 06:00:00",
+      "end_time": "2025-04-02 11:59:59",
+      "gacha_id": "dff682f435f818c6860d6b906385b658cb8e77",
+      "gacha_type": 2011
+    },
+    {
+      "begin_time": "2025-03-12 06:00:00",
+      "end_time": "2025-04-02 11:59:59",
+      "gacha_id": "4d76c424edb77c044e27c72cd49f3234115796",
+      "gacha_type": 3001
+    },
+    {
+      "begin_time": "2025-03-12 06:00:00",
+      "end_time": "2025-04-02 11:59:59",
+      "gacha_id": "2ee4fa743b7532adfacbf75c716aa0205cbe3d",
+      "gacha_type": 3011
+    },
+    {
+      "begin_time": "2025-04-02 12:00:00",
+      "end_time": "2025-04-22 14:59:59",
+      "gacha_id": "d4d6de075d6f750321a36b683fbb764a980369",
+      "gacha_type": 2002
+    },
+    {
+      "begin_time": "2025-04-02 12:00:00",
+      "end_time": "2025-04-22 14:59:59",
+      "gacha_id": "379be781aaaba04f78dbd4cc5f0e491a8002ef",
+      "gacha_type": 2012
+    },
+    {
+      "begin_time": "2025-04-02 12:00:00",
+      "end_time": "2025-04-22 14:59:59",
+      "gacha_id": "f220a0b0054b04d4414f0022be9dc001a9f735",
+      "gacha_type": 3002
+    },
+    {
+      "begin_time": "2025-04-02 12:00:00",
+      "end_time": "2025-04-22 14:59:59",
+      "gacha_id": "1e36dc6e56aad26171966f2a53706f9ed562f3",
+      "gacha_type": 3012
+    },
+    {
+      "begin_time": "2025-04-23 06:00:00",
+      "end_time": "2025-05-14 11:59:59",
+      "gacha_id": "672e2922b999a90f28fbaf5e69787fd1eb154c",
+      "gacha_type": 2001
+    },
+    {
+      "begin_time": "2025-04-23 06:00:00",
+      "end_time": "2025-05-14 11:59:59",
+      "gacha_id": "fe05253cfc1cb181dabadbfd12f7705252bd9d",
+      "gacha_type": 2011
+    },
+    {
+      "begin_time": "2025-04-23 06:00:00",
+      "end_time": "2025-05-14 11:59:59",
+      "gacha_id": "395a4d1bedef6d8dac3f3c92fe561596283d82",
+      "gacha_type": 3001
+    },
+    {
+      "begin_time": "2025-04-23 06:00:00",
+      "end_time": "2025-05-14 11:59:59",
+      "gacha_id": "49725a64db50250e03effe82adcb9731276d4c",
+      "gacha_type": 3011
+    },
+    {
+      "begin_time": "2025-05-14 12:00:00",
+      "end_time": "2025-06-05 14:59:59",
+      "gacha_id": "9413bfce67ce0d257b889e435433496bf9f96b",
+      "gacha_type": 2002
+    },
+    {
+      "begin_time": "2025-05-14 12:00:00",
+      "end_time": "2025-06-05 14:59:59",
+      "gacha_id": "25e1c58a5c987150cfd9aa322637f25365ad89",
+      "gacha_type": 2012
+    },
+    {
+      "begin_time": "2025-05-14 12:00:00",
+      "end_time": "2025-06-05 14:59:59",
+      "gacha_id": "2a328598d219cf10f6bd6e02c3481b782f955c",
+      "gacha_type": 3002
+    },
+    {
+      "begin_time": "2025-05-14 12:00:00",
+      "end_time": "2025-06-05 14:59:59",
+      "gacha_id": "79c246f5f8bb818f5a12cbcb9df67126d551154a",
+      "gacha_type": 3012
+    },
+    {
+      "begin_time": "2025-06-06 06:00:00",
+      "end_time": "2025-06-25 11:59:59",
+      "gacha_id": "ab661a7ad928f17ee22a87f9b1f959b49ef58175",
+      "gacha_type": 2001
+    },
+    {
+      "begin_time": "2025-06-06 06:00:00",
+      "end_time": "2025-06-25 11:59:59",
+      "gacha_id": "04618818e7e432e293a26a747f223941454113a3",
+      "gacha_type": 2011
+    },
+    {
+      "begin_time": "2025-06-06 06:00:00",
+      "end_time": "2025-06-25 11:59:59",
+      "gacha_id": "dfc7705b19520d8bfa8fd5ac76af6a4eabb6f32b",
+      "gacha_type": 3001
+    },
+    {
+      "begin_time": "2025-06-06 06:00:00",
+      "end_time": "2025-06-25 11:59:59",
+      "gacha_id": "26046d4243677dba8e885061c6da5e5f1d4d516f",
+      "gacha_type": 3011
+    },
+    {
+      "begin_time": "2025-06-25 12:00:00",
+      "end_time": "2025-07-15 14:59:59",
+      "gacha_id": "3e1850c1a6b397ebea068dd1b427b0673013e4d2",
+      "gacha_type": 2002
+    },
+    {
+      "begin_time": "2025-06-25 12:00:00",
+      "end_time": "2025-07-15 14:59:59",
+      "gacha_id": "1b92e5054f78e83a0017d1bf9c08261c1b5c9568",
+      "gacha_type": 2012
+    },
+    {
+      "begin_time": "2025-06-25 12:00:00",
+      "end_time": "2025-07-15 14:59:59",
+      "gacha_id": "db85141c42945bf98886895cdc1c4a72121a8c56",
+      "gacha_type": 3002
+    },
+    {
+      "begin_time": "2025-06-25 12:00:00",
+      "end_time": "2025-07-15 14:59:59",
+      "gacha_id": "a9660e2fe8f51f25b315c42cac5b5063142caa8e",
+      "gacha_type": 3012
+    },
+    {
+      "begin_time": "2025-07-16 06:00:00",
+      "end_time": "2025-08-06 11:59:59",
+      "gacha_id": "3ba5ba7ff93f0a9925c25fc93c54230dc9562f1e",
+      "gacha_type": 2001
+    },
+    {
+      "begin_time": "2025-07-16 06:00:00",
+      "end_time": "2025-08-06 11:59:59",
+      "gacha_id": "eedc034891cc0655fbb3525aed0163c232348d23",
+      "gacha_type": 2011
+    },
+    {
+      "begin_time": "2025-07-16 06:00:00",
+      "end_time": "2025-08-06 11:59:59",
+      "gacha_id": "38d2bba86697d5cda7503228da2747366e45f5b9",
+      "gacha_type": 3001
+    },
+    {
+      "begin_time": "2025-07-16 06:00:00",
+      "end_time": "2025-08-06 11:59:59",
+      "gacha_id": "4a2679527315c4309ddc8b8d9cfccede3e0cc63b",
+      "gacha_type": 3011
+    },
+    {
+      "begin_time": "2025-08-06 12:00:00",
+      "end_time": "2025-09-03 14:59:59",
+      "gacha_id": "a7d1e0dc8cf71e276cda68fe434a83e9ae680f29",
+      "gacha_type": 2002
+    },
+    {
+      "begin_time": "2025-08-06 12:00:00",
+      "end_time": "2025-09-03 14:59:59",
+      "gacha_id": "158c007fdb539c515b9f3ebfe7eb409a166d0690",
+      "gacha_type": 2012
+    },
+    {
+      "begin_time": "2025-08-06 12:00:00",
+      "end_time": "2025-09-03 14:59:59",
+      "gacha_id": "db29c23296a6c98addf82042288ecc858305114c",
+      "gacha_type": 3002
+    },
+    {
+      "begin_time": "2025-08-06 12:00:00",
+      "end_time": "2025-09-03 14:59:59",
+      "gacha_id": "300c726952d390fb9e1539d1b3e7019862f44f40",
+      "gacha_type": 3012
+    },
+    {
+      "begin_time": "2025-09-04 06:00:00",
+      "end_time": "2025-09-24 11:59:59",
+      "gacha_id": "0e780888f13565c6d1dace3392395c5a1af96176",
+      "gacha_type": 2001
+    },
+    {
+      "begin_time": "2025-09-04 06:00:00",
+      "end_time": "2025-09-24 11:59:59",
+      "gacha_id": "3b673db30c54038a0f009fe6e62e0b271c3516f1",
+      "gacha_type": 2011
+    },
+    {
+      "begin_time": "2025-09-04 06:00:00",
+      "end_time": "2025-09-24 11:59:59",
+      "gacha_id": "ce9f4ff765e438926c402f649899dab8a6775a65",
+      "gacha_type": 3001
+    },
+    {
+      "begin_time": "2025-09-04 06:00:00",
+      "end_time": "2025-09-24 11:59:59",
+      "gacha_id": "958b295f7c73fd351e4d63bb5dfeab3bee7afa75",
+      "gacha_type": 3011
+    },
+    {
+      "begin_time": "2025-09-24 12:00:00",
+      "end_time": "2025-10-14 14:59:59",
+      "gacha_id": "8972d30f6ba92a9dd62f5c723bdf8c1a73df664e",
+      "gacha_type": 2002
+    },
+    {
+      "begin_time": "2025-09-24 12:00:00",
+      "end_time": "2025-10-14 14:59:59",
+      "gacha_id": "ddaa9b002e266f9e47d47f9e7632775a4b885a79",
+      "gacha_type": 2012
+    },
+    {
+      "begin_time": "2025-09-24 12:00:00",
+      "end_time": "2025-10-14 14:59:59",
+      "gacha_id": "a349f46d9ebb159fbd4e0de43d80137c6584f598",
+      "gacha_type": 3002
+    },
+    {
+      "begin_time": "2025-09-24 12:00:00",
+      "end_time": "2025-10-14 14:59:59",
+      "gacha_id": "fee0a01ecf959041840c857ad1c220a8a6f128f0",
+      "gacha_type": 3012
+    },
+    {
+      "begin_time": "2025-10-15 06:00:00",
+      "end_time": "2025-11-05 11:59:59",
+      "gacha_id": "bc5a996eab16a29eab770fda50f39b26fd3465cb",
+      "gacha_type": 2001
+    },
+    {
+      "begin_time": "2025-10-15 06:00:00",
+      "end_time": "2025-11-05 11:59:59",
+      "gacha_id": "6d218b6b37adbb561d6c7845151c46ba3c7f6f6c",
+      "gacha_type": 2011
+    },
+    {
+      "begin_time": "2025-10-15 06:00:00",
+      "end_time": "2025-11-05 11:59:59",
+      "gacha_id": "2e5586dfe338af76d3e65dffd1c9ba39036ba326",
+      "gacha_type": 3001
+    },
+    {
+      "begin_time": "2025-10-15 06:00:00",
+      "end_time": "2025-11-05 11:59:59",
+      "gacha_id": "be4bb307a755ada7914bbafbbefb1bd2c4bf163f",
+      "gacha_type": 3011
+    },
+    {
+      "begin_time": "2025-11-05 12:00:00",
+      "end_time": "2025-11-25 14:59:59",
+      "gacha_id": "1a4b89bd73b4a1505796cd9c88c2abb2e99e4f4d",
+      "gacha_type": 2002
+    },
+    {
+      "begin_time": "2025-11-05 12:00:00",
+      "end_time": "2025-11-25 14:59:59",
+      "gacha_id": "035ea38bc948a4c6198ddd62f7eec79bc7de6762",
+      "gacha_type": 2012
+    },
+    {
+      "begin_time": "2025-11-05 12:00:00",
+      "end_time": "2025-11-25 14:59:59",
+      "gacha_id": "488a4d4a55de53347e126a0d40265292aaf6f9a7",
+      "gacha_type": 3002
+    },
+    {
+      "begin_time": "2025-11-05 12:00:00",
+      "end_time": "2025-11-25 14:59:59",
+      "gacha_id": "45a8f0d99b83cc8daa1736c5a73050f668dd5f6a",
+      "gacha_type": 3012
+    },
+    {
+      "begin_time": "2025-11-26 06:00:00",
+      "end_time": "2025-12-17 11:59:59",
+      "gacha_id": "239678b88036b6e6ad682a569182433355bf5e62",
+      "gacha_type": 2001
+    },
+    {
+      "begin_time": "2025-11-26 06:00:00",
+      "end_time": "2025-12-17 11:59:59",
+      "gacha_id": "58e4bbf65f566c15c3f2d73efe60da678a96634f",
+      "gacha_type": 2011
+    },
+    {
+      "begin_time": "2025-11-26 06:00:00",
+      "end_time": "2025-12-17 11:59:59",
+      "gacha_id": "a4d7860787e66b67759d0b4448c7aad97109621c",
+      "gacha_type": 3001
+    },
+    {
+      "begin_time": "2025-11-26 06:00:00",
+      "end_time": "2025-12-17 11:59:59",
+      "gacha_id": "8597b85aa77d2ef9d53721c3bb1ced5d76dee3a1",
+      "gacha_type": 3011
+    },
+    {
+      "begin_time": "2025-12-17 12:00:00",
+      "end_time": "2025-12-29 14:59:59",
+      "gacha_id": "ee63fff903974a00bfa13b1fa9246ef85cc5bb47",
+      "gacha_type": 2002
+    },
+    {
+      "begin_time": "2025-12-17 12:00:00",
+      "end_time": "2025-12-29 14:59:59",
+      "gacha_id": "d164e144b915d15f69721cd2516012737ed6d1fb",
+      "gacha_type": 2012
+    },
+    {
+      "begin_time": "2025-12-17 12:00:00",
+      "end_time": "2025-12-29 14:59:59",
+      "gacha_id": "a620f3c50e2d62ca6a69941af88737599404f9fa",
+      "gacha_type": 3002
+    },
+    {
+      "begin_time": "2025-12-17 12:00:00",
+      "end_time": "2025-12-29 14:59:59",
+      "gacha_id": "387d4159bb2b8388c23cd98212f0d34dcb374541",
+      "gacha_type": 3012
+    },
+    {
+      "begin_time": "2025-12-30 06:00:00",
+      "end_time": "2026-02-05 14:59:59",
+      "gacha_id": "a26173b25c0f989326c4832a93f8fbfa1c091167",
+      "gacha_type": 2001
+    },
+    {
+      "begin_time": "2025-12-30 06:00:00",
+      "end_time": "2026-02-05 14:59:59",
+      "gacha_id": "306858b9c9f1c9c627d953723a41777ac49b230b",
+      "gacha_type": 2002
+    },
+    {
+      "begin_time": "2025-12-30 06:00:00",
+      "end_time": "2026-02-05 14:59:59",
+      "gacha_id": "38796d5556b1e18637cd3c1882468d4835bec365",
+      "gacha_type": 3001
+    },
+    {
+      "begin_time": "2025-12-30 06:00:00",
+      "end_time": "2026-02-05 14:59:59",
+      "gacha_id": "a430dcf8188be213614fd5e862e40c24e901dd14",
+      "gacha_type": 3002
+    },
+    {
+      "begin_time": "2026-01-21 12:00:00",
+      "end_time": "2026-02-05 14:59:59",
+      "gacha_id": "ca05f37d2f6f33b7f7bfd4d3f85c5d0d9ed6a243",
+      "gacha_type": 12001
+    },
+    {
+      "begin_time": "2026-01-21 12:00:00",
+      "end_time": "2026-02-05 14:59:59",
+      "gacha_id": "96ddaab067e8c58d55f67149d1d9de0ddc57b4c9",
+      "gacha_type": 12001
+    },
+    {
+      "begin_time": "2026-01-21 12:00:00",
+      "end_time": "2026-02-05 14:59:59",
+      "gacha_id": "e7ee8f27bed6b398acaac75139ddacd2bf88945b",
+      "gacha_type": 12001
+    },
+    {
+      "begin_time": "2026-01-21 12:00:00",
+      "end_time": "2026-02-05 14:59:59",
+      "gacha_id": "caf5d3f3272a2f61713bf662a17dbcb6decec0a9",
+      "gacha_type": 13001
+    },
+    {
+      "begin_time": "2026-01-21 12:00:00",
+      "end_time": "2026-02-05 14:59:59",
+      "gacha_id": "8d5e2fbcf16679d292f2503f343dce6acbafcee7",
+      "gacha_type": 13001
+    },
+    {
+      "begin_time": "2026-01-21 12:00:00",
+      "end_time": "2026-02-05 14:59:59",
+      "gacha_id": "6c4c73a7925267b2d168ff313d3acc97ae924ea1",
+      "gacha_type": 13001
+    },
+    {
+      "begin_time": "2026-02-06 06:00:00",
+      "end_time": "2026-03-04 11:59:59",
+      "gacha_id": "0313b25a508de3557bfe91446531d486ea66b44a",
+      "gacha_type": 2001
+    },
+    {
+      "begin_time": "2026-02-06 06:00:00",
+      "end_time": "2026-03-04 11:59:59",
+      "gacha_id": "5cd6588523effbd8680f2e936c3ede79ee23ae23",
+      "gacha_type": 2011
+    },
+    {
+      "begin_time": "2026-02-06 06:00:00",
+      "end_time": "2026-03-04 11:59:59",
+      "gacha_id": "b5911646560849e7e2cc7bdb78dc5f03974e7622",
+      "gacha_type": 3001
+    },
+    {
+      "begin_time": "2026-02-06 06:00:00",
+      "end_time": "2026-03-04 11:59:59",
+      "gacha_id": "87669197425f15c2ff0106c9117c1847939381f9",
+      "gacha_type": 3011
+    },
+    {
+      "begin_time": "2026-03-04 12:00:00",
+      "end_time": "2026-03-23 14:59:59",
+      "gacha_id": "df689859934e7a80db7834dcdc4e7818097a22e7",
+      "gacha_type": 2002
+    },
+    {
+      "begin_time": "2026-03-04 12:00:00",
+      "end_time": "2026-03-23 14:59:59",
+      "gacha_id": "c307d9eb1c6ad7aec8e2aaf3c106a17865b6694f",
+      "gacha_type": 2012
+    },
+    {
+      "begin_time": "2026-03-04 12:00:00",
+      "end_time": "2026-03-23 14:59:59",
+      "gacha_id": "60600441d205707a92fc23c37abe6366f623fb9d",
+      "gacha_type": 3002
+    },
+    {
+      "begin_time": "2026-03-04 12:00:00",
+      "end_time": "2026-03-23 14:59:59",
+      "gacha_id": "4d595a0888bbd8170823a29cf411d0ebd72a3b34",
+      "gacha_type": 3012
+    },
+    {
+      "begin_time": "2026-03-24 06:00:00",
+      "end_time": "2026-04-15 11:59:59",
+      "gacha_id": "60a3a1f6feec4aaaf6b3360252f67cfd577e7813",
+      "gacha_type": 2001
+    },
+    {
+      "begin_time": "2026-03-24 06:00:00",
+      "end_time": "2026-04-15 11:59:59",
+      "gacha_id": "adfc28efa969a02495c3f4fd602fc4a6faf0fed3",
+      "gacha_type": 2011
+    },
+    {
+      "begin_time": "2026-03-24 06:00:00",
+      "end_time": "2026-04-15 11:59:59",
+      "gacha_id": "3d05324e8fab3a60609a902ff483a2c40c4000d7",
+      "gacha_type": 3001
+    },
+    {
+      "begin_time": "2026-03-24 06:00:00",
+      "end_time": "2026-04-15 11:59:59",
+      "gacha_id": "1fbee38609e0160d68373b710b8b2bdfdc6623de",
+      "gacha_type": 3011
+    },
+    {
+      "begin_time": "2026-04-15 12:00:00",
+      "end_time": "2026-05-05 14:59:59",
+      "gacha_id": "08f0cda8ba7397012b759a9419dbf28eb264c6cd",
+      "gacha_type": 2002
+    },
+    {
+      "begin_time": "2026-04-15 12:00:00",
+      "end_time": "2026-05-05 14:59:59",
+      "gacha_id": "c54c2fe7cc9914b1f84faa2cb41759f7d6de9374",
+      "gacha_type": 2012
+    },
+    {
+      "begin_time": "2026-04-15 12:00:00",
+      "end_time": "2026-05-05 14:59:59",
+      "gacha_id": "2f7503d40229087f22843ef65967691a7ba6ba58",
+      "gacha_type": 3002
+    },
+    {
+      "begin_time": "2026-04-15 12:00:00",
+      "end_time": "2026-05-05 14:59:59",
+      "gacha_id": "85fa51289ed340d3e9b0f528dbc2a7968c73144a",
+      "gacha_type": 3012
+    }
+  ]
 }
