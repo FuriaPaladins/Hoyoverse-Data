@@ -2,7 +2,6 @@ import asyncio
 import logging
 import os
 import re
-import time
 from collections import defaultdict
 from datetime import timezone, timedelta, datetime
 
@@ -12,7 +11,6 @@ import orjson
 
 logging.basicConfig(level=logging.INFO)
 
-# Pre-compile regex for performance
 BANNER_NAME_RE = re.compile(r'"(.*?)"')
 CLEAN_TAGS_RE = re.compile(r'</?color[^>]*>')
 TAGS_RE = re.compile(r'<[^>]+>')
@@ -58,17 +56,15 @@ class BannerParser:
         self.logger = logging.getLogger(f"BannerParser({self.short_game:<3})")
 
     async def parse(self):
-        new_banner_ids = await self.load_banners()
+        new_banner_ids, game_data = await self.load_banners()
         if not new_banner_ids:
             self.logger.info("No new banners found.")
             return
 
         self.logger.info(f"Found {len(new_banner_ids)} new banners.")
 
-        # 1. Fetch raw data for new banners in parallel
         await asyncio.gather(*(self.parse_raw_banner(b) for b in new_banner_ids))
 
-        # 2. Load Item Data once
         await self.load_item_data()
 
         # 3. Load existing formatted data
@@ -79,22 +75,32 @@ class BannerParser:
                     self.formatted_banner_data = orjson.loads(content)
 
         # 4. Process new banners
-        await asyncio.gather(*(self.parse_formatted_banner(b) for b in new_banner_ids))
+        try:
+            await asyncio.gather(*(self.parse_formatted_banner(b) for b in new_banner_ids))
 
-        # 5. Merge logic
-        new_count = 0
-        for b_type, banners in self.data_to_add.items():
-            existing_list = self.formatted_banner_data.setdefault(b_type, [])
-            for new_b in banners:
-                # Optimized check: using get() and direct object comparison
-                if not any(ex["name"] == new_b["name"] and ex["start_time"] == new_b["start_time"] for ex in existing_list):
-                    existing_list.append(new_b)
-                    new_count += 1
+            # 5. Merge logic
+            new_count = 0
+            for b_type, banners in self.data_to_add.items():
+                existing_list = self.formatted_banner_data.setdefault(b_type, [])
+                for new_b in banners:
+                    if not any(ex["name"] == new_b["name"] and ex["start_time"] == new_b["start_time"] for ex in existing_list):
+                        existing_list.append(new_b)
+                        new_count += 1
 
-        if new_count > 0:
-            async with aiofiles.open(self.file_path_formatted, "wb") as f:
-                await f.write(orjson.dumps(self.formatted_banner_data))
-            self.logger.info(f"Added {new_count} new parsed banners.")
+            if new_count > 0:
+                async with aiofiles.open(self.file_path_formatted, "wb") as f:
+                    await f.write(orjson.dumps(self.formatted_banner_data))
+                self.logger.info(f"Added {new_count} new parsed banners.")
+
+            if new_banner_ids:
+                game_data['banners'].extend(new_banner_ids)
+                os.makedirs(os.path.dirname(self.file_path), exist_ok=True)
+                async with aiofiles.open(self.file_path, "wb") as f:
+                    await f.write(orjson.dumps(game_data, option=orjson.OPT_INDENT_2))
+
+        except Exception as e:
+            self.logger.error(f"Error during banner parsing: {e}")
+            return
 
     async def load_item_data(self):
         """Fetches and builds a high-speed lookup table for items."""
@@ -138,20 +144,22 @@ class BannerParser:
                     "item_type": itype
                 }
 
-    async def load_banners(self) -> list:
+    async def load_banners(self) -> tuple[list, dict] | None:
         async with self.session.get(getattr(GachaListURLS, self.game.upper())) as resp:
             data = orjson.loads(await resp.read())
 
+        game_data = {"banners": []}
+
         if data['retcode'] != 0:
             self.logger.error(f"Error: {data['message']}")
-            return []
+            return None
 
         banners = data["data"]['list']
         ## Delete banner name from each banner
         for b in banners:
             b.pop('gacha_name', None)
 
-        game_data = {"banners": []}
+
         if os.path.exists(self.file_path):
             async with aiofiles.open(self.file_path, "rb") as f:
                 if content := await f.read():
@@ -159,13 +167,7 @@ class BannerParser:
 
         new_banners = [b for b in banners if b not in game_data['banners']]
 
-        if new_banners:
-            game_data['banners'].extend(new_banners)
-            os.makedirs(os.path.dirname(self.file_path), exist_ok=True)
-            async with aiofiles.open(self.file_path, "wb") as f:
-                await f.write(orjson.dumps(game_data, option=orjson.OPT_INDENT_2))
-
-        return new_banners
+        return new_banners, game_data
 
     async def parse_raw_banner(self, banner: dict):
         """ Parses the raw banner data, saves it as the request data looks. """
