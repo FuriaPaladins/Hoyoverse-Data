@@ -1231,6 +1231,62 @@
       "gacha_id": "4a9b21106872e00beb3b71f4dc65f4bfe0171803",
       "gacha_label": "12_4",
       "gacha_type": 12
+    },
+    {
+      "begin_time": "2026-05-13 12:00:00",
+      "end_time": "2026-06-01 03:59:59",
+      "gacha_id": "4158790fb4a3134264cb65a345123748a7917d8c",
+      "gacha_label": "11",
+      "gacha_type": 11
+    },
+    {
+      "begin_time": "2026-05-13 12:00:00",
+      "end_time": "2026-06-01 03:59:59",
+      "gacha_id": "4be6a0c89ad2bcb7d6cf336b3319009e46619d7d",
+      "gacha_label": "11_2",
+      "gacha_type": 11
+    },
+    {
+      "begin_time": "2026-05-13 12:00:00",
+      "end_time": "2026-06-01 03:59:59",
+      "gacha_id": "6ba670503e1a83dca5e331552dcf7024abc338a8",
+      "gacha_label": "11_3",
+      "gacha_type": 11
+    },
+    {
+      "begin_time": "2026-05-13 12:00:00",
+      "end_time": "2026-06-01 03:59:59",
+      "gacha_id": "e1489985b31d873ad77be7171f279e6d64137297",
+      "gacha_label": "11_4",
+      "gacha_type": 11
+    },
+    {
+      "begin_time": "2026-05-13 12:00:00",
+      "end_time": "2026-06-01 03:59:59",
+      "gacha_id": "f75d3e40c12d72d965428876cf092239707816fe",
+      "gacha_label": "12",
+      "gacha_type": 12
+    },
+    {
+      "begin_time": "2026-05-13 12:00:00",
+      "end_time": "2026-06-01 03:59:59",
+      "gacha_id": "c71122913ff21c3954095a78c7256724aace8b76",
+      "gacha_label": "12_2",
+      "gacha_type": 12
+    },
+    {
+      "begin_time": "2026-05-13 12:00:00",
+      "end_time": "2026-06-01 03:59:59",
+      "gacha_id": "a3b4f80b2ece32e49cc11ceb81ca35b5d17a68f2",
+      "gacha_label": "12_3",
+      "gacha_type": 12
+    },
+    {
+      "begin_time": "2026-05-13 12:00:00",
+      "end_time": "2026-06-01 03:59:59",
+      "gacha_id": "89fe42c2f4b16c3d182dc2480bbfdd6d53ff78da",
+      "gacha_label": "12_4",
+      "gacha_type": 12
     }
   ]
 }
