@@ -89,7 +89,7 @@ class BannerParser:
 
             if new_count > 0:
                 async with aiofiles.open(self.file_path_formatted, "wb") as f:
-                    await f.write(orjson.dumps(self.formatted_banner_data))
+                    await f.write(orjson.dumps(self.formatted_banner_data, option=orjson.OPT_INDENT_2))
                 self.logger.info(f"Added {new_count} new parsed banners.")
 
             if new_banner_ids:
