@@ -4619,6 +4619,46 @@
         "time": "2026-10-13 17:59:00+01:00",
         "is_server_time": true
       }
+    },
+    {
+      "name": "Void Star's Advent",
+      "banner_type": 301,
+      "uprate_5": [
+        {
+          "id": 10000114,
+          "name": "Skirk",
+          "rarity": 5,
+          "item_type": "character"
+        }
+      ],
+      "uprate_4": [
+        {
+          "id": 10000115,
+          "name": "Dahlia",
+          "rarity": 4,
+          "item_type": "character"
+        },
+        {
+          "id": 10000072,
+          "name": "Candace",
+          "rarity": 4,
+          "item_type": "character"
+        },
+        {
+          "id": 10000080,
+          "name": "Mika",
+          "rarity": 4,
+          "item_type": "character"
+        }
+      ],
+      "start_time": {
+        "time": "2026-10-13 18:00:00+01:00",
+        "is_server_time": true
+      },
+      "end_time": {
+        "time": "2026-11-03 14:59:59+01:00",
+        "is_server_time": true
+      }
     }
   ],
   "302": [
@@ -4626,7 +4666,12 @@
       "name": "Epitome Invocation",
       "banner_type": 302,
       "uprate_5": [
-        { "id": 15502, "name": "Amos' Bow", "rank": 5, "item_type": "weapon" },
+        {
+          "id": 15502,
+          "name": "Amos' Bow",
+          "rank": 5,
+          "item_type": "weapon"
+        },
         {
           "id": 11501,
           "name": "Aquila Favonia",
@@ -4635,7 +4680,12 @@
         }
       ],
       "uprate_4": [
-        { "id": 12402, "name": "The Bell", "rank": 4, "item_type": "weapon" },
+        {
+          "id": 12402,
+          "name": "The Bell",
+          "rank": 4,
+          "item_type": "weapon"
+        },
         {
           "id": 14402,
           "name": "The Widsith",
@@ -4648,7 +4698,12 @@
           "rank": 4,
           "item_type": "weapon"
         },
-        { "id": 11402, "name": "The Flute", "rank": 4, "item_type": "weapon" },
+        {
+          "id": 11402,
+          "name": "The Flute",
+          "rank": 4,
+          "item_type": "weapon"
+        },
         {
           "id": 13407,
           "name": "Favonius Lance",
@@ -4741,8 +4796,18 @@
         }
       ],
       "uprate_4": [
-        { "id": 11402, "name": "The Flute", "rank": 4, "item_type": "weapon" },
-        { "id": 15405, "name": "Rust", "rank": 4, "item_type": "weapon" },
+        {
+          "id": 11402,
+          "name": "The Flute",
+          "rank": 4,
+          "item_type": "weapon"
+        },
+        {
+          "id": 15405,
+          "name": "Rust",
+          "rank": 4,
+          "item_type": "weapon"
+        },
         {
           "id": 12405,
           "name": "Rainslasher",
@@ -4789,7 +4854,12 @@
         }
       ],
       "uprate_4": [
-        { "id": 12402, "name": "The Bell", "rank": 4, "item_type": "weapon" },
+        {
+          "id": 12402,
+          "name": "The Bell",
+          "rank": 4,
+          "item_type": "weapon"
+        },
         {
           "id": 13401,
           "name": "Dragon's Bane",
@@ -4886,7 +4956,12 @@
       "name": "Epitome Invocation",
       "banner_type": 302,
       "uprate_5": [
-        { "id": 15502, "name": "Amos' Bow", "rank": 5, "item_type": "weapon" },
+        {
+          "id": 15502,
+          "name": "Amos' Bow",
+          "rank": 5,
+          "item_type": "weapon"
+        },
         {
           "id": 12501,
           "name": "Skyward Pride",
@@ -4895,7 +4970,12 @@
         }
       ],
       "uprate_4": [
-        { "id": 12402, "name": "The Bell", "rank": 4, "item_type": "weapon" },
+        {
+          "id": 12402,
+          "name": "The Bell",
+          "rank": 4,
+          "item_type": "weapon"
+        },
         {
           "id": 11403,
           "name": "Sacrificial Sword",
@@ -4954,8 +5034,18 @@
           "rank": 4,
           "item_type": "weapon"
         },
-        { "id": 11402, "name": "The Flute", "rank": 4, "item_type": "weapon" },
-        { "id": 15405, "name": "Rust", "rank": 4, "item_type": "weapon" },
+        {
+          "id": 11402,
+          "name": "The Flute",
+          "rank": 4,
+          "item_type": "weapon"
+        },
+        {
+          "id": 15405,
+          "name": "Rust",
+          "rank": 4,
+          "item_type": "weapon"
+        },
         {
           "id": 13407,
           "name": "Favonius Lance",
@@ -5182,7 +5272,12 @@
           "rank": 4,
           "item_type": "weapon"
         },
-        { "id": 11402, "name": "The Flute", "rank": 4, "item_type": "weapon" },
+        {
+          "id": 11402,
+          "name": "The Flute",
+          "rank": 4,
+          "item_type": "weapon"
+        },
         {
           "id": 15403,
           "name": "Sacrificial Bow",
@@ -5241,8 +5336,18 @@
           "rank": 4,
           "item_type": "weapon"
         },
-        { "id": 15405, "name": "Rust", "rank": 4, "item_type": "weapon" },
-        { "id": 12405, "name": "Rainslasher", "rank": 4, "item_type": "weapon" }
+        {
+          "id": 15405,
+          "name": "Rust",
+          "rank": 4,
+          "item_type": "weapon"
+        },
+        {
+          "id": 12405,
+          "name": "Rainslasher",
+          "rank": 4,
+          "item_type": "weapon"
+        }
       ],
       "start_time": {
         "time": "2021-05-18 18:00:00+01:00",
@@ -5271,7 +5376,12 @@
         }
       ],
       "uprate_4": [
-        { "id": 12402, "name": "The Bell", "rank": 4, "item_type": "weapon" },
+        {
+          "id": 12402,
+          "name": "The Bell",
+          "rank": 4,
+          "item_type": "weapon"
+        },
         {
           "id": 15412,
           "name": "Mitternachts Waltz",
@@ -5464,7 +5574,12 @@
           "rank": 4,
           "item_type": "weapon"
         },
-        { "id": 12405, "name": "Rainslasher", "rank": 4, "item_type": "weapon" }
+        {
+          "id": 12405,
+          "name": "Rainslasher",
+          "rank": 4,
+          "item_type": "weapon"
+        }
       ],
       "start_time": {
         "time": "2021-08-10 18:00:00+01:00",
@@ -5493,7 +5608,12 @@
         }
       ],
       "uprate_4": [
-        { "id": 12402, "name": "The Bell", "rank": 4, "item_type": "weapon" },
+        {
+          "id": 12402,
+          "name": "The Bell",
+          "rank": 4,
+          "item_type": "weapon"
+        },
         {
           "id": 14402,
           "name": "The Widsith",
@@ -5552,7 +5672,12 @@
           "rank": 4,
           "item_type": "weapon"
         },
-        { "id": 11402, "name": "The Flute", "rank": 4, "item_type": "weapon" },
+        {
+          "id": 11402,
+          "name": "The Flute",
+          "rank": 4,
+          "item_type": "weapon"
+        },
         {
           "id": 15402,
           "name": "The Stringless",
@@ -5585,7 +5710,12 @@
       "name": "Epitome Invocation",
       "banner_type": 302,
       "uprate_5": [
-        { "id": 15507, "name": "Polar Star", "rank": 5, "item_type": "weapon" },
+        {
+          "id": 15507,
+          "name": "Polar Star",
+          "rank": 5,
+          "item_type": "weapon"
+        },
         {
           "id": 14504,
           "name": "Memory of Dust",
@@ -5594,14 +5724,24 @@
         }
       ],
       "uprate_4": [
-        { "id": 15405, "name": "Rust", "rank": 4, "item_type": "weapon" },
+        {
+          "id": 15405,
+          "name": "Rust",
+          "rank": 4,
+          "item_type": "weapon"
+        },
         {
           "id": 13407,
           "name": "Favonius Lance",
           "rank": 4,
           "item_type": "weapon"
         },
-        { "id": 12416, "name": "Akuoumaru", "rank": 4, "item_type": "weapon" },
+        {
+          "id": 12416,
+          "name": "Akuoumaru",
+          "rank": 4,
+          "item_type": "weapon"
+        },
         {
           "id": 14409,
           "name": "Eye of Perception",
@@ -5724,7 +5864,12 @@
           "rank": 4,
           "item_type": "weapon"
         },
-        { "id": 11405, "name": "Lion's Roar", "rank": 4, "item_type": "weapon" }
+        {
+          "id": 11405,
+          "name": "Lion's Roar",
+          "rank": 4,
+          "item_type": "weapon"
+        }
       ],
       "start_time": {
         "time": "2021-11-24 10:00:00+08:00",
@@ -5753,7 +5898,12 @@
         }
       ],
       "uprate_4": [
-        { "id": 12402, "name": "The Bell", "rank": 4, "item_type": "weapon" },
+        {
+          "id": 12402,
+          "name": "The Bell",
+          "rank": 4,
+          "item_type": "weapon"
+        },
         {
           "id": 11410,
           "name": "The Alley Flash",
@@ -5818,7 +5968,12 @@
           "rank": 4,
           "item_type": "weapon"
         },
-        { "id": 11402, "name": "The Flute", "rank": 4, "item_type": "weapon" },
+        {
+          "id": 11402,
+          "name": "The Flute",
+          "rank": 4,
+          "item_type": "weapon"
+        },
         {
           "id": 15401,
           "name": "Favonius Warbow",
@@ -5845,7 +6000,12 @@
       "name": "Epitome Invocation",
       "banner_type": 302,
       "uprate_5": [
-        { "id": 15502, "name": "Amos' Bow", "rank": 5, "item_type": "weapon" },
+        {
+          "id": 15502,
+          "name": "Amos' Bow",
+          "rank": 5,
+          "item_type": "weapon"
+        },
         {
           "id": 13504,
           "name": "Vortex Vanquisher",
@@ -5994,7 +6154,12 @@
           "rank": 4,
           "item_type": "weapon"
         },
-        { "id": 12416, "name": "Akuoumaru", "rank": 4, "item_type": "weapon" }
+        {
+          "id": 12416,
+          "name": "Akuoumaru",
+          "rank": 4,
+          "item_type": "weapon"
+        }
       ],
       "start_time": {
         "time": "2022-03-08 18:00:00+01:00",
@@ -6041,8 +6206,18 @@
           "rank": 4,
           "item_type": "weapon"
         },
-        { "id": 11402, "name": "The Flute", "rank": 4, "item_type": "weapon" },
-        { "id": 15405, "name": "Rust", "rank": 4, "item_type": "weapon" }
+        {
+          "id": 11402,
+          "name": "The Flute",
+          "rank": 4,
+          "item_type": "weapon"
+        },
+        {
+          "id": 15405,
+          "name": "Rust",
+          "rank": 4,
+          "item_type": "weapon"
+        }
       ],
       "start_time": {
         "time": "2022-03-30 10:00:00+08:00",
@@ -6071,7 +6246,12 @@
         }
       ],
       "uprate_4": [
-        { "id": 12402, "name": "The Bell", "rank": 4, "item_type": "weapon" },
+        {
+          "id": 12402,
+          "name": "The Bell",
+          "rank": 4,
+          "item_type": "weapon"
+        },
         {
           "id": 15401,
           "name": "Favonius Warbow",
@@ -6206,7 +6386,12 @@
           "rank": 4,
           "item_type": "weapon"
         },
-        { "id": 11405, "name": "Lion's Roar", "rank": 4, "item_type": "weapon" }
+        {
+          "id": 11405,
+          "name": "Lion's Roar",
+          "rank": 4,
+          "item_type": "weapon"
+        }
       ],
       "start_time": {
         "time": "2022-06-21 18:00:00+01:00",
@@ -6311,7 +6496,12 @@
           "rank": 4,
           "item_type": "weapon"
         },
-        { "id": 11402, "name": "The Flute", "rank": 4, "item_type": "weapon" },
+        {
+          "id": 11402,
+          "name": "The Flute",
+          "rank": 4,
+          "item_type": "weapon"
+        },
         {
           "id": 13401,
           "name": "Dragon's Bane",
@@ -6346,7 +6536,12 @@
         }
       ],
       "uprate_4": [
-        { "id": 12402, "name": "The Bell", "rank": 4, "item_type": "weapon" },
+        {
+          "id": 12402,
+          "name": "The Bell",
+          "rank": 4,
+          "item_type": "weapon"
+        },
         {
           "id": 15402,
           "name": "The Stringless",
@@ -6385,7 +6580,12 @@
       "name": "Epitome Invocation",
       "banner_type": 302,
       "uprate_5": [
-        { "id": 15502, "name": "Amos' Bow", "rank": 5, "item_type": "weapon" },
+        {
+          "id": 15502,
+          "name": "Amos' Bow",
+          "rank": 5,
+          "item_type": "weapon"
+        },
         {
           "id": 14506,
           "name": "Everlasting Moonglow",
@@ -6406,7 +6606,12 @@
           "rank": 4,
           "item_type": "weapon"
         },
-        { "id": 15405, "name": "Rust", "rank": 4, "item_type": "weapon" },
+        {
+          "id": 15405,
+          "name": "Rust",
+          "rank": 4,
+          "item_type": "weapon"
+        },
         {
           "id": 14409,
           "name": "Eye of Perception",
@@ -6575,8 +6780,18 @@
           "rank": 4,
           "item_type": "weapon"
         },
-        { "id": 11402, "name": "The Flute", "rank": 4, "item_type": "weapon" },
-        { "id": 15405, "name": "Rust", "rank": 4, "item_type": "weapon" },
+        {
+          "id": 11402,
+          "name": "The Flute",
+          "rank": 4,
+          "item_type": "weapon"
+        },
+        {
+          "id": 15405,
+          "name": "Rust",
+          "rank": 4,
+          "item_type": "weapon"
+        },
         {
           "id": 13407,
           "name": "Favonius Lance",
@@ -6603,10 +6818,20 @@
           "rank": 5,
           "item_type": "weapon"
         },
-        { "id": 15507, "name": "Polar Star", "rank": 5, "item_type": "weapon" }
+        {
+          "id": 15507,
+          "name": "Polar Star",
+          "rank": 5,
+          "item_type": "weapon"
+        }
       ],
       "uprate_4": [
-        { "id": 12402, "name": "The Bell", "rank": 4, "item_type": "weapon" },
+        {
+          "id": 12402,
+          "name": "The Bell",
+          "rank": 4,
+          "item_type": "weapon"
+        },
         {
           "id": 13401,
           "name": "Dragon's Bane",
@@ -6741,7 +6966,12 @@
           "rank": 4,
           "item_type": "weapon"
         },
-        { "id": 12416, "name": "Akuoumaru", "rank": 4, "item_type": "weapon" }
+        {
+          "id": 12416,
+          "name": "Akuoumaru",
+          "rank": 4,
+          "item_type": "weapon"
+        }
       ],
       "start_time": {
         "time": "2022-12-27 18:00:00+01:00",
@@ -6782,14 +7012,24 @@
           "rank": 4,
           "item_type": "weapon"
         },
-        { "id": 11402, "name": "The Flute", "rank": 4, "item_type": "weapon" },
+        {
+          "id": 11402,
+          "name": "The Flute",
+          "rank": 4,
+          "item_type": "weapon"
+        },
         {
           "id": 15403,
           "name": "Sacrificial Bow",
           "rank": 4,
           "item_type": "weapon"
         },
-        { "id": 12405, "name": "Rainslasher", "rank": 4, "item_type": "weapon" }
+        {
+          "id": 12405,
+          "name": "Rainslasher",
+          "rank": 4,
+          "item_type": "weapon"
+        }
       ],
       "start_time": {
         "time": "2023-01-18 10:00:00+08:00",
@@ -6830,7 +7070,12 @@
           "rank": 4,
           "item_type": "weapon"
         },
-        { "id": 15405, "name": "Rust", "rank": 4, "item_type": "weapon" },
+        {
+          "id": 15405,
+          "name": "Rust",
+          "rank": 4,
+          "item_type": "weapon"
+        },
         {
           "id": 14401,
           "name": "Favonius Codex",
@@ -6929,7 +7174,12 @@
         }
       ],
       "uprate_4": [
-        { "id": 12402, "name": "The Bell", "rank": 4, "item_type": "weapon" },
+        {
+          "id": 12402,
+          "name": "The Bell",
+          "rank": 4,
+          "item_type": "weapon"
+        },
         {
           "id": 11403,
           "name": "Sacrificial Sword",
@@ -7026,7 +7276,12 @@
       "name": "Epitome Invocation",
       "banner_type": 302,
       "uprate_5": [
-        { "id": 15502, "name": "Amos' Bow", "rank": 5, "item_type": "weapon" },
+        {
+          "id": 15502,
+          "name": "Amos' Bow",
+          "rank": 5,
+          "item_type": "weapon"
+        },
         {
           "id": 14505,
           "name": "Jadefall's Splendor",
@@ -7105,9 +7360,24 @@
           "rank": 4,
           "item_type": "weapon"
         },
-        { "id": 11402, "name": "The Flute", "rank": 4, "item_type": "weapon" },
-        { "id": 15405, "name": "Rust", "rank": 4, "item_type": "weapon" },
-        { "id": 12416, "name": "Akuoumaru", "rank": 4, "item_type": "weapon" }
+        {
+          "id": 11402,
+          "name": "The Flute",
+          "rank": 4,
+          "item_type": "weapon"
+        },
+        {
+          "id": 15405,
+          "name": "Rust",
+          "rank": 4,
+          "item_type": "weapon"
+        },
+        {
+          "id": 12416,
+          "name": "Akuoumaru",
+          "rank": 4,
+          "item_type": "weapon"
+        }
       ],
       "start_time": {
         "time": "2023-05-24 10:00:00+08:00",
@@ -7252,7 +7522,12 @@
         }
       ],
       "uprate_4": [
-        { "id": 12402, "name": "The Bell", "rank": 4, "item_type": "weapon" },
+        {
+          "id": 12402,
+          "name": "The Bell",
+          "rank": 4,
+          "item_type": "weapon"
+        },
         {
           "id": 14410,
           "name": "Wine and Song",
@@ -7271,7 +7546,12 @@
           "rank": 4,
           "item_type": "weapon"
         },
-        { "id": 11405, "name": "Lion's Roar", "rank": 4, "item_type": "weapon" }
+        {
+          "id": 11405,
+          "name": "Lion's Roar",
+          "rank": 4,
+          "item_type": "weapon"
+        }
       ],
       "start_time": {
         "time": "2023-07-25 18:00:00+01:00",
@@ -7344,7 +7624,12 @@
       "name": "Epitome Invocation",
       "banner_type": 302,
       "uprate_5": [
-        { "id": 15507, "name": "Polar Star", "rank": 5, "item_type": "weapon" },
+        {
+          "id": 15507,
+          "name": "Polar Star",
+          "rank": 5,
+          "item_type": "weapon"
+        },
         {
           "id": 13504,
           "name": "Vortex Vanquisher",
@@ -7365,14 +7650,24 @@
           "rank": 4,
           "item_type": "weapon"
         },
-        { "id": 11402, "name": "The Flute", "rank": 4, "item_type": "weapon" },
+        {
+          "id": 11402,
+          "name": "The Flute",
+          "rank": 4,
+          "item_type": "weapon"
+        },
         {
           "id": 13401,
           "name": "Dragon's Bane",
           "rank": 4,
           "item_type": "weapon"
         },
-        { "id": 15405, "name": "Rust", "rank": 4, "item_type": "weapon" }
+        {
+          "id": 15405,
+          "name": "Rust",
+          "rank": 4,
+          "item_type": "weapon"
+        }
       ],
       "start_time": {
         "time": "2023-09-05 18:00:00+01:00",
@@ -7517,7 +7812,12 @@
         }
       ],
       "uprate_4": [
-        { "id": 12402, "name": "The Bell", "rank": 4, "item_type": "weapon" },
+        {
+          "id": 12402,
+          "name": "The Bell",
+          "rank": 4,
+          "item_type": "weapon"
+        },
         {
           "id": 11403,
           "name": "Sacrificial Sword",
@@ -7614,7 +7914,12 @@
       "name": "Epitome Invocation",
       "banner_type": 302,
       "uprate_5": [
-        { "id": 12512, "name": "Verdict", "rank": 5, "item_type": "weapon" },
+        {
+          "id": 12512,
+          "name": "Verdict",
+          "rank": 5,
+          "item_type": "weapon"
+        },
         {
           "id": 11509,
           "name": "Mistsplitter Reforged",
@@ -7629,7 +7934,12 @@
           "rank": 4,
           "item_type": "weapon"
         },
-        { "id": 11402, "name": "The Flute", "rank": 4, "item_type": "weapon" },
+        {
+          "id": 11402,
+          "name": "The Flute",
+          "rank": 4,
+          "item_type": "weapon"
+        },
         {
           "id": 15416,
           "name": "Mouun's Moon",
@@ -7642,7 +7952,12 @@
           "rank": 4,
           "item_type": "weapon"
         },
-        { "id": 12416, "name": "Akuoumaru", "rank": 4, "item_type": "weapon" }
+        {
+          "id": 12416,
+          "name": "Akuoumaru",
+          "rank": 4,
+          "item_type": "weapon"
+        }
       ],
       "start_time": {
         "time": "2023-12-20 10:00:00+08:00",
@@ -7671,7 +7986,12 @@
         }
       ],
       "uprate_4": [
-        { "id": 15405, "name": "Rust", "rank": 4, "item_type": "weapon" },
+        {
+          "id": 15405,
+          "name": "Rust",
+          "rank": 4,
+          "item_type": "weapon"
+        },
         {
           "id": 12405,
           "name": "Rainslasher",
@@ -7846,7 +8166,12 @@
           "rank": 4,
           "item_type": "weapon"
         },
-        { "id": 12402, "name": "The Bell", "rank": 4, "item_type": "weapon" },
+        {
+          "id": 12402,
+          "name": "The Bell",
+          "rank": 4,
+          "item_type": "weapon"
+        },
         {
           "id": 11410,
           "name": "The Alley Flash",
@@ -7905,7 +8230,12 @@
           "rank": 4,
           "item_type": "weapon"
         },
-        { "id": 11402, "name": "The Flute", "rank": 4, "item_type": "weapon" },
+        {
+          "id": 11402,
+          "name": "The Flute",
+          "rank": 4,
+          "item_type": "weapon"
+        },
         {
           "id": 13407,
           "name": "Favonius Lance",
@@ -8048,7 +8378,12 @@
       "name": "Epitome Invocation",
       "banner_type": 302,
       "uprate_5": [
-        { "id": 11515, "name": "Absolution", "rank": 5, "item_type": "weapon" },
+        {
+          "id": 11515,
+          "name": "Absolution",
+          "rank": 5,
+          "item_type": "weapon"
+        },
         {
           "id": 11512,
           "name": "Light of Foliar Incision",
@@ -8159,7 +8494,12 @@
       "name": "Epitome Invocation",
       "banner_type": 302,
       "uprate_5": [
-        { "id": 12512, "name": "Verdict", "rank": 5, "item_type": "weapon" },
+        {
+          "id": 12512,
+          "name": "Verdict",
+          "rank": 5,
+          "item_type": "weapon"
+        },
         {
           "id": 11511,
           "name": "Key of Khaj-Nisut",
@@ -8168,14 +8508,24 @@
         }
       ],
       "uprate_4": [
-        { "id": 12402, "name": "The Bell", "rank": 4, "item_type": "weapon" },
+        {
+          "id": 12402,
+          "name": "The Bell",
+          "rank": 4,
+          "item_type": "weapon"
+        },
         {
           "id": 13401,
           "name": "Dragon's Bane",
           "rank": 4,
           "item_type": "weapon"
         },
-        { "id": 15405, "name": "Rust", "rank": 4, "item_type": "weapon" },
+        {
+          "id": 15405,
+          "name": "Rust",
+          "rank": 4,
+          "item_type": "weapon"
+        },
         {
           "id": 14409,
           "name": "Eye of Perception",
@@ -8216,7 +8566,12 @@
         }
       ],
       "uprate_4": [
-        { "id": 11402, "name": "The Flute", "rank": 4, "item_type": "weapon" },
+        {
+          "id": 11402,
+          "name": "The Flute",
+          "rank": 4,
+          "item_type": "weapon"
+        },
         {
           "id": 15401,
           "name": "Favonius Warbow",
@@ -8261,7 +8616,12 @@
           "rank": 5,
           "item_type": "weapon"
         },
-        { "id": 14516, "name": "Surf's Up", "rank": 5, "item_type": "weapon" }
+        {
+          "id": 14516,
+          "name": "Surf's Up",
+          "rank": 5,
+          "item_type": "weapon"
+        }
       ],
       "uprate_4": [
         {
@@ -8386,7 +8746,12 @@
           "rank": 4,
           "item_type": "weapon"
         },
-        { "id": 15405, "name": "Rust", "rank": 4, "item_type": "weapon" },
+        {
+          "id": 15405,
+          "name": "Rust",
+          "rank": 4,
+          "item_type": "weapon"
+        },
         {
           "id": 14401,
           "name": "Favonius Codex",
@@ -8497,8 +8862,18 @@
           "rank": 4,
           "item_type": "weapon"
         },
-        { "id": 12402, "name": "The Bell", "rank": 4, "item_type": "weapon" },
-        { "id": 11402, "name": "The Flute", "rank": 4, "item_type": "weapon" },
+        {
+          "id": 12402,
+          "name": "The Bell",
+          "rank": 4,
+          "item_type": "weapon"
+        },
+        {
+          "id": 11402,
+          "name": "The Flute",
+          "rank": 4,
+          "item_type": "weapon"
+        },
         {
           "id": 15430,
           "name": "Flower-Wreathed Feathers",
@@ -8641,7 +9016,12 @@
       "name": "Epitome Invocation",
       "banner_type": 302,
       "uprate_5": [
-        { "id": 11515, "name": "Absolution", "rank": 5, "item_type": "weapon" },
+        {
+          "id": 11515,
+          "name": "Absolution",
+          "rank": 5,
+          "item_type": "weapon"
+        },
         {
           "id": 13512,
           "name": "Crimson Moon's Semblance",
@@ -8708,7 +9088,12 @@
         }
       ],
       "uprate_4": [
-        { "id": 11402, "name": "The Flute", "rank": 4, "item_type": "weapon" },
+        {
+          "id": 11402,
+          "name": "The Flute",
+          "rank": 4,
+          "item_type": "weapon"
+        },
         {
           "id": 15416,
           "name": "Mouun's Moon",
@@ -8721,7 +9106,12 @@
           "rank": 4,
           "item_type": "weapon"
         },
-        { "id": 12416, "name": "Akuoumaru", "rank": 4, "item_type": "weapon" },
+        {
+          "id": 12416,
+          "name": "Akuoumaru",
+          "rank": 4,
+          "item_type": "weapon"
+        },
         {
           "id": 14409,
           "name": "Eye of Perception",
@@ -8774,7 +9164,12 @@
           "rank": 4,
           "item_type": "weapon"
         },
-        { "id": 15405, "name": "Rust", "rank": 4, "item_type": "weapon" },
+        {
+          "id": 15405,
+          "name": "Rust",
+          "rank": 4,
+          "item_type": "weapon"
+        },
         {
           "id": 11401,
           "name": "Favonius Sword",
@@ -8867,7 +9262,12 @@
         }
       ],
       "uprate_4": [
-        { "id": 12402, "name": "The Bell", "rank": 4, "item_type": "weapon" },
+        {
+          "id": 12402,
+          "name": "The Bell",
+          "rank": 4,
+          "item_type": "weapon"
+        },
         {
           "id": 11403,
           "name": "Sacrificial Sword",
@@ -8906,7 +9306,12 @@
       "name": "Epitome Invocation",
       "banner_type": 302,
       "uprate_5": [
-        { "id": 12512, "name": "Verdict", "rank": 5, "item_type": "weapon" },
+        {
+          "id": 12512,
+          "name": "Verdict",
+          "rank": 5,
+          "item_type": "weapon"
+        },
         {
           "id": 13514,
           "name": "Symphonist of Scents",
@@ -9017,7 +9422,12 @@
       "name": "Epitome Invocation",
       "banner_type": 302,
       "uprate_5": [
-        { "id": 11517, "name": "Azurelight", "rank": 5, "item_type": "weapon" },
+        {
+          "id": 11517,
+          "name": "Azurelight",
+          "rank": 5,
+          "item_type": "weapon"
+        },
         {
           "id": 13507,
           "name": "Calamity Queller",
@@ -9096,9 +9506,24 @@
           "rank": 4,
           "item_type": "weapon"
         },
-        { "id": 11402, "name": "The Flute", "rank": 4, "item_type": "weapon" },
-        { "id": 15405, "name": "Rust", "rank": 4, "item_type": "weapon" },
-        { "id": 12405, "name": "Rainslasher", "rank": 4, "item_type": "weapon" }
+        {
+          "id": 11402,
+          "name": "The Flute",
+          "rank": 4,
+          "item_type": "weapon"
+        },
+        {
+          "id": 15405,
+          "name": "Rust",
+          "rank": 4,
+          "item_type": "weapon"
+        },
+        {
+          "id": 12405,
+          "name": "Rainslasher",
+          "rank": 4,
+          "item_type": "weapon"
+        }
       ],
       "start_time": {
         "time": "2025-07-08 18:00:00+01:00",
@@ -9171,7 +9596,12 @@
       "name": "Epitome Invocation",
       "banner_type": 302,
       "uprate_5": [
-        { "id": 14516, "name": "Surf's Up", "rank": 5, "item_type": "weapon" },
+        {
+          "id": 14516,
+          "name": "Surf's Up",
+          "rank": 5,
+          "item_type": "weapon"
+        },
         {
           "id": 15514,
           "name": "Astral Vulture's Crimson Plumage",
@@ -9256,7 +9686,12 @@
           "rank": 4,
           "item_type": "weapon"
         },
-        { "id": 11402, "name": "The Flute", "rank": 4, "item_type": "weapon" },
+        {
+          "id": 11402,
+          "name": "The Flute",
+          "rank": 4,
+          "item_type": "weapon"
+        },
         {
           "id": 15402,
           "name": "The Stringless",
@@ -9349,7 +9784,12 @@
         }
       ],
       "uprate_4": [
-        { "id": 12402, "name": "The Bell", "rank": 4, "item_type": "weapon" },
+        {
+          "id": 12402,
+          "name": "The Bell",
+          "rank": 4,
+          "item_type": "weapon"
+        },
         {
           "id": 15401,
           "name": "Favonius Warbow",
@@ -9756,7 +10196,12 @@
           "rarity": 4,
           "item_type": "weapon"
         },
-        { "id": 12402, "name": "The Bell", "rarity": 4, "item_type": "weapon" },
+        {
+          "id": 12402,
+          "name": "The Bell",
+          "rarity": 4,
+          "item_type": "weapon"
+        },
         {
           "id": 13407,
           "name": "Favonius Lance",
@@ -9769,7 +10214,12 @@
           "rarity": 4,
           "item_type": "weapon"
         },
-        { "id": 15405, "name": "Rust", "rarity": 4, "item_type": "weapon" }
+        {
+          "id": 15405,
+          "name": "Rust",
+          "rarity": 4,
+          "item_type": "weapon"
+        }
       ],
       "start_time": {
         "time": "2026-03-17 18:00:00+01:00",
@@ -9926,7 +10376,12 @@
           "rarity": 4,
           "item_type": "weapon"
         },
-        { "id": 12402, "name": "The Bell", "rarity": 4, "item_type": "weapon" },
+        {
+          "id": 12402,
+          "name": "The Bell",
+          "rarity": 4,
+          "item_type": "weapon"
+        },
         {
           "id": 13401,
           "name": "Dragon's Bane",
@@ -10095,7 +10550,12 @@
           "rarity": 4,
           "item_type": "weapon"
         },
-        { "id": 12402, "name": "The Bell", "rarity": 4, "item_type": "weapon" },
+        {
+          "id": 12402,
+          "name": "The Bell",
+          "rarity": 4,
+          "item_type": "weapon"
+        },
         {
           "id": 13407,
           "name": "Favonius Lance",
@@ -10142,7 +10602,12 @@
           "rarity": 4,
           "item_type": "weapon"
         },
-        { "id": 12402, "name": "The Bell", "rarity": 4, "item_type": "weapon" },
+        {
+          "id": 12402,
+          "name": "The Bell",
+          "rarity": 4,
+          "item_type": "weapon"
+        },
         {
           "id": 13401,
           "name": "Dragon's Bane",
@@ -10155,7 +10620,12 @@
           "rarity": 4,
           "item_type": "weapon"
         },
-        { "id": 15405, "name": "Rust", "rarity": 4, "item_type": "weapon" }
+        {
+          "id": 15405,
+          "name": "Rust",
+          "rarity": 4,
+          "item_type": "weapon"
+        }
       ],
       "start_time": {
         "time": "2026-08-12 07:00:00+08:00",
@@ -10279,6 +10749,64 @@
       },
       "end_time": {
         "time": "2026-10-13 17:59:00+01:00",
+        "is_server_time": true
+      }
+    },
+    {
+      "name": "Epitome Invocation",
+      "banner_type": 302,
+      "uprate_5": [
+        {
+          "id": 11517,
+          "name": "Azurelight",
+          "rarity": 5,
+          "item_type": "weapon"
+        },
+        {
+          "id": 13514,
+          "name": "Symphonist of Scents",
+          "rarity": 5,
+          "item_type": "weapon"
+        }
+      ],
+      "uprate_4": [
+        {
+          "id": 11430,
+          "name": "Sturdy Bone",
+          "rarity": 4,
+          "item_type": "weapon"
+        },
+        {
+          "id": 12403,
+          "name": "Sacrificial Greatsword",
+          "rarity": 4,
+          "item_type": "weapon"
+        },
+        {
+          "id": 13407,
+          "name": "Favonius Lance",
+          "rarity": 4,
+          "item_type": "weapon"
+        },
+        {
+          "id": 14402,
+          "name": "The Widsith",
+          "rarity": 4,
+          "item_type": "weapon"
+        },
+        {
+          "id": 15403,
+          "name": "Sacrificial Bow",
+          "rarity": 4,
+          "item_type": "weapon"
+        }
+      ],
+      "start_time": {
+        "time": "2026-10-13 18:00:00+01:00",
+        "is_server_time": true
+      },
+      "end_time": {
+        "time": "2026-11-03 14:59:59+01:00",
         "is_server_time": true
       }
     }
@@ -13759,6 +14287,46 @@
         "time": "2026-10-13 17:59:00+01:00",
         "is_server_time": true
       }
+    },
+    {
+      "name": "La Chanson Cerise",
+      "banner_type": 400,
+      "uprate_5": [
+        {
+          "id": 10000112,
+          "name": "Escoffier",
+          "rarity": 5,
+          "item_type": "character"
+        }
+      ],
+      "uprate_4": [
+        {
+          "id": 10000115,
+          "name": "Dahlia",
+          "rarity": 4,
+          "item_type": "character"
+        },
+        {
+          "id": 10000072,
+          "name": "Candace",
+          "rarity": 4,
+          "item_type": "character"
+        },
+        {
+          "id": 10000080,
+          "name": "Mika",
+          "rarity": 4,
+          "item_type": "character"
+        }
+      ],
+      "start_time": {
+        "time": "2026-10-13 18:00:00+01:00",
+        "is_server_time": true
+      },
+      "end_time": {
+        "time": "2026-11-03 14:59:59+01:00",
+        "is_server_time": true
+      }
     }
   ],
   "500": [
@@ -13915,8 +14483,18 @@
           "rank": 5,
           "item_type": "weapon"
         },
-        { "id": 15502, "name": "Amos' Bow", "rank": 5, "item_type": "weapon" },
-        { "id": 15507, "name": "Polar Star", "rank": 5, "item_type": "weapon" },
+        {
+          "id": 15502,
+          "name": "Amos' Bow",
+          "rank": 5,
+          "item_type": "weapon"
+        },
+        {
+          "id": 15507,
+          "name": "Polar Star",
+          "rank": 5,
+          "item_type": "weapon"
+        },
         {
           "id": 14505,
           "name": "Jadefall's Splendor",
@@ -14356,7 +14934,12 @@
           "rarity": 5,
           "item_type": "weapon"
         },
-        { "id": 12512, "name": "Verdict", "rarity": 5, "item_type": "weapon" },
+        {
+          "id": 12512,
+          "name": "Verdict",
+          "rarity": 5,
+          "item_type": "weapon"
+        },
         {
           "id": 13513,
           "name": "Lumidouce Elegy",
