@@ -4,11 +4,26 @@
       "name": "Mellow Waveride",
       "banner_type": 2,
       "uprate_5": [
-        { "id": "1191", "name": "Ellen", "rank": 5, "item_type": "character" }
+        {
+          "id": "1191",
+          "name": "Ellen",
+          "rank": 5,
+          "item_type": "character"
+        }
       ],
       "uprate_4": [
-        { "id": "1111", "name": "Anton", "rank": 4, "item_type": "character" },
-        { "id": "1131", "name": "Soukaku", "rank": 4, "item_type": "character" }
+        {
+          "id": "1111",
+          "name": "Anton",
+          "rank": 4,
+          "item_type": "character"
+        },
+        {
+          "id": "1131",
+          "name": "Soukaku",
+          "rank": 4,
+          "item_type": "character"
+        }
       ],
       "start_time": {
         "time": "2024-07-04 02:00:00+08:00",
@@ -31,8 +46,18 @@
         }
       ],
       "uprate_4": [
-        { "id": "1031", "name": "Nicole", "rank": 4, "item_type": "character" },
-        { "id": "1121", "name": "Ben", "rank": 4, "item_type": "character" }
+        {
+          "id": "1031",
+          "name": "Nicole",
+          "rank": 4,
+          "item_type": "character"
+        },
+        {
+          "id": "1121",
+          "name": "Ben",
+          "rank": 4,
+          "item_type": "character"
+        }
       ],
       "start_time": {
         "time": "2024-07-24 12:00:00+01:00",
@@ -47,11 +72,26 @@
       "name": "Untainted Jade",
       "banner_type": 2,
       "uprate_5": [
-        { "id": "1251", "name": "Qingyi", "rank": 5, "item_type": "character" }
+        {
+          "id": "1251",
+          "name": "Qingyi",
+          "rank": 5,
+          "item_type": "character"
+        }
       ],
       "uprate_4": [
-        { "id": "1061", "name": "Corin", "rank": 4, "item_type": "character" },
-        { "id": "1081", "name": "Billy", "rank": 4, "item_type": "character" }
+        {
+          "id": "1061",
+          "name": "Corin",
+          "rank": 4,
+          "item_type": "character"
+        },
+        {
+          "id": "1081",
+          "name": "Billy",
+          "rank": 4,
+          "item_type": "character"
+        }
       ],
       "start_time": {
         "time": "2024-08-14 02:00:00+08:00",
@@ -66,11 +106,26 @@
       "name": "No Match Found",
       "banner_type": 2,
       "uprate_5": [
-        { "id": "1261", "name": "Jane", "rank": 5, "item_type": "character" }
+        {
+          "id": "1261",
+          "name": "Jane",
+          "rank": 5,
+          "item_type": "character"
+        }
       ],
       "uprate_4": [
-        { "id": "1271", "name": "Seth", "rank": 4, "item_type": "character" },
-        { "id": "1011", "name": "Anby", "rank": 4, "item_type": "character" }
+        {
+          "id": "1271",
+          "name": "Seth",
+          "rank": 4,
+          "item_type": "character"
+        },
+        {
+          "id": "1011",
+          "name": "Anby",
+          "rank": 4,
+          "item_type": "character"
+        }
       ],
       "start_time": {
         "time": "2024-09-04 12:00:00+01:00",
@@ -85,11 +140,26 @@
       "name": "Ember-Crowned Overlord",
       "banner_type": 2,
       "uprate_5": [
-        { "id": "1071", "name": "Caesar", "rank": 5, "item_type": "character" }
+        {
+          "id": "1071",
+          "name": "Caesar",
+          "rank": 5,
+          "item_type": "character"
+        }
       ],
       "uprate_4": [
-        { "id": "1281", "name": "Piper", "rank": 4, "item_type": "character" },
-        { "id": "1111", "name": "Anton", "rank": 4, "item_type": "character" }
+        {
+          "id": "1281",
+          "name": "Piper",
+          "rank": 4,
+          "item_type": "character"
+        },
+        {
+          "id": "1111",
+          "name": "Anton",
+          "rank": 4,
+          "item_type": "character"
+        }
       ],
       "start_time": {
         "time": "2024-09-25 02:00:00+08:00",
@@ -104,11 +174,26 @@
       "name": "Born to Burn",
       "banner_type": 2,
       "uprate_5": [
-        { "id": "1171", "name": "Burnice", "rank": 5, "item_type": "character" }
+        {
+          "id": "1171",
+          "name": "Burnice",
+          "rank": 5,
+          "item_type": "character"
+        }
       ],
       "uprate_4": [
-        { "id": "1151", "name": "Lucy", "rank": 4, "item_type": "character" },
-        { "id": "1031", "name": "Nicole", "rank": 4, "item_type": "character" }
+        {
+          "id": "1151",
+          "name": "Lucy",
+          "rank": 4,
+          "item_type": "character"
+        },
+        {
+          "id": "1031",
+          "name": "Nicole",
+          "rank": 4,
+          "item_type": "character"
+        }
       ],
       "start_time": {
         "time": "2024-10-16 12:00:00+01:00",
@@ -123,11 +208,26 @@
       "name": "Moonlit Serenity",
       "banner_type": 2,
       "uprate_5": [
-        { "id": "1221", "name": "Yanagi", "rank": 5, "item_type": "character" }
+        {
+          "id": "1221",
+          "name": "Yanagi",
+          "rank": 5,
+          "item_type": "character"
+        }
       ],
       "uprate_4": [
-        { "id": "1011", "name": "Anby", "rank": 4, "item_type": "character" },
-        { "id": "1081", "name": "Billy", "rank": 4, "item_type": "character" }
+        {
+          "id": "1011",
+          "name": "Anby",
+          "rank": 4,
+          "item_type": "character"
+        },
+        {
+          "id": "1081",
+          "name": "Billy",
+          "rank": 4,
+          "item_type": "character"
+        }
       ],
       "start_time": {
         "time": "2024-11-06 02:00:00+08:00",
@@ -142,11 +242,26 @@
       "name": "Champion of Embers",
       "banner_type": 2,
       "uprate_5": [
-        { "id": "1161", "name": "Lighter", "rank": 5, "item_type": "character" }
+        {
+          "id": "1161",
+          "name": "Lighter",
+          "rank": 5,
+          "item_type": "character"
+        }
       ],
       "uprate_4": [
-        { "id": "1061", "name": "Corin", "rank": 4, "item_type": "character" },
-        { "id": "1121", "name": "Ben", "rank": 4, "item_type": "character" }
+        {
+          "id": "1061",
+          "name": "Corin",
+          "rank": 4,
+          "item_type": "character"
+        },
+        {
+          "id": "1121",
+          "name": "Ben",
+          "rank": 4,
+          "item_type": "character"
+        }
       ],
       "start_time": {
         "time": "2024-11-27 12:00:00+01:00",
@@ -161,7 +276,12 @@
       "name": "Honed Blade of Reflection",
       "banner_type": 2,
       "uprate_5": [
-        { "id": "1091", "name": "Miyabi", "rank": 5, "item_type": "character" },
+        {
+          "id": "1091",
+          "name": "Miyabi",
+          "rank": 5,
+          "item_type": "character"
+        },
         {
           "id": "1201",
           "name": "Harumasa",
@@ -170,15 +290,30 @@
         }
       ],
       "uprate_4": [
-        { "id": "1281", "name": "Piper", "rank": 4, "item_type": "character" },
+        {
+          "id": "1281",
+          "name": "Piper",
+          "rank": 4,
+          "item_type": "character"
+        },
         {
           "id": "1131",
           "name": "Soukaku",
           "rank": 4,
           "item_type": "character"
         },
-        { "id": "1151", "name": "Lucy", "rank": 4, "item_type": "character" },
-        { "id": "1271", "name": "Seth", "rank": 4, "item_type": "character" }
+        {
+          "id": "1151",
+          "name": "Lucy",
+          "rank": 4,
+          "item_type": "character"
+        },
+        {
+          "id": "1271",
+          "name": "Seth",
+          "rank": 4,
+          "item_type": "character"
+        }
       ],
       "start_time": {
         "time": "2024-12-18 02:00:00+08:00",
@@ -188,7 +323,10 @@
         "time": "2025-01-21 14:59:59+01:00",
         "is_server_time": true
       },
-      "names": ["Honed Blade of Reflection", "Per Aspera"]
+      "names": [
+        "Honed Blade of Reflection",
+        "Per Aspera"
+      ]
     },
     {
       "name": "Thousand Melodies",
@@ -200,11 +338,26 @@
           "rank": 5,
           "item_type": "character"
         },
-        { "id": "1191", "name": "Ellen", "rank": 5, "item_type": "character" }
+        {
+          "id": "1191",
+          "name": "Ellen",
+          "rank": 5,
+          "item_type": "character"
+        }
       ],
       "uprate_4": [
-        { "id": "1011", "name": "Anby", "rank": 4, "item_type": "character" },
-        { "id": "1061", "name": "Corin", "rank": 4, "item_type": "character" }
+        {
+          "id": "1011",
+          "name": "Anby",
+          "rank": 4,
+          "item_type": "character"
+        },
+        {
+          "id": "1061",
+          "name": "Corin",
+          "rank": 4,
+          "item_type": "character"
+        }
       ],
       "start_time": {
         "time": "2025-01-22 02:00:00+08:00",
@@ -214,18 +367,41 @@
         "time": "2025-02-12 11:59:59+01:00",
         "is_server_time": true
       },
-      "names": ["Thousand Melodies", "Mellow Waveride"]
+      "names": [
+        "Thousand Melodies",
+        "Mellow Waveride"
+      ]
     },
     {
       "name": "Web of Light and Shadow",
       "banner_type": 2,
       "uprate_5": [
-        { "id": "1321", "name": "Evelyn", "rank": 5, "item_type": "character" },
-        { "id": "1251", "name": "Qingyi", "rank": 5, "item_type": "character" }
+        {
+          "id": "1321",
+          "name": "Evelyn",
+          "rank": 5,
+          "item_type": "character"
+        },
+        {
+          "id": "1251",
+          "name": "Qingyi",
+          "rank": 5,
+          "item_type": "character"
+        }
       ],
       "uprate_4": [
-        { "id": "1111", "name": "Anton", "rank": 4, "item_type": "character" },
-        { "id": "1031", "name": "Nicole", "rank": 4, "item_type": "character" }
+        {
+          "id": "1111",
+          "name": "Anton",
+          "rank": 4,
+          "item_type": "character"
+        },
+        {
+          "id": "1031",
+          "name": "Nicole",
+          "rank": 4,
+          "item_type": "character"
+        }
       ],
       "start_time": {
         "time": "2025-02-12 12:00:00+01:00",
@@ -235,7 +411,10 @@
         "time": "2025-03-11 14:59:59+01:00",
         "is_server_time": true
       },
-      "names": ["Untainted Jade", "Web of Light and Shadow"]
+      "names": [
+        "Untainted Jade",
+        "Web of Light and Shadow"
+      ]
     },
     {
       "name": "Electric Reflection",
@@ -247,7 +426,12 @@
           "rank": 5,
           "item_type": "character"
         },
-        { "id": "1171", "name": "Burnice", "rank": 5, "item_type": "character" }
+        {
+          "id": "1171",
+          "name": "Burnice",
+          "rank": 5,
+          "item_type": "character"
+        }
       ],
       "uprate_4": [
         {
@@ -256,7 +440,12 @@
           "rank": 4,
           "item_type": "character"
         },
-        { "id": "1121", "name": "Ben", "rank": 4, "item_type": "character" }
+        {
+          "id": "1121",
+          "name": "Ben",
+          "rank": 4,
+          "item_type": "character"
+        }
       ],
       "start_time": {
         "time": "2025-03-12 02:00:00+08:00",
@@ -266,7 +455,10 @@
         "time": "2025-04-02 11:59:59+01:00",
         "is_server_time": true
       },
-      "names": ["Electric Reflection", "Born to Burn"]
+      "names": [
+        "Electric Reflection",
+        "Born to Burn"
+      ]
     },
     {
       "name": "Sights of Asphodel",
@@ -286,8 +478,18 @@
         }
       ],
       "uprate_4": [
-        { "id": "1151", "name": "Lucy", "rank": 4, "item_type": "character" },
-        { "id": "1081", "name": "Billy", "rank": 4, "item_type": "character" }
+        {
+          "id": "1151",
+          "name": "Lucy",
+          "rank": 4,
+          "item_type": "character"
+        },
+        {
+          "id": "1081",
+          "name": "Billy",
+          "rank": 4,
+          "item_type": "character"
+        }
       ],
       "start_time": {
         "time": "2025-04-02 12:00:00+01:00",
@@ -297,18 +499,41 @@
         "time": "2025-04-22 14:59:59+01:00",
         "is_server_time": true
       },
-      "names": ["Unswerving Bullet", "Sights of Asphodel"]
+      "names": [
+        "Unswerving Bullet",
+        "Sights of Asphodel"
+      ]
     },
     {
       "name": "Soar Into the Gentle Night",
       "banner_type": 2,
       "uprate_5": [
-        { "id": "1331", "name": "Vivian", "rank": 5, "item_type": "character" },
-        { "id": "1261", "name": "Jane", "rank": 5, "item_type": "character" }
+        {
+          "id": "1331",
+          "name": "Vivian",
+          "rank": 5,
+          "item_type": "character"
+        },
+        {
+          "id": "1261",
+          "name": "Jane",
+          "rank": 5,
+          "item_type": "character"
+        }
       ],
       "uprate_4": [
-        { "id": "1281", "name": "Piper", "rank": 4, "item_type": "character" },
-        { "id": "1271", "name": "Seth", "rank": 4, "item_type": "character" }
+        {
+          "id": "1281",
+          "name": "Piper",
+          "rank": 4,
+          "item_type": "character"
+        },
+        {
+          "id": "1271",
+          "name": "Seth",
+          "rank": 4,
+          "item_type": "character"
+        }
       ],
       "start_time": {
         "time": "2025-04-23 02:00:00+08:00",
@@ -318,14 +543,27 @@
         "time": "2025-05-14 11:59:59+01:00",
         "is_server_time": true
       },
-      "names": ["No Match Found", "Soar Into the Gentle Night"]
+      "names": [
+        "No Match Found",
+        "Soar Into the Gentle Night"
+      ]
     },
     {
       "name": "As Yesterday Dies",
       "banner_type": 2,
       "uprate_5": [
-        { "id": "1291", "name": "Hugo", "rank": 5, "item_type": "character" },
-        { "id": "1161", "name": "Lighter", "rank": 5, "item_type": "character" }
+        {
+          "id": "1291",
+          "name": "Hugo",
+          "rank": 5,
+          "item_type": "character"
+        },
+        {
+          "id": "1161",
+          "name": "Lighter",
+          "rank": 5,
+          "item_type": "character"
+        }
       ],
       "uprate_4": [
         {
@@ -334,7 +572,12 @@
           "rank": 4,
           "item_type": "character"
         },
-        { "id": "1111", "name": "Anton", "rank": 4, "item_type": "character" }
+        {
+          "id": "1111",
+          "name": "Anton",
+          "rank": 4,
+          "item_type": "character"
+        }
       ],
       "start_time": {
         "time": "2025-05-14 12:00:00+01:00",
@@ -344,13 +587,21 @@
         "time": "2025-06-05 14:59:59+01:00",
         "is_server_time": true
       },
-      "names": ["Champion of Embers", "As Yesterday Dies"]
+      "names": [
+        "Champion of Embers",
+        "As Yesterday Dies"
+      ]
     },
     {
       "name": "Lonely Wayfarer Beyond",
       "banner_type": 2,
       "uprate_5": [
-        { "id": "1371", "name": "Yixuan", "rank": 5, "item_type": "character" },
+        {
+          "id": "1371",
+          "name": "Yixuan",
+          "rank": 5,
+          "item_type": "character"
+        },
         {
           "id": "1311",
           "name": "Astra Yao",
@@ -365,7 +616,12 @@
           "rank": 4,
           "item_type": "character"
         },
-        { "id": "1351", "name": "Pulchra", "rank": 4, "item_type": "character" }
+        {
+          "id": "1351",
+          "name": "Pulchra",
+          "rank": 4,
+          "item_type": "character"
+        }
       ],
       "start_time": {
         "time": "2025-06-06 02:00:00+08:00",
@@ -375,7 +631,10 @@
         "time": "2025-06-25 11:59:59+01:00",
         "is_server_time": true
       },
-      "names": ["Thousand Melodies", "Lonely Wayfarer Beyond"]
+      "names": [
+        "Thousand Melodies",
+        "Lonely Wayfarer Beyond"
+      ]
     },
     {
       "name": "Fu-rocious Feline",
@@ -387,11 +646,26 @@
           "rank": 5,
           "item_type": "character"
         },
-        { "id": "1071", "name": "Caesar", "rank": 5, "item_type": "character" }
+        {
+          "id": "1071",
+          "name": "Caesar",
+          "rank": 5,
+          "item_type": "character"
+        }
       ],
       "uprate_4": [
-        { "id": "1061", "name": "Corin", "rank": 4, "item_type": "character" },
-        { "id": "1121", "name": "Ben", "rank": 4, "item_type": "character" }
+        {
+          "id": "1061",
+          "name": "Corin",
+          "rank": 4,
+          "item_type": "character"
+        },
+        {
+          "id": "1121",
+          "name": "Ben",
+          "rank": 4,
+          "item_type": "character"
+        }
       ],
       "start_time": {
         "time": "2025-06-25 12:00:00+01:00",
@@ -401,18 +675,41 @@
         "time": "2025-07-15 14:59:59+01:00",
         "is_server_time": true
       },
-      "names": ["Ember-Crowned Overlord", "Fu-rocious Feline"]
+      "names": [
+        "Ember-Crowned Overlord",
+        "Fu-rocious Feline"
+      ]
     },
     {
       "name": "Whispered Tales",
       "banner_type": 2,
       "uprate_5": [
-        { "id": "1411", "name": "Yuzuha", "rank": 5, "item_type": "character" },
-        { "id": "1091", "name": "Miyabi", "rank": 5, "item_type": "character" }
+        {
+          "id": "1411",
+          "name": "Yuzuha",
+          "rank": 5,
+          "item_type": "character"
+        },
+        {
+          "id": "1091",
+          "name": "Miyabi",
+          "rank": 5,
+          "item_type": "character"
+        }
       ],
       "uprate_4": [
-        { "id": "1281", "name": "Piper", "rank": 4, "item_type": "character" },
-        { "id": "1081", "name": "Billy", "rank": 4, "item_type": "character" }
+        {
+          "id": "1281",
+          "name": "Piper",
+          "rank": 4,
+          "item_type": "character"
+        },
+        {
+          "id": "1081",
+          "name": "Billy",
+          "rank": 4,
+          "item_type": "character"
+        }
       ],
       "start_time": {
         "time": "2025-07-16 02:00:00+08:00",
@@ -422,14 +719,27 @@
         "time": "2025-08-06 11:59:59+01:00",
         "is_server_time": true
       },
-      "names": ["Whispered Tales", "Honed Blade of Reflection"]
+      "names": [
+        "Whispered Tales",
+        "Honed Blade of Reflection"
+      ]
     },
     {
       "name": "Sworn to Noble Courage",
       "banner_type": 2,
       "uprate_5": [
-        { "id": "1401", "name": "Alice", "rank": 5, "item_type": "character" },
-        { "id": "1221", "name": "Yanagi", "rank": 5, "item_type": "character" }
+        {
+          "id": "1401",
+          "name": "Alice",
+          "rank": 5,
+          "item_type": "character"
+        },
+        {
+          "id": "1221",
+          "name": "Yanagi",
+          "rank": 5,
+          "item_type": "character"
+        }
       ],
       "uprate_4": [
         {
@@ -438,7 +748,12 @@
           "rank": 4,
           "item_type": "character"
         },
-        { "id": "1271", "name": "Seth", "rank": 4, "item_type": "character" }
+        {
+          "id": "1271",
+          "name": "Seth",
+          "rank": 4,
+          "item_type": "character"
+        }
       ],
       "start_time": {
         "time": "2025-08-06 12:00:00+01:00",
@@ -448,18 +763,41 @@
         "time": "2025-09-03 14:59:59+01:00",
         "is_server_time": true
       },
-      "names": ["Moonlit Serenity", "Sworn to Noble Courage"]
+      "names": [
+        "Moonlit Serenity",
+        "Sworn to Noble Courage"
+      ]
     },
     {
       "name": "Tearforged Blossoms",
       "banner_type": 2,
       "uprate_5": [
-        { "id": "1461", "name": "Seed", "rank": 5, "item_type": "character" },
-        { "id": "1361", "name": "Trigger", "rank": 5, "item_type": "character" }
+        {
+          "id": "1461",
+          "name": "Seed",
+          "rank": 5,
+          "item_type": "character"
+        },
+        {
+          "id": "1361",
+          "name": "Trigger",
+          "rank": 5,
+          "item_type": "character"
+        }
       ],
       "uprate_4": [
-        { "id": "1031", "name": "Nicole", "rank": 4, "item_type": "character" },
-        { "id": "1011", "name": "Anby", "rank": 4, "item_type": "character" }
+        {
+          "id": "1031",
+          "name": "Nicole",
+          "rank": 4,
+          "item_type": "character"
+        },
+        {
+          "id": "1011",
+          "name": "Anby",
+          "rank": 4,
+          "item_type": "character"
+        }
       ],
       "start_time": {
         "time": "2025-09-04 02:00:00+08:00",
@@ -469,7 +807,10 @@
         "time": "2025-09-24 11:59:59+01:00",
         "is_server_time": true
       },
-      "names": ["Sights of Asphodel", "Tearforged Blossoms"]
+      "names": [
+        "Sights of Asphodel",
+        "Tearforged Blossoms"
+      ]
     },
     {
       "name": "Wrathborn Duo",
@@ -481,11 +822,26 @@
           "rank": 5,
           "item_type": "character"
         },
-        { "id": "1321", "name": "Evelyn", "rank": 5, "item_type": "character" }
+        {
+          "id": "1321",
+          "name": "Evelyn",
+          "rank": 5,
+          "item_type": "character"
+        }
       ],
       "uprate_4": [
-        { "id": "1151", "name": "Lucy", "rank": 4, "item_type": "character" },
-        { "id": "1111", "name": "Anton", "rank": 4, "item_type": "character" }
+        {
+          "id": "1151",
+          "name": "Lucy",
+          "rank": 4,
+          "item_type": "character"
+        },
+        {
+          "id": "1111",
+          "name": "Anton",
+          "rank": 4,
+          "item_type": "character"
+        }
       ],
       "start_time": {
         "time": "2025-09-24 12:00:00+01:00",
@@ -495,18 +851,41 @@
         "time": "2025-10-14 14:59:59+01:00",
         "is_server_time": true
       },
-      "names": ["Web of Light and Shadow", "Wrathborn Duo"]
+      "names": [
+        "Web of Light and Shadow",
+        "Wrathborn Duo"
+      ]
     },
     {
       "name": "Wandering Night Lantern",
       "banner_type": 2,
       "uprate_5": [
-        { "id": "1451", "name": "Lucia", "rank": 5, "item_type": "character" },
-        { "id": "1331", "name": "Vivian", "rank": 5, "item_type": "character" }
+        {
+          "id": "1451",
+          "name": "Lucia",
+          "rank": 5,
+          "item_type": "character"
+        },
+        {
+          "id": "1331",
+          "name": "Vivian",
+          "rank": 5,
+          "item_type": "character"
+        }
       ],
       "uprate_4": [
-        { "id": "1441", "name": "Manato", "rank": 4, "item_type": "character" },
-        { "id": "1281", "name": "Piper", "rank": 4, "item_type": "character" }
+        {
+          "id": "1441",
+          "name": "Manato",
+          "rank": 4,
+          "item_type": "character"
+        },
+        {
+          "id": "1281",
+          "name": "Piper",
+          "rank": 4,
+          "item_type": "character"
+        }
       ],
       "start_time": {
         "time": "2025-10-15 02:00:00+08:00",
@@ -516,7 +895,10 @@
         "time": "2025-11-05 11:59:59+01:00",
         "is_server_time": true
       },
-      "names": ["Wandering Night Lantern", "Soar Into the Gentle Night"]
+      "names": [
+        "Wandering Night Lantern",
+        "Soar Into the Gentle Night"
+      ]
     },
     {
       "name": "Alone in a Shared Dream",
@@ -528,7 +910,12 @@
           "rank": 5,
           "item_type": "character"
         },
-        { "id": "1391", "name": "Ju Fufu", "rank": 5, "item_type": "character" }
+        {
+          "id": "1391",
+          "name": "Ju Fufu",
+          "rank": 5,
+          "item_type": "character"
+        }
       ],
       "uprate_4": [
         {
@@ -537,7 +924,12 @@
           "rank": 4,
           "item_type": "character"
         },
-        { "id": "1351", "name": "Pulchra", "rank": 4, "item_type": "character" }
+        {
+          "id": "1351",
+          "name": "Pulchra",
+          "rank": 4,
+          "item_type": "character"
+        }
       ],
       "start_time": {
         "time": "2025-11-05 12:00:00+01:00",
@@ -547,18 +939,41 @@
         "time": "2025-11-25 14:59:59+01:00",
         "is_server_time": true
       },
-      "names": ["Fu-rocious Feline", "Alone in a Shared Dream"]
+      "names": [
+        "Fu-rocious Feline",
+        "Alone in a Shared Dream"
+      ]
     },
     {
       "name": "As Yesterday Dies",
       "banner_type": 2,
       "uprate_5": [
-        { "id": "1291", "name": "Hugo", "rank": 5, "item_type": "character" },
-        { "id": "1481", "name": "Dialyn", "rank": 5, "item_type": "character" }
+        {
+          "id": "1291",
+          "name": "Hugo",
+          "rank": 5,
+          "item_type": "character"
+        },
+        {
+          "id": "1481",
+          "name": "Dialyn",
+          "rank": 5,
+          "item_type": "character"
+        }
       ],
       "uprate_4": [
-        { "id": "1061", "name": "Corin", "rank": 4, "item_type": "character" },
-        { "id": "1081", "name": "Billy", "rank": 4, "item_type": "character" }
+        {
+          "id": "1061",
+          "name": "Corin",
+          "rank": 4,
+          "item_type": "character"
+        },
+        {
+          "id": "1081",
+          "name": "Billy",
+          "rank": 4,
+          "item_type": "character"
+        }
       ],
       "start_time": {
         "time": "2025-11-26 02:00:00+08:00",
@@ -568,14 +983,27 @@
         "time": "2025-12-17 11:59:59+01:00",
         "is_server_time": true
       },
-      "names": ["Voice of the Once-Spoken", "As Yesterday Dies"]
+      "names": [
+        "Voice of the Once-Spoken",
+        "As Yesterday Dies"
+      ]
     },
     {
       "name": "Through Night's Inferno",
       "banner_type": 2,
       "uprate_5": [
-        { "id": "1471", "name": "Banyue", "rank": 5, "item_type": "character" },
-        { "id": "1191", "name": "Ellen", "rank": 5, "item_type": "character" }
+        {
+          "id": "1471",
+          "name": "Banyue",
+          "rank": 5,
+          "item_type": "character"
+        },
+        {
+          "id": "1191",
+          "name": "Ellen",
+          "rank": 5,
+          "item_type": "character"
+        }
       ],
       "uprate_4": [
         {
@@ -584,7 +1012,12 @@
           "rank": 4,
           "item_type": "character"
         },
-        { "id": "1271", "name": "Seth", "rank": 4, "item_type": "character" }
+        {
+          "id": "1271",
+          "name": "Seth",
+          "rank": 4,
+          "item_type": "character"
+        }
       ],
       "start_time": {
         "time": "2025-12-17 12:00:00+01:00",
@@ -594,7 +1027,10 @@
         "time": "2025-12-29 14:59:59+01:00",
         "is_server_time": true
       },
-      "names": ["Mellow Waveride", "Through Night's Inferno"]
+      "names": [
+        "Mellow Waveride",
+        "Through Night's Inferno"
+      ]
     },
     {
       "name": "Light Upon Fingertips",
@@ -606,13 +1042,38 @@
           "rank": 5,
           "item_type": "character"
         },
-        { "id": "1341", "name": "Zhao", "rank": 5, "item_type": "character" }
+        {
+          "id": "1341",
+          "name": "Zhao",
+          "rank": 5,
+          "item_type": "character"
+        }
       ],
       "uprate_4": [
-        { "id": "1031", "name": "Nicole", "rank": 4, "item_type": "character" },
-        { "id": "1151", "name": "Lucy", "rank": 4, "item_type": "character" },
-        { "id": "1011", "name": "Anby", "rank": 4, "item_type": "character" },
-        { "id": "1121", "name": "Ben", "rank": 4, "item_type": "character" }
+        {
+          "id": "1031",
+          "name": "Nicole",
+          "rank": 4,
+          "item_type": "character"
+        },
+        {
+          "id": "1151",
+          "name": "Lucy",
+          "rank": 4,
+          "item_type": "character"
+        },
+        {
+          "id": "1011",
+          "name": "Anby",
+          "rank": 4,
+          "item_type": "character"
+        },
+        {
+          "id": "1121",
+          "name": "Ben",
+          "rank": 4,
+          "item_type": "character"
+        }
       ],
       "start_time": {
         "time": "2025-12-30 02:00:00+08:00",
@@ -622,18 +1083,41 @@
         "time": "2026-02-05 14:59:59+01:00",
         "is_server_time": true
       },
-      "names": ["Light Upon Fingertips", "Priceless Heart"]
+      "names": [
+        "Light Upon Fingertips",
+        "Priceless Heart"
+      ]
     },
     {
       "name": "Whimsy in Triple Meter",
       "banner_type": 2,
       "uprate_5": [
-        { "id": "1491", "name": "Sunna", "rank": 5, "item_type": "character" },
-        { "id": "1371", "name": "Yixuan", "rank": 5, "item_type": "character" }
+        {
+          "id": "1491",
+          "name": "Sunna",
+          "rank": 5,
+          "item_type": "character"
+        },
+        {
+          "id": "1371",
+          "name": "Yixuan",
+          "rank": 5,
+          "item_type": "character"
+        }
       ],
       "uprate_4": [
-        { "id": "1061", "name": "Corin", "rank": 4, "item_type": "character" },
-        { "id": "1081", "name": "Billy", "rank": 4, "item_type": "character" }
+        {
+          "id": "1061",
+          "name": "Corin",
+          "rank": 4,
+          "item_type": "character"
+        },
+        {
+          "id": "1081",
+          "name": "Billy",
+          "rank": 4,
+          "item_type": "character"
+        }
       ],
       "start_time": {
         "time": "2026-02-06 02:00:00+08:00",
@@ -643,18 +1127,41 @@
         "time": "2026-03-04 11:59:59+01:00",
         "is_server_time": true
       },
-      "names": ["Lonely Wayfarer Beyond", "Whimsy in Triple Meter"]
+      "names": [
+        "Lonely Wayfarer Beyond",
+        "Whimsy in Triple Meter"
+      ]
     },
     {
       "name": "Neon Angel",
       "banner_type": 2,
       "uprate_5": [
-        { "id": 1501, "name": "Aria", "rarity": 5, "item_type": "character" },
-        { "id": 1411, "name": "Yuzuha", "rarity": 5, "item_type": "character" }
+        {
+          "id": 1501,
+          "name": "Aria",
+          "rarity": 5,
+          "item_type": "character"
+        },
+        {
+          "id": 1411,
+          "name": "Yuzuha",
+          "rarity": 5,
+          "item_type": "character"
+        }
       ],
       "uprate_4": [
-        { "id": 1111, "name": "Anton", "rarity": 4, "item_type": "character" },
-        { "id": 1271, "name": "Seth", "rarity": 4, "item_type": "character" }
+        {
+          "id": 1111,
+          "name": "Anton",
+          "rarity": 4,
+          "item_type": "character"
+        },
+        {
+          "id": 1271,
+          "name": "Seth",
+          "rarity": 4,
+          "item_type": "character"
+        }
       ],
       "start_time": {
         "time": "2026-03-04 12:00:00+01:00",
@@ -664,7 +1171,10 @@
         "time": "2026-03-23 14:59:59+01:00",
         "is_server_time": true
       },
-      "names": ["Neon Angel", "Whispered Tales"]
+      "names": [
+        "Neon Angel",
+        "Whispered Tales"
+      ]
     },
     {
       "name": "Alone in a Shared Dream",
@@ -684,8 +1194,18 @@
         }
       ],
       "uprate_4": [
-        { "id": 1031, "name": "Nicole", "rarity": 4, "item_type": "character" },
-        { "id": 1281, "name": "Piper", "rarity": 4, "item_type": "character" }
+        {
+          "id": 1031,
+          "name": "Nicole",
+          "rarity": 4,
+          "item_type": "character"
+        },
+        {
+          "id": 1281,
+          "name": "Piper",
+          "rarity": 4,
+          "item_type": "character"
+        }
       ],
       "start_time": {
         "time": "2026-03-24 02:00:00+08:00",
@@ -695,18 +1215,41 @@
         "time": "2026-04-15 11:59:59+01:00",
         "is_server_time": true
       },
-      "names": ["Alone in a Shared Dream", "Axiom of Captivation"]
+      "names": [
+        "Alone in a Shared Dream",
+        "Axiom of Captivation"
+      ]
     },
     {
       "name": "Evolution of Gluttony",
       "banner_type": 2,
       "uprate_5": [
-        { "id": 1521, "name": "Cissia", "rarity": 5, "item_type": "character" },
-        { "id": 1461, "name": "Seed", "rarity": 5, "item_type": "character" }
+        {
+          "id": 1521,
+          "name": "Cissia",
+          "rarity": 5,
+          "item_type": "character"
+        },
+        {
+          "id": 1461,
+          "name": "Seed",
+          "rarity": 5,
+          "item_type": "character"
+        }
       ],
       "uprate_4": [
-        { "id": 1121, "name": "Ben", "rarity": 4, "item_type": "character" },
-        { "id": 1351, "name": "Pulchra", "rarity": 4, "item_type": "character" }
+        {
+          "id": 1121,
+          "name": "Ben",
+          "rarity": 4,
+          "item_type": "character"
+        },
+        {
+          "id": 1351,
+          "name": "Pulchra",
+          "rarity": 4,
+          "item_type": "character"
+        }
       ],
       "start_time": {
         "time": "2026-04-15 12:00:00+01:00",
@@ -716,7 +1259,10 @@
         "time": "2026-05-05 14:59:59+01:00",
         "is_server_time": true
       },
-      "names": ["Evolution of Gluttony", "Tearforged Blossoms"]
+      "names": [
+        "Evolution of Gluttony",
+        "Tearforged Blossoms"
+      ]
     },
     {
       "name": "Cold Rain Wanes in the Night",
@@ -728,7 +1274,12 @@
           "rarity": 5,
           "item_type": "character"
         },
-        { "id": 1451, "name": "Lucia", "rarity": 5, "item_type": "character" }
+        {
+          "id": 1451,
+          "name": "Lucia",
+          "rarity": 5,
+          "item_type": "character"
+        }
       ],
       "uprate_4": [
         {
@@ -737,7 +1288,12 @@
           "rarity": 4,
           "item_type": "character"
         },
-        { "id": 1151, "name": "Lucy", "rarity": 4, "item_type": "character" }
+        {
+          "id": 1151,
+          "name": "Lucy",
+          "rarity": 4,
+          "item_type": "character"
+        }
       ],
       "start_time": {
         "time": "2026-05-06 02:00:00+08:00",
@@ -747,7 +1303,10 @@
         "time": "2026-05-27 11:59:59+01:00",
         "is_server_time": true
       },
-      "names": ["Cold Rain Wanes in the Night", "Wandering Night Lantern"]
+      "names": [
+        "Cold Rain Wanes in the Night",
+        "Wandering Night Lantern"
+      ]
     },
     {
       "name": "Wrathborn Duo",
@@ -767,7 +1326,12 @@
         }
       ],
       "uprate_4": [
-        { "id": 1441, "name": "Manato", "rarity": 4, "item_type": "character" },
+        {
+          "id": 1441,
+          "name": "Manato",
+          "rarity": 4,
+          "item_type": "character"
+        },
         {
           "id": 1421,
           "name": "Pan Yinhu",
@@ -783,7 +1347,10 @@
         "time": "2026-06-16 14:59:59+01:00",
         "is_server_time": true
       },
-      "names": ["Wrathborn Duo", "Starlight, Shine Bright!"]
+      "names": [
+        "Wrathborn Duo",
+        "Starlight, Shine Bright!"
+      ]
     },
     {
       "name": "Light Upon Fingertips",
@@ -795,11 +1362,26 @@
           "rarity": 5,
           "item_type": "character"
         },
-        { "id": 1561, "name": "Velina", "rarity": 5, "item_type": "character" }
+        {
+          "id": 1561,
+          "name": "Velina",
+          "rarity": 5,
+          "item_type": "character"
+        }
       ],
       "uprate_4": [
-        { "id": 1031, "name": "Nicole", "rarity": 4, "item_type": "character" },
-        { "id": 1281, "name": "Piper", "rarity": 4, "item_type": "character" }
+        {
+          "id": 1031,
+          "name": "Nicole",
+          "rarity": 4,
+          "item_type": "character"
+        },
+        {
+          "id": 1281,
+          "name": "Piper",
+          "rarity": 4,
+          "item_type": "character"
+        }
       ],
       "start_time": {
         "time": "2026-06-17 02:00:00+08:00",
@@ -809,18 +1391,41 @@
         "time": "2026-07-08 11:59:59+01:00",
         "is_server_time": true
       },
-      "names": ["Light Upon Fingertips", "Graceful Gale"]
+      "names": [
+        "Light Upon Fingertips",
+        "Graceful Gale"
+      ]
     },
     {
       "name": "Outlier of Prodigies",
       "banner_type": 2,
       "uprate_5": [
-        { "id": 1571, "name": "Norma", "rarity": 5, "item_type": "character" },
-        { "id": 1491, "name": "Sunna", "rarity": 5, "item_type": "character" }
+        {
+          "id": 1571,
+          "name": "Norma",
+          "rarity": 5,
+          "item_type": "character"
+        },
+        {
+          "id": 1491,
+          "name": "Sunna",
+          "rarity": 5,
+          "item_type": "character"
+        }
       ],
       "uprate_4": [
-        { "id": 1061, "name": "Corin", "rarity": 4, "item_type": "character" },
-        { "id": 1351, "name": "Pulchra", "rarity": 4, "item_type": "character" }
+        {
+          "id": 1061,
+          "name": "Corin",
+          "rarity": 4,
+          "item_type": "character"
+        },
+        {
+          "id": 1351,
+          "name": "Pulchra",
+          "rarity": 4,
+          "item_type": "character"
+        }
       ],
       "start_time": {
         "time": "2026-07-08 12:00:00+01:00",
@@ -830,7 +1435,10 @@
         "time": "2026-07-28 14:59:59+01:00",
         "is_server_time": true
       },
-      "names": ["Outlier of Prodigies", "Whimsy in Triple Meter"]
+      "names": [
+        "Outlier of Prodigies",
+        "Whimsy in Triple Meter"
+      ]
     },
     {
       "name": "Paradise Regained",
@@ -844,8 +1452,18 @@
         }
       ],
       "uprate_4": [
-        { "id": 1271, "name": "Seth", "rarity": 4, "item_type": "character" },
-        { "id": 1281, "name": "Piper", "rarity": 4, "item_type": "character" }
+        {
+          "id": 1271,
+          "name": "Seth",
+          "rarity": 4,
+          "item_type": "character"
+        },
+        {
+          "id": 1281,
+          "name": "Piper",
+          "rarity": 4,
+          "item_type": "character"
+        }
       ],
       "start_time": {
         "time": "2026-07-29 02:00:00+08:00",
@@ -860,11 +1478,26 @@
       "name": "Neon Angel",
       "banner_type": 2,
       "uprate_5": [
-        { "id": 1501, "name": "Aria", "rarity": 5, "item_type": "character" }
+        {
+          "id": 1501,
+          "name": "Aria",
+          "rarity": 5,
+          "item_type": "character"
+        }
       ],
       "uprate_4": [
-        { "id": 1271, "name": "Seth", "rarity": 4, "item_type": "character" },
-        { "id": 1281, "name": "Piper", "rarity": 4, "item_type": "character" }
+        {
+          "id": 1271,
+          "name": "Seth",
+          "rarity": 4,
+          "item_type": "character"
+        },
+        {
+          "id": 1281,
+          "name": "Piper",
+          "rarity": 4,
+          "item_type": "character"
+        }
       ],
       "start_time": {
         "time": "2026-07-29 02:00:00+08:00",
@@ -879,11 +1512,26 @@
       "name": "'Till the Ends of the Sky",
       "banner_type": 2,
       "uprate_5": [
-        { "id": 1591, "name": "Sigrid", "rarity": 5, "item_type": "character" }
+        {
+          "id": 1591,
+          "name": "Sigrid",
+          "rarity": 5,
+          "item_type": "character"
+        }
       ],
       "uprate_4": [
-        { "id": 1151, "name": "Lucy", "rarity": 4, "item_type": "character" },
-        { "id": 1131, "name": "Soukaku", "rarity": 4, "item_type": "character" }
+        {
+          "id": 1151,
+          "name": "Lucy",
+          "rarity": 4,
+          "item_type": "character"
+        },
+        {
+          "id": 1131,
+          "name": "Soukaku",
+          "rarity": 4,
+          "item_type": "character"
+        }
       ],
       "start_time": {
         "time": "2026-08-19 12:00:00+01:00",
@@ -904,11 +1552,26 @@
           "rarity": 5,
           "item_type": "character"
         },
-        { "id": 1611, "name": "Claret", "rarity": 5, "item_type": "character" }
+        {
+          "id": 1611,
+          "name": "Claret",
+          "rarity": 5,
+          "item_type": "character"
+        }
       ],
       "uprate_4": [
-        { "id": 1031, "name": "Nicole", "rarity": 4, "item_type": "character" },
-        { "id": 1111, "name": "Anton", "rarity": 4, "item_type": "character" }
+        {
+          "id": 1031,
+          "name": "Nicole",
+          "rarity": 4,
+          "item_type": "character"
+        },
+        {
+          "id": 1111,
+          "name": "Anton",
+          "rarity": 4,
+          "item_type": "character"
+        }
       ],
       "start_time": {
         "time": "2026-09-09 02:00:00+08:00",
@@ -918,7 +1581,10 @@
         "time": "2026-09-30 11:59:59+01:00",
         "is_server_time": true
       },
-      "names": ["Axiom of Captivation", "Bloodmoon Rising"]
+      "names": [
+        "Axiom of Captivation",
+        "Bloodmoon Rising"
+      ]
     },
     {
       "name": "Cold Rain Wanes in the Night",
@@ -930,11 +1596,26 @@
           "rarity": 5,
           "item_type": "character"
         },
-        { "id": 1621, "name": "Roxy", "rarity": 5, "item_type": "character" }
+        {
+          "id": 1621,
+          "name": "Roxy",
+          "rarity": 5,
+          "item_type": "character"
+        }
       ],
       "uprate_4": [
-        { "id": 1081, "name": "Billy", "rarity": 4, "item_type": "character" },
-        { "id": 1061, "name": "Corin", "rarity": 4, "item_type": "character" }
+        {
+          "id": 1081,
+          "name": "Billy",
+          "rarity": 4,
+          "item_type": "character"
+        },
+        {
+          "id": 1061,
+          "name": "Corin",
+          "rarity": 4,
+          "item_type": "character"
+        }
       ],
       "start_time": {
         "time": "2026-09-30 12:00:00+01:00",
@@ -944,7 +1625,54 @@
         "time": "2026-10-20 14:59:59+01:00",
         "is_server_time": true
       },
-      "names": ["Cold Rain Wanes in the Night", "Cindernight Respite"]
+      "names": [
+        "Cold Rain Wanes in the Night",
+        "Cindernight Respite"
+      ]
+    },
+    {
+      "name": "Into the Flames of Life",
+      "banner_type": 2,
+      "uprate_5": [
+        {
+          "id": 1641,
+          "name": "Phoenix",
+          "rarity": 5,
+          "item_type": "character"
+        },
+        {
+          "id": 1561,
+          "name": "Velina",
+          "rarity": 5,
+          "item_type": "character"
+        }
+      ],
+      "uprate_4": [
+        {
+          "id": 1441,
+          "name": "Manato",
+          "rarity": 4,
+          "item_type": "character"
+        },
+        {
+          "id": 1271,
+          "name": "Seth",
+          "rarity": 4,
+          "item_type": "character"
+        }
+      ],
+      "start_time": {
+        "time": "2026-10-21 02:00:00+08:00",
+        "is_server_time": false
+      },
+      "end_time": {
+        "time": "2026-11-11 11:59:59+01:00",
+        "is_server_time": true
+      },
+      "names": [
+        "Into the Flames of Life",
+        "Graceful Gale"
+      ]
     }
   ],
   "3": [
@@ -1136,7 +1864,12 @@
           "rank": 4,
           "item_type": "weapon"
         },
-        { "id": "13103", "name": "The Vault", "rank": 4, "item_type": "weapon" }
+        {
+          "id": "13103",
+          "name": "The Vault",
+          "rank": 4,
+          "item_type": "weapon"
+        }
       ],
       "start_time": {
         "time": "2024-10-16 12:00:00+01:00",
@@ -1266,7 +1999,10 @@
         "time": "2025-01-21 14:59:59+01:00",
         "is_server_time": true
       },
-      "names": ["Dazzling Choir", "Dissonant Sonata"]
+      "names": [
+        "Dazzling Choir",
+        "Dissonant Sonata"
+      ]
     },
     {
       "name": "Dissonant Sonata",
@@ -1307,7 +2043,10 @@
         "time": "2025-02-12 11:59:59+01:00",
         "is_server_time": true
       },
-      "names": ["Dazzling Choir", "Dissonant Sonata"]
+      "names": [
+        "Dazzling Choir",
+        "Dissonant Sonata"
+      ]
     },
     {
       "name": "Dissonant Sonata",
@@ -1333,7 +2072,12 @@
           "rank": 4,
           "item_type": "weapon"
         },
-        { "id": "13103", "name": "The Vault", "rank": 4, "item_type": "weapon" }
+        {
+          "id": "13103",
+          "name": "The Vault",
+          "rank": 4,
+          "item_type": "weapon"
+        }
       ],
       "start_time": {
         "time": "2025-02-12 12:00:00+01:00",
@@ -1343,7 +2087,10 @@
         "time": "2025-03-11 14:59:59+01:00",
         "is_server_time": true
       },
-      "names": ["Dazzling Choir", "Dissonant Sonata"]
+      "names": [
+        "Dazzling Choir",
+        "Dissonant Sonata"
+      ]
     },
     {
       "name": "Dissonant Sonata",
@@ -1384,7 +2131,10 @@
         "time": "2025-04-02 11:59:59+01:00",
         "is_server_time": true
       },
-      "names": ["Vibrant Resonance", "Dissonant Sonata"]
+      "names": [
+        "Vibrant Resonance",
+        "Dissonant Sonata"
+      ]
     },
     {
       "name": "Dazzling Choir",
@@ -1425,7 +2175,10 @@
         "time": "2025-04-22 14:59:59+01:00",
         "is_server_time": true
       },
-      "names": ["Dazzling Choir", "Dazzling Melody"]
+      "names": [
+        "Dazzling Choir",
+        "Dazzling Melody"
+      ]
     },
     {
       "name": "Dissonant Sonata",
@@ -1466,7 +2219,10 @@
         "time": "2025-05-14 11:59:59+01:00",
         "is_server_time": true
       },
-      "names": ["Vibrant Resonance", "Dissonant Sonata"]
+      "names": [
+        "Vibrant Resonance",
+        "Dissonant Sonata"
+      ]
     },
     {
       "name": "Dazzling Choir",
@@ -1507,7 +2263,10 @@
         "time": "2025-06-05 14:59:59+01:00",
         "is_server_time": true
       },
-      "names": ["Dazzling Choir", "Dazzling Melody"]
+      "names": [
+        "Dazzling Choir",
+        "Dazzling Melody"
+      ]
     },
     {
       "name": "Dissonant Sonata",
@@ -1548,7 +2307,10 @@
         "time": "2025-06-25 11:59:59+01:00",
         "is_server_time": true
       },
-      "names": ["Vibrant Resonance", "Dissonant Sonata"]
+      "names": [
+        "Vibrant Resonance",
+        "Dissonant Sonata"
+      ]
     },
     {
       "name": "Dazzling Choir",
@@ -1589,7 +2351,10 @@
         "time": "2025-07-15 14:59:59+01:00",
         "is_server_time": true
       },
-      "names": ["Dazzling Choir", "Dazzling Melody"]
+      "names": [
+        "Dazzling Choir",
+        "Dazzling Melody"
+      ]
     },
     {
       "name": "Dissonant Sonata",
@@ -1630,7 +2395,10 @@
         "time": "2025-08-06 11:59:59+01:00",
         "is_server_time": true
       },
-      "names": ["Vibrant Resonance", "Dissonant Sonata"]
+      "names": [
+        "Vibrant Resonance",
+        "Dissonant Sonata"
+      ]
     },
     {
       "name": "Dazzling Choir",
@@ -1671,7 +2439,10 @@
         "time": "2025-09-03 14:59:59+01:00",
         "is_server_time": true
       },
-      "names": ["Dazzling Choir", "Dazzling Melody"]
+      "names": [
+        "Dazzling Choir",
+        "Dazzling Melody"
+      ]
     },
     {
       "name": "Dissonant Sonata",
@@ -1712,7 +2483,10 @@
         "time": "2025-09-24 11:59:59+01:00",
         "is_server_time": true
       },
-      "names": ["Vibrant Resonance", "Dissonant Sonata"]
+      "names": [
+        "Vibrant Resonance",
+        "Dissonant Sonata"
+      ]
     },
     {
       "name": "Dazzling Choir",
@@ -1753,7 +2527,10 @@
         "time": "2025-10-14 14:59:59+01:00",
         "is_server_time": true
       },
-      "names": ["Dazzling Choir", "Dazzling Melody"]
+      "names": [
+        "Dazzling Choir",
+        "Dazzling Melody"
+      ]
     },
     {
       "name": "Dissonant Sonata",
@@ -1794,7 +2571,10 @@
         "time": "2025-11-05 11:59:59+01:00",
         "is_server_time": true
       },
-      "names": ["Vibrant Resonance", "Dissonant Sonata"]
+      "names": [
+        "Vibrant Resonance",
+        "Dissonant Sonata"
+      ]
     },
     {
       "name": "Dazzling Choir",
@@ -1835,7 +2615,10 @@
         "time": "2025-11-25 14:59:59+01:00",
         "is_server_time": true
       },
-      "names": ["Dazzling Choir", "Dazzling Melody"]
+      "names": [
+        "Dazzling Choir",
+        "Dazzling Melody"
+      ]
     },
     {
       "name": "Dissonant Sonata",
@@ -1876,7 +2659,10 @@
         "time": "2025-12-17 11:59:59+01:00",
         "is_server_time": true
       },
-      "names": ["Vibrant Resonance", "Dissonant Sonata"]
+      "names": [
+        "Vibrant Resonance",
+        "Dissonant Sonata"
+      ]
     },
     {
       "name": "Dazzling Melody",
@@ -1917,7 +2703,10 @@
         "time": "2025-12-29 14:59:59+01:00",
         "is_server_time": true
       },
-      "names": ["Dazzling Melody", "Dazzling Choir"]
+      "names": [
+        "Dazzling Melody",
+        "Dazzling Choir"
+      ]
     },
     {
       "name": "Dissonant Sonata",
@@ -1970,7 +2759,10 @@
         "time": "2026-02-05 14:59:59+01:00",
         "is_server_time": true
       },
-      "names": ["Dazzling Choir", "Dissonant Sonata"]
+      "names": [
+        "Dazzling Choir",
+        "Dissonant Sonata"
+      ]
     },
     {
       "name": "Dissonant Sonata",
@@ -2011,7 +2803,10 @@
         "time": "2026-03-04 11:59:59+01:00",
         "is_server_time": true
       },
-      "names": ["Dissonant Sonata", "Vibrant Resonance"]
+      "names": [
+        "Dissonant Sonata",
+        "Vibrant Resonance"
+      ]
     },
     {
       "name": "Dazzling Choir",
@@ -2052,7 +2847,10 @@
         "time": "2026-03-23 14:59:59+01:00",
         "is_server_time": true
       },
-      "names": ["Dazzling Choir", "Dazzling Melody"]
+      "names": [
+        "Dazzling Choir",
+        "Dazzling Melody"
+      ]
     },
     {
       "name": "Kraken's Cradle",
@@ -2093,7 +2891,10 @@
         "time": "2026-04-15 11:59:59+01:00",
         "is_server_time": true
       },
-      "names": ["Kraken's Cradle", "Neon Fantasies"]
+      "names": [
+        "Kraken's Cradle",
+        "Neon Fantasies"
+      ]
     },
     {
       "name": "Serpentine Seeker",
@@ -2134,7 +2935,10 @@
         "time": "2026-05-05 14:59:59+01:00",
         "is_server_time": true
       },
-      "names": ["Serpentine Seeker", "Cordis Germina"]
+      "names": [
+        "Serpentine Seeker",
+        "Cordis Germina"
+      ]
     },
     {
       "name": "Dreamlit Hearth",
@@ -2175,7 +2979,10 @@
         "time": "2026-05-27 11:59:59+01:00",
         "is_server_time": true
       },
-      "names": ["Dreamlit Hearth", "Frostfall Sickle"]
+      "names": [
+        "Dreamlit Hearth",
+        "Frostfall Sickle"
+      ]
     },
     {
       "name": "Bellicose Blaze",
@@ -2216,7 +3023,10 @@
         "time": "2026-06-16 14:59:59+01:00",
         "is_server_time": true
       },
-      "names": ["Bellicose Blaze", "Starlight Rider Faceplate"]
+      "names": [
+        "Bellicose Blaze",
+        "Starlight Rider Faceplate"
+      ]
     },
     {
       "name": "Cloudcleave Radiance",
@@ -2257,7 +3067,10 @@
         "time": "2026-07-08 11:59:59+01:00",
         "is_server_time": true
       },
-      "names": ["Cloudcleave Radiance", "Joyau Dore"]
+      "names": [
+        "Cloudcleave Radiance",
+        "Joyau Dore"
+      ]
     },
     {
       "name": "Chief Sidekick",
@@ -2298,7 +3111,10 @@
         "time": "2026-07-28 14:59:59+01:00",
         "is_server_time": true
       },
-      "names": ["Chief Sidekick", "Thoughtbop"]
+      "names": [
+        "Chief Sidekick",
+        "Thoughtbop"
+      ]
     },
     {
       "name": "Angel in the Shell",
@@ -2441,7 +3257,10 @@
         "time": "2026-09-30 11:59:59+01:00",
         "is_server_time": true
       },
-      "names": ["Neon Fantasies", "Crimson Thirst"]
+      "names": [
+        "Neon Fantasies",
+        "Crimson Thirst"
+      ]
     },
     {
       "name": "Frostfall Sickle",
@@ -2482,7 +3301,54 @@
         "time": "2026-10-20 14:59:59+01:00",
         "is_server_time": true
       },
-      "names": ["Frostfall Sickle", "Crimson Moon Casket"]
+      "names": [
+        "Frostfall Sickle",
+        "Crimson Moon Casket"
+      ]
+    },
+    {
+      "name": "Plume of Rebirth",
+      "banner_type": 3,
+      "uprate_5": [
+        {
+          "id": 14164,
+          "name": "Plume of Rebirth",
+          "rarity": 5,
+          "item_type": "weapon"
+        },
+        {
+          "id": 14156,
+          "name": "Joyau Dore",
+          "rarity": 5,
+          "item_type": "weapon"
+        }
+      ],
+      "uprate_4": [
+        {
+          "id": 13144,
+          "name": "Grill O'Wisp",
+          "rarity": 4,
+          "item_type": "weapon"
+        },
+        {
+          "id": 13127,
+          "name": "Peacekeeper - Specialized",
+          "rarity": 4,
+          "item_type": "weapon"
+        }
+      ],
+      "start_time": {
+        "time": "2026-10-21 02:00:00+08:00",
+        "is_server_time": false
+      },
+      "end_time": {
+        "time": "2026-11-11 11:59:59+01:00",
+        "is_server_time": true
+      },
+      "names": [
+        "Plume of Rebirth",
+        "Joyau Dore"
+      ]
     }
   ],
   "12": [
@@ -2490,7 +3356,12 @@
       "name": "Sworn to Noble Courage",
       "banner_type": 12,
       "uprate_5": [
-        { "id": "1401", "name": "Alice", "rank": 5, "item_type": "character" },
+        {
+          "id": "1401",
+          "name": "Alice",
+          "rank": 5,
+          "item_type": "character"
+        },
         {
           "id": "1311",
           "name": "Astra Yao",
@@ -2523,8 +3394,18 @@
       "name": "Whispered Tales",
       "banner_type": 12,
       "uprate_5": [
-        { "id": 1411, "name": "Yuzuha", "rarity": 5, "item_type": "character" },
-        { "id": 1481, "name": "Dialyn", "rarity": 5, "item_type": "character" },
+        {
+          "id": 1411,
+          "name": "Yuzuha",
+          "rarity": 5,
+          "item_type": "character"
+        },
+        {
+          "id": 1481,
+          "name": "Dialyn",
+          "rarity": 5,
+          "item_type": "character"
+        },
         {
           "id": 1201,
           "name": "Harumasa",
@@ -2541,7 +3422,11 @@
         "time": "2026-09-08 14:59:59+01:00",
         "is_server_time": true
       },
-      "names": ["Whispered Tales", "Voice of the Once-Spoken", "Per Aspera"]
+      "names": [
+        "Whispered Tales",
+        "Voice of the Once-Spoken",
+        "Per Aspera"
+      ]
     }
   ],
   "13": [
@@ -2577,7 +3462,9 @@
         "time": "2026-02-05 14:59:59+01:00",
         "is_server_time": true
       },
-      "names": ["Dazzling Melody"]
+      "names": [
+        "Dazzling Melody"
+      ]
     },
     {
       "name": "Metanukimorphosis",
@@ -2611,7 +3498,11 @@
         "time": "2026-09-08 14:59:59+01:00",
         "is_server_time": true
       },
-      "names": ["Metanukimorphosis", "Yesterday Calls", "Zanshin Herb Case"]
+      "names": [
+        "Metanukimorphosis",
+        "Yesterday Calls",
+        "Zanshin Herb Case"
+      ]
     }
   ]
 }
