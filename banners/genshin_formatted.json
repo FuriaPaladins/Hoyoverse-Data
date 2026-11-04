@@ -4659,6 +4659,46 @@
         "time": "2026-11-03 14:59:59+01:00",
         "is_server_time": true
       }
+    },
+    {
+      "name": "Myriad Patterns Unfold",
+      "banner_type": 301,
+      "uprate_5": [
+        {
+          "id": 10000136,
+          "name": "Mitya",
+          "rarity": 5,
+          "item_type": "character"
+        }
+      ],
+      "uprate_4": [
+        {
+          "id": 10000137,
+          "name": "Valeriy",
+          "rarity": 4,
+          "item_type": "character"
+        },
+        {
+          "id": 10000088,
+          "name": "Charlotte",
+          "rarity": 4,
+          "item_type": "character"
+        },
+        {
+          "id": 10000045,
+          "name": "Rosaria",
+          "rarity": 4,
+          "item_type": "character"
+        }
+      ],
+      "start_time": {
+        "time": "2026-11-04 07:00:00+08:00",
+        "is_server_time": false
+      },
+      "end_time": {
+        "time": "2026-11-24 17:59:00+01:00",
+        "is_server_time": true
+      }
     }
   ],
   "302": [
@@ -10809,6 +10849,64 @@
         "time": "2026-11-03 14:59:59+01:00",
         "is_server_time": true
       }
+    },
+    {
+      "name": "Epitome Invocation",
+      "banner_type": 302,
+      "uprate_5": [
+        {
+          "id": 14525,
+          "name": "Starsealed Edict",
+          "rarity": 5,
+          "item_type": "weapon"
+        },
+        {
+          "id": 11513,
+          "name": "Splendor of Tranquil Waters",
+          "rarity": 5,
+          "item_type": "weapon"
+        }
+      ],
+      "uprate_4": [
+        {
+          "id": 11427,
+          "name": "The Dockhand's Assistant",
+          "rarity": 4,
+          "item_type": "weapon"
+        },
+        {
+          "id": 13427,
+          "name": "Prospector's Drill",
+          "rarity": 4,
+          "item_type": "weapon"
+        },
+        {
+          "id": 14434,
+          "name": "Dawning Frost",
+          "rarity": 4,
+          "item_type": "weapon"
+        },
+        {
+          "id": 12405,
+          "name": "Rainslasher",
+          "rarity": 4,
+          "item_type": "weapon"
+        },
+        {
+          "id": 15405,
+          "name": "Rust",
+          "rarity": 4,
+          "item_type": "weapon"
+        }
+      ],
+      "start_time": {
+        "time": "2026-11-04 07:00:00+08:00",
+        "is_server_time": false
+      },
+      "end_time": {
+        "time": "2026-11-24 17:59:00+01:00",
+        "is_server_time": true
+      }
     }
   ],
   "400": [
@@ -14325,6 +14423,46 @@
       },
       "end_time": {
         "time": "2026-11-03 14:59:59+01:00",
+        "is_server_time": true
+      }
+    },
+    {
+      "name": "Chanson of Many Waters",
+      "banner_type": 400,
+      "uprate_5": [
+        {
+          "id": 10000089,
+          "name": "Furina",
+          "rarity": 5,
+          "item_type": "character"
+        }
+      ],
+      "uprate_4": [
+        {
+          "id": 10000137,
+          "name": "Valeriy",
+          "rarity": 4,
+          "item_type": "character"
+        },
+        {
+          "id": 10000088,
+          "name": "Charlotte",
+          "rarity": 4,
+          "item_type": "character"
+        },
+        {
+          "id": 10000045,
+          "name": "Rosaria",
+          "rarity": 4,
+          "item_type": "character"
+        }
+      ],
+      "start_time": {
+        "time": "2026-11-04 07:00:00+08:00",
+        "is_server_time": false
+      },
+      "end_time": {
+        "time": "2026-11-24 17:59:00+01:00",
         "is_server_time": true
       }
     }
