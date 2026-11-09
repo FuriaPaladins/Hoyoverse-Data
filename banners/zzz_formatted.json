@@ -1673,6 +1673,50 @@
         "Into the Flames of Life",
         "Graceful Gale"
       ]
+    },
+    {
+      "name": "Outlier of Prodigies",
+      "banner_type": 2,
+      "uprate_5": [
+        {
+          "id": 1571,
+          "name": "Norma",
+          "rarity": 5,
+          "item_type": "character"
+        },
+        {
+          "id": 1631,
+          "name": "Severian",
+          "rarity": 5,
+          "item_type": "character"
+        }
+      ],
+      "uprate_4": [
+        {
+          "id": 1351,
+          "name": "Pulchra",
+          "rarity": 4,
+          "item_type": "character"
+        },
+        {
+          "id": 1031,
+          "name": "Nicole",
+          "rarity": 4,
+          "item_type": "character"
+        }
+      ],
+      "start_time": {
+        "time": "2026-11-11 12:00:00+01:00",
+        "is_server_time": true
+      },
+      "end_time": {
+        "time": "2026-12-01 14:59:59+01:00",
+        "is_server_time": true
+      },
+      "names": [
+        "Outlier of Prodigies",
+        "Answers in the Wind"
+      ]
     }
   ],
   "3": [
@@ -3348,6 +3392,50 @@
       "names": [
         "Plume of Rebirth",
         "Joyau Dore"
+      ]
+    },
+    {
+      "name": "Chief Sidekick",
+      "banner_type": 3,
+      "uprate_5": [
+        {
+          "id": 14157,
+          "name": "Chief Sidekick",
+          "rarity": 5,
+          "item_type": "weapon"
+        },
+        {
+          "id": 14163,
+          "name": "Incarcerating Grip",
+          "rarity": 5,
+          "item_type": "weapon"
+        }
+      ],
+      "uprate_4": [
+        {
+          "id": 13135,
+          "name": "Box Cutter",
+          "rarity": 4,
+          "item_type": "weapon"
+        },
+        {
+          "id": 13103,
+          "name": "The Vault",
+          "rarity": 4,
+          "item_type": "weapon"
+        }
+      ],
+      "start_time": {
+        "time": "2026-11-11 12:00:00+01:00",
+        "is_server_time": true
+      },
+      "end_time": {
+        "time": "2026-12-01 14:59:59+01:00",
+        "is_server_time": true
+      },
+      "names": [
+        "Chief Sidekick",
+        "Incarcerating Grip"
       ]
     }
   ],
