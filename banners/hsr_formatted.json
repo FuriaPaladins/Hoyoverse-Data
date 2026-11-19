@@ -3362,7 +3362,12 @@
       "name": "Brilliant Fixation",
       "banner_type": 12,
       "uprate_5": [
-        {}
+        {
+          "id": 23065,
+          "name": "Upon the First Echo of \"Aha\"",
+          "rarity": 5,
+          "item_type": "weapon"
+        }
       ],
       "uprate_4": [
         {
@@ -6990,7 +6995,12 @@
       "name": "A Comedy of Stars",
       "banner_type": 11,
       "uprate_5": [
-        {}
+        {
+          "id": 1511,
+          "name": "Aeon ★ Aha",
+          "rarity": 5,
+          "item_type": "character"
+        }
       ],
       "uprate_4": [
         {
