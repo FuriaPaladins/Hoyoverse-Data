@@ -4699,6 +4699,46 @@
         "time": "2026-11-24 17:59:00+01:00",
         "is_server_time": true
       }
+    },
+    {
+      "name": "Harmonious Abundance",
+      "banner_type": 301,
+      "uprate_5": [
+        {
+          "id": 10000126,
+          "name": "Zibai",
+          "rarity": 5,
+          "item_type": "character"
+        }
+      ],
+      "uprate_4": [
+        {
+          "id": 10000127,
+          "name": "Illuga",
+          "rarity": 4,
+          "item_type": "character"
+        },
+        {
+          "id": 10000121,
+          "name": "Aino",
+          "rarity": 4,
+          "item_type": "character"
+        },
+        {
+          "id": 10000027,
+          "name": "Ningguang",
+          "rarity": 4,
+          "item_type": "character"
+        }
+      ],
+      "start_time": {
+        "time": "2026-11-24 18:00:00+01:00",
+        "is_server_time": true
+      },
+      "end_time": {
+        "time": "2026-12-15 14:59:59+01:00",
+        "is_server_time": true
+      }
     }
   ],
   "302": [
@@ -10907,6 +10947,64 @@
         "time": "2026-11-24 17:59:00+01:00",
         "is_server_time": true
       }
+    },
+    {
+      "name": "Epitome Invocation",
+      "banner_type": 302,
+      "uprate_5": [
+        {
+          "id": 11519,
+          "name": "Lightbearing Moonshard",
+          "rarity": 5,
+          "item_type": "weapon"
+        },
+        {
+          "id": 15516,
+          "name": "Golden Frostbound Oath",
+          "rarity": 5,
+          "item_type": "weapon"
+        }
+      ],
+      "uprate_4": [
+        {
+          "id": 12427,
+          "name": "Portable Power Saw",
+          "rarity": 4,
+          "item_type": "weapon"
+        },
+        {
+          "id": 15427,
+          "name": "Range Gauge",
+          "rarity": 4,
+          "item_type": "weapon"
+        },
+        {
+          "id": 11403,
+          "name": "Sacrificial Sword",
+          "rarity": 4,
+          "item_type": "weapon"
+        },
+        {
+          "id": 13407,
+          "name": "Favonius Lance",
+          "rarity": 4,
+          "item_type": "weapon"
+        },
+        {
+          "id": 14409,
+          "name": "Eye of Perception",
+          "rarity": 4,
+          "item_type": "weapon"
+        }
+      ],
+      "start_time": {
+        "time": "2026-11-24 18:00:00+01:00",
+        "is_server_time": true
+      },
+      "end_time": {
+        "time": "2026-12-15 14:59:59+01:00",
+        "is_server_time": true
+      }
     }
   ],
   "400": [
@@ -14465,6 +14563,46 @@
         "time": "2026-11-24 17:59:00+01:00",
         "is_server_time": true
       }
+    },
+    {
+      "name": "Ya-hoho! Compendium",
+      "banner_type": 400,
+      "uprate_5": [
+        {
+          "id": 10000130,
+          "name": "Linnea",
+          "rarity": 5,
+          "item_type": "character"
+        }
+      ],
+      "uprate_4": [
+        {
+          "id": 10000127,
+          "name": "Illuga",
+          "rarity": 4,
+          "item_type": "character"
+        },
+        {
+          "id": 10000121,
+          "name": "Aino",
+          "rarity": 4,
+          "item_type": "character"
+        },
+        {
+          "id": 10000027,
+          "name": "Ningguang",
+          "rarity": 4,
+          "item_type": "character"
+        }
+      ],
+      "start_time": {
+        "time": "2026-11-24 18:00:00+01:00",
+        "is_server_time": true
+      },
+      "end_time": {
+        "time": "2026-12-15 14:59:59+01:00",
+        "is_server_time": true
+      }
     }
   ],
   "500": [
@@ -15179,6 +15317,81 @@
       },
       "end_time": {
         "time": "2026-07-21 17:59:00+01:00",
+        "is_server_time": true
+      }
+    },
+    {
+      "name": "Names Forged Beneath Blazing Skies",
+      "banner_type": 500,
+      "uprate_5": [
+        {
+          "id": 10000111,
+          "name": "Varesa",
+          "rarity": 5,
+          "item_type": "character"
+        },
+        {
+          "id": 10000104,
+          "name": "Chasca",
+          "rarity": 5,
+          "item_type": "character"
+        },
+        {
+          "id": 10000103,
+          "name": "Xilonen",
+          "rarity": 5,
+          "item_type": "character"
+        },
+        {
+          "id": 10000102,
+          "name": "Mualani",
+          "rarity": 5,
+          "item_type": "character"
+        },
+        {
+          "id": 10000101,
+          "name": "Kinich",
+          "rarity": 5,
+          "item_type": "character"
+        },
+        {
+          "id": 14519,
+          "name": "Vivid Notions",
+          "rarity": 5,
+          "item_type": "weapon"
+        },
+        {
+          "id": 15514,
+          "name": "Astral Vulture's Crimson Plumage",
+          "rarity": 5,
+          "item_type": "weapon"
+        },
+        {
+          "id": 11516,
+          "name": "Peak Patrol Song",
+          "rarity": 5,
+          "item_type": "weapon"
+        },
+        {
+          "id": 14516,
+          "name": "Surf's Up",
+          "rarity": 5,
+          "item_type": "weapon"
+        },
+        {
+          "id": 12513,
+          "name": "Fang of the Mountain King",
+          "rarity": 5,
+          "item_type": "weapon"
+        }
+      ],
+      "uprate_4": [],
+      "start_time": {
+        "time": "2026-11-24 18:00:00+01:00",
+        "is_server_time": true
+      },
+      "end_time": {
+        "time": "2026-12-15 14:59:59+01:00",
         "is_server_time": true
       }
     }
